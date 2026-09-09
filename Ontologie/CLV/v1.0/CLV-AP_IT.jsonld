@@ -287,7 +287,7 @@
         },
         {
           "@language": "it",
-          "@value": "Proprietà che lega le componenti città, provincia/città metropolitana, regione  a una ripartizione geografica"
+          "@value": "Proprietà che lega le componenti città, provincia/città metropolitana, regione a una ripartizione geografica"
         }
       ],
       "rdfs:domain": {
@@ -386,7 +386,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Parte letterale del numero civico, ove presente o eventuale esponente attribuito al numero interno.  In quest'ultimo caso, l’utilizzo va preventivamente concordato con l’Istat"
+          "@value": "Parte letterale del numero civico, ove presente o eventuale esponente attribuito al numero interno. In quest'ultimo caso, l’utilizzo va preventivamente concordato con l’Istat"
         },
         {
           "@language": "en",
@@ -463,7 +463,7 @@
         },
         {
           "@language": "en",
-          "@value": "This property links the internal access  to the external access (address)"
+          "@value": "This property links the internal access to the external access (address)"
         }
       ],
       "rdfs:domain": {
@@ -923,7 +923,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa proprietà rappresenta l'altitudine, ovvero l'altezza di un oggetto spaziale rispetto alla superficie del livello medio del mare.. E'  proprietà associata alla geometria. Nel caso di geometria associata all'indirizzo, la proprietà  rappresenta l'altezza ortometrica dell’accesso esterno (civico) espressa nei sistemi di riferimento altimetrici nazionali ufficiali."
+          "@value": "Questa proprietà rappresenta l'altitudine, ovvero l'altezza di un oggetto spaziale rispetto alla superficie del livello medio del mare.. E' proprietà associata alla geometria. Nel caso di geometria associata all'indirizzo, la proprietà rappresenta l'altezza ortometrica dell’accesso esterno (civico) espressa nei sistemi di riferimento altimetrici nazionali ufficiali."
         },
         {
           "@language": "en",
@@ -1385,7 +1385,7 @@
         },
         {
           "@language": "en",
-          "@value": "This property is used to  to link an address to the street  toponym component of it."
+          "@value": "This property is used to to link an address to the street toponym component of it."
         }
       ],
       "rdfs:domain": {
@@ -1431,7 +1431,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa proprietà collega un luogo/caratteristica con la Regione del paese. Regione; essa può essere  \"Lazio\", \"Emilia Romagna\", ecc."
+          "@value": "Questa proprietà collega un luogo/caratteristica con la Regione del paese. Regione; essa può essere \"Lazio\", \"Emilia Romagna\", ecc."
         },
         {
           "@language": "en",
@@ -1649,7 +1649,7 @@
       "dct:description": [
         {
           "@language": "it",
-          "@value": "Questa è l'ontologia del profilo di italiano sugli indirizzi e i luoghi (Italian Core Location Vocabulary - Application Profile  - CLV-AP_IT)"
+          "@value": "Questa è l'ontologia del profilo di italiano sugli indirizzi e i luoghi (Italian Core Location Vocabulary - Application Profile - CLV-AP_IT)"
         },
         {
           "@language": "en",
@@ -1711,7 +1711,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa è l'ontologia del profilo di italiano sugli indirizzi e i luoghi (Italian Core Location Vocabulary - Application Profile  - CLV-AP_IT)"
+          "@value": "Questa è l'ontologia del profilo di italiano sugli indirizzi e i luoghi (Italian Core Location Vocabulary - Application Profile - CLV-AP_IT)"
         },
         {
           "@language": "en",
@@ -1898,7 +1898,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa proprietà è usata per collegare l'indirizzo  al comune dello stesso.  Esempio di comune: Roma, Bologna, Palermo, Milano, ecc."
+          "@value": "Questa proprietà è usata per collegare l'indirizzo al comune dello stesso. Esempio di comune: Roma, Bologna, Palermo, Milano, ecc."
         },
         {
           "@language": "en",
@@ -3479,7 +3479,7 @@
         },
         {
           "@language": "en",
-          "@value": "This class represents an  \"addressable object\" or \"addressable representation\". In most situations the addressable objects are current, real world objects. In the Italian context it represents the external access from a circulation area to a simple unit such as dwellings, offices, premises where economic activities are located, etc."
+          "@value": "This class represents an \"addressable object\" or \"addressable representation\". In most situations the addressable objects are current, real world objects. In the Italian context it represents the external access from a circulation area to a simple unit such as dwellings, offices, premises where economic activities are located, etc."
         }
       ],
       "rdfs:isDefinedBy": {
@@ -3676,7 +3676,7 @@
         },
         {
           "@language": "en",
-          "@value": "This property is used to  relate two named address component, where the first is more specific than the second."
+          "@value": "This property is used to relate two named address component, where the first is more specific than the second."
         }
       ],
       "rdfs:domain": {
@@ -3754,7 +3754,7 @@
         },
         {
           "@language": "en",
-          "@value": "This class represents the  uppermost administrative unit for the address, almost always a country. \"United Kingdom\", \"Italy\", etc. In the Core Location Vocabulary this is modelled as adminUnit1."
+          "@value": "This class represents the uppermost administrative unit for the address, almost always a country. \"United Kingdom\", \"Italy\", etc. In the Core Location Vocabulary this is modelled as adminUnit1."
         }
       ],
       "rdfs:isDefinedBy": {
@@ -4076,7 +4076,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "L'indirizzo completo scritto come una stringa. L'uso di questa proprietà  aiuta a comprendere l'indirizzo completo evitando possibili errori derivanti dal frazionamento dello stesso nelle sue rispettive componenti."
+          "@value": "L'indirizzo completo scritto come una stringa. L'uso di questa proprietà aiuta a comprendere l'indirizzo completo evitando possibili errori derivanti dal frazionamento dello stesso nelle sue rispettive componenti."
         },
         {
           "@language": "en",
@@ -5188,7 +5188,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa classe rappresenta il toponimo stradale. Esso consiste nel nome dalla strada o denominazione urbanistica ufficiale - DUF (rappresentato attraverso la proprietà nome della strada) e della denominazione urbanistica generica (DUG) o qualitficatore del toponimo (e.g., via, viale, piazza, ecc.). La parte DUF  può  comprendere  l’eventuale  complemento  alla  specie  (preposizioni  non  strettamente  legate  alla denominazione del toponimo come dei, di, delle, la,\nil, eccetera) e gli eventual complementi alla denominazione (esempio i titoli onorifici per i nomi propri)\nEsempi:\n1) Via San Donato: Via (DUG o qualificatore del toponimo), San Donato (DUF - o nome della strada)\n2) Via dei tulipani: Via (DUG), dei Tulipani (DUF)\n3) Via A GENERALE CARLO ALBERTO DALLA CHIESA: Via (DUG) Generale Carlo Alberto Dalla Chiesa (DUF)\n\nNel complesso questa componente spaziale dell'indirizzo può essere vista come il nome dell'area di circolazione ovvero il nome dell'area che individua ogni spazio del suolo pubblico, o aperto al pubblico, destinato alla viabilità.\n\nDUF e DUG sono due proprietà obbligatorie per la classe ed è possibile specificare un valore delle stesse valido per ciascuna lingua. L'odonimo infatti può essere registrato in lingue differenti, secondo quanto previsto dalle norme in materia di bilinguismo e sull’uso delle lingue delle minoranze linguistiche riconosciute."
+          "@value": "Questa classe rappresenta il toponimo stradale. Esso consiste nel nome dalla strada o denominazione urbanistica ufficiale - DUF (rappresentato attraverso la proprietà nome della strada) e della denominazione urbanistica generica (DUG) o qualitficatore del toponimo (e.g., via, viale, piazza, ecc.). La parte DUF può comprendere l’eventuale complemento alla specie (preposizioni non strettamente legate alla denominazione del toponimo come dei, di, delle, la,\nil, eccetera) e gli eventual complementi alla denominazione (esempio i titoli onorifici per i nomi propri)\nEsempi:\n1) Via San Donato: Via (DUG o qualificatore del toponimo), San Donato (DUF - o nome della strada)\n2) Via dei tulipani: Via (DUG), dei Tulipani (DUF)\n3) Via A GENERALE CARLO ALBERTO DALLA CHIESA: Via (DUG) Generale Carlo Alberto Dalla Chiesa (DUF)\n\nNel complesso questa componente spaziale dell'indirizzo può essere vista come il nome dell'area di circolazione ovvero il nome dell'area che individua ogni spazio del suolo pubblico, o aperto al pubblico, destinato alla viabilità.\n\nDUF e DUG sono due proprietà obbligatorie per la classe ed è possibile specificare un valore delle stesse valido per ciascuna lingua. L'odonimo infatti può essere registrato in lingue differenti, secondo quanto previsto dalle norme in materia di bilinguismo e sull’uso delle lingue delle minoranze linguistiche riconosciute."
         },
         {
           "@language": "en",

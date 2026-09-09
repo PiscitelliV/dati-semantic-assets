@@ -39,13 +39,13 @@
                                     dct:creator <http://spcdata.digitpa.gov.it/Amministrazione/m_bac> ,
                                                 <https://w3id.org/italia/data/organization/support-unit/cnr-Z6HZEH/stlab> ;
                                     dct:description <http://dati.beniculturali.it/cis/img/cultural-ON.png> ,
-                                                    """L'ontologia ha lo scopo di modellare i dati che caratterizzano gli istituti e i luoghi della cultura, come ad esempio i dati sugli enti o sulle persone che hanno un determinato ruolo sugli istituti e luoghi della cultura, le sedi fisiche dei luoghi, i contatti, eventuali materiali multimediali che descrivono un istituto e luogo della cultura e ogni altra informazione utile al pubblico per poter accedere all'istituto e luogo della cultura. Inoltre, l'ontologia rappresenta  gli eventi che possono aver luogo in un istituto e luogo della cultura.
+                                                    """L'ontologia ha lo scopo di modellare i dati che caratterizzano gli istituti e i luoghi della cultura, come ad esempio i dati sugli enti o sulle persone che hanno un determinato ruolo sugli istituti e luoghi della cultura, le sedi fisiche dei luoghi, i contatti, eventuali materiali multimediali che descrivono un istituto e luogo della cultura e ogni altra informazione utile al pubblico per poter accedere all'istituto e luogo della cultura. Inoltre, l'ontologia rappresenta gli eventi che possono aver luogo in un istituto e luogo della cultura.
 La figura seguente illustra alcuni elementi principali dell'ontologia. La figura non è esaustiva ma è inserita per aiutare a comprendere alcune relazioni tra concetti dell'ontologia.
 Per ogni classe dell'ontologia saranno forniti esempi di utilizzo in turtle; solo per alcune classi saranno altresì riportate figure specifiche che illustrano le relazioni e i concetti che ruotano attorno a tali classi.
 il file alignment_xml.owl inoltre rapprensenta tutti gli allineamenti dell'ontologia con altre esistenti nel Web dei dati come per esempio FOAF, Dubin Core, PRO, schema.org, etc. Per il MIBAC hanno contribuito attivamente allo sviluppo dell'ontologia Chiara Veninata e Annarita Orsini. Per l'Istituto di Scienze e Tecnologie della Cognizione (CNR) hanno contribuito i seguenti ricercatori: Giorgia Lodi, Luigi Asprino, Silvio Peroni, Andrea Nuzzolese, Valentina Presutti e Aldo Gangemi."""@it ,
                                                     """The ontology aims at modelling the data on cultural institutes or sites such as data regarding the agents that play a specific role on cultural institutes or sites, the sites themselves, the contact points, all multimedia files which describe the cultural institute or site and any other information useful to the public in order to access the institute or site. Moreover, the ontology represents events that can take place in specific cultural institutes or sites.
 The following figure illustrates some of the core elements of the ontology. The figure is not exaustive; however, it is included in order to help readers to understand some relationships among important concepts represented in the ontology.
-For each class, examples of their usage in turtle are provided; moreover, for only some of the classes, specific figures are reported that show the relationships and  concepts connected to them.
+For each class, examples of their usage in turtle are provided; moreover, for only some of the classes, specific figures are reported that show the relationships and concepts connected to them.
 The alignment_xml.owl complements the ontology with the alignments with external ontologies such as FOAF, PRO, schma.org, dublin core, etc. The people involved in the creation or the ontology are: from the Ministry Annarita Orsini and Chiara Veninata; from the National Council of Research Giorgia Lodi, Luigi Asprino, Silvio Peroni, Andrea Nuzzolese, Valentina Presutti and Aldo Gangemi."""@en ;
                                     dct:issued "2015-01-12"^^xsd:date ;
                                     dct:language <http://publications.europa.eu/resource/authority/language/ENG> ,
@@ -60,7 +60,7 @@ The alignment_xml.owl complements the ontology with the alignments with external
                                     rdfs:isDefinedBy <http://dati.beniculturali.it/cis> ;
                                     rdfs:label "Cultural-ON (Cultural ONtology): Cultural Institute/Site and Cultural Event Ontology"@en ,
                                                "Cultural-ON (Cultural ONtology): Ontologia dei Luoghi della Cultura e degli Eventi Culturali"@it ;
-                                    owl:versionInfo "Version 3.2 -  27 May 2019 - Introduction of the inverse property \"is involved in cultural event\" used to directly connect a cultural entity with the cultural events where it is involved in. Versione 3.2 includes all those changes necessary to refactor the original ontology in order to be fully integrated in the OntoPiA network."@en ,
+                                    owl:versionInfo "Version 3.2 - 27 May 2019 - Introduction of the inverse property \"is involved in cultural event\" used to directly connect a cultural entity with the cultural events where it is involved in. Versione 3.2 includes all those changes necessary to refactor the original ontology in order to be fully integrated in the OntoPiA network."@en ,
                                                     "Versione 3.2 - 27 Maggio 2019 - Introduzione della proprietà inversa \"is involved in cultural event\" per collegare un'entità culturale all'evento in cui essa è coinvolta. Risponde al requisito emerso dall'issue https://github.com/italia/dati-semantic-assets/issues/62. La versione 3.2 include tutta la rifattorizzazione dell'ontologia per la piena integrazione nella rete OntoPiA"@it ;
                                     dcat:contactPoint <https://w3id.org/italia/data/contact-point/onto-mibac> ;
                                     dcat:keyword "Cultural events"@en ,
@@ -168,7 +168,7 @@ xsd:time rdf:type rdfs:Datatype .
            rdfs:domain :CulturalInstituteOrSite ;
            rdfs:range :Catalogue ;
            rdfs:comment "Property used to associate the Cultural Institute or SIte with a catalogue of cultural collections included in the institute or site. The relatioships can be used to indicate that a Cultural Institute or Site has an its own catalogue or situations where a Cultural Institute or Site contributes to a union catalogue (this latter case is represented by libraries that can contribute to or participate in a union catalogue)."@en ,
-                        "Proprietà utilizzata per associare l'istituto e luogo della cultura a un  catalogo che descrive le opere in esso contenute. Tale relazione può essere utilizzata per indicare che un istituto e luogo della cultura ha un catalogo ma anche una situazione per cui un istituto e luogo della cultura partecipa a un catalogo (in quest'ultimo caso un esempio è rappresentato dalle biblioteche che possono partecipare a un catalogo collettivo)."@it ;
+                        "Proprietà utilizzata per associare l'istituto e luogo della cultura a un catalogo che descrive le opere in esso contenute. Tale relazione può essere utilizzata per indicare che un istituto e luogo della cultura ha un catalogo ma anche una situazione per cui un istituto e luogo della cultura partecipa a un catalogo (in quest'ultimo caso un esempio è rappresentato dalle biblioteche che possono partecipare a un catalogo collettivo)."@it ;
            rdfs:isDefinedBy : ;
            rdfs:label "catalogo"@it ,
                       "catalogue"@en ;
@@ -401,7 +401,7 @@ xsd:time rdf:type rdfs:Datatype .
                                    :isInSite
                                  ) ;
           rdfs:comment "Property that permits to associate cultural heritage objects with the site(s) which conserve(s) them"@en ,
-                       "Proprietà che consente di associare  opere culturali al luogo fisico in cui sono conservate."@it ;
+                       "Proprietà che consente di associare opere culturali al luogo fisico in cui sono conservate."@it ;
           rdfs:isDefinedBy : ;
           rdfs:label "is in site"@en ,
                      "è nella sede"@it ;
@@ -413,7 +413,7 @@ xsd:time rdf:type rdfs:Datatype .
 :isInvolvedInCulturalEvent rdf:type owl:ObjectProperty ;
                            rdfs:domain :CulturalEntity ;
                            rdfs:range :CulturalEvent ;
-                           rdfs:comment "Inverse property of \"involves cultural entity\". It is used to directly connect a cultural entity to  the cultural events that involve it."@en ,
+                           rdfs:comment "Inverse property of \"involves cultural entity\". It is used to directly connect a cultural entity to the cultural events that involve it."@en ,
                                         "Proprietà inversa di \"coinvolge entità culturale\" che collega direttamente l'entità culturale con gli eventi culturali che la coinvolgono"@it ;
                            rdfs:isDefinedBy : ;
                            rdfs:label "is involved in cultural event"@en ,
@@ -447,8 +447,8 @@ xsd:time rdf:type rdfs:Datatype .
                       rdfs:comment "Inverse property of hasMember."@en ,
                                    "Proprietà inversa di hasMember."@it ;
                       rdfs:isDefinedBy : ;
-                      rdfs:label "is member of "@en ,
-                                 "è membro di "@it ;
+                      rdfs:label "is member of"@en ,
+                                 "è membro di"@it ;
                       owl:versionInfo "stabile"@it ,
                                       "stable"@en .
 
@@ -639,7 +639,7 @@ tiapit:atTime rdf:type owl:ObjectProperty .
                                   ] ;
                       rdfs:range rdfs:Literal ;
                       rdfs:comment "Questa proprietà identifica direttamente il nome istituzionale dell'Istituto e luogo della cultura"@it ,
-                                   "This data property identifies  the institutional name of the Cultural Institute or Site."@en ;
+                                   "This data property identifies the institutional name of the Cultural Institute or Site."@en ;
                       rdfs:isDefinedBy : ;
                       rdfs:label "Institutional Name of Cultural Site" ,
                                  "Nome Istituzionale Luogo Cultura"@it ;
@@ -804,7 +804,7 @@ nit:Museo_di_Capodimonte
     rdfs:label \"Denominazione nel tempo 'Museo di Capodimonte'\"@it ;
     cis:institutionalCISName \"Museo di Capodimonte\"@it ;
     cis:altCISName \"Museo Nazionale di Capodimonte\"@it ;
-    cis:isValidDuring ti:Intervallo_di_tempo_per_denominazione_nel_tempo_Museo_di_Capodimonte  .
+    cis:isValidDuring ti:Intervallo_di_tempo_per_denominazione_nel_tempo_Museo_di_Capodimonte .
 
 ti:Intervallo_di_tempo_per_denominazione_nel_tempo_Museo_di_Capodimonte
     a ti:TimeInterval ;
@@ -828,7 +828,7 @@ nit:Museo_di_Capodimonte
     rdfs:label \"Denominazione nel tempo 'Museo di Capodimonte'\"@it ;
     cis:institutionalCISName \"Museo di Capodimonte\"@it ;
     cis:altCISName \"Museo Nazionale di Capodimonte\"@it ;
-    cis:isValidDuring ti:Intervallo_di_tempo_per_denominazione_nel_tempo_Museo_di_Capodimonte  .
+    cis:isValidDuring ti:Intervallo_di_tempo_per_denominazione_nel_tempo_Museo_di_Capodimonte .
 
 ti:Intervallo_di_tempo_per_denominazione_nel_tempo_Museo_di_Capodimonte
     a ti:TimeInterval ;
@@ -872,17 +872,17 @@ The following is an example expressed by using the turtle syntax:
 <pre>
 
 service:Caffetteria
-      a       cis:CISService ;
+      a cis:CISService ;
       cis:name \"Caffetteria\" .
 
 
 service:Connessione_WI-FI
-      a       cis:CISService ;
+      a cis:CISService ;
       cis:name \"Connessione WI-FI\" .
 
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite ;
+      a cis:Library , cis:CulturalInstituteOrSite ;
       cis:providesService service:Caffetteria, service:Connessione_WI-FI.
 
 </pre>"""@en ,
@@ -895,17 +895,17 @@ Il seguente esempio mostra in turtle l'uso della classe servizio:
 <pre>
 
 service:Caffetteria
-      a       cis:CISService ;
+      a cis:CISService ;
       cis:name \"Caffetteria\" .
 
 
 service:Connessione_WI-FI
-      a       cis:CISService ;
+      a cis:CISService ;
       cis:name \"Connessione WI-FI\" .
 
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite ;
+      a cis:Library , cis:CulturalInstituteOrSite ;
       cis:providesService service:Caffetteria, service:Connessione_WI-FI.
 
 </pre>"""@it ;
@@ -969,14 +969,14 @@ An example in turtle is the following:
 
 <pre>
 catalogue:Catalogo_Generale_(autore)
-      a       cis:Catalogue ;
+      a cis:Catalogue ;
       rdfs:label \"Catalogo Generale (autore)\"@it ;
       l0:name \"Catalogo Generale (autore)\"@it ;
       cis:isCatalogueOf cissite:Biblioteca_nazionale_centrale ;
       l0:description \"Catalogo Generale per autore - online\"@it .
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite ;
+      a cis:Library , cis:CulturalInstituteOrSite ;
       cis:catalogue catalogue:Catalogo_Generale_(autore) .
 </pre>"""@en ,
                           """Un catalogo è sempre associato a un individuo della classe \"Istitute e luogo della cultura\" attraverso la proprietà ha catalogo (che ha dominio CulturaInstituteOrSite e codominio Catalogue).
@@ -987,14 +987,14 @@ Un esempio in turtle è il seguente:
 
 <pre>
 catalogue:Catalogo_Generale_(autore)
-      a       cis:Catalogue ;
+      a cis:Catalogue ;
       rdfs:label \"Catalogo Generale (autore)\"@it ;
       l0:name \"Catalogo Generale (autore)\"@it ;
       cis:isCatalogueOf cissite:Biblioteca_nazionale_centrale ;
       l0:description \"Catalogo Generale per autore - online\"@it .
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite ;
+      a cis:Library , cis:CulturalInstituteOrSite ;
       cis:catalogue catalogue:Catalogo_Generale_(autore) .
 </pre>"""@it ;
            rdfs:comment "Concept used to represent the catalogue which describes the set of cultural heritage objects included in a Cultural Institute or Site"@en ,
@@ -1101,26 +1101,26 @@ This can be modelled by using turtle in the following way:
 <pre>
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite ;
+      a cis:Library , cis:CulturalInstituteOrSite ;
       cis:hasCollection collezioni:Patrimonio_di_Biblioteca_nazionale_centrale_di_Roma .
 
 collezioni:Patrimonio_di_Biblioteca_nazionale_centrale_di_Roma
-      a       cis:CollectionCulEnt ;
+      a cis:CollectionCulEnt ;
       l0:name \"Patrimonio di: Biblioteca nazionale centrale di Roma\" ;
       cis:hasMemberColCultEnt collezioni:Archivio_Capizucchi, collezioni:Fondo_Ceccarius .
 
 
 collezioni:Archivio_Capizucchi
-      a       cis:CollectionCultEnt ;
+      a cis:CollectionCultEnt ;
       l0:name \"Archivio Capizucchi\" ;
       cis:isMemberOfColCultEnt collezioni:Patrimonio_di_Biblioteca_nazionale_centrale_di_Roma ;
       l0:description \"materiale documentario relativo alla famiglia Capizucchi\"@it .
 
 
 collezioni:Fondo_Ceccarius
-      a       cis:CollectionCultEnt ;
+      a cis:CollectionCultEnt ;
       l0:name \"Fondo Ceccarius\" ;
-     cis:isMemberOfColCultEnt  collezioni:Patrimonio_di_Biblioteca_nazionale_centrale_di_Roma ;
+     cis:isMemberOfColCultEnt collezioni:Patrimonio_di_Biblioteca_nazionale_centrale_di_Roma ;
       l0:description \"volumi, opuscoli, articoli e fotografie della biblioteca di G. Ceccarelli\"@it .
 
 
@@ -1138,26 +1138,26 @@ Nello specifico, questo può essere modellato in turtle come segue:
 <pre>
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite ;
+      a cis:Library , cis:CulturalInstituteOrSite ;
       cis:hasCollection collezioni:Patrimonio_di_Biblioteca_nazionale_centrale_di_Roma .
 
 collezioni:Patrimonio_di_Biblioteca_nazionale_centrale_di_Roma
-      a       cis:CollectionCulEnt ;
+      a cis:CollectionCulEnt ;
       l0:name \"Patrimonio di: Biblioteca nazionale centrale di Roma\" ;
       cis:hasMemberColCultEnt collezioni:Archivio_Capizucchi, collezioni:Fondo_Ceccarius .
 
 
 collezioni:Archivio_Capizucchi
-      a       cis:CollectionCultEnt ;
+      a cis:CollectionCultEnt ;
       l0:name \"Archivio Capizucchi\" ;
       cis:isMemberOfColCultEnt collezioni:Patrimonio_di_Biblioteca_nazionale_centrale_di_Roma ;
       l0:description \"materiale documentario relativo alla famiglia Capizucchi\"@it .
 
 
 collezioni:Fondo_Ceccarius
-      a       cis:CollectionCultEnt ;
+      a cis:CollectionCultEnt ;
       l0:name \"Fondo Ceccarius\" ;
-      cis:isMemberOfColCultEnt  collezioni:Patrimonio_di_Biblioteca_nazionale_centrale_di_Roma ;
+      cis:isMemberOfColCultEnt collezioni:Patrimonio_di_Biblioteca_nazionale_centrale_di_Roma ;
       l0:description \"volumi, opuscoli, articoli e fotografie della biblioteca di G. Ceccarelli\"@it .
 
 
@@ -1209,7 +1209,7 @@ collezioni:Fondo_Ceccarius
                                   owl:allValuesFrom :CulturalEvent
                                 ] ;
                 rdfs:comment "Class that provides a generalization of three classes; that is , cultural institute or site, collection and cultural heritage object. It does not correspond to a concept used typically in the cultural domain but it is used in order to model properties and property restrictions that are common to all the these three classes. The class will never be directly instanziated."@en ,
-                             "Classe che fornisce una generalizzazione per le tre classi di istituto e luogo della cultura,  collezione e oggetto culturale. Non corrisponde ad un concetto usato normalmente nel linguaggio del dominio, ma risponde all'esigenza di modellare proprietà e assiomi di property-restriction comuni ad ognuna di queste tre classi. La classe CulturalEntity non sarà mai istanziata direttamente"@it ;
+                             "Classe che fornisce una generalizzazione per le tre classi di istituto e luogo della cultura, collezione e oggetto culturale. Non corrisponde ad un concetto usato normalmente nel linguaggio del dominio, ma risponde all'esigenza di modellare proprietà e assiomi di property-restriction comuni ad ognuna di queste tre classi. La classe CulturalEntity non sarà mai istanziata direttamente"@it ;
                 rdfs:isDefinedBy : ;
                 rdfs:label "Cultural Entity"@en ,
                            "Entità culturale"@it ;
@@ -1503,7 +1503,7 @@ culturalheritageobject:Nascita_di_Venere
 <pre>
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite , poiapit:PointOfInterest ;
+      a cis:Library , cis:CulturalInstituteOrSite , poiapit:PointOfInterest ;
       l0:description \"\"\"La Biblioteca Nazionale Centrale di Roma fu inaugurata il 14 marzo 1876 in un'ala del
       monumentale Palazzo cinquecentesco del Collegio Romano, sede dell'antica Bibliotheca Secreta o Major dei Gesuiti,
       che costituì il nucleo originario della nuova istituzione, cui si aggiunsero i fondi manoscritti e a stampa di 69
@@ -1522,7 +1522,7 @@ cissite:Biblioteca_nazionale_centrale
       cis:istitutionalCISName \"Biblioteca nazionale centrale\"@it ;
       poiapit:POIofficialName Biblioteca nazionale centrale\"@it ;
       poiapit:POIID \"29387\" ;
-     poiapit:POICategory  <https://w3id.org/italia/controlled-vocabulary/poi-category-classification/cat_6_travel> ;
+     poiapit:POICategory <https://w3id.org/italia/controlled-vocabulary/poi-category-classification/cat_6_travel> ;
       clvapit:hasGeometry geometry_Biblioteca_nazionale_centrale ;
       cis:ISILIdentifier \"IT-RM0267\"^^xsd:string ;
       acapit:hasAccessCondition
@@ -1536,20 +1536,20 @@ cissite:Biblioteca_nazionale_centrale
       cis:hasCISNameInTime CISNameInTime:Biblioteca_Nazionale_Centrale ;
       cis:hasSite site:Sede_di_Biblioteca_nazionale_centrale_di_Roma ;
       cis:providesService service:Connessione_WI-FI , service:Visite_guidate , service:ala_per_la_didattica ;
-      owl:sameAs   <http://it.dbpedia.org/resource/Biblioteca_Nazionale_Centrale_di_Roma> .
+      owl:sameAs <http://it.dbpedia.org/resource/Biblioteca_Nazionale_Centrale_di_Roma> .
 
 geometry_Biblioteca_nazionale_centrale
      a clvapit:Geometry , locn:Geometry ;
       clvapit:lat \"AAA\" ;
       clvapit:long \"BBB\" ;
-      clvapit:hasGeometryType  clvapit:Point .
+      clvapit:hasGeometryType clvapit:Point .
 
 <http://dati.beniculturali.it/cis/resource/OpeningHoursSpecification/Orari_di_apertura_di_Biblioteca_nazionale_centrale_di_Roma_giovedi>
      a acapit:AccessCondition , acapit:OpeningHoursSpecification ;
      acapit:opens \"11:00\"^^xsd:time ;
      acapit:closes \"18:00\"^^xsd:time ;
      acapit:hasAdmissionType at:daily ;
-     ti:hasDayOfWeek  <https://w3id.org/italia/onto/TI/Thursday> .
+     ti:hasDayOfWeek <https://w3id.org/italia/onto/TI/Thursday> .
 
 at:daily
    a acapit:AdmissionType ;
@@ -1572,20 +1572,20 @@ phone:phone_Biblioteca_nazionale_centrale_di_roma
       a smapit:Telephone ;
       smapit:telephoneNumber \"051 347397\" ;
       smapit:hasTelephoneType <https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/032> ;
-      smapit:isTelephoneOf contactPoint:Contatti_di_Biblioteca_nazionale_centrale_di_Roma  .
+      smapit:isTelephoneOf contactPoint:Contatti_di_Biblioteca_nazionale_centrale_di_Roma .
 
 
 website:web_Biblioteca_nazionale_centrale_di_roma
        a smapit:WebSite ;
        smapit:URL \"https://example.itr^^xsd:anyURI\" ;
-       smapit:isWebiteOf contactPoint:Contatti_di_Biblioteca_nazionale_centrale_di_Roma  .
+       smapit:isWebiteOf contactPoint:Contatti_di_Biblioteca_nazionale_centrale_di_Roma .
 </pre>"""@en ,
                                         """Un esempio di utilizzo della classe \"Istituto e Luogo della Cultura\" è il seguente:
 
 <pre>
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite , poiapit:PointOfInterest ;
+      a cis:Library , cis:CulturalInstituteOrSite , poiapit:PointOfInterest ;
       l0:description \"\"\"La Biblioteca Nazionale Centrale di Roma fu inaugurata il 14 marzo 1876 in un'ala del
       monumentale Palazzo cinquecentesco del Collegio Romano, sede dell'antica Bibliotheca Secreta o Major dei Gesuiti,
       che costituì il nucleo originario della nuova istituzione, cui si aggiunsero i fondi manoscritti e a stampa di 69
@@ -1604,7 +1604,7 @@ cissite:Biblioteca_nazionale_centrale
       cis:istitutionalCISName \"Biblioteca nazionale centrale\"@it ;
       poiapit:POIofficialName Biblioteca nazionale centrale\"@it ;
       poiapit:POIID \"29387\" ;
-     poiapit:POICategory  <https://w3id.org/italia/controlled-vocabulary/poi-category-classification/cat_6_travel> ;
+     poiapit:POICategory <https://w3id.org/italia/controlled-vocabulary/poi-category-classification/cat_6_travel> ;
       clvapit:hasGeometry geometry_Biblioteca_nazionale_centrale ;
       cis:ISILIdentifier \"IT-RM0267\"^^xsd:string ;
       acapit:hasAccessCondition
@@ -1618,20 +1618,20 @@ cissite:Biblioteca_nazionale_centrale
       cis:hasCISNameInTime CISNameInTime:Biblioteca_Nazionale_Centrale ;
       cis:hasSite site:Sede_di_Biblioteca_nazionale_centrale_di_Roma ;
       cis:providesService service:Connessione_WI-FI , service:Visite_guidate , service:ala_per_la_didattica ;
-      owl:sameAs   <http://it.dbpedia.org/resource/Biblioteca_Nazionale_Centrale_di_Roma> .
+      owl:sameAs <http://it.dbpedia.org/resource/Biblioteca_Nazionale_Centrale_di_Roma> .
 
 geometry_Biblioteca_nazionale_centrale
      a clvapit:Geometry , locn:Geometry ;
       clvapit:lat \"AAA\" ;
       clvapit:long \"BBB\" ;
-      clvapit:hasGeometryType  clvapit:Point .
+      clvapit:hasGeometryType clvapit:Point .
 
 <http://dati.beniculturali.it/cis/resource/OpeningHoursSpecification/Orari_di_apertura_di_Biblioteca_nazionale_centrale_di_Roma_giovedi>
      a acapit:AccessCondition , acapit:OpeningHoursSpecification ;
      acapit:opens \"11:00\"^^xsd:time ;
      acapit:closes \"18:00\"^^xsd:time ;
      acapit:hasAdmissionType at:daily ;
-     ti:hasDayOfWeek  <https://w3id.org/italia/onto/TI/Thursday> .
+     ti:hasDayOfWeek <https://w3id.org/italia/onto/TI/Thursday> .
 
 at:daily
    a acapit:AdmissionType ;
@@ -1654,13 +1654,13 @@ phone:phone_Biblioteca_nazionale_centrale_di_roma
       a smapit:Telephone ;
       smapit:telephoneNumber \"051 347397\" ;
       smapit:hasTelephoneType <https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/032> ;
-      smapit:isTelephoneOf contactPoint:Contatti_di_Biblioteca_nazionale_centrale_di_Roma  .
+      smapit:isTelephoneOf contactPoint:Contatti_di_Biblioteca_nazionale_centrale_di_Roma .
 
 
 website:web_Biblioteca_nazionale_centrale_di_roma
        a smapit:WebSite ;
        smapit:URL \"https://example.itr^^xsd:anyURI\" ;
-       smapit:isWebiteOf contactPoint:Contatti_di_Biblioteca_nazionale_centrale_di_Roma  .
+       smapit:isWebiteOf contactPoint:Contatti_di_Biblioteca_nazionale_centrale_di_Roma .
 </pre>"""@it ;
                          rdfs:comment "Sono istituti e luoghi della cultura i musei, le biblioteche e gli archivi, le aree e i parchi archeologici, i complessi monumentali. Gli istituti e luoghi e della cultura che appartengono a soggetti pubblici sono destinati alla pubblica fruizione ed espletano un servizio pubblico. Le strutture espositive e di consultazione nonché i luoghi della cultura che appartengono a soggetti privati e sono aperti al pubblico espletano un servizio privato di utilità sociale."@it ,
                                       "The class Cultural Institute or Site represents museums, libraries, archive holders, archaeologic areas and parks, monumental areas. The cultural institutes of sites that are owned by public bodies are meant to offer public services. The cultural institutes or sites that are owned by private subjects, and are open to the public, offer a public and societal service."@en ;
@@ -1863,7 +1863,7 @@ image:Poster_Evento_Vincenzo_Gemito_al_Museo_di_Capodimonte
              rdfs:comment "Concept used to represent a news article."@en ,
                           "Concetto utilizzato per rappresentare un articolo"@it ;
              rdfs:isDefinedBy : ;
-             rdfs:label " Articolo"@it ,
+             rdfs:label "Articolo"@it ,
                         "News Article"@en ;
              owl:versionInfo "stabile"@it ,
                              "stable"@en .
@@ -1917,33 +1917,33 @@ The following is an example of a Site and its association with a CIS
 
 <pre>
 site:Sede_di_Biblioteca_nazionale_centrale_di_Roma
-      a       cis:Site , poiapit:PointOfInterest ;
+      a cis:Site , poiapit:PointOfInterest ;
       rdfs:label \"Sede Biblioteca nazionale centrale di Roma\"@it ;
       poiapit:POIofficialName \"Sede Biblioteca nazionale centrale di Roma\"@it ;
       poiapit:POIID \"1\" ;
       cis:siteAddress address:Indirizzo_della_sede_di_Biblioteca_nazionale_centrale_di_Roma ;
       smapit:hasOnlineContactPoint contactPoint:Contatti_di_Biblioteca_nazionale_centrale_di_Roma ;
-      clvapit:hasSpatialCoverage        <https://w3id.org/italia/controlled-vocabulary/territorial-classifications/cities/058091-(1992-04-04)> ;
+      clvapit:hasSpatialCoverage <https://w3id.org/italia/controlled-vocabulary/territorial-classifications/cities/058091-(1992-04-04)> ;
       cis:isSiteOf cissite:Biblioteca_nazionale_centrale ;
       clvapit:hasGeometry geo_sede_biblioteca_nazionale ;
       poiapit:hasPOICategory <https://w3id.org/italia/controlled-vocabulary/poi-category-classification/cat_2_recreation> , <https://w3id.org/italia/controlled-vocabulary/poi-category-classification/cat_6_travel> .
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite  , ;poiapit:PointOfInterest ;
+      a cis:Library , cis:CulturalInstituteOrSite , ;poiapit:PointOfInterest ;
       cis:hasSite site:Sede_di_Biblioteca_nazionale_centrale_di_Roma .
 
 address:Indirizzo_della_sede_di_Biblioteca_nazionale_centrale_di_Roma
       a clvapit:Address ;
-      clvapit:hasIdentifier <https://w3id.org/italia/data/identifiers/national-access-incremental-number/1>  ;
+      clvapit:hasIdentifier <https://w3id.org/italia/data/identifiers/national-access-incremental-number/1> ;
     clvapit:hasStreetToponym <https://w3id.org/italia/data/street-toponym/pippo> ;
     clvapit:hasNumber <https://w3id.org/italia/data/civic-numbering/24> ;
-    clvapit:hasCity <https://w3id.org/italia/controlled-vocabulary/territorial-classifications/cities/18110-(2005-02-19)>  .
+    clvapit:hasCity <https://w3id.org/italia/controlled-vocabulary/territorial-classifications/cities/18110-(2005-02-19)> .
 
 
 <https://w3id.org/italia/data/identifiers/national-access-incremental-number/1>
      a clvapit:Identifier ;
      clvapit:identifierType \"Progressivo nazionale accesso\"@it ;
-     l0:identifier \"1\"  .
+     l0:identifier \"1\" .
 
 <https://w3id.org/italia/data/civic-numbering/24>
     a clvapit:CivicNumbering ;
@@ -1970,33 +1970,33 @@ Il seguente esempio in turle mostra una sede associata a un istituto e luogo del
 
 <pre>
 site:Sede_di_Biblioteca_nazionale_centrale_di_Roma
-      a       cis:Site , poiapit:PointOfInterest ;
+      a cis:Site , poiapit:PointOfInterest ;
       rdfs:label \"Sede Biblioteca nazionale centrale di Roma\"@it ;
       poiapit:POIofficialName \"Sede Biblioteca nazionale centrale di Roma\"@it ;
       poiapit:POIID \"1\" ;
       cis:siteAddress address:Indirizzo_della_sede_di_Biblioteca_nazionale_centrale_di_Roma ;
       smapit:hasOnlineContactPoint contactPoint:Contatti_di_Biblioteca_nazionale_centrale_di_Roma ;
-      clvapit:hasSpatialCoverage        <https://w3id.org/italia/controlled-vocabulary/territorial-classifications/cities/058091-(1992-04-04)> ;
+      clvapit:hasSpatialCoverage <https://w3id.org/italia/controlled-vocabulary/territorial-classifications/cities/058091-(1992-04-04)> ;
       cis:isSiteOf cissite:Biblioteca_nazionale_centrale ;
       clvapit:hasGeometry geo_sede_biblioteca_nazionale ;
       poiapit:hasPOICategory <https://w3id.org/italia/controlled-vocabulary/poi-category-classification/cat_2_recreation> , <https://w3id.org/italia/controlled-vocabulary/poi-category-classification/cat_6_travel> .
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite  , ;poiapit:PointOfInterest ;
+      a cis:Library , cis:CulturalInstituteOrSite , ;poiapit:PointOfInterest ;
       cis:hasSite site:Sede_di_Biblioteca_nazionale_centrale_di_Roma .
 
 address:Indirizzo_della_sede_di_Biblioteca_nazionale_centrale_di_Roma
       a clvapit:Address ;
-      clvapit:hasIdentifier <https://w3id.org/italia/data/identifiers/national-access-incremental-number/1>  ;
+      clvapit:hasIdentifier <https://w3id.org/italia/data/identifiers/national-access-incremental-number/1> ;
     clvapit:hasStreetToponym <https://w3id.org/italia/data/street-toponym/pippo> ;
     clvapit:hasNumber <https://w3id.org/italia/data/civic-numbering/24> ;
-    clvapit:hasCity <https://w3id.org/italia/controlled-vocabulary/territorial-classifications/cities/18110-(2005-02-19)>  .
+    clvapit:hasCity <https://w3id.org/italia/controlled-vocabulary/territorial-classifications/cities/18110-(2005-02-19)> .
 
 
 <https://w3id.org/italia/data/identifiers/national-access-incremental-number/1>
      a clvapit:Identifier ;
      clvapit:identifierType \"Progressivo nazionale accesso\"@it ;
-     l0:identifier \"1\"  .
+     l0:identifier \"1\" .
 
 <https://w3id.org/italia/data/civic-numbering/24>
     a clvapit:CivicNumbering ;
@@ -2033,7 +2033,7 @@ address:Indirizzo_della_sede_di_Biblioteca_nazionale_centrale_di_Roma
 <pre>
 
 site:Sede_di_Biblioteca_nazionale_centrale_di_Roma
-      a       cis:Site ;
+      a cis:Site ;
       rdfs:label \"Sede Biblioteca nazionale centrale di Roma\"@it ;
       cis:siteAddress address:Indirizzo_della_sede_di_Biblioteca_nazionale_centrale_di_Roma ;
       cis:isSiteOf cissite:Biblioteca_nazionale_centrale ;
@@ -2057,7 +2057,7 @@ attribute:Shelving
 <pre>
 
 site:Sede_di_Biblioteca_nazionale_centrale_di_Roma
-      a       cis:Site ;
+      a cis:Site ;
       rdfs:label \"Sede Biblioteca nazionale centrale di Roma\"@it ;
       cis:siteAddress address:Indirizzo_della_sede_di_Biblioteca_nazionale_centrale_di_Roma ;
       cis:isSiteOf cissite:Biblioteca_nazionale_centrale ;
@@ -2617,7 +2617,7 @@ cissite:Archivio_di_Stato_di_Oristano
     cis:ISILIdentifier \"IT-EX0006\" .
 
 </pre>"""@it ;
-                 rdfs:comment "This class represents a specific tyep of cultural institute or site, i.e.,  Holder of Archive"@en ;
+                 rdfs:comment "This class represents a specific tyep of cultural institute or site, i.e., Holder of Archive"@en ;
                  dc:description """An example of usage of the class cis:HolderOfArchive is the following:
 
 <pre>

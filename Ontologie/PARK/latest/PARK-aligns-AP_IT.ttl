@@ -16,7 +16,7 @@
                                                        "Italian Digital Transformation Team"@en ;
                                             dc:issued "2018-06-25"^^xsd:date ;
                                             dc:modified "2019-04-23"^^xsd:date ;
-                                            dct:description "Questi sono gli allineamenti dell'ontologia sui parcheggi Car Park- Italian Application Profile  (PARK-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate."@it ,
+                                            dct:description "Questi sono gli allineamenti dell'ontologia sui parcheggi Car Park- Italian Application Profile (PARK-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate."@it ,
                                                             "These are the alignments to external ontologies widely used and available at the state of the art for the car park ontology"@en ;
                                             dct:title "Allineamenti per l'ontologia dei parcheggi"@it ,
                                                       "Car Park Ontology Alignments"@en .

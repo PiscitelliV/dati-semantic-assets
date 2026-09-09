@@ -344,7 +344,7 @@ xsd:time rdf:type rdfs:Datatype .
                                    )
                      ] ;
           rdfs:comment "Questa proprietà è utilizzata per modellare la data di ultima modifica (o il tempo di aggiornamento)"@it ,
-                       "This property  is used in order to model the update time."@en ;
+                       "This property is used in order to model the update time."@en ;
           rdfs:isDefinedBy <https://w3id.org/italia/onto/TI> ;
           rdfs:label "data ultima modifica"@it ,
                      "tempo di aggiornamento"@it ,

@@ -426,11 +426,11 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "Any entity that typically flows in time, either in the physical or social world  Examples include athmospheric phenomena, concerts, travels, institutional processes, etc.\nIt also represents a 'relational context' created by an observer on the basis of a 'frame'\nEvents are opposable to objects, since events typically flow in time, aggregating multiple objects during their flow, while objects tend to be stable in a certain time interval."
+          "@value": "Any entity that typically flows in time, either in the physical or social world Examples include athmospheric phenomena, concerts, travels, institutional processes, etc.\nIt also represents a 'relational context' created by an observer on the basis of a 'frame'\nEvents are opposable to objects, since events typically flow in time, aggregating multiple objects during their flow, while objects tend to be stable in a certain time interval."
         },
         {
           "@language": "it",
-          "@value": "Ogni entità che tipicamente scorre nel tempo, sia nel mondo fisico sia sociale. Gli esempi includono fenomeni atmosferici, concerti, viaggi, processi istituzionali, etc.\nLa classe rappresenta anche un \"contesto relazionale\" creato da un osservatore sulla base di un \"frame\" (cioè una Descrizione). \nGli eventi si oppongono agli oggetti, poiché, mentre gli eventi scorrono nel tempo e aggregano uno o più oggetti nel loro scorrerre, gli oggetti tendono a essere stabili in un intervallo di tempo."
+          "@value": "Ogni entità che tipicamente scorre nel tempo, sia nel mondo fisico sia sociale. Gli esempi includono fenomeni atmosferici, concerti, viaggi, processi istituzionali, etc.\nLa classe rappresenta anche un \"contesto relazionale\" creato da un osservatore sulla base di un \"frame\" (cioè una Descrizione).\nGli eventi si oppongono agli oggetti, poiché, mentre gli eventi scorrono nel tempo e aggregano uno o più oggetti nel loro scorrerre, gli oggetti tendono a essere stabili in un intervallo di tempo."
         }
       ],
       "rdfs:isDefinedBy": {
@@ -702,7 +702,7 @@
         },
         {
           "@language": "it",
-          "@value": "Questa è l'ontologia che fornisce il livello fondazionale allo stack ontologico di OntoPiA. Il nome L0 sta per Level-0 ontology poiché essa fornisce le fondamenta concettuali elementari all'intero stack. Questa ontologia è  ispirata da DOLCE zero (http://www.ontologydesignpatterns.org/ont/d0.owl)"
+          "@value": "Questa è l'ontologia che fornisce il livello fondazionale allo stack ontologico di OntoPiA. Il nome L0 sta per Level-0 ontology poiché essa fornisce le fondamenta concettuali elementari all'intero stack. Questa ontologia è ispirata da DOLCE zero (http://www.ontologydesignpatterns.org/ont/d0.owl)"
         }
       ],
       "dcterms:issued": {
@@ -753,7 +753,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa è l'ontologia che fornisce il livello fondazionale allo stack ontologico di OntoPiA. Il nome L0 sta per Level-0 ontology poiché essa fornisce le fondamenta concettuali elementari all'intero stack. Questa ontologia è  ispirata da DOLCE zero (http://www.ontologydesignpatterns.org/ont/d0.owl)"
+          "@value": "Questa è l'ontologia che fornisce il livello fondazionale allo stack ontologico di OntoPiA. Il nome L0 sta per Level-0 ontology poiché essa fornisce le fondamenta concettuali elementari all'intero stack. Questa ontologia è ispirata da DOLCE zero (http://www.ontologydesignpatterns.org/ont/d0.owl)"
         },
         {
           "@language": "en",

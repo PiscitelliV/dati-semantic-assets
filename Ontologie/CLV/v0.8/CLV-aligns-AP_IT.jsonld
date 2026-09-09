@@ -78,7 +78,7 @@
 		"@value": "These are the alignments to external ontologies widely used and available at the state of the art",
 		"@language": "en"
 	}, {
-		"@value": "Questi sono gli allineamenti dell'ontologia sugli indirizzi/luoghi Core Location Vocabulary - Italian Application Profile  (CLV-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate."
+		"@value": "Questi sono gli allineamenti dell'ontologia sugli indirizzi/luoghi Core Location Vocabulary - Italian Application Profile (CLV-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate."
 	}],
 	"http://www.w3.org/2002/07/owl#imports": [{
 		"@id": "https://w3id.org/italia/onto/CLV"

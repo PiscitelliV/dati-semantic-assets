@@ -132,7 +132,7 @@
         },
         {
           "@language": "it",
-          "@value": "Questi sono gli allineamenti dell'ontologia  della trasparenza verso ontologie esterne del Web semantico standard e ampiamente utilizzate."
+          "@value": "Questi sono gli allineamenti dell'ontologia della trasparenza verso ontologie esterne del Web semantico standard e ampiamente utilizzate."
         }
       ],
       "http://www.w3.org/2002/07/owl#imports": {

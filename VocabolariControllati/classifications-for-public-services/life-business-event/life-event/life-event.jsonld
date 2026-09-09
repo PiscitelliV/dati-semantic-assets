@@ -118,7 +118,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Questo evento della vita raggruppa servizi pubblici relativi all'accesso al trasporto pubblico come per esempio il rinnovo di un abbonamento, l'acquisto di un biglietto singolo per l'autobus, ecc. "
+        "@value": "Questo evento della vita raggruppa servizi pubblici relativi all'accesso al trasporto pubblico come per esempio il rinnovo di un abbonamento, l'acquisto di un biglietto singolo per l'autobus, ecc."
       },
       {
         "@language": "en",
@@ -629,7 +629,7 @@
       },
       {
         "@language": "en",
-        "@value": "This life event groups public services for when someone looks for a new job, starts a new job, leaves or quits a particular job on his own, or when someone loses his job "
+        "@value": "This life event groups public services for when someone looks for a new job, starts a new job, leaves or quits a particular job on his own, or when someone loses his job"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [

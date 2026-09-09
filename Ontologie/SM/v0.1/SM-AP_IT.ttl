@@ -533,7 +533,7 @@ prov:wasInfluencedBy rdf:type owl:AnnotationProperty .
              rdfs:subClassOf l0:Object ;
              
              rdfs:comment "This class represents a social media like a social network (e.g. Facebook, Twitter, etc.)."@en ,
-                          "Questa  classe rappresenta un social media come, ad esempio, un social network (ex. Facebook, Twitter, ecc...)."@it ;
+                          "Questa classe rappresenta un social media come, ad esempio, un social network (ex. Facebook, Twitter, ecc...)."@it ;
              
              rdfs:isDefinedBy <http://dati.gov.it/onto/smapit/> .
 

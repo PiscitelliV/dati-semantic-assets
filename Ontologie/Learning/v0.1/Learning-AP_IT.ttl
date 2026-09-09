@@ -36,7 +36,7 @@
                                          rdfs:isDefinedBy <https://w3id.org/italia/onto/Learning> ;
                                          rdfs:label "Learning Ontology"@en ,
                                                     "Ontologia della (Alta) Formazione (inclusa Artistica, Musicale e Coreutica - AFAM)"@it ;
-                                         owl:versionInfo "Version 0.1 -  ontology creation"@en ,
+                                         owl:versionInfo "Version 0.1 - ontology creation"@en ,
                                                          "Versione 0.1 - creazione dell'ontologia"@it ;
                                          dcat:contactPoint <https://w3id.org/italia/data/contact-point/stat-off-mur> ;
                                          dcat:keyword "AFAM"@it ,

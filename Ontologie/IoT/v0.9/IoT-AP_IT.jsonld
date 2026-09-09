@@ -527,7 +527,7 @@
         },
         {
           "@language": "en",
-          "@value": "Inverse property of has value for observation parameter that links an observation value to the  observation parameter"
+          "@value": "Inverse property of has value for observation parameter that links an observation value to the observation parameter"
         }
       ],
       "rdfs:domain": {
@@ -978,7 +978,7 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "This class represents a geometry. A geometry provides the means to identify a location as a point, line, polygon, etc. expressed using coordinates in some coordinate reference system. The class is defined in the italian core location application profile.. Its properties  are not defined in the OWL since in practice  geometry encodings all include already these properties. At least one of the following encodings must be used: GML or WKT."
+          "@value": "This class represents a geometry. A geometry provides the means to identify a location as a point, line, polygon, etc. expressed using coordinates in some coordinate reference system. The class is defined in the italian core location application profile.. Its properties are not defined in the OWL since in practice geometry encodings all include already these properties. At least one of the following encodings must be used: GML or WKT."
         },
         {
           "@language": "it",
@@ -1032,7 +1032,7 @@
         },
         {
           "@language": "en",
-          "@value": "This class represents the Road Segment  If the ontology is used to represent IoT events in the context of real time data traffic, the class is revelant and it represents the road segment of the observation."
+          "@value": "This class represents the Road Segment If the ontology is used to represent IoT events in the context of real time data traffic, the class is revelant and it represents the road segment of the observation."
         }
       ],
       "rdfs:isDefinedBy": {
@@ -1429,7 +1429,7 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "It represents the Precision; i.e., the  degree of reproducibility of a measurement. In other words, if exactly the same values were measured a number of times, an ideal sensor would output exactly the same value every time."
+          "@value": "It represents the Precision; i.e., the degree of reproducibility of a measurement. In other words, if exactly the same values were measured a number of times, an ideal sensor would output exactly the same value every time."
         },
         {
           "@language": "it",
@@ -1880,7 +1880,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa classe rappresenta un sensore. Un sensore è uno strumento il cui scopo è quello di rilevare e rispondere a eventi o cambiamenti che avvengono nel proprio ambienti. L'informazione rilevata può essere  utilizzata e distribuita per successive elaborazioni."
+          "@value": "Questa classe rappresenta un sensore. Un sensore è uno strumento il cui scopo è quello di rilevare e rispondere a eventi o cambiamenti che avvengono nel proprio ambienti. L'informazione rilevata può essere utilizzata e distribuita per successive elaborazioni."
         },
         {
           "@language": "en",
@@ -2185,7 +2185,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa classe rappresenta l'errore di compensazione, ovvero  la differenza tra il valore reale di uscita e il valore di uscita specificato in alcune particolari condizioni."
+          "@value": "Questa classe rappresenta l'errore di compensazione, ovvero la differenza tra il valore reale di uscita e il valore di uscita specificato in alcune particolari condizioni."
         },
         {
           "@language": "en",
@@ -2465,11 +2465,11 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "This property is equivalent to http://purl.org/dc/terms/description as included in the alignment file. It is used in order to model the description of the Things of the Italian  IoT Applicaiton Profile."
+          "@value": "This property is equivalent to http://purl.org/dc/terms/description as included in the alignment file. It is used in order to model the description of the Things of the Italian IoT Applicaiton Profile."
         },
         {
           "@language": "it",
-          "@value": "Questa proprietà è equivalente a in http://purl.org/dc/terms/description, come indicato nel file di allineamento dell'ontologia ad altre esterne del web dei dati,  ed è usata allo scopo di modellare le descrizioni delle \"cose\" del profilo applicativo italiano per IoT."
+          "@value": "Questa proprietà è equivalente a in http://purl.org/dc/terms/description, come indicato nel file di allineamento dell'ontologia ad altre esterne del web dei dati, ed è usata allo scopo di modellare le descrizioni delle \"cose\" del profilo applicativo italiano per IoT."
         }
       ],
       "rdfs:domain": {

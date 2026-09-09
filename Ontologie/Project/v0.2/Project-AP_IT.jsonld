@@ -645,7 +645,7 @@
       "dcterms:title": [
         {
           "@language": "en",
-          "@value": "Project-AP_IT - Project Ontology - Italian Application Profile "
+          "@value": "Project-AP_IT - Project Ontology - Italian Application Profile"
         },
         {
           "@language": "it",
@@ -672,7 +672,7 @@
       "owl:versionInfo": [
         {
           "@language": "en",
-          "@value": "Version 0.2 - 16  June 2020 - included keyword element for projects."
+          "@value": "Version 0.2 - 16 June 2020 - included keyword element for projects."
         },
         {
           "@language": "it",
@@ -1098,7 +1098,7 @@
         },
         {
           "@language": "it",
-          "@value": "La classe rappresenta progetti di ricerca finanziati con programmi pubblici (es. Horizon2020,  FETOpen, FTI, ecc.)"
+          "@value": "La classe rappresenta progetti di ricerca finanziati con programmi pubblici (es. Horizon2020, FETOpen, FTI, ecc.)"
         }
       ],
       "rdfs:isDefinedBy": {

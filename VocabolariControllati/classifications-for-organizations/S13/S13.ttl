@@ -205,7 +205,7 @@ ndc:keyConcept a rdfs:Property .
     a dcatapit:Standard , dct:Standard ;
     dct:identifier "GSIM" ;
     dct:title "Generic Statistical Information Model - GSIM" ;
-    dct:description "GSIM is a reference framework of internationally agreed definitions, attributes and relationships that describe the  pieces of information that are used in the production of  official statistics (information objects).  This framework enables generic descriptions of the definition, management and use of data and metadata throughout the statistical production process."@en .
+    dct:description "GSIM is a reference framework of internationally agreed definitions, attributes and relationships that describe the pieces of information that are used in the production of official statistics (information objects). This framework enables generic descriptions of the definition, management and use of data and metadata throughout the statistical production process."@en .
 
 <https://w3id.org/italia/data/activity/generationS13> a prov:Activity ;
     rdfs:label "Generazione S13" ;

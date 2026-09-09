@@ -884,7 +884,7 @@
   } ],
   "http://www.w3.org/2002/07/owl#versionInfo" : [ {
     "@language" : "en",
-    "@value" : "Version 0.1 -  ontology creation"
+    "@value" : "Version 0.1 - ontology creation"
   }, {
     "@language" : "it",
     "@value" : "Versione 0.1 - creazione dell'ontologia"

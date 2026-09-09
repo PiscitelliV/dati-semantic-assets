@@ -377,11 +377,11 @@ ndc:keyConcept a rdfs:Property .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-universities/documents-titulus/02-04> a skos:Concept ;
     skos:broader <https://w3id.org/italia/controlled-vocabulary/classifications-for-universities/documents-titulus/02> ;
-    skos:definition "Direttore   "@it ;
+    skos:definition "Direttore"@it ;
     skos:editorialNote "[In rete] http://unidoc.coinfo.net/joomla/titolario2013/"@it ;
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-universities/documents-titulus> ;
     skos:notation "02-04" ;
-    skos:prefLabel "Direttore   "@it ;
+    skos:prefLabel "Direttore"@it ;
     skos:topConceptOf <https://w3id.org/italia/controlled-vocabulary/classifications-for-universities/documents-titulus> ;
     clvapit:hasRankOrder "2" .
 
@@ -917,11 +917,11 @@ ndc:keyConcept a rdfs:Property .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-universities/documents-titulus/06-01> a skos:Concept ;
     skos:broader <https://w3id.org/italia/controlled-vocabulary/classifications-for-universities/documents-titulus/06> ;
-    skos:definition "Poli "@it ;
+    skos:definition "Poli"@it ;
     skos:editorialNote "[In rete] http://unidoc.coinfo.net/joomla/titolario2013/"@it ;
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-universities/documents-titulus> ;
     skos:notation "06-01" ;
-    skos:prefLabel "Poli "@it ;
+    skos:prefLabel "Poli"@it ;
     skos:topConceptOf <https://w3id.org/italia/controlled-vocabulary/classifications-for-universities/documents-titulus> ;
     clvapit:hasRankOrder "2" .
 

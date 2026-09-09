@@ -400,7 +400,7 @@
         },
         {
           "@language": "it",
-          "@value": "Questa proprietà lega un punto di interesse multiplo a tutti i  punti di interesse in esso contenuti."
+          "@value": "Questa proprietà lega un punto di interesse multiplo a tutti i punti di interesse in esso contenuti."
         }
       ],
       "rdfs:domain": {
@@ -868,7 +868,7 @@
         },
         {
           "@language": "it",
-          "@value": "Questa è l'ontologia del profilo  italiano sui Punti di Interesse (Point of Interest - Italian Application Profile - POI-AP_IT). Esempi di punti di interesse possono essere: luoghi della cultura, un incrocio stradale, una farmacia, un centro commerciale, una fermata dell'autobus, ecc."
+          "@value": "Questa è l'ontologia del profilo italiano sui Punti di Interesse (Point of Interest - Italian Application Profile - POI-AP_IT). Esempi di punti di interesse possono essere: luoghi della cultura, un incrocio stradale, una farmacia, un centro commerciale, una fermata dell'autobus, ecc."
         }
       ],
       "dcterms:issued": {
@@ -933,7 +933,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa è l'ontologia del profilo  italiano sui Punti di Interesse (Point of Interest - Italian Application Profile - POI-AP_IT). Esempi di punti di interesse possono essere: luoghi della cultura, un incrocio stradale, una farmacia, un centro commerciale, una fermata dell'autobus, ecc."
+          "@value": "Questa è l'ontologia del profilo italiano sui Punti di Interesse (Point of Interest - Italian Application Profile - POI-AP_IT). Esempi di punti di interesse possono essere: luoghi della cultura, un incrocio stradale, una farmacia, un centro commerciale, una fermata dell'autobus, ecc."
         },
         {
           "@language": "en",

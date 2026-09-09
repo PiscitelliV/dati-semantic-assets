@@ -170,7 +170,7 @@
       },
       {
         "@language": "en",
-        "@value": "This is the distribution in RDF/XML of the Linked Open Dataset of the Route types controlled vocabulary "
+        "@value": "This is the distribution in RDF/XML of the Linked Open Dataset of the Route types controlled vocabulary"
       }
     ],
     "http://purl.org/dc/terms/format": [
@@ -1022,7 +1022,7 @@
       },
       {
         "@language": "en",
-        "@value": "This is the distribution in JSON-LD of the Linked Open Dataset of the Route types controlled vocabulary "
+        "@value": "This is the distribution in JSON-LD of the Linked Open Dataset of the Route types controlled vocabulary"
       }
     ],
     "http://purl.org/dc/terms/format": [

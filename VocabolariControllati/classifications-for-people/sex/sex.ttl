@@ -224,7 +224,7 @@ ndc:keyConcept
 <https://w3id.org/italia/data/distribution/sex-RDF-Turtle>
       	a						dcatapit:Distribution  ;
       	dct:title				"Distribuzione RDF/Turtle del vocabolario controllato sul sesso"@it , "RDF/Turtle distribution of the sex controlled vocabulary"@en ;
-      	dct:description			"Questa è la distribuzione RDF/Turtle del dataset Linked Open Data del vocabolario controllato sul sesso"@it , "This is the distribution in RDF/turtle of the Linked Open Dataset of the sex controlled vocabulary "@en ;
+      	dct:description			"Questa è la distribuzione RDF/Turtle del dataset Linked Open Data del vocabolario controllato sul sesso"@it , "This is the distribution in RDF/turtle of the Linked Open Dataset of the sex controlled vocabulary"@en ;
       	dct:format 				<http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
       	dct:license <https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40> ;
       	dcat:downloadURL		<https://raw.githubusercontent.com/italia/dati-semantic-assets/master/VocabolariControllati/classifications-for-people/sex/sex.ttl> ;
@@ -233,7 +233,7 @@ ndc:keyConcept
 <https://w3id.org/italia/data/distribution/sex-RDF-XML>
         a						dcatapit:Distribution  ;
         dct:title				"Distribuzione RDF/XML del vocabolario controllato sul sesso"@it , "RDF/XML distribution of the sex controlled vocabulary"@en ;
-        dct:description			"Questa è la distribuzione RDF/XML del dataset Linked Open Data del vocabolario controllato sul sesso"@it , "This is the distribution in RDF/XML of the Linked Open Dataset of the sex controlled vocabulary "@en ;
+        dct:description			"Questa è la distribuzione RDF/XML del dataset Linked Open Data del vocabolario controllato sul sesso"@it , "This is the distribution in RDF/XML of the Linked Open Dataset of the sex controlled vocabulary"@en ;
         dct:format 	<http://publications.europa.eu/resource/authority/file-type/RDF_XML> ;
         dct:license <https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40> ;
         dcat:downloadURL		<https://raw.githubusercontent.com/italia/dati-semantic-assets/master/VocabolariControllati/classifications-for-people/sex/sex.rdf> ;
@@ -260,7 +260,7 @@ ndc:keyConcept
 <https://w3id.org/italia/data/distribution/sex-XLSX>
         a						dcatapit:Distribution  ;
         dct:title				"Distribuzione XLSX vocabolario controllato sul sesso"@it , "XLSX distribution of sex controlled vocabulary"@en ;
-        dct:description			"Questa è la distribuzione XLSX del vocabolario controllato sul sesso"@it , "This is the distribution in XLSX of the sex controlled vocabulary "@en ;
+        dct:description			"Questa è la distribuzione XLSX del vocabolario controllato sul sesso"@it , "This is the distribution in XLSX of the sex controlled vocabulary"@en ;
         dct:format 	<http://publications.europa.eu/resource/authority/file-type/XLSX> ;
         dct:license <https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40> ;
         dcat:downloadURL		<https://github.com/italia/dati-semantic-assets/raw/master/VocabolariControllati/classifications-for-people/sex/sex.xlsx> ;

@@ -3851,7 +3851,7 @@
     "@value" : "All Science Journal Classification"
   }, {
     "@language" : "it",
-    "@value" : "Classificazione  Scopus"
+    "@value" : "Classificazione Scopus"
   }, {
     "@language" : "en",
     "@value" : "Scopus Classification"
@@ -9154,7 +9154,7 @@
     "@value" : "Cost admitted by decree after the evaluation of the costs indicated in the project proposal for each item of expenditure"
   }, {
     "@language" : "it",
-    "@value" : "Costo ammesso da decreto dopo la valutazione dei costo indicato nella proposta di progetto  per singola voce di spesa"
+    "@value" : "Costo ammesso da decreto dopo la valutazione dei costo indicato nella proposta di progetto per singola voce di spesa"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
     "@id" : "https://w3id.org/italia/onto/HER/CTNPRINAmount"
@@ -9397,10 +9397,10 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "Total admitted costs after evaluation of the costs indicated in the project proposals.  Calculated as the sum of the counterpart variable 'admittedCost' present at lower aggregation level (admittedCost_operations)"
+    "@value" : "Total admitted costs after evaluation of the costs indicated in the project proposals. Calculated as the sum of the counterpart variable 'admittedCost' present at lower aggregation level (admittedCost_operations)"
   }, {
     "@language" : "it",
-    "@value" : "Totale dei costi ammessi dopo la valutazione dei costi indicati nelle proposte di progetto.  Calcolati come somma dell'omologa variabile \"admittedCost\" presente a livello di aggregazione inferiore (admittedCost_operations)"
+    "@value" : "Totale dei costi ammessi dopo la valutazione dei costi indicati nelle proposte di progetto. Calcolati come somma dell'omologa variabile \"admittedCost\" presente a livello di aggregazione inferiore (admittedCost_operations)"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
     "@id" : "https://w3id.org/italia/onto/HER/CTNPRINInitiative"
@@ -9793,10 +9793,10 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "ID univoco di una operazione.\nE' ottenuto concatenando le seguenti variabili all'origine:\nCodice locale progetto +  ambito + CF beneficiario\ncorrispondenti a: projectCode + scope_operations + fiscalcode_entity"
+    "@value" : "ID univoco di una operazione.\nE' ottenuto concatenando le seguenti variabili all'origine:\nCodice locale progetto + ambito + CF beneficiario\ncorrispondenti a: projectCode + scope_operations + fiscalcode_entity"
   }, {
     "@language" : "en",
-    "@value" : "Unique ID of an operation.\nIt is obtained by concatenating the following variables at the origin: \"Codice locale progetto +  ambito + CF beneficiario\"  corresponding to: projectCode + scope_operations + fiscalcode_entity"
+    "@value" : "Unique ID of an operation.\nIt is obtained by concatenating the following variables at the origin: \"Codice locale progetto + ambito + CF beneficiario\" corresponding to: projectCode + scope_operations + fiscalcode_entity"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
     "@id" : "https://w3id.org/italia/onto/HER/CTNPRINOperation"
@@ -10909,7 +10909,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Indica la participazione azionaria  (in percentuale) dell'Università o dell'ente di ricerca di origine al momento della fondazione dello spin-off."
+    "@value" : "Indica la participazione azionaria (in percentuale) dell'Università o dell'ente di ricerca di origine al momento della fondazione dello spin-off."
   }, {
     "@language" : "en",
     "@value" : "It indicates the shareholding (in percentage) of the university or research institution of origin at the time of the foundation of the spin-off."
@@ -10945,7 +10945,7 @@
     "@value" : "Property used to indicate the funding in euros received by the EUREKA participant"
   }, {
     "@language" : "it",
-    "@value" : "Proprietà usata per indicare il contributo in euro ricevuto dai  partecipanti EUREKA"
+    "@value" : "Proprietà usata per indicare il contributo in euro ricevuto dai partecipanti EUREKA"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
     "@id" : "https://w3id.org/italia/onto/HER/EUREKAParticipant"
@@ -11866,7 +11866,7 @@
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "it",
-    "@value" : "ha  diploma"
+    "@value" : "ha diploma"
   }, {
     "@language" : "en",
     "@value" : "has diploma"
@@ -12129,7 +12129,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "Property used to specify the second level area/sector of reference (if any) for the CTN/PRIN Operation or CTN/PRIN  Project"
+    "@value" : "Property used to specify the second level area/sector of reference (if any) for the CTN/PRIN Operation or CTN/PRIN Project"
   }, {
     "@language" : "it",
     "@value" : "Proprietà utilizzata per specificare il secondo livello dell'area/settore di riferimento (se esistente) per un'operazione o un progetto CTN/PRIN."
@@ -12283,7 +12283,7 @@
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "it",
-    "@value" : "ha  iscrizione"
+    "@value" : "ha iscrizione"
   }, {
     "@language" : "en",
     "@value" : "has enrollment"
@@ -13200,7 +13200,7 @@
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "it",
-    "@value" : "ha  corso di dottorato di ricerca"
+    "@value" : "ha corso di dottorato di ricerca"
   }, {
     "@language" : "en",
     "@value" : "has phd course"
@@ -15824,7 +15824,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Questa proprietà  collega un'operazione CTN/PRIN con il progetto CTN/PRIN di riferimento"
+    "@value" : "Questa proprietà collega un'operazione CTN/PRIN con il progetto CTN/PRIN di riferimento"
   }, {
     "@language" : "en",
     "@value" : "This property links a CTN/Prin opertion to the reference CTN/PRIN project."
@@ -16370,7 +16370,7 @@
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "it",
-    "@value" : "studia  farmaco regolamentato dalla FDA"
+    "@value" : "studia farmaco regolamentato dalla FDA"
   }, {
     "@language" : "en",
     "@value" : "studies FDA regulated drug?"

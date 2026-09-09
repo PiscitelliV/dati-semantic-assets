@@ -507,7 +507,7 @@ l0:name rdf:type owl:DatatypeProperty .
              
              rdfs:subClassOf :CarPark ;
              
-             rdfs:comment "This class represents a specific type of car park; that is, park and ride. The park and ride type  is usually located close to the borders of a urban centre and it can be used to easily change the transportation mean, promoting the use of public transportation."@en ;
+             rdfs:comment "This class represents a specific type of car park; that is, park and ride. The park and ride type is usually located close to the borders of a urban centre and it can be used to easily change the transportation mean, promoting the use of public transportation."@en ;
              
              owl:versionInfo "stable"@en ;
              

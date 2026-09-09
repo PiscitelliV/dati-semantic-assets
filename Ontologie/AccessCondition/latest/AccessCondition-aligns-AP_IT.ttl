@@ -22,7 +22,7 @@
     dc:modified "2018-06-25"^^xsd:date ;
     dct:title "Access Condition Alignment"@en , "Allineamenti ontologia Condizioni di Accesso"@it ;
     dct:description "These are the alignments to external ontologies widely used and available at the state of the art for access condition ontology"@en ;
-    dct:description "Questi sono gli allineamenti dell'ontologia sulle condizioni d'accesso Access Condition - Italian Application Profile  (AC-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate." ;
+    dct:description "Questi sono gli allineamenti dell'ontologia sulle condizioni d'accesso Access Condition - Italian Application Profile (AC-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate." ;
 
     owl:imports <https://w3id.org/italia/onto/AccessCondition> .
 

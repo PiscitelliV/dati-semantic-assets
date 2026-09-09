@@ -21,7 +21,7 @@
                                     dc:description <http://www.dati.gov.it/sites/default/files/DCAT-AP_IT_UML.png> ;
                                     dct:accrualPeriodicity <http://publications.europa.eu/resource/authority/frequency/IRREG> ;
                                     dct:creator <https://w3id.org/italia/data/public-organization/agid> ;
-                                    dct:description "This is version 2.0 of the ontology of the Italian application profile for the metadata that describe catalogues and data of  Italian Public Administrations (DCAT-AP_IT)."@en ,
+                                    dct:description "This is version 2.0 of the ontology of the Italian application profile for the metadata that describe catalogues and data of Italian Public Administrations (DCAT-AP_IT)."@en ,
                                                     "Versione 2.0 dell'ontologia del Profilo italiano dei metadati che descrivono dati, e cataloghi di dati, delle pubbliche amministrazioni (DCAT-AP_IT)."@it ;
                                     dct:identifier "http://dati.gov.it/onto/dcatapit" ;
                                     dct:issued "2016-03-18"^^xsd:date ;
@@ -31,12 +31,12 @@
                                     dct:publisher <https://w3id.org/italia/data/public-organization/agid> ;
                                     dct:rightsHolder <https://w3id.org/italia/data/public-organization/agid> ;
 
-                                    dct:title "DCAT-AP IT - Ontologia del profilo nazionale  dei metadati dei dati della PA"@it , "DCAT-AP IT - The Italian application profile for metadata of datasets"@en ;
+                                    dct:title "DCAT-AP IT - Ontologia del profilo nazionale dei metadati dei dati della PA"@it , "DCAT-AP IT - The Italian application profile for metadata of datasets"@en ;
 
-                                    rdfs:comment "This is version 2.0 of the ontology of the Italian application profile for the metadata that describe catalogues and data of  Italian Public Administrations (DCAT-AP_IT)."@en ,
+                                    rdfs:comment "This is version 2.0 of the ontology of the Italian application profile for the metadata that describe catalogues and data of Italian Public Administrations (DCAT-AP_IT)."@en ,
                                                   "Versione 2.0 dell'ontologia del Profilo italiano dei metadati che descrivono dati, e cataloghi di dati, delle pubbliche amministrazioni (DCAT-AP_IT)."@it ;
                                     rdfs:isDefinedBy <http://dati.gov.it/onto/dcatapit> ;
-                                    rdfs:label "DCAT-AP IT - Ontologia del profilo nazionale  dei metadati dei dati della PA"@it , "DCAT-AP IT - The Italian application profile for metadata of datasets"@en ;
+                                    rdfs:label "DCAT-AP IT - Ontologia del profilo nazionale dei metadati dei dati della PA"@it , "DCAT-AP IT - The Italian application profile for metadata of datasets"@en ;
 
                                     owl:versionInfo "Version 2.0 - updated on 23th June 2022 - Introduced ADMS-AP_IT metadata for schema.gov.it harvisting purposes and fixing some typo"@en ,
                                                     "Versione 2.0 - aggiornata il 23 Giugno 2022 - corretti dei typo nelle descrizioni. Aggiunti i metadati conformi a ADMS-AP_IT per abilitare l'harvesting in schema.gov.it"@it ;
@@ -326,7 +326,7 @@ terms:type rdf:type owl:ObjectProperty ;
 vcard:hasEmail rdf:type owl:ObjectProperty ;
                rdfs:domain :Organization ;
                rdfs:range vcard:Email ;
-               rdfs:comment "Proprietà utilizzata per specificare l'indirizzo email primario da utilizzare nelle comunicazioni con l'oggetto (nel contesto DCAT_AP IT l'oggetto è il dipartimento/ufficio identificato come punto di contatto stabile per un dataset).  Si raccomanda di utilizzare e-mail istituzionali riferibili all’ufficio/servizio/UO e non alla singola persona."@it ,
+               rdfs:comment "Proprietà utilizzata per specificare l'indirizzo email primario da utilizzare nelle comunicazioni con l'oggetto (nel contesto DCAT_AP IT l'oggetto è il dipartimento/ufficio identificato come punto di contatto stabile per un dataset). Si raccomanda di utilizzare e-mail istituzionali riferibili all’ufficio/servizio/UO e non alla singola persona."@it ,
                             "To specify the primary electronic mail address for communications with the contact point of the dataset."@en ;
                rdfs:isDefinedBy <http://www.w3.org/2006/vcard/ns> ;
                rdfs:label "ha email"@it ,
@@ -370,7 +370,7 @@ adms:identifier rdf:type owl:ObjectProperty ;
 dcat:accessURL rdf:type owl:ObjectProperty ;
                rdfs:domain :Distribution ;
                rdfs:range rdfs:Resource ;
-               rdfs:comment "Questa proprietà contiene un URL tramite cui si può accedere alla Distribuzione del Dataset.  La risorsa all'URL di accesso potrebbe contenere informazioni su come ottenere il dataset."@it ,
+               rdfs:comment "Questa proprietà contiene un URL tramite cui si può accedere alla Distribuzione del Dataset. La risorsa all'URL di accesso potrebbe contenere informazioni su come ottenere il dataset."@it ,
                             "This property contains a URL that gives access to a Distribution of the Dataset. The resource at the access URL may contain information about how to get the Dataset."@en ;
                rdfs:isDefinedBy dcat: ;
                rdfs:label "URL di accesso"@it ,
@@ -473,7 +473,7 @@ foaf:homepage rdf:type owl:ObjectProperty ;
               rdfs:domain <https://dati.gov.it/onto/dcatapit#Catalog> ;
               rdfs:range foaf:Document ;
               rdfs:comment "Questa proprietà si riferisce alla pagina web. Essa è utilizzata per rappresentare la pagina principale per il Catalogo e per il punto di contatto del dataset. Nel caso del punto di contatto, la proprietà può essere sia l'home page dell'organizzazione/ufficio che agisce come punto di contatto, o una pagina web con le informazioni relative al punto di contatto."@it ,
-                           "This property refers to the home page. It is used to represent the main page for the Catalogue and the Contact Point of the dataset. In the case of the contact point, the home page can be either the home page of the organization/organization office acting as contact point or the home page  including contact information for the dataset."@en ;
+                           "This property refers to the home page. It is used to represent the main page for the Catalogue and the Contact Point of the dataset. In the case of the contact point, the home page can be either the home page of the organization/organization office acting as contact point or the home page including contact information for the dataset."@en ;
               rdfs:isDefinedBy foaf: ;
               rdfs:label "home page"@en ,
                          "home page"@it .
@@ -538,9 +538,9 @@ Un esempio dell'uso dell'identificatore in turtle è il seguente (dove datiAmmin
 <pre>
 
 datiAmministrazione:agid
-  a               dcatapit:Agent , foaf:Agent ;
-  dct:identifier  \"agid\" ;
-  foaf:name       \"AgID\"@it .
+  a dcatapit:Agent , foaf:Agent ;
+  dct:identifier \"agid\" ;
+  foaf:name \"AgID\"@it .
 
 </pre>"""@it ,
                               "The identifier might be used as part of the URI of the thing to which is associated, but still having it represented explicitly is useful."@en ;
@@ -705,10 +705,10 @@ An example in turle can be the following (where datiAmministrazione can be <http
 
 <pre>
 datiAmministrazione:agid
-  a                 dcatapit:Agent , foaf:Agent ;
-  foaf:name        \"Agenzia per l'Italia Digitale\"@it .
+  a dcatapit:Agent , foaf:Agent ;
+  foaf:name \"Agenzia per l'Italia Digitale\"@it .
 </pre>"""@en ,
-                    """Soggetto che esercita uno specifico ruolo sui dati. La classe è associata con i Cataloghi e/o con i Dataset. Nel profilo italiano l’Agente è  un’organizzazione (o publica o privata). La classe è definita nell'ambito del profilo DCAT-AP IT come sottoclasse di foaf:Agent per mantenere l'allineamento con l'ontologia esterna assicurando la possibilità di aggiungere proprietà o restringere le cardinalità di tali proprietà in accordo con i requisiti del profilo italiano DCAT-AP IT.
+                    """Soggetto che esercita uno specifico ruolo sui dati. La classe è associata con i Cataloghi e/o con i Dataset. Nel profilo italiano l’Agente è un’organizzazione (o publica o privata). La classe è definita nell'ambito del profilo DCAT-AP IT come sottoclasse di foaf:Agent per mantenere l'allineamento con l'ontologia esterna assicurando la possibilità di aggiungere proprietà o restringere le cardinalità di tali proprietà in accordo con i requisiti del profilo italiano DCAT-AP IT.
 
 E' obbligatorio specificare la classe.
 
@@ -716,8 +716,8 @@ Un esempio in turtle per la specifica di un agente è il seguente (dove datiAmmi
 
 <pre>
 datiAmministrazione:agid
-  a                 dcatapit:Agent , foaf:Agent ;
-  foaf:name        \"Agenzia per l'Italia Digitale\"@it .
+  a dcatapit:Agent , foaf:Agent ;
+  foaf:name \"Agenzia per l'Italia Digitale\"@it .
 </pre>"""@it ;
        rdfs:isDefinedBy <http://dati.gov.it/onto/dcatapit> ;
        rdfs:label "Agent"@en ,
@@ -832,25 +832,25 @@ An example in turtle is the following (where datiDataset could be http://dati.go
 
 <pre>
 datiDataset:LinkedOpenIPA
-   a   dcatapit:Dataset , dcat:Dataset ;
-   dct:identifier  \"LOD IPA\" ;
-   dct:title  \"Linked Open IPA\"@it ;
-   dct:description   \"Il dataset LOD dell'Indice della Pubblica Amministrazione\"@it ;
+   a dcatapit:Dataset , dcat:Dataset ;
+   dct:identifier \"LOD IPA\" ;
+   dct:title \"Linked Open IPA\"@it ;
+   dct:description \"Il dataset LOD dell'Indice della Pubblica Amministrazione\"@it ;
    dcat:theme  		<http://publications.europa.eu/resource/authority/data-theme/GOVE> ;
    dcatapit:subTheme 	<http://dati.gov.it/resource/subTheme/PUBSEC> ;
-   dct:issued   \"2012-01-15\"^^xsd:date ;
-   dct:modified  \"2015-05-25\"^^xsd:date ;
-   dcat:keyword  \"Pubblica Amministrazione\" ;
-   dcat:keyword  \"PEC\" ;
-   dcat:keyword  \"Unità Organizzativa\" ;
-   dcat:keyword   \"Area Organizzativa Omogenea\" ;
-   owl:versionOf  \"1.5\" ;
+   dct:issued \"2012-01-15\"^^xsd:date ;
+   dct:modified \"2015-05-25\"^^xsd:date ;
+   dcat:keyword \"Pubblica Amministrazione\" ;
+   dcat:keyword \"PEC\" ;
+   dcat:keyword \"Unità Organizzativa\" ;
+   dcat:keyword \"Area Organizzativa Omogenea\" ;
+   owl:versionOf \"1.5\" ;
    dct:rightsHolder 	<http://dati.gov.it/resource/Amministrazione/agid> ;
    dct:publisher 		<http://dati.gov.it/resource/Amministrazione/agid> ;
    dct:creator 		<http://dati.gov.it/resource/Amministrazione/agid> ;
    dcat:distribution 		<http://dati.gov.it/resource/Distribuzione/LODIPA-Turtle> ;
    dcat:distribution 		<http://dati.gov.it/resource/Distribuzione/LODIPA-RDFXML> ;
-   dct:accrualPeriodicity  <http://publications.europa.eu/resource/authority/frequency/QUARTERLY> ;
+   dct:accrualPeriodicity <http://publications.europa.eu/resource/authority/frequency/QUARTERLY> ;
    dct:conformsTo 			<http://dati.gov.it/resource/Standard/standard-org> ;
    dct:isVersionOf			<http://dati.gov.it/resource/Dataset/LinkedOpenIPA14> ;
    dct:temporal			<http://dati.gov.it/resource/PeriodoTemporale/periodTimeLinkedOpenIPA> ;
@@ -865,25 +865,25 @@ Un esempio in turtle è il seguente (dove datiDataset potrebbe essere <http://da
 
 <pre>
 datiDataset:LinkedOpenIPA
-   a   dcatapit:Dataset , dcat:Dataset ;
-   dct:identifier  \"LOD IPA\" ;
-   dct:title  \"Linked Open IPA\"@it ;
-   dct:description   \"Il dataset LOD dell'Indice della Pubblica Amministrazione\"@it ;
+   a dcatapit:Dataset , dcat:Dataset ;
+   dct:identifier \"LOD IPA\" ;
+   dct:title \"Linked Open IPA\"@it ;
+   dct:description \"Il dataset LOD dell'Indice della Pubblica Amministrazione\"@it ;
    dcat:theme  		<http://publications.europa.eu/resource/authority/data-theme/GOVE> ;
    dcatapit:subTheme 	<http://dati.gov.it/resource/subTheme/PUBSEC> ;
-   dct:issued   \"2012-01-15\"^^xsd:date ;
-   dct:modified  \"2015-05-25\"^^xsd:date ;
-   dcat:keyword  \"Pubblica Amministrazione\" ;
-   dcat:keyword  \"PEC\" ;
-   dcat:keyword  \"Unità Organizzativa\" ;
-   dcat:keyword   \"Area Organizzativa Omogenea\" ;
-   owl:versionOf  \"1.5\" ;
+   dct:issued \"2012-01-15\"^^xsd:date ;
+   dct:modified \"2015-05-25\"^^xsd:date ;
+   dcat:keyword \"Pubblica Amministrazione\" ;
+   dcat:keyword \"PEC\" ;
+   dcat:keyword \"Unità Organizzativa\" ;
+   dcat:keyword \"Area Organizzativa Omogenea\" ;
+   owl:versionOf \"1.5\" ;
    dct:rightsHolder 	<http://dati.gov.it/resource/Amministrazione/agid> ;
    dct:publisher 		<http://dati.gov.it/resource/Amministrazione/agid> ;
    dct:creator 		<http://dati.gov.it/resource/Amministrazione/agid> ;
    dcat:distribution 		<http://dati.gov.it/resource/Distribuzione/LODIPA-Turtle> ;
    dcat:distribution 		<http://dati.gov.it/resource/Distribuzione/LODIPA-RDFXML> ;
-   dct:accrualPeriodicity  <http://publications.europa.eu/resource/authority/frequency/QUARTERLY> ;
+   dct:accrualPeriodicity <http://publications.europa.eu/resource/authority/frequency/QUARTERLY> ;
    dct:conformsTo 			<http://dati.gov.it/resource/Standard/standard-org> ;
    dct:isVersionOf			<http://dati.gov.it/resource/Dataset/LinkedOpenIPA14> ;
    dct:temporal			<http://dati.gov.it/resource/PeriodoTemporale/periodTimeLinkedOpenIPA> ;
@@ -945,12 +945,12 @@ Un esempio in turtle è il seguente (dove datiDistribuzione potrebbe essere <htt
 
 <pre>
 datiDistribuzione:LODIPA-Turtle
-   a   dcatapit:Distribution , dcat:Distribution ;
-   dct:title  \"Distribuzione Turtle di LOD IPA\" ;
-   dct:format  <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
-   dct:license  <http://creativecommons.org/licenses/by/4.0/> ;
-   dcat:downloadURL  <http://spcdata.digitpa.gov.it/data/ipa.ttl> ;
-   dcat:accessURL  <http://http://spcdata.digitpa.gov.it:8899/sparql> ."""@it ,
+   a dcatapit:Distribution , dcat:Distribution ;
+   dct:title \"Distribuzione Turtle di LOD IPA\" ;
+   dct:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+   dct:license <http://creativecommons.org/licenses/by/4.0/> ;
+   dcat:downloadURL <http://spcdata.digitpa.gov.it/data/ipa.ttl> ;
+   dcat:accessURL <http://http://spcdata.digitpa.gov.it:8899/sparql> ."""@it ,
                            """This class represents a physical embodiment of the Dataset in a particular format. This class is mandatory if you need to describe the distribution of a open dataset. It can be optional in case you need to describe other types of data (e.g., data included in databases of public administration used for internal management purposes).
 
 The class is defined in the context of DCAT-AP IT as sub class of dcat:Distribution. This allows maintaining the full alignment to that external ontology; however, this allows guaranteeing, at the same time, the possibility to add additional properties and customized restrictions on the properties according to DCAT-AP requirements.
@@ -959,12 +959,12 @@ An example in turtle is the following (where datiDistribuzione can be <http://da
 
 <pre>
 datiDistribuzione:LODIPA-Turtle
-   a   dcatapit:Distribution , dcat:Distribution ;
-   dct:title  \"Distribuzione Turtle di LOD IPA\" ;
-   dct:format  \"text/turtle\" ;
-   dct:license  <http://creativecommons.org/licenses/by/4.0/> ;
-   dcat:downloadURL  <http://spcdata.digitpa.gov.it/data/ipa.ttl> ;
-   dcat:accessURL  <http://http://spcdata.digitpa.gov.it:8899/sparql> ."""@en ;
+   a dcatapit:Distribution , dcat:Distribution ;
+   dct:title \"Distribuzione Turtle di LOD IPA\" ;
+   dct:format \"text/turtle\" ;
+   dct:license <http://creativecommons.org/licenses/by/4.0/> ;
+   dcat:downloadURL <http://spcdata.digitpa.gov.it/data/ipa.ttl> ;
+   dcat:accessURL <http://http://spcdata.digitpa.gov.it:8899/sparql> ."""@en ;
               rdfs:isDefinedBy <http://dati.gov.it/onto/dcatapit> ;
               rdfs:label "Distribution"@en ,
                          "Distribuzione"@it .
@@ -1054,13 +1054,13 @@ An example in turtle can be the following (where datiStandard can be <http://dat
 
 <pre>
 <http://dati.gov.it/resource/Standard/standard-org>
-   a  dcatapit:Standard , dct:Standard ;
-   dct:title  \"W3C Org organization ontology\" ;
-   dct:description  \"The ontology of the organizations\" ;
+   a dcatapit:Standard , dct:Standard ;
+   dct:title \"W3C Org organization ontology\" ;
+   dct:description \"The ontology of the organizations\" ;
    dcatapit:referenceDocumentation \"https://www.w3.org/ns/org.rdf\"^^xsd:anyURI ;
    dcatapit:referenceDocumentation \"https://www.w3.org/TR/vocab-org/\"^^xsd:anyURI .
 </pre>"""@en ,
-                       """Uno standard o altre specifiche a cui un dataset è conforme. La classe può essere utilizzata per rappresentare  regole tecniche, modelli di dati, ontologie, norme su cui sono basati i Dataset.
+                       """Uno standard o altre specifiche a cui un dataset è conforme. La classe può essere utilizzata per rappresentare regole tecniche, modelli di dati, ontologie, norme su cui sono basati i Dataset.
 
 La classe è definita nel contesto del profilo DCAT-AP IT come sottoclasse della classe dct:Standard al fine di mantenere il pieno allineamento con quella ontologia esterna ma garantendo, al tempo stesso, la possibilità di aggiungere proprietà e restrizioni su proprietà in linea con i requisiti di DCAT-AP IT.
 
@@ -1068,9 +1068,9 @@ Un esempio in turtle è il seguente (dove datiStandard potrebbe essere <http://d
 
 <pre>
 <http://dati.gov.it/resource/Standard/standard-org>
-   a   dcatapit:Standard , dct:Standard ;
+   a dcatapit:Standard , dct:Standard ;
    dct:title \"W3C Org organization ontology\" ;
-   dct:description  \"The ontology of the organizations\" ;
+   dct:description \"The ontology of the organizations\" ;
    dcatapit:referenceDocumentation \"https://www.w3.org/ns/org.rdf\"^^xsd:anyURI ;
    dcatapit:referenceDocumentation \"https://www.w3.org/TR/vocab-org/\"^^xsd:anyURI .
 </pre>"""@it ;
@@ -1200,7 +1200,7 @@ skos:ConceptScheme rdf:type owl:Class ;
                                      owl:onProperty terms:title ;
                                      owl:someValuesFrom rdfs:Literal
                                    ] ;
-                   rdfs:comment "A concept collection (e.g. controlled vocabulary) in which the Category is defined. The class represents the main category of the catalogue.  It is required to specify the URI of the vocabulary itself (not the URI of the concepts included in the vocabulary) which is the following:  http://publications.europa.eu/resource/authority/data-theme"@en ,
+                   rdfs:comment "A concept collection (e.g. controlled vocabulary) in which the Category is defined. The class represents the main category of the catalogue. It is required to specify the URI of the vocabulary itself (not the URI of the concepts included in the vocabulary) which is the following: http://publications.europa.eu/resource/authority/data-theme"@en ,
                                 "Una collezione di concetti (e.g., un vocabolario controllato) in cui la Categoria è definita. La classe rappresenta il tema principale del catalogo dei dati. E' richiesto l'uso dell'URI del vocabolario controllato (non degli URI dei concetti inclusi nel vocabolario). L'URI è il seguente: http://publications.europa.eu/resource/authority/data-theme"@it ;
                    rdfs:isDefinedBy skos: ;
                    rdfs:label "Category Schema"@en ,
@@ -1218,7 +1218,7 @@ vcard:Email rdf:type owl:Class ;
 
 ###  http://www.w3.org/2006/vcard/ns#Kind
 vcard:Kind rdf:type owl:Class ;
-           rdfs:comment "A description following the vCard specification, e.g. to provide telephone number and  e-mail address, for instance, for a contact point."@en ,
+           rdfs:comment "A description following the vCard specification, e.g. to provide telephone number and e-mail address, for instance, for a contact point."@en ,
                         "E' la classe definita nelle specifiche vCard utilizzata per definire un punto di contatto che include per esempio un indirizzo email, un numero di telefono un URL di riferimento."@it ;
            rdfs:isDefinedBy vcard: ;
            rdfs:label "Contact Point"@en ,
@@ -1267,7 +1267,7 @@ adms:SemanticAsset rdf:type owl:Class .
 ###  http://www.w3.org/ns/locn#Geometry
 <http://www.w3.org/ns/locn#Geometry> rdf:type owl:Class ;
                                      rdfs:comment "La classe consente di identificare una posizione rappresentata come punto, linea, poligono, ecc espressi utilizzando le coordinate in un certo sistema di riferimento. Il modello concettuale della classe geometria, così come evidenziato nel diagramma UML, mostra un numero di proprietà che devono essere specificate. Tali proprietà non sono tuttavia definite nell'OWL dal momento che, in pratica, meccanismi di codifica di geometrie includono già tutte queste proprietà. La specifica GeoDCAT-AP prevede che deve essere utilizzata almeno una delle seguenti codifiche: GML o WKT."@it ,
-                                                  "The locn:Geometry class provides the means to identify a location as a point, line, polygon, etc. expressed using coordinates in some coordinate reference system. The conceptual model of the Geometry class itself shows a number of properties that are not defined in the OWL since in practice  geometry encodings all include already these properties. GeoDCAT-AP specifies that at least one of the following encodings must be used: GML or WKT."@en ;
+                                                  "The locn:Geometry class provides the means to identify a location as a point, line, polygon, etc. expressed using coordinates in some coordinate reference system. The conceptual model of the Geometry class itself shows a number of properties that are not defined in the OWL since in practice geometry encodings all include already these properties. GeoDCAT-AP specifies that at least one of the following encodings must be used: GML or WKT."@en ;
                                      rdfs:isDefinedBy <http://www.w3.org/ns/locn> ;
                                      rdfs:label "Geometria"@it ,
                                                 "Geometry"@en .
@@ -1347,7 +1347,7 @@ datiCatalogo:SPCDataCatalog
    dct:description \"Una descrizione del catalogo\" ;
    dct:modified	\"2015-05-25\"^^xsd:date ;
    dct:issued \"2012-01-15\"^^xsd:date ;
-   dct:publisher  <http://dati.gov.it/resource/Amministrazione/agid> ;
+   dct:publisher <http://dati.gov.it/resource/Amministrazione/agid> ;
    dct:language <http://publications.europa.eu/resource/authority/language/ITA> ;
    dcat:dataset <http://dati.gov.it/resource/Dataset/LinkedOpenIPA> ;
    dcat:dataset <http://dati.gov.it/resource/Dataset/ContrattiSPC> ;
@@ -1367,7 +1367,7 @@ datiCatalogo:SPCDataCatalog
    dct:description \"Una descrizione del catalogo\" ;
    dct:modified	\"2015-05-25\"^^xsd:date ;
    dct:issued \"2012-01-15\"^^xsd:date ;
-   dct:publisher  <http://dati.gov.it/resource/Amministrazione/agid> ;
+   dct:publisher <http://dati.gov.it/resource/Amministrazione/agid> ;
    dct:language <http://publications.europa.eu/resource/authority/language/ITA> ;
    dcat:dataset <http://dati.gov.it/resource/Dataset/LinkedOpenIPA> ;
    dcat:dataset <http://dati.gov.it/resource/Dataset/ContrattiSPC> ;
@@ -1396,7 +1396,7 @@ datiCatalogo:SPCDataCatalog
 
 ###  https://www.w3.org/ns/dcat#Distribution
 <https://www.w3.org/ns/dcat#Distribution> rdf:type owl:Class ;
-                                          rdfs:comment "Questa classe è definita in DCAT ed è stata utilizzata per garantire il pieno allineamento con la classe Distribution (Distribuzione) definita nel profilo italiano DCAT (DCAT-AP IT). In particolare, la classe definisce  proprietà e cardinalità per la distribuzione di dataset che sono state  modificate nel profilo italiano al fine di rendere quest'ultimo conforme a DCAT-AP come specificato a livello Europeo."@it ,
+                                          rdfs:comment "Questa classe è definita in DCAT ed è stata utilizzata per garantire il pieno allineamento con la classe Distribution (Distribuzione) definita nel profilo italiano DCAT (DCAT-AP IT). In particolare, la classe definisce proprietà e cardinalità per la distribuzione di dataset che sono state modificate nel profilo italiano al fine di rendere quest'ultimo conforme a DCAT-AP come specificato a livello Europeo."@it ,
                                                        "This class is defined in DCAT and it has been used to align it with the Distribution class defined in the Italian DCAT Application Profile. In particular, the class defines certain properties and cardinalities that have been slightly modified in the Italian DCAT Application Profile in order to be conformant with DCAT-AP, specified at the European Level."@en ;
                                           rdfs:isDefinedBy <https://www.w3.org/ns/dcat> ;
                                           rdfs:label "Distribution" .

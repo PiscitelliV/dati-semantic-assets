@@ -1265,7 +1265,7 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "This class represents a public event (e.g., a football match, a  conference, a book presentation, etc.). A public event is defined as an event that takes places in a given place and that occurs at a certain time, organised/run/promoted by one or more agents with a specific purpose and in the interest of a general public. There exist different types of public events depending on their size and content."
+          "@value": "This class represents a public event (e.g., a football match, a conference, a book presentation, etc.). A public event is defined as an event that takes places in a given place and that occurs at a certain time, organised/run/promoted by one or more agents with a specific purpose and in the interest of a general public. There exist different types of public events depending on their size and content."
         },
         {
           "@language": "it",

@@ -225,7 +225,7 @@ ndc:keyConcept
 <https://w3id.org/italia/data/resource/Distribution/RouteType-RDF-XML>
       a						dcatapit:Distribution  ;
       dct:title				"Distribuzione RDF/XML vocabolario controllato tipi di percorso"@it , "RDF/XML distribution of the Route types controlled vocabulary"@en ;
-      dct:description	"Questa è la distribuzione RDF/XML del dataset Linked Open Data del vocabolario controllato sui tipi di percorso"@it , "This is the distribution in RDF/XML of the Linked Open Dataset of the Route types controlled vocabulary "@en ;
+      dct:description	"Questa è la distribuzione RDF/XML del dataset Linked Open Data del vocabolario controllato sui tipi di percorso"@it , "This is the distribution in RDF/XML of the Linked Open Dataset of the Route types controlled vocabulary"@en ;
       dct:format 				<http://publications.europa.eu/resource/authority/file-type/RDF_XML> ;
       dct:license 			<https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40> ;
       dcat:downloadURL		<https://raw.githubusercontent.com/italia/dati-semantic-assets/master/VocabolariControllati/classifications-for-routes/route-types/route-types.rdf> ;
@@ -234,7 +234,7 @@ ndc:keyConcept
   <https://w3id.org/italia/data/resource/Distribution/RouteType-JSON-LD>
       a						dcatapit:Distribution  ;
       dct:title				"Distribuzione JSON-LD vocabolario controllato categorie tipi di percorso"@it , "JSON-LD distribution of the Route types controlled vocabulary"@en ;
-      dct:description	"Questa è la distribuzione JSON-LD del dataset Linked Open Data del vocabolario controllato sui tipi di percorso"@it , "This is the distribution in JSON-LD of the Linked Open Dataset of the Route types controlled vocabulary "@en ;
+      dct:description	"Questa è la distribuzione JSON-LD del dataset Linked Open Data del vocabolario controllato sui tipi di percorso"@it , "This is the distribution in JSON-LD of the Linked Open Dataset of the Route types controlled vocabulary"@en ;
       dct:format 	<http://publications.europa.eu/resource/authority/file-type/JSON_LD> ;
       dct:license <https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40> ;
       dcat:downloadURL		<https://raw.githubusercontent.com/italia/dati-semantic-assets/master/VocabolariControllati/classifications-for-routes/route-types/route-types.jsonld> ;

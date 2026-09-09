@@ -149,8 +149,8 @@ prov:wasInfluencedBy rdf:type owl:AnnotationProperty .
                                owl:onProperty :description ;
                                owl:someValuesFrom rdfs:Literal
                              ] ;
-             rdfs:comment """A Description is a SocialObject that represents a conceptualization. 
-It can be thought also as a 'descriptive context' that uses or defines concepts in order to create a view on a 'relational context' (cf. Situation) out of a set of data or observations. 
+             rdfs:comment """A Description is a SocialObject that represents a conceptualization.
+It can be thought also as a 'descriptive context' that uses or defines concepts in order to create a view on a 'relational context' (cf. Situation) out of a set of data or observations.
 For example, a Plan is a Description of some actions to be executed by agents in a certain way, with certain parameters; a Diagnosis is a Description that provides an interpretation for a set of observed entities, etc."""@en ,
                           """Una descrizione è un oggetto sociale che rappresenta una concettualizzazione.
 Esso può essere pensato come un 'contesto descrittivo' che usa o definisce concetti al fine di creare una vista su un 'contesto relazionale' (Situazione) su un insieme di dati o osservazioni.

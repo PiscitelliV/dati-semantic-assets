@@ -1258,7 +1258,7 @@
         },
         {
           "@language": "it",
-          "@value": "Questa proprietà viene utilizzata quando i possibili valori che possono essere associati a un parametro sono all'interno di un certo range o regione in uno spazio dimensionale. Per esempio, consideriamo di avere un parametro che rappresenta la qualità di un dato specifico che può essere \"buona\" o \"scarsa\", \"buona\" e \"scarsa\" possono essere modellati come individui della classe Valore definito nell'ontologia MU della rete OntoPiA e collegati all'individuo della classe parametro che rappresenta la qualità. Il collegamento è catturato da questa proprietà parametrizza. Le classi parametro e  valore istanziano pattern di modellazione noto in ambito scientifico chiamato RegionParameter."
+          "@value": "Questa proprietà viene utilizzata quando i possibili valori che possono essere associati a un parametro sono all'interno di un certo range o regione in uno spazio dimensionale. Per esempio, consideriamo di avere un parametro che rappresenta la qualità di un dato specifico che può essere \"buona\" o \"scarsa\", \"buona\" e \"scarsa\" possono essere modellati come individui della classe Valore definito nell'ontologia MU della rete OntoPiA e collegati all'individuo della classe parametro che rappresenta la qualità. Il collegamento è catturato da questa proprietà parametrizza. Le classi parametro e valore istanziano pattern di modellazione noto in ambito scientifico chiamato RegionParameter."
         }
       ],
       "rdfs:domain": {
@@ -2223,7 +2223,7 @@
         },
         {
           "@language": "en",
-          "@value": "A datum source used in the calculation of the indicator. For example, in the context of COVID-19 indicators identified by the Italian Ministry of Health it can be the integrated surveillance for COVID-19 system owned by  Istituto Superiore di Sanità. in scholarly data context it can be Scopus for citations count; in the context of social networks it can be Twitter for the number of social media mentions."
+          "@value": "A datum source used in the calculation of the indicator. For example, in the context of COVID-19 indicators identified by the Italian Ministry of Health it can be the integrated surveillance for COVID-19 system owned by Istituto Superiore di Sanità. in scholarly data context it can be Scopus for citations count; in the context of social networks it can be Twitter for the number of social media mentions."
         }
       ],
       "rdfs:isDefinedBy": {
@@ -2670,7 +2670,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "La classe che rappresenta la frequenza di aggiornamento. Nel contesto della presente ontologia essa è la frequenza a cui viene aggiornato l'indicatore secondo le regole che governano il suo calcolo.  Ad esempio, nel caso degli indicatori COVID-19 elencati nel decreto del Ministero della Salute 30 aprile 2020, la frequenza è indicata nella descrizione dell'indicatore (e.g., quando si indica nell'indicatore 1.1 il termine \"per mese\" si intende frequenza di aggiornamento mensile). Le istanze di questa classe sono gli individui del vocabolario controllato europeo sulle frequenze - http://publications.europa.eu/resource/authority/frequency"
+          "@value": "La classe che rappresenta la frequenza di aggiornamento. Nel contesto della presente ontologia essa è la frequenza a cui viene aggiornato l'indicatore secondo le regole che governano il suo calcolo. Ad esempio, nel caso degli indicatori COVID-19 elencati nel decreto del Ministero della Salute 30 aprile 2020, la frequenza è indicata nella descrizione dell'indicatore (e.g., quando si indica nell'indicatore 1.1 il termine \"per mese\" si intende frequenza di aggiornamento mensile). Le istanze di questa classe sono gli individui del vocabolario controllato europeo sulle frequenze - http://publications.europa.eu/resource/authority/frequency"
         },
         {
           "@language": "en",

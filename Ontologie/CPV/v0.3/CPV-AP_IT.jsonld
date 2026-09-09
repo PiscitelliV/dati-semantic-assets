@@ -553,7 +553,7 @@
       "owl:versionInfo": [
         {
           "@language": "en",
-          "@value": "Version 0.2 - 08  August 2017 - exclusion of Location part of the ontology since it is included in the related ontology"
+          "@value": "Version 0.2 - 08 August 2017 - exclusion of Location part of the ontology since it is included in the related ontology"
         },
         {
           "@language": "it",

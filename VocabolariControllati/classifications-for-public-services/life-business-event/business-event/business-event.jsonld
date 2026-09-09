@@ -407,7 +407,7 @@
       },
       {
         "@language": "en",
-        "@value": "This business event groups public services related to the starting of a new business activity for single professionals "
+        "@value": "This business event groups public services related to the starting of a new business activity for single professionals"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -427,7 +427,7 @@
       },
       {
         "@language": "en",
-        "@value": "Starting a new activity "
+        "@value": "Starting a new activity"
       },
       {
         "@language": "de",
@@ -849,7 +849,7 @@
       },
       {
         "@language": "en",
-        "@value": "This business event groups public services related to the recruiting and management of employees of a company. "
+        "@value": "This business event groups public services related to the recruiting and management of employees of a company."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -1063,7 +1063,7 @@
     "http://purl.org/dc/terms/description": [
       {
         "@language": "en",
-        "@value": "Controlled Vocabulary  of the business events for the Italian catalogue of public services. The translations in German were provided by Ivo Planoetscher of the Autonomous Province of Bolzano"
+        "@value": "Controlled Vocabulary of the business events for the Italian catalogue of public services. The translations in German were provided by Ivo Planoetscher of the Autonomous Province of Bolzano"
       },
       {
         "@language": "it",
@@ -1324,7 +1324,7 @@
       },
       {
         "@language": "en",
-        "@value": "This business event groups public services related to declaring the profit of a company (and thus paying taxes, including VAT and customs). "
+        "@value": "This business event groups public services related to declaring the profit of a company (and thus paying taxes, including VAT and customs)."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [

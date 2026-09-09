@@ -53,7 +53,7 @@
         },
         {
           "@language": "it",
-          "@value": "Questa classe è utilizzata per modellare i servizi tra organizzazioni. Nel contesto italiano questa classe può essere utilizzata per modellare le piattaforme ablitanti quali per esempio SPID e PAgoPA. Servizi di  una pubblica amministrazione offerti ad altre pubbliche amministrazioni rientrano in tale categoria."
+          "@value": "Questa classe è utilizzata per modellare i servizi tra organizzazioni. Nel contesto italiano questa classe può essere utilizzata per modellare le piattaforme ablitanti quali per esempio SPID e PAgoPA. Servizi di una pubblica amministrazione offerti ad altre pubbliche amministrazioni rientrano in tale categoria."
         }
       ],
       "rdfs:isDefinedBy": {
@@ -203,7 +203,7 @@
         },
         {
           "@language": "en",
-          "@value": "Inverse property of \"has status\" used to link the service status with the  service."
+          "@value": "Inverse property of \"has status\" used to link the service status with the service."
         }
       ],
       "rdfs:domain": {
@@ -454,7 +454,7 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "The class \"Authentication\" is used to represent authentication requirements required by a service. In particular, this class, together with the associated properties allows us to model the type of authentication  the service needs (e.g., authentication through the national e-ID system, none, authentication using other smart card based systems, ecc) and the levelo of security for the identification that is required (e.g., credentials, one-time passowrd, biometric mechanisms). A controlled vocabulary must be used in order to specify the type of required authentication. The vocabulary is the following: https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/authentication-type."
+          "@value": "The class \"Authentication\" is used to represent authentication requirements required by a service. In particular, this class, together with the associated properties allows us to model the type of authentication the service needs (e.g., authentication through the national e-ID system, none, authentication using other smart card based systems, ecc) and the levelo of security for the identification that is required (e.g., credentials, one-time passowrd, biometric mechanisms). A controlled vocabulary must be used in order to specify the type of required authentication. The vocabulary is the following: https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/authentication-type."
         },
         {
           "@language": "it",
@@ -560,7 +560,7 @@
         },
         {
           "@language": "en",
-          "@value": "This property is used to represent that rules can specify requirements for a  service."
+          "@value": "This property is used to represent that rules can specify requirements for a service."
         }
       ],
       "rdfs:domain": {
@@ -768,7 +768,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa classe rappresenta il livello di interattività per un servizio pubblico. Il livello di interattività è il livello di interazione con l'utenza del servizio (si vedano le Linee guida per i siti web delle PA  ‐  2011). Le istanze di questa classe sono voci di un vocabolario controllato modellato anche mediante l'uso di SKOS. Il vocabolario controllato che deve essere utilizzato per le istanze di questa classe è https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/interactivity-level"
+          "@value": "Questa classe rappresenta il livello di interattività per un servizio pubblico. Il livello di interattività è il livello di interazione con l'utenza del servizio (si vedano le Linee guida per i siti web delle PA ‐ 2011). Le istanze di questa classe sono voci di un vocabolario controllato modellato anche mediante l'uso di SKOS. Il vocabolario controllato che deve essere utilizzato per le istanze di questa classe è https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/interactivity-level"
         },
         {
           "@language": "en",
@@ -815,7 +815,7 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "This class represents a channel through which a service is provided to end-users. In the context of CPSV-AP_IT the type of the channel must be controlled by using the following controlled vocabulary  https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel. The class is recommended."
+          "@value": "This class represents a channel through which a service is provided to end-users. In the context of CPSV-AP_IT the type of the channel must be controlled by using the following controlled vocabulary https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel. The class is recommended."
         },
         {
           "@language": "it",
@@ -1315,11 +1315,11 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "This property is a subproperty of \"has channel\" and it is used to link the  service with a specific type of channel; i.e., web site."
+          "@value": "This property is a subproperty of \"has channel\" and it is used to link the service with a specific type of channel; i.e., web site."
         },
         {
           "@language": "it",
-          "@value": "Questa proprietà è sottoproprietà di \"ha canale\" ed è utilizzata per collegare un servizio  a uno specifico tipo di canale; i.e., sito web."
+          "@value": "Questa proprietà è sottoproprietà di \"ha canale\" ed è utilizzata per collegare un servizio a uno specifico tipo di canale; i.e., sito web."
         }
       ],
       "rdfs:domain": {
@@ -1331,7 +1331,7 @@
       "rdfs:label": [
         {
           "@language": "en",
-          "@value": "has  web site channel"
+          "@value": "has web site channel"
         },
         {
           "@language": "it",
@@ -1520,7 +1520,7 @@
         },
         {
           "@language": "en",
-          "@value": "This class represents an output of the public service. An output can be a any resource (e.g., document, certification, etc.) produced by a  Service. An output  can also authorize/permit Agents to do something. In some cases output can be input for other  services. In order to represent the possible output types, CPSV-AP_IT requires the use of a controlled vocabulary defined in https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/service-input-output"
+          "@value": "This class represents an output of the public service. An output can be a any resource (e.g., document, certification, etc.) produced by a Service. An output can also authorize/permit Agents to do something. In some cases output can be input for other services. In order to represent the possible output types, CPSV-AP_IT requires the use of a controlled vocabulary defined in https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/service-input-output"
         }
       ],
       "rdfs:isDefinedBy": {
@@ -1570,11 +1570,11 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "The class is used to represent requirements for the use of the  service. The requirements, included into rules associated with the service, can be: license requirements, technical standard requirements, authentication requirements, etc."
+          "@value": "The class is used to represent requirements for the use of the service. The requirements, included into rules associated with the service, can be: license requirements, technical standard requirements, authentication requirements, etc."
         },
         {
           "@language": "it",
-          "@value": "La classe requisito è utilizzata per rappresentare i requisiti richiesti per l'utilizzo del servizio. Tali requisiti sono inclusi all'interno delle regole che il servizio  deve seguire e possono essere: requisiti relativi alla licenza, requisiti relativi agli standard adottati, requisiti di autenticazione, ecc."
+          "@value": "La classe requisito è utilizzata per rappresentare i requisiti richiesti per l'utilizzo del servizio. Tali requisiti sono inclusi all'interno delle regole che il servizio deve seguire e possono essere: requisiti relativi alla licenza, requisiti relativi agli standard adottati, requisiti di autenticazione, ecc."
         }
       ],
       "rdfs:isDefinedBy": {
@@ -2271,7 +2271,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa proprietà è utilizzata per rappresentare tutti quei casi in cui un servizio pubblico è in relazione  (generica) con altri servizi."
+          "@value": "Questa proprietà è utilizzata per rappresentare tutti quei casi in cui un servizio pubblico è in relazione (generica) con altri servizi."
         },
         {
           "@language": "en",
@@ -2314,7 +2314,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa proprietà consente di collegare un servizio  o un canale ai costi associati a esso."
+          "@value": "Questa proprietà consente di collegare un servizio o un canale ai costi associati a esso."
         },
         {
           "@language": "en",
@@ -2385,7 +2385,7 @@
         },
         {
           "@language": "it",
-          "@value": "Questa proprietà  è utilizzata per collegare un servizio pubblico a un evento (evento della vita del cittadino o evento della vita di attività commerciale)"
+          "@value": "Questa proprietà è utilizzata per collegare un servizio pubblico a un evento (evento della vita del cittadino o evento della vita di attività commerciale)"
         }
       ],
       "rdfs:domain": {
@@ -2539,7 +2539,7 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "The class represents an Event that happens in the life cycle of a citizen or  group of citizens. The individuals of this class are all those elements of the controlled vocabulary https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/life-business-event/life-event"
+          "@value": "The class represents an Event that happens in the life cycle of a citizen or group of citizens. The individuals of this class are all those elements of the controlled vocabulary https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/life-business-event/life-event"
         },
         {
           "@language": "it",
@@ -3038,7 +3038,7 @@
         },
         {
           "@language": "en",
-          "@value": "This property is used to link a  service with an input required to carry out the service. A service can have more than one input."
+          "@value": "This property is used to link a service with an input required to carry out the service. A service can have more than one input."
         }
       ],
       "rdfs:domain": {
@@ -3095,7 +3095,7 @@
         },
         {
           "@language": "it",
-          "@value": "Questa classe rappresenta il tipo di canale email. Secondo il vocabolario controllato dei tipi di canale https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel, questo canale ha  tipo corrispondente alla parte di albero della tassonomia che ha origine da https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/04"
+          "@value": "Questa classe rappresenta il tipo di canale email. Secondo il vocabolario controllato dei tipi di canale https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel, questo canale ha tipo corrispondente alla parte di albero della tassonomia che ha origine da https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/04"
         }
       ],
       "rdfs:isDefinedBy": {
@@ -3268,7 +3268,7 @@
         },
         {
           "@language": "en",
-          "@value": "This property is used to model the keyword or label that describes a  service."
+          "@value": "This property is used to model the keyword or label that describes a service."
         }
       ],
       "rdfs:domain": {
@@ -3689,11 +3689,11 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa proprietà è sotto proprietà di \"ha canale\" ed è utilizzata per collegare un servizio  a un canale di tipo non elettronico."
+          "@value": "Questa proprietà è sotto proprietà di \"ha canale\" ed è utilizzata per collegare un servizio a un canale di tipo non elettronico."
         },
         {
           "@language": "en",
-          "@value": "This property is subproperty of \"has channel\" and it is used to link a  service with another electronic channel."
+          "@value": "This property is subproperty of \"has channel\" and it is used to link a service with another electronic channel."
         }
       ],
       "rdfs:domain": {
@@ -3799,11 +3799,11 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "This property is a subproperty of \"has channel\" and it is used to link the  service with a specific channel type; i.e., telephone."
+          "@value": "This property is a subproperty of \"has channel\" and it is used to link the service with a specific channel type; i.e., telephone."
         },
         {
           "@language": "it",
-          "@value": "Questa proprietà è una sottoproprietà di \"ha canale\" ed è utilizzata per connettere un servizio  a uno specifico tipo di canale; i.e., telefono."
+          "@value": "Questa proprietà è una sottoproprietà di \"ha canale\" ed è utilizzata per connettere un servizio a uno specifico tipo di canale; i.e., telefono."
         }
       ],
       "rdfs:domain": {
@@ -3973,7 +3973,7 @@
         },
         {
           "@language": "en",
-          "@value": "This property is used to represent all those cases in which a  service requires another  service in order to be carried out."
+          "@value": "This property is used to represent all those cases in which a service requires another service in order to be carried out."
         }
       ],
       "rdfs:domain": {
@@ -4086,7 +4086,7 @@
         },
         {
           "@language": "it",
-          "@value": "La classe \"Standard Tecnico\" rappresenta uno standard tecnico, raccomandazione o altra specifica tecnica a cui il servizio pubblico è (o deve essere)  conforme."
+          "@value": "La classe \"Standard Tecnico\" rappresenta uno standard tecnico, raccomandazione o altra specifica tecnica a cui il servizio pubblico è (o deve essere) conforme."
         }
       ],
       "rdfs:isDefinedBy": {
@@ -4237,7 +4237,7 @@
         },
         {
           "@language": "en",
-          "@value": "This property is used to link the  service with the channel through which it is provided to the end users. It is recommended specifying the channel by means of which the service is provided."
+          "@value": "This property is used to link the service with the channel through which it is provided to the end users. It is recommended specifying the channel by means of which the service is provided."
         }
       ],
       "rdfs:domain": {
@@ -4528,11 +4528,11 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "this property is used to represent the interactivity level of the service. The interactivity level must be chosen through the use of the following controlled vocabulary:  https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/interactivity-level"
+          "@value": "this property is used to represent the interactivity level of the service. The interactivity level must be chosen through the use of the following controlled vocabulary: https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/interactivity-level"
         },
         {
           "@language": "it",
-          "@value": "Questa proprietà consente di rappresentare il livello di interattività del servizio. Il livello di interattività deve essere specificato mediante l'uso del vocabolario controllato:  https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/interactivity-level"
+          "@value": "Questa proprietà consente di rappresentare il livello di interattività del servizio. Il livello di interattività deve essere specificato mediante l'uso del vocabolario controllato: https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/interactivity-level"
         }
       ],
       "rdfs:domain": {
@@ -5006,11 +5006,11 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "This property links directly a  service with the authentication method it requires."
+          "@value": "This property links directly a service with the authentication method it requires."
         },
         {
           "@language": "it",
-          "@value": "Questa proprietà consente di collegare un servizio  direttamente al metodo richiesto per l'autenticazione."
+          "@value": "Questa proprietà consente di collegare un servizio direttamente al metodo richiesto per l'autenticazione."
         }
       ],
       "rdfs:domain": {

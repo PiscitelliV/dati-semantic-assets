@@ -178,7 +178,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "La classe rappresenta progetti di ricerca finanziati con programmi pubblici (es. Horizon2020,  FETOpen, FTI, ecc.)"
+          "@value": "La classe rappresenta progetti di ricerca finanziati con programmi pubblici (es. Horizon2020, FETOpen, FTI, ecc.)"
         },
         {
           "@language": "en",
@@ -785,7 +785,7 @@
         },
         {
           "@language": "en",
-          "@value": "Project-AP_IT - Project Ontology - Italian Application Profile "
+          "@value": "Project-AP_IT - Project Ontology - Italian Application Profile"
         }
       ],
       "owl:imports": [
@@ -808,7 +808,7 @@
       "owl:versionInfo": [
         {
           "@language": "en",
-          "@value": "Version 0.1 - 14  May 2019 - creation of the ontology and preliminary modelling of requirements R1-R10 as identified in https://github.com/italia/dati-semantic-assets/issues/59"
+          "@value": "Version 0.1 - 14 May 2019 - creation of the ontology and preliminary modelling of requirements R1-R10 as identified in https://github.com/italia/dati-semantic-assets/issues/59"
         },
         {
           "@language": "it",

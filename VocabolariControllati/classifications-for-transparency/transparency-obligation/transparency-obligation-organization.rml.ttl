@@ -30,7 +30,7 @@
 rr:sqlQuery  """
 
 
-Select  id_obbligo AS id_obbligo,
+Select id_obbligo AS id_obbligo,
         label_ita_obbligo AS label_ita_obbligo,
         organizzazione_nome AS organizzazione_nome,
         organizzazione_ipa AS organizzazione_ipa,
@@ -44,7 +44,7 @@ FROM trasparenza.transparency_obligation_administration
 rr:sqlQuery  """
 
 
-Select  id_obbligo AS id_obbligo,
+Select id_obbligo AS id_obbligo,
         label_ita_obbligo AS label_ita_obbligo,
         categoria_amministrazione AS categoria_amministrazione,
         classificazione_s13_codice AS classificazione_s13_codice

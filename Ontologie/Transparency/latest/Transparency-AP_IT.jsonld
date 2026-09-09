@@ -1269,7 +1269,7 @@
         },
         {
           "@language": "en",
-          "@value": "stable  - property added to version 0.2, it replaces the property appliesToPA"
+          "@value": "stable - property added to version 0.2, it replaces the property appliesToPA"
         }
       ]
     },
@@ -1687,7 +1687,7 @@
         },
         {
           "@language": "en",
-          "@value": "This property links a transparency obligation to the corresponding data typology. The values are controlled by the taxonomy  https://w3id.org/italia/controlled-vocabulary/classifications-for-transparency/transparency-titulus "
+          "@value": "This property links a transparency obligation to the corresponding data typology. The values are controlled by the taxonomy https://w3id.org/italia/controlled-vocabulary/classifications-for-transparency/transparency-titulus"
         }
       ],
       "http://www.w3.org/2000/01/rdf-schema#domain": {

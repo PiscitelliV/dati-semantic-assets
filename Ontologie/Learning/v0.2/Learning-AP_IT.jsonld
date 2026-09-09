@@ -1052,7 +1052,7 @@
   } ],
   "http://www.w3.org/2002/07/owl#versionInfo" : [ {
     "@language" : "en",
-    "@value" : "Version 0.2 -  Introduction of some concepts such as Profession, QualificationLevel, credit. Better specification of the relations between learning and how this brings to the qualification."
+    "@value" : "Version 0.2 - Introduction of some concepts such as Profession, QualificationLevel, credit. Better specification of the relations between learning and how this brings to the qualification."
   }, {
     "@language" : "it",
     "@value" : "Versione 0.2 - Introduzione di nuovi concetti come la Professione, il livello della Qualifica (EQF e/o NQF), i crediti. Un miglior dettaglio nella modellazione che dagli insegnamenti consente di arrivare alla specifica della qualifica ottenuta."
@@ -1508,7 +1508,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Il risultato (voto) conseguito dallo studente (riportato in rapporto al voto massimo  conseguibile)"
+    "@value" : "Il risultato (voto) conseguito dallo studente (riportato in rapporto al voto massimo conseguibile)"
   }, {
     "@language" : "en",
     "@value" : "The assigned mark for an achievement of a student"
@@ -1585,7 +1585,7 @@
     "@value" : "Any institution providing education courses capable of awarding degrees.\n\nIn the case of higher education, any institution providing higher education courses capable of awarding the qualifications referred to in Article 3 of Italian Ministerial Decree No 270 of 22 October 2004 and those referred to in Article 3 of Italian Presidential Decree No 212 of 8 July 2005."
   }, {
     "@language" : "it",
-    "@value" : "Ogni Istituto che eroga corsi di istruzione atto a rilasciare titoli.\n\nNel caso di istruzione superiore, ogni istituto che eroga corsi di istruzione superiore atto a rilasciare i titoli di cui all'art. 3 del decreto ministeriale 22 ottobre 2004, n. 270 del  2004 nonche' quelli di cui all'art. 3 del  decreto  del  Presidente  della Repubblica 8 luglio 2005, n. 212."
+    "@value" : "Ogni Istituto che eroga corsi di istruzione atto a rilasciare titoli.\n\nNel caso di istruzione superiore, ogni istituto che eroga corsi di istruzione superiore atto a rilasciare i titoli di cui all'art. 3 del decreto ministeriale 22 ottobre 2004, n. 270 del 2004 nonche' quelli di cui all'art. 3 del decreto del Presidente della Repubblica 8 luglio 2005, n. 212."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
     "@id" : "https://w3id.org/italia/onto/Learning"
@@ -2383,7 +2383,7 @@
     "@value" : "Il valore numerico del risultato (voto) conseguito da uno studente. Esempio: 26 oppure anche 26/30."
   }, {
     "@language" : "en",
-    "@value" : "The numerical value of the result (grade) achieved by a student. Example: 26 or  26/30."
+    "@value" : "The numerical value of the result (grade) achieved by a student. Example: 26 or 26/30."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
     "@id" : "https://w3id.org/italia/onto/Learning/Grade"
@@ -2727,7 +2727,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "Property allowing a grade to be specified in the  qualification obtained or in each examination taken."
+    "@value" : "Property allowing a grade to be specified in the qualification obtained or in each examination taken."
   }, {
     "@language" : "it",
     "@value" : "Proprietà che consente di specificare un voto nella qualifica finale ottenuto o in ciascun esame sostenuto."

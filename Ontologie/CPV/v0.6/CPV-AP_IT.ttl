@@ -1134,7 +1134,7 @@ xsd:date rdf:type rdfs:Datatype .
                                            rdfs:label "sex description"@en ,
                                                       "descrizione sesso"@it ;
 
-                                           rdfs:comment "Property used to represent the sex as defined in the related Sex controlled vocabulary  https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex"@en ;
+                                           rdfs:comment "Property used to represent the sex as defined in the related Sex controlled vocabulary https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex"@en ;
 
                                            owl:versionInfo "stable"@en ;
 
@@ -1166,7 +1166,7 @@ xsd:date rdf:type rdfs:Datatype .
 
                                          owl:versionInfo "stable"@en ;
 
-                                         rdfs:comment "Codice della voce del vocabolario controllato sul sesso  https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex. Esso assume i valori \"M\" e \"F\"."@it ;
+                                         rdfs:comment "Codice della voce del vocabolario controllato sul sesso https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex. Esso assume i valori \"M\" e \"F\"."@it ;
 
                                          owl:versionInfo "stabile"@it ;
 
@@ -1193,7 +1193,7 @@ xsd:date rdf:type rdfs:Datatype .
 
                                            owl:versionInfo "stable"@en ;
 
-                                           rdfs:comment "Il codice fiscale di  una persona."@it ;
+                                           rdfs:comment "Il codice fiscale di una persona."@it ;
 
                                            owl:versionInfo "stabile"@it ;
 
@@ -1565,7 +1565,7 @@ admsapit:SemanticAssetDistribution rdf:type owl:Class .
 
                                                         owl:versionInfo "unstable"@en ;
 
-                                                        rdfs:comment "La classe rappresenta i diversi tipi di relazioni parentali. Per esempio l'intestatario del foglio di famiglia è un tipo di relazione parentale così come il coniuge (o convivente) dell'intestatario, il figlio  dell'intestatario e coniuge convivente, il fratello/sorella dell'intestatario."@it ;
+                                                        rdfs:comment "La classe rappresenta i diversi tipi di relazioni parentali. Per esempio l'intestatario del foglio di famiglia è un tipo di relazione parentale così come il coniuge (o convivente) dell'intestatario, il figlio dell'intestatario e coniuge convivente, il fratello/sorella dell'intestatario."@it ;
 
                                                         owl:versionInfo "provvisoria"@it ;
 
@@ -1998,7 +1998,7 @@ l0:Location rdf:type owl:Class ;
 
                                    rdfs:comment "This is the ontology of the Italian application profile for Persons"@en ;
 
-                                   owl:versionInfo "Version 0.6 - 06  June 2018 - replace of the term gender with sex"@en ,
+                                   owl:versionInfo "Version 0.6 - 06 June 2018 - replace of the term gender with sex"@en ,
                                                    "Versione 0.6 - 06 Giugno 2018 - sostituito il termine gender con sex"@it .
 
 

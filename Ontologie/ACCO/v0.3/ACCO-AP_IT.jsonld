@@ -330,7 +330,7 @@
   } ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Questa è l'ontologia del profilo  italiano sulle Strutture Ricettive (Accomodation Facility - Italian Application Profile - ACCO-AP_IT)"
+    "@value" : "Questa è l'ontologia del profilo italiano sulle Strutture Ricettive (Accomodation Facility - Italian Application Profile - ACCO-AP_IT)"
   }, {
     "@language" : "en",
     "@value" : "This is the ontology of the Italian application profile for Accomodation Facilities"
@@ -474,7 +474,7 @@
     "@value" : "Questa è una classe astratta utilizzta per modellare una camera/stanza di una struttura ricettiva."
   }, {
     "@language" : "en",
-    "@value" : "This is an abstract class  used to model a  room of the accommodation facility."
+    "@value" : "This is an abstract class used to model a room of the accommodation facility."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
     "@id" : "https://w3id.org/italia/onto/ACCO"
@@ -1418,7 +1418,7 @@
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "it",
-    "@value" : "ha caratteristica  descrizione servizi offerti"
+    "@value" : "ha caratteristica descrizione servizi offerti"
   }, {
     "@language" : "en",
     "@value" : "has offered service description feature"
@@ -1441,7 +1441,7 @@
     "@value" : "Questa proprietà collega una struttura ricettiva ( o una camera della struttura ricettiva) alla descrizione di tutti i possibili servizi offerti dalla struttura (camera) stessa."
   }, {
     "@language" : "en",
-    "@value" : "This property links an accommodation facility (or an accommodation room)  to the description of the offered services."
+    "@value" : "This property links an accommodation facility (or an accommodation room) to the description of the offered services."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
     "@id" : "_:genid1"

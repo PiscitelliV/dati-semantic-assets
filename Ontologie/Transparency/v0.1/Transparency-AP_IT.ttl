@@ -208,7 +208,7 @@ xsd:time rdf:type rdfs:Datatype .
                 rdfs:domain :TransparencyObligation ;
                 rdfs:range :TransparencyDataTypology ;
                 rdfs:comment "Questa proprietà lega un obbligo di trasparenza alla relativa tipologia. Le voci sono controllate della tassonomia https://w3id.org/italia/controlled-vocabulary/classifications-for-transparency/transparency-titulus"@it ,
-                             "This property links a transparency obligation to the corresponding data typology. The values are controlled by the taxonomy  https://w3id.org/italia/controlled-vocabulary/classifications-for-transparency/transparency-titulus "@en ;
+                             "This property links a transparency obligation to the corresponding data typology. The values are controlled by the taxonomy https://w3id.org/italia/controlled-vocabulary/classifications-for-transparency/transparency-titulus"@en ;
                 rdfs:isDefinedBy <https://w3id.org/italia/onto/Transparency> ;
                 rdfs:labels "is classified by"@en ,
                             "è classificato da"@it ;

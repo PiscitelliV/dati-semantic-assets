@@ -576,7 +576,7 @@ mu:Value rdf:type owl:Class ;
 ###  https://w3id.org/italia/onto/Route/RouteType
 :RouteType rdf:type owl:Class ;
            rdfs:subClassOf l0:Characteristic ;
-           rdfs:comment """La classe che consente di modellare il tipo di percorso a seconda del mezzo di  trasporto utiizzato nel percorso stesso. L'ontologia definisce attualmente un vocabolario controllato sui tipi di percorso (percorso dell'autobus, percorso del treno, percorso del tram, percorso della nave).
+           rdfs:comment """La classe che consente di modellare il tipo di percorso a seconda del mezzo di trasporto utiizzato nel percorso stesso. L'ontologia definisce attualmente un vocabolario controllato sui tipi di percorso (percorso dell'autobus, percorso del treno, percorso del tram, percorso della nave).
 Il vocabolario controllato si base su quanto proposto nella specifica GTFS (con gli stessi codici) e ulteriori voci aggiunte allo scopo di modellare i tipi di percorso per l'ontologia del'atlante dei cammini"""@it ,
                         "The class represents the type of route in terms of means of transportation used in the route itself. The ontology uses a controlled vocabulary on the type of transportation (bus, ferry, rail, LightRail, horseback, etc.)"@en ;
            rdfs:isDefinedBy <https://w3id.org/italia/onto/Route> ;

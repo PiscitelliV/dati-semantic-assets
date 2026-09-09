@@ -252,7 +252,7 @@ ndc:keyConcept
 
 <https://w3id.org/italia/data/distribution/public-event-RDF-Turtle>
       a	dcatapit:Distribution  ;
-      dct:title	"Distribuzione RDF/Turtle per classificazione tipi di eventi pubblici "@it , "RDF/Turtle distribution for the types of public events"@en ;
+      dct:title	"Distribuzione RDF/Turtle per classificazione tipi di eventi pubblici"@it , "RDF/Turtle distribution for the types of public events"@en ;
       dct:description	"Questa è la distribuzione RDF/Turtle del dataset Linked Open Data del vocabolario controllato sulla classificazione dei tipi di eventi pubblici"@it , "This is the distribution in RDF/turtle of the Linked Open Dataset of the controlled vocabulary related to types of public events"@en ;
       dct:format 	<http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
       dct:license <https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40> ;
@@ -261,7 +261,7 @@ ndc:keyConcept
 
 <https://w3id.org/italia/data/distribution/public-event-RDF-XML>
       a	dcatapit:Distribution  ;
-      dct:title	"Distribuzione RDF/XML per classificazione tipi di eventi pubblici "@it , "RDF/XML distribution for the types of public events"@en ;
+      dct:title	"Distribuzione RDF/XML per classificazione tipi di eventi pubblici"@it , "RDF/XML distribution for the types of public events"@en ;
       dct:description	"Questa è la distribuzione RDF/XML del dataset Linked Open Data del vocabolario controllato sulla classificazione dei tipi di eventi pubblici"@it , "This is the distribution in RDF/XML of the Linked Open Dataset of the controlled vocabulary related to types of public events"@en ;
       dct:format 	<http://publications.europa.eu/resource/authority/file-type/RDF_XML> ;
       dct:license <https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40> ;
@@ -270,7 +270,7 @@ ndc:keyConcept
 
 <https://w3id.org/italia/data/distribution/public-event-JSON-LD>
       a	dcatapit:Distribution  ;
-      dct:title	"Distribuzione JSON_LD per classificazione tipi di eventi pubblici "@it , "JSON_LD distribution for the types of public events"@en ;
+      dct:title	"Distribuzione JSON_LD per classificazione tipi di eventi pubblici"@it , "JSON_LD distribution for the types of public events"@en ;
       dct:description	"Questa è la distribuzione JSON_LD del dataset Linked Open Data del vocabolario controllato sulla classificazione dei tipi di eventi pubblici"@it , "This is the distribution in JSON_LD of the Linked Open Dataset of the controlled vocabulary related to types of public events"@en ;
       dct:format 	<http://publications.europa.eu/resource/authority/file-type/JSON_LD> ;
       dct:license <https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40> ;
@@ -279,7 +279,7 @@ ndc:keyConcept
 
 <https://w3id.org/italia/data/distribution/public-event-CSV>
       a	dcatapit:Distribution  ;
-      dct:title	"Distribuzione CSV per classificazione tipi di eventi pubblici "@it , "CSV distribution for the types of public events"@en ;
+      dct:title	"Distribuzione CSV per classificazione tipi di eventi pubblici"@it , "CSV distribution for the types of public events"@en ;
       dct:description	"Questa è la distribuzione CSV del dataset Linked Open Data del vocabolario controllato sulla classificazione dei tipi di eventi pubblici"@it , "This is the distribution in CSV of the Linked Open Dataset of the controlled vocabulary related to types of public events"@en ;
       dct:format 	<http://publications.europa.eu/resource/authority/file-type/CSV> ;
       dct:license <https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40> ;
@@ -288,7 +288,7 @@ ndc:keyConcept
 
 <https://w3id.org/italia/data/distribution/public-event-XLSX>
       a	dcatapit:Distribution  ;
-      dct:title	"Distribuzione XLSX per classificazione tipi di eventi pubblici "@it , "XLSX distribution for the types of public events"@en ;
+      dct:title	"Distribuzione XLSX per classificazione tipi di eventi pubblici"@it , "XLSX distribution for the types of public events"@en ;
       dct:description	"Questa è la distribuzione XLSX del dataset Linked Open Data del vocabolario controllato sulla classificazione dei tipi di eventi pubblici"@it , "This is the distribution in XLSX of the Linked Open Dataset of the controlled vocabulary related to types of public events"@en ;
       dct:format 	<http://publications.europa.eu/resource/authority/file-type/XLSX> ;
       dct:license <https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40> ;
@@ -517,7 +517,7 @@ ndc:keyConcept
     clvapit:hasRankOrder "2" ;
 	  skos:prefLabel "Dibattito pubblico"@it , "Public Debate"@en ;
     skos:altLabel "Dibattiti pubblici"@it , "Public debates"@en ;
-	  skos:definition "Questo concetto include eventi pubblici come dibattiti pubblici, dialoghi, forum e incontri pubblici, prevalentemente finalizzati attorno a temi relativi a questioni civiche, sociali. "@it , "This concept includes public events such as public debates, dialogues, forums and public meetings."@en .
+	  skos:definition "Questo concetto include eventi pubblici come dibattiti pubblici, dialoghi, forum e incontri pubblici, prevalentemente finalizzati attorno a temi relativi a questioni civiche, sociali."@it , "This concept includes public events such as public debates, dialogues, forums and public meetings."@en .
 
 <https://w3id.org/italia/controlled-vocabulary/public-event-types/23>
 	  a  	skos:Concept , cpevapit:PublicEventTypology ;
@@ -836,7 +836,7 @@ ndc:keyConcept
     clvapit:hasRankOrder "3" ;
     skos:prefLabel "Corso"@it , "Course"@en ;
     skos:altLabel "Corsi"@it , "Courses"@en ;
-    skos:definition "In questo concetto rientrano anche  corsi su materie specifiche come per esempio corsi musicali, corsi di teatro, corsi di danza,  o corsi sportivi"@it , "This concept also includes  courses on specific subject such as  teather courses, dance courses, sport courses, music courses, etc.)"@en .
+    skos:definition "In questo concetto rientrano anche corsi su materie specifiche come per esempio corsi musicali, corsi di teatro, corsi di danza, o corsi sportivi"@it , "This concept also includes courses on specific subject such as teather courses, dance courses, sport courses, music courses, etc.)"@en .
 
 
 <https://w3id.org/italia/controlled-vocabulary/public-event-types/131>
@@ -899,7 +899,7 @@ ndc:keyConcept
     clvapit:hasRankOrder "3" ;
     skos:prefLabel "Cerimonia"@it , "Ceremony"@en ;
     skos:altLabel "Cerimonie"@it , "Ceremonies"@en ;
-    skos:definition "Questo concetto include quindi anche le inaugurazioni e le assegnazioni di premi (e.g., David di Donatello, Premio Giornalistico, Premo Letterario, ecc.)"@it , "This concept includes then the inauguration events and the award (e.g., 'David di Donatello',  Literary prize, Journalism prize)"@en .
+    skos:definition "Questo concetto include quindi anche le inaugurazioni e le assegnazioni di premi (e.g., David di Donatello, Premio Giornalistico, Premo Letterario, ecc.)"@it , "This concept includes then the inauguration events and the award (e.g., 'David di Donatello', Literary prize, Journalism prize)"@en .
 
 
 <https://w3id.org/italia/controlled-vocabulary/public-event-types/212>

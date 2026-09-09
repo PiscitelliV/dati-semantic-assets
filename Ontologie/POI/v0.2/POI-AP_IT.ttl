@@ -29,7 +29,7 @@
                                    dc:creator "Agency for Digital Italy - AgID"@en ;
                                    rdfs:label "Punti di Interesse"@it ;
                                    rdfs:comment "This is the ontology of the Italian application profile for Points of Interest"@en ,
-                                                "Questa è l'ontologia del profilo  italiano sui Punti di Interesse (Point of Interest - Italian Application Profile - POI-AP_IT)"@it ;
+                                                "Questa è l'ontologia del profilo italiano sui Punti di Interesse (Point of Interest - Italian Application Profile - POI-AP_IT)"@it ;
                                    rdfs:label "Point of Interest"@en ;
                                    dc:creator "Agenzia per l'Italia Digitale - AgID"@it .
 
@@ -107,7 +107,7 @@ clvapit:hasGeometry rdf:type owl:ObjectProperty ;
              owl:inverseOf :isIncludedInPOI ;
              rdfs:domain :MultiplePointOfInterest ;
              rdfs:range :PointOfInterest ;
-             rdfs:comment "Questa proprietà lega un punto di interesse multiplo a tutti i  punti di interesse in esso contenuti."@it ,
+             rdfs:comment "Questa proprietà lega un punto di interesse multiplo a tutti i punti di interesse in esso contenuti."@it ,
                           "This property links a multiple point of interest with all the points of interest included in it."@en ;
              rdfs:isDefinedBy <http://dati.gov.it/onto/poiapit> ;
              rdfs:label "include punto di interesse"@it ,

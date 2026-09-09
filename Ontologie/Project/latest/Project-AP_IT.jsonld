@@ -509,7 +509,7 @@
   } ],
   "http://purl.org/dc/terms/title" : [ {
     "@language" : "en",
-    "@value" : "Project-AP_IT - Project Ontology - Italian Application Profile "
+    "@value" : "Project-AP_IT - Project Ontology - Italian Application Profile"
   }, {
     "@language" : "it",
     "@value" : "Project-AP_IT: Profilo applicativo italiano - Ontologia dei progetti"
@@ -545,7 +545,7 @@
   } ],
   "http://www.w3.org/2002/07/owl#versionInfo" : [ {
     "@language" : "en",
-    "@value" : "Version 0.3 - 01  November 2020 - introduction of the following elements for the project: call, programme, work package, summary and their related restrictions."
+    "@value" : "Version 0.3 - 01 November 2020 - introduction of the following elements for the project: call, programme, work package, summary and their related restrictions."
   }, {
     "@language" : "it",
     "@value" : "Versione 0.3 - 01 Novembre 2020 - L'ontologia introduce nuovi elementi per i progetti: bandi, work package, programma, summary. Inoltre si aggiungo le relative restrizioni per questi elementi."
@@ -731,7 +731,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "La classe consente di rappresentare progetti di investimento pubblico. Un 'progetto d’investimento pubblico'  è un complesso di azioni o di strumenti di sostegno, afferenti a un medesimo quadro economico di spesa e collegati fra loro da quattro elementi: la presenza di un decisore pubblico; la previsione di un finanziamento (diretto o indiretto, totale o parziale) con risorse pubbliche; l’indicazione di un comune obiettivo di sviluppo economico e sociale; la definizione di un orizzonte temporale certo."
+    "@value" : "La classe consente di rappresentare progetti di investimento pubblico. Un 'progetto d’investimento pubblico' è un complesso di azioni o di strumenti di sostegno, afferenti a un medesimo quadro economico di spesa e collegati fra loro da quattro elementi: la presenza di un decisore pubblico; la previsione di un finanziamento (diretto o indiretto, totale o parziale) con risorse pubbliche; l’indicazione di un comune obiettivo di sviluppo economico e sociale; la definizione di un orizzonte temporale certo."
   }, {
     "@language" : "en",
     "@value" : "The class allows one to model a public investmnet project."
@@ -791,7 +791,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "La classe rappresenta progetti di ricerca finanziati con programmi pubblici (es. Horizon2020,  FETOpen, FTI, ecc.). Si tratta di 'un'indagine' scientifica, di solito condotta con metodi scientifici, per raggiungere obiettivi definiti"
+    "@value" : "La classe rappresenta progetti di ricerca finanziati con programmi pubblici (es. Horizon2020, FETOpen, FTI, ecc.). Si tratta di 'un'indagine' scientifica, di solito condotta con metodi scientifici, per raggiungere obiettivi definiti"
   }, {
     "@language" : "en",
     "@value" : "The class represents the research projects funded with public programmes (e.g., Horizon2020, FET Open, FTI, etc.). It is a scientific investigation, usually carried out using scientific methods, to achieve defined objectives"

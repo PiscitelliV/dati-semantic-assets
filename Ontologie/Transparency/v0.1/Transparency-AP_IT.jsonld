@@ -1375,7 +1375,7 @@
     "@value" : "Questa proprietà lega un obbligo di trasparenza alla relativa tipologia. Le voci sono controllate della tassonomia https://w3id.org/italia/controlled-vocabulary/classifications-for-transparency/transparency-titulus"
   }, {
     "@language" : "en",
-    "@value" : "This property links a transparency obligation to the corresponding data typology. The values are controlled by the taxonomy  https://w3id.org/italia/controlled-vocabulary/classifications-for-transparency/transparency-titulus "
+    "@value" : "This property links a transparency obligation to the corresponding data typology. The values are controlled by the taxonomy https://w3id.org/italia/controlled-vocabulary/classifications-for-transparency/transparency-titulus"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
     "@id" : "https://w3id.org/italia/onto/Transparency//TransparencyObligation"

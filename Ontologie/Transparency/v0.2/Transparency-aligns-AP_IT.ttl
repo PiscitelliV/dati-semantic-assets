@@ -28,7 +28,7 @@
 	dc:issued "2019-05-29"^^xsd:date ;
 	dc:modified "2019-05-29"^^xsd:date ;
 	dc:title "These are the alignments to external ontologies widely used and available at the state of the art for the Transparency ontology."@en ;
-	dc:title "Questi sono gli allineamenti dell'ontologia  della trasparenza verso ontologie esterne del Web semantico standard e ampiamente utilizzate."@it ;
+	dc:title "Questi sono gli allineamenti dell'ontologia della trasparenza verso ontologie esterne del Web semantico standard e ampiamente utilizzate."@it ;
 	owl:imports <https://w3id.org/italia/onto/Transparency> ;
 	.
 	

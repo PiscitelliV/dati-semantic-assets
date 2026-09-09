@@ -126,7 +126,7 @@
           "@language": "en",
           "@value": "These are the alignments to external ontologies widely used and available at the state of the art"
         },
-        "Questi sono gli allineamenti dell'ontologia sui servizi pubblici Core Public Service Vocabulary - Italian Application Profile  (CLV-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate."
+        "Questi sono gli allineamenti dell'ontologia sui servizi pubblici Core Public Service Vocabulary - Italian Application Profile (CLV-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate."
       ],
       "owl:versionIRI": {
         "@id": "https://w3id.org/italia/onto/CPSV-aligns/0.1"

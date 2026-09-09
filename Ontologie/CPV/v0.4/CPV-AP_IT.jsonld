@@ -470,7 +470,7 @@
         },
         {
           "@language": "it",
-          "@value": "Il codice fiscale di  una persona."
+          "@value": "Il codice fiscale di una persona."
         }
       ],
       "rdfs:domain": {
@@ -2121,7 +2121,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "La classe rappresenta i diversi tipi di relazioni parentali. Per esempio l'intestatario del foglio di famiglia è un tipo di relazione parentale così come il coniuge (o convivente) dell'intestatario, il figlio  dell'intestatario e coniuge convivente, il fratello/sorella dell'intestatario."
+          "@value": "La classe rappresenta i diversi tipi di relazioni parentali. Per esempio l'intestatario del foglio di famiglia è un tipo di relazione parentale così come il coniuge (o convivente) dell'intestatario, il figlio dell'intestatario e coniuge convivente, il fratello/sorella dell'intestatario."
         },
         {
           "@language": "en",
@@ -2499,7 +2499,7 @@
       "owl:versionInfo": [
         {
           "@language": "en",
-          "@value": "Version 0.4 - 24  January 2018 - integration of ISTAT's ontology on individuals. In particular, introduction of the Registered Family, and Residency"
+          "@value": "Version 0.4 - 24 January 2018 - integration of ISTAT's ontology on individuals. In particular, introduction of the Registered Family, and Residency"
         },
         {
           "@language": "it",

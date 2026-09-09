@@ -55,7 +55,7 @@
                                      dc:creator "Chiara Veninata (MIBACT)" ;
                                      dc:description """The ontology aims at modelling the data on cultural institutes or sites such as data regarding the agents that play a specific role on cultural institutes or sites, the sites themselves, the contact points, all multimedia files which describe the cultural institute or site and any other information useful to the public in order to access the institute or site. Moreover, the ontology represents events that can take place in specific cultural institutes or sites.
 The following figure illustrates some of the core elements of the ontology. The figure is not exaustive; however, it is included in order to help readers to understand some relationships among important concepts represented in the ontology.
-For each class, examples of their usage in turtle are provided; moreover, for only some of the classes, specific figures are reported that show the relationships and  concepts connected to them.
+For each class, examples of their usage in turtle are provided; moreover, for only some of the classes, specific figures are reported that show the relationships and concepts connected to them.
 The alignment_xml.owl complements the ontology with the alignments with external ontologies such as FOAF, PRO, schma.org, dublin core, etc."""@en ;
                                      owl:versionInfo "3.0 - November 14 2017"@en ;
                                      dc:creator "Luigi Asprino (ISTC-CNR, ST-Lab)" ;
@@ -72,7 +72,7 @@ The alignment_xml.owl complements the ontology with the alignments with external
                                      dc:rights <http://creativecommons.org/licenses/by/3.0/it/legalcode> ;
                                      dc:creator "Aldo Gangemi (ISTC-CNR, ST-Lab)" ;
                                      dc:modified "2017-11-28" ;
-                                     dc:description """L'ontologia ha lo scopo di modellare i dati che caratterizzano gli istituti e i luoghi della cultura, come ad esempio i dati sugli enti o sulle persone che hanno un determinato ruolo sugli istituti e luoghi della cultura, le sedi fisiche dei luoghi, i contatti, eventuali materiali multimediali che descrivono un istituto e luogo della cultura e ogni altra informazione utile al pubblico per poter accedere all'istituto e luogo della cultura. Inoltre, l'ontologia rappresenta  gli eventi che possono aver luogo in un istituto e luogo della cultura.
+                                     dc:description """L'ontologia ha lo scopo di modellare i dati che caratterizzano gli istituti e i luoghi della cultura, come ad esempio i dati sugli enti o sulle persone che hanno un determinato ruolo sugli istituti e luoghi della cultura, le sedi fisiche dei luoghi, i contatti, eventuali materiali multimediali che descrivono un istituto e luogo della cultura e ogni altra informazione utile al pubblico per poter accedere all'istituto e luogo della cultura. Inoltre, l'ontologia rappresenta gli eventi che possono aver luogo in un istituto e luogo della cultura.
 La figura seguente illustra alcuni elementi principali dell'ontologia. La figura non è esaustiva ma è inserita per aiutare a comprendere alcune relazioni tra concetti dell'ontologia.
 Per ogni classe dell'ontologia saranno forniti esempi di utilizzo in turtle; solo per alcune classi saranno altresì riportate figure specifiche che illustrano le relazioni e i concetti che ruotano attorno a tali classi.
 il file alignment_xml.owl inoltre rapprensenta tutti gli allineamenti dell'ontologia con altre esistenti nel Web dei dati come per esempio FOAF, Dubin Core, PRO, schema.org, etc."""@it ;
@@ -171,7 +171,7 @@ xsd:time rdf:type rdfs:Datatype .
            rdfs:domain smapit:OnlineContactPoint ;
            rdfs:range :OpeningHoursSpecification ;
            rdfs:comment "Property used to associate a contact point with hours specification in which the contact point is available."@en ,
-                        "Proprietà utilizzata per associare  un punto di contatto a fasce orarie in cui il punto di contatto è disponibile."@it ;
+                        "Proprietà utilizzata per associare un punto di contatto a fasce orarie in cui il punto di contatto è disponibile."@it ;
            rdfs:isDefinedBy <http://dati.beniculturali.it/cis/> ;
            rdfs:label "available"@en ,
                       "disponibile"@it ;
@@ -185,7 +185,7 @@ xsd:time rdf:type rdfs:Datatype .
            rdfs:domain :CulturalInstituteOrSite ;
            rdfs:range :Catalogue ;
            rdfs:comment "Property used to associate the Cultural Institute or SIte with a catalogue of cultural collections included in the institute or site. The relatioships can be used to indicate that a Cultural Institute or Site has an its own catalogue or situations where a Cultural Institute or Site contributes to a union catalogue (this latter case is represented by libraries that can contribute to or participate in a union catalogue)."@en ,
-                        "Proprietà utilizzata per associare l'istituto e luogo della cultura a un  catalogo che descrive le opere in esso contenute. Tale relazione può essere utilizzata per indicare che un istituto e luogo della cultura ha un catalogo ma anche una situazione per cui un istituto e luogo della cultura partecipa a un catalogo (in quest'ultimo caso un esempio è rappresentato dalle biblioteche che possono partecipare a un catalogo collettivo)."@it ;
+                        "Proprietà utilizzata per associare l'istituto e luogo della cultura a un catalogo che descrive le opere in esso contenute. Tale relazione può essere utilizzata per indicare che un istituto e luogo della cultura ha un catalogo ma anche una situazione per cui un istituto e luogo della cultura partecipa a un catalogo (in quest'ultimo caso un esempio è rappresentato dalle biblioteche che possono partecipare a un catalogo collettivo)."@it ;
            rdfs:isDefinedBy <http://dati.beniculturali.it/cis/> ;
            rdfs:label "catalogo"@it ,
                       "catalogue"@en ;
@@ -527,7 +527,7 @@ xsd:time rdf:type rdfs:Datatype .
                                    :isInSite
                                  ) ;
           rdfs:comment "Property that permits to associate cultural heritage objects with the site(s) which conserve(s) them"@en ,
-                       "Proprietà che consente di associare  opere culturali al luogo fisico in cui sono conservate."@it ;
+                       "Proprietà che consente di associare opere culturali al luogo fisico in cui sono conservate."@it ;
           rdfs:isDefinedBy <http://dati.beniculturali.it/cis/> ;
           rdfs:label "is in site"@en ,
                      "è nella sede"@it ;
@@ -559,8 +559,8 @@ xsd:time rdf:type rdfs:Datatype .
             rdfs:comment "Inverse property of hasMember."@en ,
                          "Proprietà inversa di hasMember."@it ;
             rdfs:isDefinedBy <http://dati.beniculturali.it/cis/> ;
-            rdfs:label "is member of "@en ,
-                       "è membro di "@it ;
+            rdfs:label "is member of"@en ,
+                       "è membro di"@it ;
             owl:versionInfo "stabile"@it ,
                             "stable"@en .
 
@@ -821,8 +821,8 @@ tiapit:atTime rdf:type owl:ObjectProperty .
         rdfs:comment "Questa proprietà è utilizzata per rappresentare l'orario di chiusura."@it ,
                      "This property is used to represent the closing time"@en ;
         rdfs:isDefinedBy <http://dati.beniculturali.it/cis/> ;
-        rdfs:label "chiude "@it ,
-                   "closes "@en ;
+        rdfs:label "chiude"@it ,
+                   "closes"@en ;
         owl:versionInfo "stabile"@it ,
                         "stable"@en .
 
@@ -865,7 +865,7 @@ tiapit:atTime rdf:type owl:ObjectProperty .
                                ] ;
                    rdfs:range rdfs:Literal ;
                    rdfs:comment "Questa proprietà identifica direttamente il nome istituzionale dell'Istituto e luogo della cultura"@it ,
-                                "This data property identifies  the institutional name of the Cultural Institute or Site."@en ;
+                                "This data property identifies the institutional name of the Cultural Institute or Site."@en ;
                    rdfs:isDefinedBy <http://dati.beniculturali.it/cis/> ;
                    rdfs:label "Institutional Name" ,
                               "Nome Istituzionale"@it ;
@@ -880,8 +880,8 @@ tiapit:atTime rdf:type owl:ObjectProperty .
        rdfs:comment "Questa proprietà è utilizzata per rappresentare l'orario di apertura"@it ,
                     "This property is used to represent the opening time"@en ;
        rdfs:isDefinedBy <http://dati.beniculturali.it/cis/> ;
-       rdfs:label "apre "@it ,
-                  "opens "@en ;
+       rdfs:label "apre"@it ,
+                  "opens"@en ;
        owl:versionInfo "non stabile"@it ,
                        "unstable"@en .
 
@@ -1003,7 +1003,7 @@ An example in turtle is the following.
 
 
 openingHoursSpecification:Orari_di_apertura_di_Biblioteca_nazionale_centrale_di_Roma_giovedi
-      a       cis:OpeningHoursSpecification ;
+      a cis:OpeningHoursSpecification ;
       rdfs:label \"Opening Hours of Biblioteca nazionale centrale di Roma - thursday\"@en ;
       cis:closes \"19:00:00\"^^xsd:time ;
       cis:hasAdmissionType
@@ -1013,7 +1013,7 @@ openingHoursSpecification:Orari_di_apertura_di_Biblioteca_nazionale_centrale_di_
 
 
 admissionType:Tipo_di_apertura_al_pubblico
-      a       cis:AdmissionType ;
+      a cis:AdmissionType ;
       rdfs:label \"Tipo di apertura al pubblico\" ;
       cis:name \"giornaliera\" ;
       cis:description \"Apertura al pubblico giornaliera\" .
@@ -1028,7 +1028,7 @@ Un esempio in turle è il seguente:
 
 
 openingHoursSpecification:Orari_di_apertura_di_Biblioteca_nazionale_centrale_di_Roma_giovedi
-      a       cis:OpeningHoursSpecification ;
+      a cis:OpeningHoursSpecification ;
       rdfs:label \"Opening Hours of Biblioteca nazionale centrale di Roma - thursday\"@en ;
       cis:closes \"19:00:00\"^^xsd:time ;
       cis:hasAdmissionType
@@ -1038,13 +1038,13 @@ openingHoursSpecification:Orari_di_apertura_di_Biblioteca_nazionale_centrale_di_
 
 
 admissionType:Tipo_di_apertura_al_pubblico
-      a       cis:AdmissionType ;
+      a cis:AdmissionType ;
       rdfs:label \"Tipo di apertura al pubblico\" ;
       cis:name \"giornaliera\" ;
       cis:description \"Apertura al pubblico giornaliera\" .
 
 </pre>"""@it ;
-               rdfs:comment "It represents the type of admission. Examples are: weekly, monthly, daily, etc. "@en ,
+               rdfs:comment "It represents the type of admission. Examples are: weekly, monthly, daily, etc."@en ,
                             "Rappresenta il tipo di apertura al pubblico. Esempi sono: Settimanale, Mensile, Giornaliera, ecc."@it ;
                rdfs:label "Admission Type"@en ,
                           "Tipo di apertura"@it ;
@@ -1225,7 +1225,7 @@ event:Vincenzo_Gemito_al_Museo_di_Capodimonte
     cis:takesPlaceDuring ti:Durata_di_Vincenzo_Gemito_dal_salotto_Minozzi_al_Museo_di_Capodimonte .
 
 </pre>"""@it ;
-         rdfs:comment "It represents the  type of booking for the cultural institute or site or for the event. Examples can be: Mandatory, Optional, None (free access)."@en ,
+         rdfs:comment "It represents the type of booking for the cultural institute or site or for the event. Examples can be: Mandatory, Optional, None (free access)."@en ,
                       "Rappresenta la tipologia di prenotazione per l'istituto e luogo della cultura o per l'evento. Esempi possono essere: Obbligatoria, Facoltativa, Nessuna (ingresso libero)."@it ;
          rdfs:label "Tipo prenotazione"@it ,
                     "Type of Booking"@en ;
@@ -1285,14 +1285,14 @@ An example in turtle is the following:
 
 <pre>
 catalogue:Catalogo_Generale_(autore)
-      a       cis:Catalogue ;
+      a cis:Catalogue ;
       rdfs:label \"Catalogo Generale (autore)\" ;
       cis:name \"Catalogo Generale (autore)\" ;
       cis:isCatalogueOf cissite:Biblioteca_nazionale_centrale ;
       cis:description \"Catalogo Generale per autore - online\"@it .
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite ;
+      a cis:Library , cis:CulturalInstituteOrSite ;
       cis:hasCatalogue catalogue:Catalogo_Generale_(autore) .
 </pre>"""@en ,
                           """Un catalogo è sempre associato a un individuo della classe \"Istitute e luogo della cultura\" attraverso la proprietà ha catalogo (che ha dominio CulturaInstituteOrSite e codominio Catalogue).
@@ -1304,14 +1304,14 @@ Un esempio in turtle è il seguente:
 <pre>
 
 catalogue:Catalogo_Generale_(autore)
-      a       cis:Catalogue ;
+      a cis:Catalogue ;
       rdfs:label \"Catalogo Generale (autore)\" ;
       cis:name \"Catalogo Generale (autore)\" ;
       cis:isCatalogueOf cissite:Biblioteca_nazionale_centrale ;
       cis:description \"Catalogo Generale per autore - online\"@it .
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite ;
+      a cis:Library , cis:CulturalInstituteOrSite ;
       cis:hasCatalogue catalogue:Catalogo_Generale_(autore) .
 
 </pre>"""@it ;
@@ -1416,24 +1416,24 @@ This can be modelled by using turtle in the following way:
 <pre>
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite ;
+      a cis:Library , cis:CulturalInstituteOrSite ;
       cis:hasCollection collezioni:Patrimonio_di_Biblioteca_nazionale_centrale_di_Roma .
 
 collezioni:Patrimonio_di_Biblioteca_nazionale_centrale_di_Roma
-      a       cis:Collection ;
+      a cis:Collection ;
       rdfs:label \"Patrimonio di: Biblioteca nazionale centrale di Roma\" ;
       cis:hasMember collezioni:Archivio_Capizucchi, collezioni:Fondo_Ceccarius .
 
 
 collezioni:Archivio_Capizucchi
-      a       cis:Collection ;
+      a cis:Collection ;
       rdfs:label \"Archivio Capizucchi\" ;
       cis:isMemberOf collezioni:Patrimonio_di_Biblioteca_nazionale_centrale_di_Roma ;
       cis:description \"materiale documentario relativo alla famiglia Capizucchi\"@it .
 
 
 collezioni:Fondo_Ceccarius
-      a       cis:Collection ;
+      a cis:Collection ;
       rdfs:label \"Fondo Ceccarius\" ;
       cis:isMemberOf collezioni:Patrimonio_di_Biblioteca_nazionale_centrale_di_Roma ;
       cis:description \"volumi, opuscoli, articoli e fotografie della biblioteca di G. Ceccarelli\"@it .
@@ -1453,24 +1453,24 @@ Nello specifico, questo può essere modellato in turtle come segue:
 <pre>
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite ;
+      a cis:Library , cis:CulturalInstituteOrSite ;
       cis:hasCollection collezioni:Patrimonio_di_Biblioteca_nazionale_centrale_di_Roma .
 
 collezioni:Patrimonio_di_Biblioteca_nazionale_centrale_di_Roma
-      a       cis:Collection ;
+      a cis:Collection ;
       rdfs:label \"Patrimonio di: Biblioteca nazionale centrale di Roma\" ;
       cis:hasMember collezioni:Archivio_Capizucchi, collezioni:Fondo_Ceccarius .
 
 
 collezioni:Archivio_Capizucchi
-      a       cis:Collection ;
+      a cis:Collection ;
       rdfs:label \"Archivio Capizucchi\" ;
       cis:isMemberOf collezioni:Patrimonio_di_Biblioteca_nazionale_centrale_di_Roma ;
       cis:description \"materiale documentario relativo alla famiglia Capizucchi\"@it .
 
 
 collezioni:Fondo_Ceccarius
-      a       cis:Collection ;
+      a cis:Collection ;
       rdfs:label \"Fondo Ceccarius\" ;
       cis:isMemberOf collezioni:Patrimonio_di_Biblioteca_nazionale_centrale_di_Roma ;
       cis:description \"volumi, opuscoli, articoli e fotografie della biblioteca di G. Ceccarelli\"@it .
@@ -1520,7 +1520,7 @@ collezioni:Fondo_Ceccarius
 :CulturalEntity rdf:type owl:Class ;
                 rdfs:subClassOf l0:Entity ;
                 rdfs:comment "Class that provides a generalization of three classes; that is , cultural institute or site, collection and cultural heritage object. It does not correspond to a concept used typically in the cultural domain but it is used in order to model properties and property restrictions that are common to all the these three classes. The class will never be directly instanziated."@en ,
-                             "Classe che fornisce una generalizzazione per le tre classi di istituto e luogo della cultura,  collezione e oggetto culturale. Non corrisponde ad un concetto usato normalmente nel linguaggio del dominio, ma risponde all'esigenza di modellare proprietà e assiomi di property-restriction comuni ad ognuna di queste tre classi. La classe CulturalEntity non sarà mai istanziata direttamente"@it ;
+                             "Classe che fornisce una generalizzazione per le tre classi di istituto e luogo della cultura, collezione e oggetto culturale. Non corrisponde ad un concetto usato normalmente nel linguaggio del dominio, ma risponde all'esigenza di modellare proprietà e assiomi di property-restriction comuni ad ognuna di queste tre classi. La classe CulturalEntity non sarà mai istanziata direttamente"@it ;
                 rdfs:isDefinedBy <http://dati.beniculturali.it/cis/> ;
                 rdfs:label "Cultural Entity"@en ,
                            "Entità culturale"@it ;
@@ -1779,7 +1779,7 @@ culturalheritageobject:Nascita_di_Venere
 <pre>
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite ;
+      a cis:Library , cis:CulturalInstituteOrSite ;
       rdfs:comment \"\"\"La Biblioteca Nazionale Centrale di Roma fu inaugurata il 14 marzo 1876 in un'ala del
       monumentale Palazzo cinquecentesco del Collegio Romano, sede dell'antica Bibliotheca Secreta o Major dei Gesuiti,
       che costituì il nucleo originario della nuova istituzione, cui si aggiunsero i fondi manoscritti e a stampa di 69
@@ -1810,7 +1810,7 @@ cissite:Biblioteca_nazionale_centrale
       cis:institutionalName
               \"Biblioteca Nazionale Centrale\"@it ;
       cis:providesService service:Connessione_WI-FI , service:Visite_guidate , service:ala_per_la_didattica ;
-      owl:sameAs   <http://it.dbpedia.org/resource/Biblioteca_Nazionale_Centrale_di_Roma> ;
+      owl:sameAs <http://it.dbpedia.org/resource/Biblioteca_Nazionale_Centrale_di_Roma> ;
       cis:institutionalName \"\"Biblioteca nazionale centrale\"@it .
 
 </pre>"""@en ,
@@ -1819,7 +1819,7 @@ cissite:Biblioteca_nazionale_centrale
 <pre>
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite ;
+      a cis:Library , cis:CulturalInstituteOrSite ;
       rdfs:comment \"La Biblioteca Nazionale Centrale di Roma fu inaugurata il 14 marzo 1876 in un'ala del
       monumentale Palazzo cinquecentesco del Collegio Romano, sede dell'antica Bibliotheca Secreta o Major dei Gesuiti,
       che costituì il nucleo originario della nuova istituzione, cui si aggiunsero i fondi manoscritti e a stampa di 69
@@ -1936,21 +1936,21 @@ Per esempio, il seguente frammento di codice in turtle fornisce rappresenta un a
 
 
 site:Sede_di_Biblioteca_nazionale_centrale_di_Roma
-      a       cis:Site ;
+      a cis:Site ;
       cis:hasGeographicalLocation
               geographicalArea:Comune_di_Roma ;
       cis:isSiteOf cissite:Biblioteca_nazionale_centrale ;
       cis:name \"Biblioteca nazionale centrale di Roma\"@it .
 
 geographicalArea:Comune_di_Roma
-      a       cis:GeographicalArea ;
+      a cis:GeographicalArea ;
       rdfs:label \"Comune di Roma\"@it ;
       cis:toponym \"Roma\" ;
-      owl:sameAs      <http://spcdata.digitpa.gov.it/Comune/H501> , <http://datiopen.istat.it/odi/risorsa/territorio/comuni/Roma_58091> ;
+      owl:sameAs <http://spcdata.digitpa.gov.it/Comune/H501> , <http://datiopen.istat.it/odi/risorsa/territorio/comuni/Roma_58091> ;
       hasGeometry geometry:Comune_di_Roma .
 
 geometry:Comune_di_Roma
-      a       cis:Geometry ;
+      a cis:Geometry ;
       geo:lat \"41.906784\" ;
       geo:long \"12.504962\" .
 
@@ -1966,27 +1966,27 @@ For example, the following snippet provides a turtle model that represents a Geo
 
 
 site:Sede_di_Biblioteca_nazionale_centrale_di_Roma
-      a       cis:Site ;
+      a cis:Site ;
       cis:hasGeographicalLocation
               geographicalArea:Comune_di_Roma ;
       cis:isSiteOf cissite:Biblioteca_nazionale_centrale ;
       cis:name \"Biblioteca nazionale centrale di Roma\"@it .
 
 geographicalArea:Comune_di_Roma
-      a       cis:GeographicalArea ;
+      a cis:GeographicalArea ;
       rdfs:label \"Comune di Roma\"@it ;
       cis:toponym \"Roma\" ;
-      owl:sameAs      <http://spcdata.digitpa.gov.it/Comune/H501> , <http://datiopen.istat.it/odi/risorsa/territorio/comuni/Roma_58091> ;
+      owl:sameAs <http://spcdata.digitpa.gov.it/Comune/H501> , <http://datiopen.istat.it/odi/risorsa/territorio/comuni/Roma_58091> ;
       hasGeometry geometry:Comune_di_Roma .
 
 geometry:Comune_di_Roma
-      a       cis:Geometry ;
+      a cis:Geometry ;
       geo:lat \"41.906784\" ;
       geo:long \"12.504962\" .
 
 </pre>"""@en ;
                      rdfs:comment "It represents a geographical feature. It can be used to model a municipality or an area across different administrative areas."@en ,
-                                  "Rappresenta una caratteristica  geografica. Può essere usata per rappresentare un comune, o un'area che ricomprendere diverse aree ammistrative."@it ;
+                                  "Rappresenta una caratteristica geografica. Può essere usata per rappresentare un comune, o un'area che ricomprendere diverse aree ammistrative."@it ;
                      rdfs:isDefinedBy <http://dati.beniculturali.it/cis/> ;
                      rdfs:label "Area Geografica"@it ,
                                 "Geographical Area"@en ;
@@ -2139,7 +2139,7 @@ nit:Museo_di_Capodimonte
     rdfs:label \"Denominazione nel tempo 'Museo di Capodimonte'\"@it ;
     cis:institutionalName \"Museo di Capodimonte\"@it ;
     cis:altLabel \"Museo Nazionale di Capodimonte\"@it ;
-    cis:isValidDuring ti:Intervallo_di_tempo_per_denominazione_nel_tempo_Museo_di_Capodimonte  .
+    cis:isValidDuring ti:Intervallo_di_tempo_per_denominazione_nel_tempo_Museo_di_Capodimonte .
 
 ti:Intervallo_di_tempo_per_denominazione_nel_tempo_Museo_di_Capodimonte
     a cis:TimeInterval ;
@@ -2163,7 +2163,7 @@ nit:Museo_di_Capodimonte
     rdfs:label \"Denominazione nel tempo 'Museo di Capodimonte'\"@it ;
     cis:institutionalName \"Museo di Capodimonte\"@it ;
     cis:altLabel \"Museo Nazionale di Capodimonte\"@it ;
-    cis:isValidDuring ti:Intervallo_di_tempo_per_denominazione_nel_tempo_Museo_di_Capodimonte  .
+    cis:isValidDuring ti:Intervallo_di_tempo_per_denominazione_nel_tempo_Museo_di_Capodimonte .
 
 ti:Intervallo_di_tempo_per_denominazione_nel_tempo_Museo_di_Capodimonte
     a cis:TimeInterval ;
@@ -2189,7 +2189,7 @@ ti:Intervallo_di_tempo_per_denominazione_nel_tempo_Museo_di_Capodimonte
              rdfs:comment "Concept used to represent a news article."@en ,
                           "Concetto utilizzato per rappresentare un articolo"@it ;
              rdfs:isDefinedBy <http://dati.beniculturali.it/cis/> ;
-             rdfs:label " Articolo"@it ,
+             rdfs:label "Articolo"@it ,
                         "News Article"@en ;
              owl:versionInfo "stabile"@it ,
                              "stable"@en .
@@ -2228,20 +2228,20 @@ An example in turtle is the following:
 <pre>
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite ;
-      cis:hasAccessCondition            orari:Orari_di_apertura_di_Biblioteca_nazionale_centrale_di_Roma_giovedi
+      a cis:Library , cis:CulturalInstituteOrSite ;
+      cis:hasAccessCondition orari:Orari_di_apertura_di_Biblioteca_nazionale_centrale_di_Roma_giovedi
 
 orari:Orari_di_apertura_di_Biblioteca_nazionale_centrale_di_Roma_giovedi
-      a       cis:OpeningHoursSpecification ;
+      a cis:OpeningHoursSpecification ;
       rdfs:label \"Opening Hours of Biblioteca nazionale centrale di Roma - thursday\"@en ,
       \"Orari di apertura di Biblioteca nazionale centrale di Roma - giovedì\"@it ;
       cis:closes \"19:00:00\"^^xsd:time ;
-      cis:hasAdmissionType          addmissionType:Tipo_di_apertura_al_pubblico ;
+      cis:hasAdmissionType addmissionType:Tipo_di_apertura_al_pubblico ;
       cis:hasDayOfWeek cis:Thursday ;
       cis:opens \"08:30:00\"^^xsd:time .
 
 admissionType:Tipo_di_apertura_al_pubblico
-      a       cis:AdmissionType ;
+      a cis:AdmissionType ;
       cis:description \"daily\" .
 
 </pre>"""@en ,
@@ -2257,24 +2257,24 @@ Un esempio in turle è il seguente:
 <pre>
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite ;
-      cis:hasAccessCondition            orari:Orari_di_apertura_di_Biblioteca_nazionale_centrale_di_Roma_giovedi
+      a cis:Library , cis:CulturalInstituteOrSite ;
+      cis:hasAccessCondition orari:Orari_di_apertura_di_Biblioteca_nazionale_centrale_di_Roma_giovedi
 
 orari:Orari_di_apertura_di_Biblioteca_nazionale_centrale_di_Roma_giovedi
-      a       cis:OpeningHoursSpecification ;
+      a cis:OpeningHoursSpecification ;
       rdfs:label \"Opening Hours of Biblioteca nazionale centrale di Roma - thursday\"@en ,
       \"Orari di apertura di Biblioteca nazionale centrale di Roma - giovedì\"@it ;
       cis:closes \"19:00:00\"^^xsd:time ;
-      cis:hasAdmissionType          addmissionType:Tipo_di_apertura_al_pubblico ;
+      cis:hasAdmissionType addmissionType:Tipo_di_apertura_al_pubblico ;
       cis:hasDayOfWeek cis:Thursday ;
       cis:opens \"08:30:00\"^^xsd:time .
 
 admissionType:Tipo_di_apertura_al_pubblico
-      a       cis:AdmissionType ;
+      a cis:AdmissionType ;
       cis:description \"daily\" .
 
 </pre>"""@it ;
-                           rdfs:comment "It represents the opening hours specification "@en ,
+                           rdfs:comment "It represents the opening hours specification"@en ,
                                         "Rappresenta gli orari di apertura"@it ;
                            rdfs:label "Opening Hours Specification"@en ,
                                       "Orari di Apertura"@it ;
@@ -2389,7 +2389,7 @@ roleInTime:Andrea_De_Pasquale_DirectorOfBibliotecaNazionaleCentrale
 timeInteval:Andrea_De_Pasquale_DirectorOfBibliotecaNazionaleCentrale_20130101_20161231
     a cis:TimeInterval ;
     rdfs:label \"Andrea De Pasquale director of Biblioteca Nazionale from 1-1-2013 through 31-12-2016\"@en ;
-    cis:startDate  \"2013-01-01\"^^xsd:dateTime ;
+    cis:startDate \"2013-01-01\"^^xsd:dateTime ;
     cis:endDate \"2016-12-31\"^^xsd:dateTime .
 
 role:Director
@@ -2421,7 +2421,7 @@ roleInTime:Andrea_De_Pasquale_DirectorOfBibliotecaNazionaleCentrale
 timeInteval:Andrea_De_Pasquale_DirectorOfBibliotecaNazionaleCentrale_20130101_20161231
     a cis:TimeInterval ;
     rdfs:label \"Andrea De Pasquale director of Biblioteca Nazionale from 1-1-2013 through 31-12-2016\"@en ;
-    cis:startDate  \"2013-01-01\"^^xsd:dateTime ;
+    cis:startDate \"2013-01-01\"^^xsd:dateTime ;
     cis:endDate \"2016-12-31\"^^xsd:dateTime .
 
 role:Director
@@ -2469,17 +2469,17 @@ The following is an example expressed by using the turtle syntax:
 <pre>
 
 service:Caffetteria
-      a       cis:Service ;
+      a cis:Service ;
       cis:name \"Caffetteria\" .
 
 
 service:Connessione_WI-FI
-      a       cis:Service ;
+      a cis:Service ;
       cis:name \"Connessione WI-FI\" .
 
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite ;
+      a cis:Library , cis:CulturalInstituteOrSite ;
       cis:providesService service:Caffetteria, service:Connessione_WI-FI.
 
 </pre>"""@en ,
@@ -2492,17 +2492,17 @@ Il seguente esempio mostra in turtle l'uso della classe servizio:
 <pre>
 
 service:Caffetteria
-      a       cis:Service ;
+      a cis:Service ;
       cis:name \"Caffetteria\" .
 
 
 service:Connessione_WI-FI
-      a       cis:Service ;
+      a cis:Service ;
       cis:name \"Connessione WI-FI\" .
 
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite ;
+      a cis:Library , cis:CulturalInstituteOrSite ;
       cis:providesService service:Caffetteria, service:Connessione_WI-FI.
 
 </pre>"""@it ;
@@ -2566,7 +2566,7 @@ The following is an example of a Site and its association with a CIS
 
 
 site:Sede_di_Biblioteca_nazionale_centrale_di_Roma
-      a       cis:Site ;
+      a cis:Site ;
       rdfs:label \"Sede Biblioteca nazionale centrale di Roma\"@it ;
       cis:hasAddress address:Indirizzo_della_sede_di_Biblioteca_nazionale_centrale_di_Roma ;
       cis:hasContactPoint contactPoint:Contatti_di_Biblioteca_nazionale_centrale_di_Roma ;
@@ -2576,7 +2576,7 @@ site:Sede_di_Biblioteca_nazionale_centrale_di_Roma
       cis:name \"Sede di: Biblioteca nazionale centrale di Roma\"@it .
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite ;
+      a cis:Library , cis:CulturalInstituteOrSite ;
       cis:hasSite site:Sede_di_Biblioteca_nazionale_centrale_di_Roma .
 
 </pre>"""@en ,
@@ -2595,7 +2595,7 @@ Il seguente esempio in turle mostra una sede associata a un istituto e luogo del
 
 
 site:Sede_di_Biblioteca_nazionale_centrale_di_Roma
-      a       cis:Site ;
+      a cis:Site ;
       rdfs:label \"Sede Biblioteca nazionale centrale di Roma\"@it ;
       cis:hasAddress address:Indirizzo_della_sede_di_Biblioteca_nazionale_centrale_di_Roma ;
       cis:hasContactPoint contactPoint:Contatti_di_Biblioteca_nazionale_centrale_di_Roma ;
@@ -2605,7 +2605,7 @@ site:Sede_di_Biblioteca_nazionale_centrale_di_Roma
       cis:name \"Sede di: Biblioteca nazionale centrale di Roma\"@it .
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite ;
+      a cis:Library , cis:CulturalInstituteOrSite ;
       cis:hasSite site:Sede_di_Biblioteca_nazionale_centrale_di_Roma .
 
 </pre>"""@it ;
@@ -2633,7 +2633,7 @@ cissite:Biblioteca_nazionale_centrale
 <pre>
 
 site:Sede_di_Biblioteca_nazionale_centrale_di_Roma
-      a       cis:Site ;
+      a cis:Site ;
       rdfs:label \"Sede Biblioteca nazionale centrale di Roma\"@it ;
       cis:hasAddress address:Indirizzo_della_sede_di_Biblioteca_nazionale_centrale_di_Roma ;
       cis:hasContactPoint contactPoint:Contatti_di_Biblioteca_nazionale_centrale_di_Roma ;
@@ -2664,7 +2664,7 @@ attribute:Shelving
 <pre>
 
 site:Sede_di_Biblioteca_nazionale_centrale_di_Roma
-      a       cis:Site ;
+      a cis:Site ;
       rdfs:label \"Sede Biblioteca nazionale centrale di Roma\"@it ;
       cis:hasAddress address:Indirizzo_della_sede_di_Biblioteca_nazionale_centrale_di_Roma ;
       cis:hasContactPoint contactPoint:Contatti_di_Biblioteca_nazionale_centrale_di_Roma ;
@@ -2802,8 +2802,8 @@ An example in turtle is the following:
 
 <pre>
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite ;
-      cis:hasAccessCondition            orari:Chiusura_estiva_di_Biblioteca_nazionale_centrale_di_Roma
+      a cis:Library , cis:CulturalInstituteOrSite ;
+      cis:hasAccessCondition orari:Chiusura_estiva_di_Biblioteca_nazionale_centrale_di_Roma
 
 orari:Chiusura_estiva_di_Biblioteca_nazionale_centrale_di_Roma
       cis:hasDate \"2015-08-15\"^^xsd:dateTime ;
@@ -2819,14 +2819,14 @@ Gli individui sono descritti in termini di:
 Un esempio è il seguente:
 <pre>
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite ;
-      cis:hasAccessCondition            orari:Chiusura_estiva_di_Biblioteca_nazionale_centrale_di_Roma
+      a cis:Library , cis:CulturalInstituteOrSite ;
+      cis:hasAccessCondition orari:Chiusura_estiva_di_Biblioteca_nazionale_centrale_di_Roma
 
 orari:Chiusura_estiva_di_Biblioteca_nazionale_centrale_di_Roma
       cis:hasDate \"2015-08-15\"^^xsd:dateTime ;
       cis:hasReason \"Chiusura estiva\" ;
 </pre>"""@it ;
-                  rdfs:comment "It represents the information on the temporary closure "@en ,
+                  rdfs:comment "It represents the information on the temporary closure"@en ,
                                "Rappresenta le informazioni sulla chiusura temporanea"@it ;
                   rdfs:label "Chiusura Temporanea"@it ,
                              "Temporary Closure"@en ;
@@ -2850,7 +2850,7 @@ orari:Chiusura_estiva_di_Biblioteca_nazionale_centrale_di_Roma
 <pre>
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite ;
+      a cis:Library , cis:CulturalInstituteOrSite ;
       rdfs:label \"Biblioteca nazionale centrale\"@it ;
       cis:ISILIdentifier \"IT-RM0267\" ;
       cis:hasAccessCondition tc:Biblioteca_nazionale_centrale_temporary_closure .
@@ -2883,7 +2883,7 @@ tct:Renovation
 <pre>
 
 cissite:Biblioteca_nazionale_centrale
-      a       cis:Library , cis:CulturalInstituteOrSite ;
+      a cis:Library , cis:CulturalInstituteOrSite ;
       rdfs:label \"Biblioteca nazionale centrale\"@it ;
       cis:ISILIdentifier \"IT-RM0267\" ;
       cis:hasAccessCondition tc:Biblioteca_nazionale_centrale_temporary_closure .
@@ -2911,8 +2911,8 @@ tct:Renovation
     cis:description \"Chiusura per Restauro\";@it .
 
 </pre>"""@it ;
-                      rdfs:comment "It represents the type of temporary. Examples can be: closed for renovation, unfit for use, etc. "@en ,
-                                   "Rappresenta il tipo di chiusura temporanea. Per esempio: per restauro, per inagibilità, ecc. "@it ;
+                      rdfs:comment "It represents the type of temporary. Examples can be: closed for renovation, unfit for use, etc."@en ,
+                                   "Rappresenta il tipo di chiusura temporanea. Per esempio: per restauro, per inagibilità, ecc."@it ;
                       rdfs:label "Tipo di Chiusura Temporanea"@it ,
                                  "Type of Temporary Closure"@en ;
                       owl:versionInfo "stabile"@it ,
@@ -3334,7 +3334,7 @@ cissite:Archivio_di_Stato_di_Oristano
     cis:ISILIdentifier \"IT-EX0006\" .
 
 </pre>"""@it ;
-                 rdfs:comment "This class represents a specific tyep of cultural institute or site, i.e.,  Holder of Archive"@en ;
+                 rdfs:comment "This class represents a specific tyep of cultural institute or site, i.e., Holder of Archive"@en ;
                  dc:description """An example of usage of the class cis:HolderOfArchive is the following:
 
 <pre>

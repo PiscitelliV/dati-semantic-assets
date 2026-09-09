@@ -15,7 +15,7 @@
         owl:versionInfo   "stabile"@it , "stable"@en .
 
 :Offset  a                owl:Class ;
-        rdfs:comment      "Questa classe rappresenta l'errore di compensazione, ovvero  la differenza tra il valore reale di uscita e il valore di uscita specificato in alcune particolari condizioni."@it , "It represents the offset error; that is, the difference between the actual output value and the specified output value under some particular set of conditions."@en ;
+        rdfs:comment      "Questa classe rappresenta l'errore di compensazione, ovvero la differenza tra il valore reale di uscita e il valore di uscita specificato in alcune particolari condizioni."@it , "It represents the offset error; that is, the difference between the actual output value and the specified output value under some particular set of conditions."@en ;
         rdfs:isDefinedBy  <http://dati.gov.it/onto/iotapit> ;
         rdfs:label        "Compensazione"@it , "Offset"@en ;
         rdfs:subClassOf   :MeasurementQuality ;
@@ -72,7 +72,7 @@
 
 :isValueForObservationParameter
         a                 owl:ObjectProperty ;
-        rdfs:comment      "Proprietà inversa di ha valore dell'osservazione che lega un valore dell'osservazione al parametro dell'osservazione."@it , "Inverse property of has observation value that links an observation value to the  observation parameter"@en ;
+        rdfs:comment      "Proprietà inversa di ha valore dell'osservazione che lega un valore dell'osservazione al parametro dell'osservazione."@it , "Inverse property of has observation value that links an observation value to the observation parameter"@en ;
         rdfs:domain       :ObservationValue ;
         rdfs:isDefinedBy  : ;
         rdfs:label        "is value for observation parameter"@en , "è valore per parametro osservazione"@it ;
@@ -82,7 +82,7 @@
 
 <http://www.w3.org/ns/ssn/SystemProperty>
         a                 owl:Class ;
-        rdfs:comment      "Questa classe è definita in http://www.w3.org/ns/ssn/ ed è utilizzata per l'allineamento dell'ontologia alla Semantic Network Ontology. La classe modella una caratteristica identificabile e osservabile che rappresenta l'abilità del sistema di operare secondo il suo principale scopo."@it , "This class is defined in http://www.w3.org/ns/ssn/ and it is used to align the ontology with the Semantic Sensor Network Ontology. The class models  An identifiable and observable characteristic that represents the System's ability to operate its primary purpose."@en ;
+        rdfs:comment      "Questa classe è definita in http://www.w3.org/ns/ssn/ ed è utilizzata per l'allineamento dell'ontologia alla Semantic Network Ontology. La classe modella una caratteristica identificabile e osservabile che rappresenta l'abilità del sistema di operare secondo il suo principale scopo."@it , "This class is defined in http://www.w3.org/ns/ssn/ and it is used to align the ontology with the Semantic Sensor Network Ontology. The class models An identifiable and observable characteristic that represents the System's ability to operate its primary purpose."@en ;
         rdfs:isDefinedBy  <http://www.w3.org/ns/ssn/> ;
         rdfs:label        "Proprietà Sistema"@it , "System Property"@en ;
         owl:versionInfo   "stabile"@it , "stable"@en .
@@ -140,7 +140,7 @@ prov:wasDerivedFrom  a  owl:AnnotationProperty .
         owl:versionInfo   "stable"@en , "stabile"@it .
 
 :Precision  a             owl:Class ;
-        rdfs:comment      "Questa classe rappresenta la Precisione, ovvero il grado di riproducibilità di una misura. In altre parole, se esattamente gli stessi valori sono stati misurati un certo numero di volte, un sensor ideale produrrebbe come output esattamente lo stesso valore ogni volta."@it , "It represents the Precision; i.e., the  degree of reproducibility of a measurement. In other words, if exactly the same values were measured a number of times, an ideal sensor would output exactly the same value every time."@en ;
+        rdfs:comment      "Questa classe rappresenta la Precisione, ovvero il grado di riproducibilità di una misura. In altre parole, se esattamente gli stessi valori sono stati misurati un certo numero di volte, un sensor ideale produrrebbe come output esattamente lo stesso valore ogni volta."@it , "It represents the Precision; i.e., the degree of reproducibility of a measurement. In other words, if exactly the same values were measured a number of times, an ideal sensor would output exactly the same value every time."@en ;
         rdfs:isDefinedBy  <http://dati.gov.it/onto/iotapit> ;
         rdfs:label        "Precisione"@it , "Precision"@en ;
         rdfs:subClassOf   :MeasurementQuality ;
@@ -157,7 +157,7 @@ prov:wasDerivedFrom  a  owl:AnnotationProperty .
 
 <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Parameter>
         a                 owl:Class ;
-        rdfs:comment      "Questa classe è definita in http://www.ontologydesignpatterns.org/ont/dul/DUL.owl ed è utilizzata per l'allineamento dell'ontologia all'ontologia fondazionale DUL. La classe rappresenta un concetto che classifica una regione. La differenza tra una regione e un parametro è che la regione rappresenta insiemi di valori osservabili, e.g., l'altezza di un dato edificio mentre il parametro rappresenta vincoli o selezioni su valori osservabili , e.g., \"molto alto\"."@it , "This class is defined in http://www.ontologydesignpatterns.org/ont/dul/DUL.owl and it is used to align this ontology to the foundational one DUL. The class represents a Concept that classifies a Region; the difference between a Region and a Parameter is that regions represent sets of observable values, e.g. the height  of a given building, while parameters represent constraints or selections on observable values, e.g. 'VeryHigh'."@en ;
+        rdfs:comment      "Questa classe è definita in http://www.ontologydesignpatterns.org/ont/dul/DUL.owl ed è utilizzata per l'allineamento dell'ontologia all'ontologia fondazionale DUL. La classe rappresenta un concetto che classifica una regione. La differenza tra una regione e un parametro è che la regione rappresenta insiemi di valori osservabili, e.g., l'altezza di un dato edificio mentre il parametro rappresenta vincoli o selezioni su valori osservabili , e.g., \"molto alto\"."@it , "This class is defined in http://www.ontologydesignpatterns.org/ont/dul/DUL.owl and it is used to align this ontology to the foundational one DUL. The class represents a Concept that classifies a Region; the difference between a Region and a Parameter is that regions represent sets of observable values, e.g. the height of a given building, while parameters represent constraints or selections on observable values, e.g. 'VeryHigh'."@en ;
         rdfs:isDefinedBy  <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl> ;
         rdfs:label        "Parametro"@it , "Parameter"@en ;
         owl:versionInfo   "stabile"@it , "stable"@en .
@@ -257,7 +257,7 @@ dc:creator  a   owl:AnnotationProperty .
 
 <http://dati.gov.it/onto/iotapit/purl.org/dc/terms/description>
         a                owl:DatatypeProperty ;
-        rdfs:comment     "This property is defined in http://purl.org/dc/terms and it has been added in order to model the description of the Things of the Italian  IoT Applicaiton Profile."@en , "Questa proprietà è definita in http://purl.org/dc/terms ed è stata aggiunta allo scopo di modellare le descrizioni delle \"cose\" del profilo applicativo italiano per IoT."@it ;
+        rdfs:comment     "This property is defined in http://purl.org/dc/terms and it has been added in order to model the description of the Things of the Italian IoT Applicaiton Profile."@en , "Questa proprietà è definita in http://purl.org/dc/terms ed è stata aggiunta allo scopo di modellare le descrizioni delle \"cose\" del profilo applicativo italiano per IoT."@it ;
         rdfs:comment     <http://purl.org/dc/terms> ;
         rdfs:domain      owl:Thing ;
         rdfs:label       "descrizione"@it , "description"@en ;
@@ -278,7 +278,7 @@ dc:creator  a   owl:AnnotationProperty .
         owl:versionInfo      "unstable"@en , "instabile"@it .
 
 :Sensor  a                owl:Class ;
-        rdfs:comment      "Questa classe rappresenta un sensore. Un sensore è uno strumento il cui scopo è quello di rilevare e rispondere a eventi o cambiamenti che avvengono nel proprio ambienti. L'informazione rilevata può essere  utilizzata e distribuita per successive elaborazioni."@it , "This class represents a sensor. A sensor is a device whose purpose is to detect and respond to events or changes in its environment. The detected information can be used and disseminated for successive elaborations."@en ;
+        rdfs:comment      "Questa classe rappresenta un sensore. Un sensore è uno strumento il cui scopo è quello di rilevare e rispondere a eventi o cambiamenti che avvengono nel proprio ambienti. L'informazione rilevata può essere utilizzata e distribuita per successive elaborazioni."@it , "This class represents a sensor. A sensor is a device whose purpose is to detect and respond to events or changes in its environment. The detected information can be used and disseminated for successive elaborations."@en ;
         rdfs:isDefinedBy  <http://dati.gov.it/onto/iotapit> ;
         rdfs:label        "Sensore"@it , "Sensor"@en ;
         rdfs:subClassOf   [ a                  owl:Restriction ;
@@ -324,7 +324,7 @@ dc:creator  a   owl:AnnotationProperty .
         owl:versionInfo   "stabile"@it , "stable"@en .
 
 :generationTime  a          owl:ObjectProperty ;
-        rdfs:comment        "Questa proprietà è sotto proprietà di atTime e mira a rappresentare il tempo di generazione  dell'osservazione di un qualsiasi evento IoT. Nell'ambito dei dati raccolti sul traffico è il tempo di invocazione delle API del sensore"@it , "This property is subproperty of atTime and aims at representing the generation time of the observation in case of any IoT event. In the context of the real time traffic data collected, it is the sensor API time invocation."@en ;
+        rdfs:comment        "Questa proprietà è sotto proprietà di atTime e mira a rappresentare il tempo di generazione dell'osservazione di un qualsiasi evento IoT. Nell'ambito dei dati raccolti sul traffico è il tempo di invocazione delle API del sensore"@it , "This property is subproperty of atTime and aims at representing the generation time of the observation in case of any IoT event. In the context of the real time traffic data collected, it is the sensor API time invocation."@en ;
         rdfs:domain         :Observation ;
         rdfs:isDefinedBy    : ;
         rdfs:label          "tempo di generazione"@it , "generation time"@en ;
@@ -435,7 +435,7 @@ dc:creator  a   owl:AnnotationProperty .
         owl:versionInfo   "stabile"@it , "stable"@en .
 
 :RoadSegment  a           owl:Class ;
-        rdfs:comment      "Classe che rappresenta un arco stradale. Se l'ontologia è utilizzata per rappresentare eventi IoT nell'ambito dei dati real time sul traffico, la classe è rilevante e connota l'arco stradale dell'osservazione."@it , "This class represents the Road Segment  If the ontology is used to represent IoT events in the context of real time data traffic, the class is revelant and it represents the road segment of the observation."@en ;
+        rdfs:comment      "Classe che rappresenta un arco stradale. Se l'ontologia è utilizzata per rappresentare eventi IoT nell'ambito dei dati real time sul traffico, la classe è rilevante e connota l'arco stradale dell'osservazione."@it , "This class represents the Road Segment If the ontology is used to represent IoT events in the context of real time data traffic, the class is revelant and it represents the road segment of the observation."@en ;
         rdfs:isDefinedBy  <http://dati.gov.it/onto/iotapit> ;
         rdfs:label        "Arco Stradale"@it , "Road Segment"@en ;
         rdfs:subClassOf   :FeatureOfInterest ;
@@ -481,7 +481,7 @@ terms:modified  a    owl:DatatypeProperty ;
 
 <http://dati.gov.it/onto/clapit/Geometry>
         a                 owl:Class ;
-        rdfs:comment      "Questa classe rappresenta una geometria. La geometria è uno strumento per rappresentare un luogo come un punto, una linea un poligono, ecc. espresso utilizzando coordinate geografiche definite nell'ambito di un sistema di riferimento di coordinate geografiche. La classe è definita è definita nel profilo application italiano core location. Le sue proprietà non sono tuttavia definite nell'OWL dal momento che, in pratica, meccanismi di codifica di geometrie includono già tutte queste proprietà. Aalmeno una delle seguenti codifiche deve essere utilizzata: GML o WKT."@it , "This class represents a geometry. A geometry provides the means to identify a location as a point, line, polygon, etc. expressed using coordinates in some coordinate reference system. The class is defined in the italian core location application profile.. Its properties  are not defined in the OWL since in practice  geometry encodings all include already these properties. At least one of the following encodings must be used: GML or WKT."@en ;
+        rdfs:comment      "Questa classe rappresenta una geometria. La geometria è uno strumento per rappresentare un luogo come un punto, una linea un poligono, ecc. espresso utilizzando coordinate geografiche definite nell'ambito di un sistema di riferimento di coordinate geografiche. La classe è definita è definita nel profilo application italiano core location. Le sue proprietà non sono tuttavia definite nell'OWL dal momento che, in pratica, meccanismi di codifica di geometrie includono già tutte queste proprietà. Aalmeno una delle seguenti codifiche deve essere utilizzata: GML o WKT."@it , "This class represents a geometry. A geometry provides the means to identify a location as a point, line, polygon, etc. expressed using coordinates in some coordinate reference system. The class is defined in the italian core location application profile.. Its properties are not defined in the OWL since in practice geometry encodings all include already these properties. At least one of the following encodings must be used: GML or WKT."@en ;
         rdfs:isDefinedBy  <http://dati.gov.it/onto/clapit> ;
         rdfs:label        "Geometria"@it , "Geometry"@en ;
         owl:versionInfo   "stabile"@it , "stable"@en .

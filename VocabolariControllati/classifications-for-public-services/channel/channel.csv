@@ -1,12 +1,12 @@
 codice_1_livello,label_ITA_1_livello,label_ENG_1_livello,label_DEU_1_livello,codice_2_livello,label_ITA_2_livello,label_ENG_2_livello,label_DEU_2_livello,codice_3_livello,Label_ITA_3_livello,label_ENG_3_livello,label_DEU_3_livello
-01, Non telematico,Non-electronic,Nicht Telematisch,01.1,Non telematico diretto,Direct non-electronic,Nicht-direkte Telematik,01.1.1,Sportello Pubblica Amministrazione,Public Administration information desk,Informationsstelle der öffentlichen Verwaltung
-01, Non telematico,Non-electronic,Nicht Telematisch,01.1,Non telematico diretto,Direct non-electronic,Nicht-direkte Telematik,01.1.2,Domicilio del cittadino,Citizen residence,Wohnsitz des Bürgers
-01, Non telematico,Non-electronic,Nicht Telematisch,01.1,Non telematico diretto,Direct non-electronic,Nicht-direkte Telematik,01.1.3,Cassa automatica,Paymnet machine,Automatische Kasse
-01, Non telematico,Non-electronic,Nicht Telematisch,01.2,Non telematico con intermediario,Direct non-electronic with mediator,Nicht telematisch mit Vermittler,01.2.1,Posta,Post,Post
-01, Non telematico,Non-electronic,Nicht Telematisch,01.2,Non telematico con intermediario,Direct non-electronic with mediator,Nicht telematisch mit Vermittler,01.2.2,Tabaccaio - Ricevitoria,Tobacco shop - box office,Tabakladen - Abendkasse
-01, Non telematico,Non-electronic,Nicht Telematisch,01.2,Non telematico con intermediario,Direct non-electronic with mediator,Nicht telematisch mit Vermittler,01.2.3,GDO - Grande Distribuzione Organizzata,Large scale distribution,Organisierter Großvertrieb
-01, Non telematico,Non-electronic,Nicht Telematisch,01.2,Non telematico con intermediario,Direct non-electronic with mediator,Nicht telematisch mit Vermittler,01.2.4,CAF/Patronato,Assistance Centre,Assistenzzentrum
-01, Non telematico,Non-electronic,Nicht Telematisch,01.2,Non telematico con intermediario,Direct non-electronic with mediator,Nicht telematisch mit Vermittler,01.2.5,Altro intermediario,Other mediator,Sonstiger Vermittler
+01,Non telematico,Non-electronic,Nicht Telematisch,01.1,Non telematico diretto,Direct non-electronic,Nicht-direkte Telematik,01.1.1,Sportello Pubblica Amministrazione,Public Administration information desk,Informationsstelle der öffentlichen Verwaltung
+01,Non telematico,Non-electronic,Nicht Telematisch,01.1,Non telematico diretto,Direct non-electronic,Nicht-direkte Telematik,01.1.2,Domicilio del cittadino,Citizen residence,Wohnsitz des Bürgers
+01,Non telematico,Non-electronic,Nicht Telematisch,01.1,Non telematico diretto,Direct non-electronic,Nicht-direkte Telematik,01.1.3,Cassa automatica,Paymnet machine,Automatische Kasse
+01,Non telematico,Non-electronic,Nicht Telematisch,01.2,Non telematico con intermediario,Direct non-electronic with mediator,Nicht telematisch mit Vermittler,01.2.1,Posta,Post,Post
+01,Non telematico,Non-electronic,Nicht Telematisch,01.2,Non telematico con intermediario,Direct non-electronic with mediator,Nicht telematisch mit Vermittler,01.2.2,Tabaccaio - Ricevitoria,Tobacco shop - box office,Tabakladen - Abendkasse
+01,Non telematico,Non-electronic,Nicht Telematisch,01.2,Non telematico con intermediario,Direct non-electronic with mediator,Nicht telematisch mit Vermittler,01.2.3,GDO - Grande Distribuzione Organizzata,Large scale distribution,Organisierter Großvertrieb
+01,Non telematico,Non-electronic,Nicht Telematisch,01.2,Non telematico con intermediario,Direct non-electronic with mediator,Nicht telematisch mit Vermittler,01.2.4,CAF/Patronato,Assistance Centre,Assistenzzentrum
+01,Non telematico,Non-electronic,Nicht Telematisch,01.2,Non telematico con intermediario,Direct non-electronic with mediator,Nicht telematisch mit Vermittler,01.2.5,Altro intermediario,Other mediator,Sonstiger Vermittler
 02,Applicativo,Application,Applikation,02.1,Applicazione con compilazione modulo libero,Application with free form,Online-Formular nicht ausgefüllt,,,,
 02,Applicativo,Application,Applikation,02.2,Applicazione con modulo precompilato,Application with pre-filled form,Vorkompiliertes Online-Modul,,,,
 02,Applicativo,Application,Applikation,,,,,,,,

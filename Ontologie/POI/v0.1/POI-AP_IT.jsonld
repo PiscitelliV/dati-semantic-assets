@@ -300,13 +300,13 @@
         },
         {
           "@language": "en",
-          "@value": "Version 0.1 - 16 October 2017 - Creation of the ontology "
+          "@value": "Version 0.1 - 16 October 2017 - Creation of the ontology"
         }
       ],
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa è l'ontologia del profilo  italiano sui Punti di Interesse (Point of Interest - Italian Application Profile - POI-AP_IT)"
+          "@value": "Questa è l'ontologia del profilo italiano sui Punti di Interesse (Point of Interest - Italian Application Profile - POI-AP_IT)"
         },
         {
           "@language": "en",
@@ -967,7 +967,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa proprietà lega un punto di interesse multiplo a tutti i  punti di interesse in esso contenuti."
+          "@value": "Questa proprietà lega un punto di interesse multiplo a tutti i punti di interesse in esso contenuti."
         },
         {
           "@language": "en",

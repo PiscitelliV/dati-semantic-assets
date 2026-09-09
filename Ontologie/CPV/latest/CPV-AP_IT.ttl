@@ -582,7 +582,7 @@ CLV:hasAddress rdf:type owl:ObjectProperty .
          rdfs:subPropertyOf l0:description ;
          rdfs:domain :Sex ;
          rdfs:range rdfs:Literal ;
-         rdfs:comment "Property used to represent the sex as defined in the related Sex controlled vocabulary  https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex"@en ,
+         rdfs:comment "Property used to represent the sex as defined in the related Sex controlled vocabulary https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex"@en ,
                       "Proprietà utilizzata per rappresentare il sesso di una persona come definito nel vocabolario controllato sul sesso: https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex"@it ;
          rdfs:isDefinedBy <https://w3id.org/italia/onto/CPV> ;
          rdfs:label "descrizione sesso"@it ,
@@ -598,7 +598,7 @@ CLV:hasAddress rdf:type owl:ObjectProperty .
        rdf:type owl:FunctionalProperty ;
        rdfs:domain :Sex ;
        rdfs:range rdfs:Literal ;
-       rdfs:comment "Codice della voce del vocabolario controllato sul sesso  https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex. Esso assume i valori \"M\" e \"F\"."@it ,
+       rdfs:comment "Codice della voce del vocabolario controllato sul sesso https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex. Esso assume i valori \"M\" e \"F\"."@it ,
                     "Sex code used in the sex controlled vocabulary https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex. It assumes the values \"F\" and \"M\"."@en ;
        rdfs:isDefinedBy <https://w3id.org/italia/onto/CPV> ;
        rdfs:label "codice sesso"@it ,
@@ -613,7 +613,7 @@ CLV:hasAddress rdf:type owl:ObjectProperty .
          rdfs:subPropertyOf l0:identifier ;
          rdfs:domain :Person ;
          rdfs:range rdfs:Literal ;
-         rdfs:comment "Il codice fiscale di  una persona."@it ,
+         rdfs:comment "Il codice fiscale di una persona."@it ,
                       "The tax code of a person."@en ;
          rdfs:isDefinedBy <https://w3id.org/italia/onto/CPV> ;
          rdfs:label "codice fiscale"@it ,

@@ -53,7 +53,7 @@
         "@value": "2018-06-25"
       },
       "dcterms:description": [
-        "Questi sono gli allineamenti dell'ontologia sulle condizioni d'accesso Access Condition - Italian Application Profile  (AC-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate.",
+        "Questi sono gli allineamenti dell'ontologia sulle condizioni d'accesso Access Condition - Italian Application Profile (AC-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate.",
         {
           "@language": "en",
           "@value": "These are the alignments to external ontologies widely used and available at the state of the art for access condition ontology"

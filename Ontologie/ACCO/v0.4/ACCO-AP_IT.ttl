@@ -60,8 +60,8 @@
                                      admsapit:prev <https://w3id.org/italia/onto/ACCO/0.3> ;
                                      admsapit:last <https://w3id.org/italia/onto/ACCO/0.4> ;
                                      dcat:theme <http://publications.europa.eu/resource/authority/data-theme/EDUC> ;
-                                     dct:description "Questa è l'ontologia del profilo  italiano sulle Strutture Ricettive (Accomodation Facility - Italian Application Profile - ACCO-AP_IT)"@it ;
-                                     rdfs:comment "Questa è l'ontologia del profilo  italiano sulle Strutture Ricettive (Accomodation Facility - Italian Application Profile - ACCO-AP_IT)"@it ;
+                                     dct:description "Questa è l'ontologia del profilo italiano sulle Strutture Ricettive (Accomodation Facility - Italian Application Profile - ACCO-AP_IT)"@it ;
+                                     rdfs:comment "Questa è l'ontologia del profilo italiano sulle Strutture Ricettive (Accomodation Facility - Italian Application Profile - ACCO-AP_IT)"@it ;
                                      dct:license <https://creativecommons.org/licenses/by/4.0/> ;
                                      admsapit:target "Imprese" ;
                                      dcat:contactPoint <https://w3id.org/italia/data/contact-point/onto-agid> ;
@@ -180,7 +180,7 @@ l0:controlledVocabulary rdf:type owl:AnnotationProperty .
                rdfs:comment "Questa proprietà collega la descrizione dei servizi offerti alla caratteristica descritta. Esempi di caratteristica sono: lo spazio occupato per una stanza, camera da letto per la struttura ricettiva, unità abitative, posto letto, ecc."@it ,
                             "This property links the description of the offered services to its feature (or attribute or characteristic)."@en ;
                rdfs:isDefinedBy <https://w3id.org/italia/onto/ACCO> ;
-               rdfs:label "ha caratteristica  descrizione servizi offerti"@it ,
+               rdfs:label "ha caratteristica descrizione servizi offerti"@it ,
                           "has offered service description feature"@en ;
                owl:versionInfo "stable"@en ,
                                "stable"@it .
@@ -195,7 +195,7 @@ l0:controlledVocabulary rdf:type owl:AnnotationProperty .
                                           ] ;
                               rdfs:range :OfferedServiceDescription ;
                               rdfs:comment "Questa proprietà collega una struttura ricettiva ( o una camera della struttura ricettiva) alla descrizione di tutti i possibili servizi offerti dalla struttura (camera) stessa."@it ,
-                                           "This property links an accommodation facility (or an accommodation room)  to the description of the offered services."@en ;
+                                           "This property links an accommodation facility (or an accommodation room) to the description of the offered services."@en ;
                               rdfs:isDefinedBy <https://w3id.org/italia/onto/ACCO> ;
                               rdfs:label "ha descrizione servizi offerti"@it ,
                                          "has offered service description"@en ;
@@ -638,7 +638,7 @@ l0:name rdf:type owl:DatatypeProperty .
                                      owl:allValuesFrom rdfs:Literal
                                    ] ;
                    rdfs:comment "Questa è una classe astratta utilizzta per modellare una camera/stanza di una struttura ricettiva."@it ,
-                                "This is an abstract class  used to model a  room of the accommodation facility."@en ;
+                                "This is an abstract class used to model a room of the accommodation facility."@en ;
                    rdfs:isDefinedBy <https://w3id.org/italia/onto/ACCO> ;
                    rdfs:label "Accommodation Room"@en ,
                               "Camera (Stanza) della Struttura Ricettiva"@it ;

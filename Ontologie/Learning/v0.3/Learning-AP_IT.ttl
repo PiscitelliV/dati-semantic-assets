@@ -473,7 +473,7 @@ xsd:date rdf:type rdfs:Datatype .
                                     )
                       ] ;
           rdfs:range :Grade ;
-          rdfs:comment "Property allowing a grade to be specified in the  qualification obtained or in each examination taken."@en ,
+          rdfs:comment "Property allowing a grade to be specified in the qualification obtained or in each examination taken."@en ,
                        "Proprietà che consente di specificare un voto nella qualifica finale ottenuto o in ciascun esame sostenuto."@it ;
           rdfs:isDefinedBy <https://w3id.org/italia/onto/Learning> ;
           rdfs:label "ha voto"@it ,
@@ -773,7 +773,7 @@ La proprietà è usata con la relativa classe 'Anno Accademico' per indicare il 
             rdfs:domain :Grade ;
             rdfs:range rdfs:Literal ;
             rdfs:comment "Il valore numerico del risultato (voto) conseguito da uno studente. Esempio: 26 oppure anche 26/30."@it ,
-                         "The numerical value of the result (grade) achieved by a student. Example: 26 or  26/30."@en ;
+                         "The numerical value of the result (grade) achieved by a student. Example: 26 or 26/30."@en ;
             rdfs:isDefinedBy <https://w3id.org/italia/onto/Learning> ;
             rdfs:label "grade value"@en ,
                        "valore voto"@it ;
@@ -1193,7 +1193,7 @@ L'iscrizione ha una validità temporale."""@it ;
                          owl:onProperty :gradeValue ;
                          owl:cardinality "1"^^xsd:nonNegativeInteger
                        ] ;
-       rdfs:comment "Il risultato (voto) conseguito dallo studente (riportato in rapporto al voto massimo  conseguibile)"@it ,
+       rdfs:comment "Il risultato (voto) conseguito dallo studente (riportato in rapporto al voto massimo conseguibile)"@it ,
                     "The assigned mark for an achievement of a student"@en ,
                     "The class of the result (grade) achieved by the student (reported in relation to the maximum attainable grade)"@en ;
        rdfs:isDefinedBy <https://w3id.org/italia/onto/Learning> ;
@@ -1251,7 +1251,7 @@ L'iscrizione ha una validità temporale."""@it ;
 In the case of higher education, any institution providing higher education courses capable of awarding the qualifications referred to in Article 3 of Italian Ministerial Decree No 270 of 22 October 2004 and those referred to in Article 3 of Italian Presidential Decree No 212 of 8 July 2005."""@en ,
                         """Ogni Istituto che eroga corsi di istruzione atto a rilasciare titoli.
 
-Nel caso di istruzione superiore, ogni istituto che eroga corsi di istruzione superiore atto a rilasciare i titoli di cui all'art. 3 del decreto ministeriale 22 ottobre 2004, n. 270 del  2004 nonche' quelli di cui all'art. 3 del  decreto  del  Presidente  della Repubblica 8 luglio 2005, n. 212."""@it ;
+Nel caso di istruzione superiore, ogni istituto che eroga corsi di istruzione superiore atto a rilasciare i titoli di cui all'art. 3 del decreto ministeriale 22 ottobre 2004, n. 270 del 2004 nonche' quelli di cui all'art. 3 del decreto del Presidente della Repubblica 8 luglio 2005, n. 212."""@it ;
            rdfs:isDefinedBy <https://w3id.org/italia/onto/Learning> ;
            rdfs:label "Institute"@en ,
                       "Istituto di (Alta) Formazione"@it ;

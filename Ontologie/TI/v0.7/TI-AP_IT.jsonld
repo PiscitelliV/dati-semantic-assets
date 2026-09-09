@@ -1907,7 +1907,7 @@
         },
         {
           "@language": "en",
-          "@value": "This property  is used in order to model the update time."
+          "@value": "This property is used in order to model the update time."
         }
       ],
       "rdfs:domain": {
@@ -2271,7 +2271,7 @@
         },
         {
           "@language": "it",
-          "@value": "Versione 0.7 - Modificata il 01 Ottobre 2020 - Introduzione della proprietà hasTimeParameter (ha parametro del tempo) per poter specificare parametri o qualità delle entità temporali quali per esempio \"stimato\"  \"effettivo\", ecc. Questa proprietà è utile in tutti quei casi di modellazione di date che sono previste o stimate o pianificate (nel dominio del procurement o delle analisi cliniche questo è piuttosto diffuso). Introduzione inoltre di Istante Temporale inteso come una classe con specifiche proprietà. L'istante temporale è collegato all'intervallo temporale, già presente in precedenti versioni dell'ontologia."
+          "@value": "Versione 0.7 - Modificata il 01 Ottobre 2020 - Introduzione della proprietà hasTimeParameter (ha parametro del tempo) per poter specificare parametri o qualità delle entità temporali quali per esempio \"stimato\" \"effettivo\", ecc. Questa proprietà è utile in tutti quei casi di modellazione di date che sono previste o stimate o pianificate (nel dominio del procurement o delle analisi cliniche questo è piuttosto diffuso). Introduzione inoltre di Istante Temporale inteso come una classe con specifiche proprietà. L'istante temporale è collegato all'intervallo temporale, già presente in precedenti versioni dell'ontologia."
         }
       ],
       "rdfs:comment": [

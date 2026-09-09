@@ -26,7 +26,7 @@
                                     dct:creator <http://spcdata.digitpa.gov.it/browse/page/Amministrazione/ISTAT> ,
                                                 <http://spcdata.digitpa.gov.it/browse/page/Amministrazione/age> ,
                                                 <http://spcdata.digitpa.gov.it/browse/page/Amministrazione/agid> ;
-                                    dct:description "Questa è l'ontologia del profilo di italiano sugli indirizzi e i luoghi (Italian Core Location Vocabulary - Application Profile  - CLV-AP_IT)"@it ,
+                                    dct:description "Questa è l'ontologia del profilo di italiano sugli indirizzi e i luoghi (Italian Core Location Vocabulary - Application Profile - CLV-AP_IT)"@it ,
                                                     "This is the ontology of the Italian application profile for Location and Addresses"@en ;
                                     dct:issued "2017-08-07"^^xsd:date ;
                                     dct:language <http://publications.europa.eu/resource/authority/language/ENG> ,
@@ -36,7 +36,7 @@
                                     dct:rightsHolder <http://spcdata.digitpa.gov.it/browse/page/Amministrazione/ISTAT> ;
                                     dct:title "Address(Location) Ontology"@en ,
                                               "Ontologia degli Indirizzi/Luoghi"@it ;
-                                    rdfs:comment "Questa è l'ontologia del profilo di italiano sugli indirizzi e i luoghi (Italian Core Location Vocabulary - Application Profile  - CLV-AP_IT)"@it ,
+                                    rdfs:comment "Questa è l'ontologia del profilo di italiano sugli indirizzi e i luoghi (Italian Core Location Vocabulary - Application Profile - CLV-AP_IT)"@it ,
                                                  "This is the ontology of the Italian application profile for Location and Addresses"@en ;
                                     rdfs:isDefinedBy : ;
                                     rdfs:label "Address(Location) Ontology"@en ,
@@ -252,7 +252,7 @@ xsd:time rdf:type rdfs:Datatype .
          owl:propertyChainAxiom ( :hasAddress
                                   :hasCity
                                 ) ;
-         rdfs:comment "Questa proprietà è usata per collegare l'indirizzo  al comune dello stesso.  Esempio di comune: Roma, Bologna, Palermo, Milano, ecc."@it ,
+         rdfs:comment "Questa proprietà è usata per collegare l'indirizzo al comune dello stesso. Esempio di comune: Roma, Bologna, Palermo, Milano, ecc."@it ,
                       "This property links the address to the city."@en ;
          rdfs:isDefinedBy <https://w3id.org/italia/onto/CLV> ;
          rdfs:label "ha città"@it ,
@@ -331,7 +331,7 @@ xsd:time rdf:type rdfs:Datatype .
                                          ] ;
                              rdfs:range :GeographicalDistribution ;
                              rdfs:comment "Property that links the componentsi city, province, region to a geographical distribution"@en ,
-                                          "Proprietà che lega le componenti città, provincia/città metropolitana, regione  a una ripartizione geografica"@it ;
+                                          "Proprietà che lega le componenti città, provincia/città metropolitana, regione a una ripartizione geografica"@it ;
                              rdfs:isDefinedBy <https://w3id.org/italia/onto/CLV> ;
                              rdfs:label "ha ripartizione geografica"@it ,
                                         "has geographical distribution"@en ;
@@ -372,7 +372,7 @@ xsd:time rdf:type rdfs:Datatype .
                rdfs:domain :AdminUnitComponent ;
                rdfs:range :AdminUnitComponent ;
                rdfs:comment "Questa proprietà è utilizzata per mettere in relazione due componenti dell'indirizzo che hanno un nome, dove la prima è più specifica della seconda."@it ,
-                            "This property is used to  relate two named address component, where the first is more specific than the second."@en ;
+                            "This property is used to relate two named address component, where the first is more specific than the second."@en ;
                rdfs:isDefinedBy <https://w3id.org/italia/onto/CLV> ;
                rdfs:label "ha livello più alto"@it ,
                           "has higher rank"@en ;
@@ -468,7 +468,7 @@ xsd:time rdf:type rdfs:Datatype .
            rdfs:subPropertyOf :hasAddressComponent ;
            rdfs:domain :Address ;
            rdfs:range :Region ;
-           rdfs:comment "Questa proprietà collega un luogo/caratteristica con la Regione del paese. Regione; essa può essere  \"Lazio\", \"Emilia Romagna\", ecc."@it ,
+           rdfs:comment "Questa proprietà collega un luogo/caratteristica con la Regione del paese. Regione; essa può essere \"Lazio\", \"Emilia Romagna\", ecc."@it ,
                         "This property links the address with the Region of the country."@en ;
            rdfs:isDefinedBy <https://w3id.org/italia/onto/CLV> ;
            rdfs:label "ha regione"@it ,
@@ -510,7 +510,7 @@ xsd:time rdf:type rdfs:Datatype .
                   rdfs:domain :Address ;
                   rdfs:range :StreetToponym ;
                   rdfs:comment "Questa proprietà è usata per collegare l'indirizzo al suo toponymo stradale (o odonimo)"@it ,
-                               "This property is used to  to link an address to the street  toponym component of it."@en ;
+                               "This property is used to to link an address to the street toponym component of it."@en ;
                   rdfs:isDefinedBy <https://w3id.org/italia/onto/CLV> ;
                   rdfs:label "ha odonimo"@it ,
                              "ha toponimo stradale"@it ,
@@ -616,7 +616,7 @@ xsd:time rdf:type rdfs:Datatype .
                         rdfs:domain :InternalAccess ;
                         rdfs:range :Address ;
                         rdfs:comment "Questa proprietà collega il numero interno (accesso interno) all'accesso esterno (indirizzo)"@it ,
-                                     "This property links the internal access  to the external access (address)"@en ;
+                                     "This property links the internal access to the external access (address)"@en ;
                         rdfs:isDefinedBy <https://w3id.org/italia/onto/CLV> ;
                         rdfs:label "refers to external access"@en ,
                                    "si riferisce ad accesso esterno"@it ;
@@ -681,7 +681,7 @@ ti:atTime rdf:type owl:ObjectProperty .
               owl:FunctionalProperty ;
      rdfs:domain :Geometry ;
      rdfs:range rdfs:Literal ;
-     rdfs:comment "Questa proprietà rappresenta l'altitudine, ovvero l'altezza di un oggetto spaziale rispetto alla superficie del livello medio del mare.. E'  proprietà associata alla geometria. Nel caso di geometria associata all'indirizzo, la proprietà  rappresenta l'altezza ortometrica dell’accesso esterno (civico) espressa nei sistemi di riferimento altimetrici nazionali ufficiali."@it ,
+     rdfs:comment "Questa proprietà rappresenta l'altitudine, ovvero l'altezza di un oggetto spaziale rispetto alla superficie del livello medio del mare.. E' proprietà associata alla geometria. Nel caso di geometria associata all'indirizzo, la proprietà rappresenta l'altezza ortometrica dell’accesso esterno (civico) espressa nei sistemi di riferimento altimetrici nazionali ufficiali."@it ,
                   "The property represents the altitude, i.e., the height of an object or point in relation to sea level or ground level. It is associated with the geometry."@en ;
      rdfs:isDefinedBy <https://w3id.org/italia/onto/CLV> ;
      rdfs:label "altitude"@en ,
@@ -739,7 +739,7 @@ ti:atTime rdf:type owl:ObjectProperty .
                                     )
                       ] ;
           rdfs:range rdfs:Literal ;
-          rdfs:comment "Parte letterale del numero civico, ove presente o eventuale esponente attribuito al numero interno.  In quest'ultimo caso, l’utilizzo va preventivamente concordato con l’Istat"@it ,
+          rdfs:comment "Parte letterale del numero civico, ove presente o eventuale esponente attribuito al numero interno. In quest'ultimo caso, l’utilizzo va preventivamente concordato con l’Istat"@it ,
                        "When available, it represents the literal part of the number of the address. It can be used associated with both the external and internal number."@en ;
           rdfs:isDefinedBy <https://w3id.org/italia/onto/CLV> ;
           rdfs:label "esponente"@it ,
@@ -780,7 +780,7 @@ ti:atTime rdf:type owl:ObjectProperty .
                       owl:FunctionalProperty ;
              rdfs:domain :Address ;
              rdfs:range rdfs:Literal ;
-             rdfs:comment "L'indirizzo completo scritto come una stringa. L'uso di questa proprietà  aiuta a comprendere l'indirizzo completo evitando possibili errori derivanti dal frazionamento dello stesso nelle sue rispettive componenti."@it ,
+             rdfs:comment "L'indirizzo completo scritto come una stringa. L'uso di questa proprietà aiuta a comprendere l'indirizzo completo evitando possibili errori derivanti dal frazionamento dello stesso nelle sue rispettive componenti."@it ,
                           "The complete address written as a string, with or without formatting. The use of this property allows one not to incur in any misunderstandings that might arise through the breaking up of an address into its component parts."@en ;
              rdfs:isDefinedBy <https://w3id.org/italia/onto/CLV> ;
              rdfs:label "full address"@en ,
@@ -1137,7 +1137,7 @@ admsapit:SemanticAssetDistribution rdf:type owl:Class .
          owl:disjointWith :AddressComponent ,
                           :CensusSection ;
          rdfs:comment "Questa classe rappresenta un oggetto spaziale indirizzabile o una rappresentazione indirizzabile. In particolare, nel contesto italiano, essa rappresenta l’accesso esterno da un’area di circolazione a una unità ecografica semplice (abitazioni, uffici, locali in cui sono ubicate attività economiche, ecc.)."@it ,
-                      "This class represents an  \"addressable object\" or \"addressable representation\". In most situations the addressable objects are current, real world objects. In the Italian context it represents the external access from a circulation area to a simple unit such as dwellings, offices, premises where economic activities are located, etc."@en ;
+                      "This class represents an \"addressable object\" or \"addressable representation\". In most situations the addressable objects are current, real world objects. In the Italian context it represents the external access from a circulation area to a simple unit such as dwellings, offices, premises where economic activities are located, etc."@en ;
          rdfs:isDefinedBy <https://w3id.org/italia/onto/CLV> ;
          rdfs:label "Accesso Esterno"@it ,
                     "Address"@en ,
@@ -1326,7 +1326,7 @@ admsapit:SemanticAssetDistribution rdf:type owl:Class .
                                              ]
                          ] ;
          rdfs:comment "Questa classe rappresenta lo Stato. Esempio: \"Italia - Italy\" oppure \"United Kingdom\", ecc. E' l'unità amministrativa più alta nella gerarchia di contenimento territoriale dell'indirizzo. Nel Core Location Vocabulary del programma ISA2 essa è modellata con la proprietà dell'indirizzo nominata adminUnit1"@it ,
-                      "This class represents the  uppermost administrative unit for the address, almost always a country. \"United Kingdom\", \"Italy\", etc. In the Core Location Vocabulary this is modelled as adminUnit1."@en ;
+                      "This class represents the uppermost administrative unit for the address, almost always a country. \"United Kingdom\", \"Italy\", etc. In the Core Location Vocabulary this is modelled as adminUnit1."@en ;
          rdfs:isDefinedBy <https://w3id.org/italia/onto/CLV> ;
          rdfs:label "Country"@en ,
                     "Stato"@it ;
@@ -1644,7 +1644,7 @@ admsapit:SemanticAssetDistribution rdf:type owl:Class .
                                  owl:onProperty :toponymQualifier ;
                                  owl:someValuesFrom rdfs:Literal
                                ] ;
-               rdfs:comment """Questa classe rappresenta il toponimo stradale. Esso consiste nel nome dalla strada o denominazione urbanistica ufficiale - DUF (rappresentato attraverso la proprietà nome della strada) e della denominazione urbanistica generica (DUG) o qualitficatore del toponimo (e.g., via, viale, piazza, ecc.). La parte DUF  può  comprendere  l’eventuale  complemento  alla  specie  (preposizioni  non  strettamente  legate  alla denominazione del toponimo come dei, di, delle, la,
+               rdfs:comment """Questa classe rappresenta il toponimo stradale. Esso consiste nel nome dalla strada o denominazione urbanistica ufficiale - DUF (rappresentato attraverso la proprietà nome della strada) e della denominazione urbanistica generica (DUG) o qualitficatore del toponimo (e.g., via, viale, piazza, ecc.). La parte DUF può comprendere l’eventuale complemento alla specie (preposizioni non strettamente legate alla denominazione del toponimo come dei, di, delle, la,
 il, eccetera) e gli eventual complementi alla denominazione (esempio i titoli onorifici per i nomi propri)
 Esempi:
 1) Via San Donato: Via (DUG o qualificatore del toponimo), San Donato (DUF - o nome della strada)

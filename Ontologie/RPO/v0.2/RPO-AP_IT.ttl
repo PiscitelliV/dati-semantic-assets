@@ -51,7 +51,7 @@
                                      rdfs:isDefinedBy <https://w3id.org/italia/onto/RPO> ;
                                      rdfs:label "Ontologia della Popolazione Residente Registrata in Anagrafe."@it ,
                                                 "Registered Residence Person Ontology"@en ;
-                                     owl:versionInfo "Versione 0.2 - Inserita la proprietà, residentPersonID, che descrive il codice identificativo univoco attribuito dall'Anagrafe Nazionale delle Persone Residenti (ANPR) "@it ;
+                                     owl:versionInfo "Versione 0.2 - Inserita la proprietà, residentPersonID, che descrive il codice identificativo univoco attribuito dall'Anagrafe Nazionale delle Persone Residenti (ANPR)"@it ;
                                      dcat:contactPoint <https://schema.gov.it/lodview/data/contact-point/ISTAT-NDC> ;
                                      dcat:keyword "Anagrafe"@it ,
                                                   "Residente"@it ;
@@ -108,7 +108,7 @@
 <https://w3id.org/italia/data/contact-point/ISTAT-NDC> rdf:type <http://dati.gov.it/onto/dcatapit#Organization> ,
                                                                 vcard:Kind ,
                                                                 vcard:Organization ;
-                                                       vcard:fn "Segreteria Tecnica Istat - Progetto PNRR National Data Catalog " ;
+                                                       vcard:fn "Segreteria Tecnica Istat - Progetto PNRR National Data Catalog" ;
                                                        vcard:hasEmail <mailto:ndc-segr-tec@istat.it> .
 
 
@@ -129,8 +129,8 @@
                                                                                "This is the distribution in RDF/XML of the ontology of the population registered in the registry office"@en ;
                                                                dct:format <http://publications.europa.eu/resource/authority/file-type/RDF_XML> ;
                                                                dct:license <https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40> ;
-                                                               dct:title "Distribuzione RDF/XML ontologia RPO "@it ,
-                                                                         "RDF/XML distribution of RPO  Ontology"@en ;
+                                                               dct:title "Distribuzione RDF/XML ontologia RPO"@it ,
+                                                                         "RDF/XML distribution of RPO Ontology"@en ;
                                                                dcat:accessURL <https://github.com/italia/dati-semantic-assets/tree/master/Ontologie/RPO/latest> ;
                                                                dcat:downloadURL <https://raw.githubusercontent.com/italia/dati-semantic-assets/master/Ontologie/RPO/latest/RPO-AP_IT.rdf> .
 
@@ -140,8 +140,8 @@
                                                                                "This is the distribution in JSON-LD of the ontology of the population registered in the registry office"@en ;
                                                                dct:format <http://publications.europa.eu/resource/authority/file-type/JSON_LD> ;
                                                                dct:license <https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40> ;
-                                                               dct:title "Distribuzione JSON-LD ontologia RPO "@it ,
-                                                                         "JSON-LD distribution of RPO  Ontology"@en ;
+                                                               dct:title "Distribuzione JSON-LD ontologia RPO"@it ,
+                                                                         "JSON-LD distribution of RPO Ontology"@en ;
                                                                dcat:accessURL <https://github.com/italia/dati-semantic-assets/tree/master/Ontologie/RPO/latest> ;
                                                                dcat:downloadURL <https://raw.githubusercontent.com/italia/dati-semantic-assets/master/Ontologie/RPO/latest/RPO-AP_IT.jsonld> .
 
@@ -560,7 +560,7 @@ rpo:residentPersonID rdf:type owl:DatatypeProperty ;
                      rdfs:range xsd:string ;
                      rdfs:comment "Codice identificativo univoco attribuito dall'Anagrafe Nazionale delle Persone Residenti (ANPR) a ciascun cittadino per garantire la circolarità dei dati anagrafici e l'interoperabilità con le altre banche dati delle pubbliche amministrazioni e dei gestori di servizi pubblici. L’ID ANPR è attribuito ad ogni individuo all’atto della sua iscrizione in anagrafe e conseguente registrazione in ANPR. L’ID ANPR si contraddistingue per le seguenti caratteristiche: a. è alfanumerico con lunghezza di 9 caratteri compreso il check digit; b. è attribuito e associato univocamente ad ogni individuo già registrato in ANPR ovvero ad ogni individuo in fase di registrazione nell’ANPR; c. può essere generato soltanto dal sistema ANPR; d. non è ricavato dai dati anagrafici della persona a cui è attribuito; e. non contiene elementi identificativi dei dati anagrafici della persona a cui è attribuito; f. non può essere riassegnato; g. garantisce l’associazione immutabile al soggetto cui è attribuito; h. non fornisce evidenza di alcuna sequenzialità, tantomeno temporale; i. è dotato di check digit (il check digit è l’ultimo carattere dell’ID ANPR calcolato tramite uno specifico algoritmo per consentire di verificare la validità dei numeri che lo precedono); j. è possibile la ricostruzione del check digit\". [art. 62, c.3, ultimo periodo, CAD; DM Ministero Interno 18.4.2023; artt. 7 e 17 DPR 223/1989]"@it ;
                      rdfs:label "Identificativo persona residente"@it ,
-                                "Resident person identifier "@en .
+                                "Resident person identifier"@en .
 
 
 ###  https://w3id.org/italia/onto/RPO/weddingDate
@@ -703,7 +703,7 @@ rpo:MaritalStatus rdf:type owl:Class ;
                                         owl:onProperty rpo:maritalStatusDenomination ;
                                         owl:someValuesFrom rdfs:Literal
                                       ] ;
-                  rdfs:comment "Complesso delle singole posizioni giuridiche spettanti alla persona nella famiglia, nello Stato e nella comunità giuridica. "@it ;
+                  rdfs:comment "Complesso delle singole posizioni giuridiche spettanti alla persona nella famiglia, nello Stato e nella comunità giuridica."@it ;
                   rdfs:label "Marital status"@en ,
                              "Stato civile"@it .
 
@@ -742,7 +742,7 @@ rpo:ParentalRelationship rdf:type owl:Class ;
                                                owl:someValuesFrom owl:Thing
                                              ] ;
                          rdfs:subClassOf TI:TimeIndexedEvent ;
-                         rdfs:comment "Il legame di ciascun membro della famiglia anagrafica con una persona di riferimento all'interno della famiglia stessa. Le relazioni di parentela consentono di ricostruire la composizione e dimensione delle famiglie, le relazioni tra i diversi componenti, le relazioni di coppia de iure (matrimonio/unione civile/) o de facto (convivenza di fatto, art. 1, commi 6ss, L. 20 maggio 2016, 76) e la condizione genitoriale. "@it ;
+                         rdfs:comment "Il legame di ciascun membro della famiglia anagrafica con una persona di riferimento all'interno della famiglia stessa. Le relazioni di parentela consentono di ricostruire la composizione e dimensione delle famiglie, le relazioni tra i diversi componenti, le relazioni di coppia de iure (matrimonio/unione civile/) o de facto (convivenza di fatto, art. 1, commi 6ss, L. 20 maggio 2016, 76) e la condizione genitoriale."@it ;
                          rdfs:label "Parental relationship"@en ,
                                     "Relazione parentale"@it .
 
@@ -806,7 +806,7 @@ rpo:RegisteredFamily rdf:type owl:Class ;
                                            owl:onProperty rpo:registeredFamilyCode ;
                                            owl:someValuesFrom rdfs:Literal
                                          ] ;
-                     rdfs:comment "Insieme di persone legate da vincoli di matrimonio, parentela, affinità, adozione, tutela o vincoli affettivi, coabitanti e residenti anagraficamente nello stesso comune. Una famiglia anagrafica può essere costituita anche da una sola persona (famiglia monocomponente). (art. 4 DPR 223/1989) "@it ;
+                     rdfs:comment "Insieme di persone legate da vincoli di matrimonio, parentela, affinità, adozione, tutela o vincoli affettivi, coabitanti e residenti anagraficamente nello stesso comune. Una famiglia anagrafica può essere costituita anche da una sola persona (famiglia monocomponente). (art. 4 DPR 223/1989)"@it ;
                      rdfs:label "Famiglia anagrafica"@it ,
                                 "Registered family"@en .
 
@@ -863,7 +863,7 @@ rpo:RegisteredResidentPerson rdf:type owl:Class ;
                                                    owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
                                                    owl:onDataRange xsd:string
                                                  ] ;
-                             rdfs:comment "Persona fisica avente dimora abituale in un determinato Comune come risultante nell'anagrafe della popolazione residente (artt. 3 e 7 DPR n. 223/1989; art. 43 cc). "@it ;
+                             rdfs:comment "Persona fisica avente dimora abituale in un determinato Comune come risultante nell'anagrafe della popolazione residente (artt. 3 e 7 DPR n. 223/1989; art. 43 cc)."@it ;
                              rdfs:label "Persona anagraficamente residente"@it ,
                                         "Registered resident person"@en .
 

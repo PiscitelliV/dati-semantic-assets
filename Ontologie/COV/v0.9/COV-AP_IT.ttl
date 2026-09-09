@@ -27,7 +27,7 @@
                                     dct:modified "2018-02-23" ;
                                     rdfs:label "Organizzazioni (Pubbliche e Private)"@it ;
                                     dc:creator "Italian Digital Transformation Team"@en ;
-                                    owl:versionInfo "Version 0.9 - 23  February 2018 - deleted OrganizationTypology class as not required. Added new classes, object properties and data type properties for enabling the connection with controlled vocabularies that will be soon available"@en ;
+                                    owl:versionInfo "Version 0.9 - 23 February 2018 - deleted OrganizationTypology class as not required. Added new classes, object properties and data type properties for enabling the connection with controlled vocabularies that will be soon available"@en ;
                                     rdfs:comment "This is the ontology of the Italian application profile for Organizations (Public and Private)"@en ;
                                     dct:license <https://creativecommons.org/licenses/by/4.0/> ;
                                     rdfs:isDefinedBy <http://dati.gov.it/onto/covapit> ;
@@ -78,7 +78,7 @@ clvapit:hasSpatialCoverage rdf:type owl:ObjectProperty ;
                 rdfs:domain l0:Agent ;
                 rdfs:range l0:Agent ;
                 rdfs:comment "Questa proprietà lega un agent ad un altro agente ed è utilizzata per modellare relazioni generali di responsabilità e di resoconto."@it ,
-                             "This property links an agent to another agent and it is used to represent  general reporting or accountability relationships"@en ;
+                             "This property links an agent to another agent and it is used to represent general reporting or accountability relationships"@en ;
                 rdfs:isDefinedBy <http://dati.gov.it/onto/covapit> ;
                 rdfs:label "acts on behalf of"@en ,
                            "agisce per conto di"@it ;
@@ -118,7 +118,7 @@ clvapit:hasSpatialCoverage rdf:type owl:ObjectProperty ;
                   owl:TransitiveProperty ;
          rdfs:domain :Organization ;
          rdfs:range :Organization ;
-         rdfs:comment "Questa proprietà modella una sequenza ordinata di organizzazioni that precedono o si susseguono le un con le altre.  Nello specifico questa proprietà rappresenta un'organizzazione che segue un'altra."@it ,
+         rdfs:comment "Questa proprietà modella una sequenza ordinata di organizzazioni that precedono o si susseguono le un con le altre. Nello specifico questa proprietà rappresenta un'organizzazione che segue un'altra."@it ,
                       "This property models an ordered sequence of organizations that precede and succeed each other.. In particular this property represents the organization that follows another."@en ;
          rdfs:isDefinedBy <http://dati.gov.it/onto/covapit> ;
          rdfs:label "follows"@en ,
@@ -224,7 +224,7 @@ clvapit:hasSpatialCoverage rdf:type owl:ObjectProperty ;
                     owl:inverseOf :subOrganizationOf ;
                     rdfs:domain :Organization ;
                     rdfs:range :Organization ;
-                    rdfs:comment "Organizations are often large and complex and may be a collection of smaller organizations, each of which has a specific identity that may be legally defined.  This property, together with its inverse subOrganizationOf allows one to model a hierarchical structure between organizations."@en ,
+                    rdfs:comment "Organizations are often large and complex and may be a collection of smaller organizations, each of which has a specific identity that may be legally defined. This property, together with its inverse subOrganizationOf allows one to model a hierarchical structure between organizations."@en ,
                                  "Organizzazioni sono spesso grandi e complesse e possono essere viste come una collezione di organizzazioni più piccole, ognuna delle quali con una specifica identità legamente definita. Questa proprietà, insieme alla sua inversa sotto-organizzazione di, consente di modellare una struttura gerarchica tra organizzazioni. Si pensi per esempio ai concetti di holding per organizazioni private."@it ;
                     rdfs:isDefinedBy <http://dati.gov.it/onto/covapit> ;
                     rdfs:label "ha sotto-organizzazione"@it ,
@@ -330,7 +330,7 @@ clvapit:hasSpatialCoverage rdf:type owl:ObjectProperty ;
                    owl:TransitiveProperty ;
           rdfs:domain :Organization ;
           rdfs:range :Organization ;
-          rdfs:comment "Questa proprietà modella una sequenza ordinata di organizzazioni that precedono o si susseguono le un con le altre.  Nello specifico questa proprietà rappresenta un'organizzazione che precede un'altra."@it ,
+          rdfs:comment "Questa proprietà modella una sequenza ordinata di organizzazioni that precedono o si susseguono le un con le altre. Nello specifico questa proprietà rappresenta un'organizzazione che precede un'altra."@it ,
                        "This property models an ordered sequence of organizations that precede and succeed each other.. In particular this property represents the organization that precedes another."@en ;
           rdfs:isDefinedBy <http://dati.gov.it/onto/covapit> ;
           rdfs:label "precede"@it ,
@@ -358,7 +358,7 @@ clvapit:hasSpatialCoverage rdf:type owl:ObjectProperty ;
                        rdfs:domain :ChangeEvent ;
                        rdfs:range :Organization ;
                        rdfs:comment "Questa proprietà lega un evento di cambiamento alla organizzazione che risultante al termine del cambiamento."@it ,
-                                    "This property links a Change Event  to the organization that resulted from it."@en ;
+                                    "This property links a Change Event to the organization that resulted from it."@en ;
                        rdfs:isDefinedBy <http://dati.gov.it/onto/covapit> ;
                        rdfs:label "organizzazione risultante"@it ,
                                   "resulting organization"@en ;
@@ -370,7 +370,7 @@ clvapit:hasSpatialCoverage rdf:type owl:ObjectProperty ;
 :subOrganizationOf rdf:type owl:ObjectProperty ;
                    rdfs:domain :Organization ;
                    rdfs:range :Organization ;
-                   rdfs:comment "Organizations are often large and complex and may be a collection of smaller organizations, each of which has a specific identity that may be legally defined.  This property, together with its inverse hasSubOrganization allows one to model a hierarchical structure between organizations."@en ,
+                   rdfs:comment "Organizations are often large and complex and may be a collection of smaller organizations, each of which has a specific identity that may be legally defined. This property, together with its inverse hasSubOrganization allows one to model a hierarchical structure between organizations."@en ,
                                 "Organizzazioni sono spesso grandi e complesse e possono essere viste come una collezione di organizzazioni più piccole, ognuna delle quali con una specifica identità legamente definita. Questa proprietà, insieme alla sua inversa ha sotto-organizzazione, consente di modellare una struttura gerarchica tra organizzazioni. Si pensi per esempio ai concetti di holding per organizazioni private."@it ;
                    rdfs:isDefinedBy <http://dati.gov.it/onto/covapit> ;
                    rdfs:label "sotto-organizzazione di"@it ,
@@ -467,7 +467,7 @@ ti:hasPublicOrgActivityType rdf:type owl:ObjectProperty ;
            rdfs:domain :PrivateOrganization ;
            rdfs:range rdfs:Literal ;
            rdfs:comment <http://dati.gov.it/onto/covapit> ,
-                        "Questa proprietà rappresenta il numero REA (Repertorio Economico Amministrativo) associato a un'impresa.  Il numero REA è costituito da un numero decimale progressivo ed è sempre associato ad una codifica, che precede il numero progressivo, della provincia/CCIAA che lo ha assegnato e, nella prassi, comprende anche tale codifica (ad es. RM-123456). Ogni soggetto/impresa obbligato per legge all´iscrizione al REA riceve un numero REA diverso per ogni provincia/CCIAA in cui apre Sede/Unità Locali."@it ,
+                        "Questa proprietà rappresenta il numero REA (Repertorio Economico Amministrativo) associato a un'impresa. Il numero REA è costituito da un numero decimale progressivo ed è sempre associato ad una codifica, che precede il numero progressivo, della provincia/CCIAA che lo ha assegnato e, nella prassi, comprende anche tale codifica (ad es. RM-123456). Ogni soggetto/impresa obbligato per legge all´iscrizione al REA riceve un numero REA diverso per ogni provincia/CCIAA in cui apre Sede/Unità Locali."@it ,
                         "This property represents a specific code named REA number associated with the registration of a private organization in the related Italian national registry."@en ;
            rdfs:label "REA number"@en ,
                       "numero REA"@it ;
@@ -496,7 +496,7 @@ ti:hasPublicOrgActivityType rdf:type owl:ObjectProperty ;
                    rdfs:domain :Organization ;
                    rdfs:range xsd:dateTime ;
                    rdfs:comment "Questa proprietà rappresenta la data di accreditamento dell'organizzazione nel pubblico registro (e.g., in \"IPA\" nel caso di pubbliche amministrazioni, in \"Registro Imprese\" nel caso di organizzazioni private)."@it ,
-                                "This property represents the accreditation date of the organization in the public registry (e.g., in Italy in  \"IPA\" registry for public administrations, and in the \"Registro Imprese\" for private organizations)."@en ;
+                                "This property represents the accreditation date of the organization in the public registry (e.g., in Italy in \"IPA\" registry for public administrations, and in the \"Registro Imprese\" for private organizations)."@en ;
                    rdfs:isDefinedBy <http://dati.gov.it/onto/covapit> ;
                    rdfs:label "accreditation date"@en ,
                               "data di accreditamento"@it ;
@@ -569,7 +569,7 @@ ti:hasPublicOrgActivityType rdf:type owl:ObjectProperty ;
                              "This property represents the date in which the organization was founded."@en ;
                 rdfs:isDefinedBy <http://dati.gov.it/onto/covapit> ;
                 rdfs:label "data di costituzione"@it ,
-                           "foundation  date"@en ;
+                           "foundation date"@en ;
                 owl:versionInfo "stabile"@it ,
                                 "stable"@en .
 
@@ -802,7 +802,7 @@ ti:modified rdf:type owl:DatatypeProperty ;
 :ActivityType rdf:type owl:Class ;
               rdfs:subClassOf l0:Characteristic ;
               rdfs:comment "Questa classe rappresenta il tipo di attiità svolta dall'organizzazione. Le istanze di questa classe possono essere rappresentate come concetti dello standard skos di un vocabolario controllato. Nel caso di organizzazioni private (impresa) è necessario utilizzare la classificazione delle attività ATECO. Nel caso di organizzazioni pubbliche si può utilizzare la classificazione COFOG."@it ,
-                           "This class represents the type of activities carried out  by the organization. The instances of this class can be modelled as skos concepts of a controlled vocabulary. In the case of private organization, this class is represented by the ATECO 2007 classification. In the case of public organizations, the COFOG classification can be used."@en ;
+                           "This class represents the type of activities carried out by the organization. The instances of this class can be modelled as skos concepts of a controlled vocabulary. In the case of private organization, this class is represented by the ATECO 2007 classification. In the case of public organizations, the COFOG classification can be used."@en ;
               rdfs:isDefinedBy <http://dati.gov.it/onto/covapit> ;
               rdfs:label "Activity Type"@en ,
                          "Tipo attività"@it ;
@@ -897,7 +897,7 @@ ti:modified rdf:type owl:DatatypeProperty ;
                               owl:maxQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
                               owl:onDataRange xsd:double
                             ] ;
-            rdfs:comment "Questa classe rappresenta la natura di appartenenza di un agente di un'organizzazione. In particolare, la classe è una relazione ennaria che rappresenta una situazione che coinvolge un agente, un'organizzazione, i l ruolo che l'agente ricopre nell'organizzazione ed eventualment eil lasso temporale in cui quel ruolo è svolto. Esempio: la classe consente di rappresentare il ruolo di amministratore delegato  di un'impresa in un certo lasso temporale oppure il ruolo di consigliere in una società partecipata di una pubblica amministrazione in un certo intervallo temporale."@it ,
+            rdfs:comment "Questa classe rappresenta la natura di appartenenza di un agente di un'organizzazione. In particolare, la classe è una relazione ennaria che rappresenta una situazione che coinvolge un agente, un'organizzazione, i l ruolo che l'agente ricopre nell'organizzazione ed eventualment eil lasso temporale in cui quel ruolo è svolto. Esempio: la classe consente di rappresentare il ruolo di amministratore delegato di un'impresa in un certo lasso temporale oppure il ruolo di consigliere in una società partecipata di una pubblica amministrazione in un certo intervallo temporale."@it ,
                          "This class represents the nature of an Agent's membership of an organization. In particular, the class is an n-ary relationship (a situation) that involves an Agent, an Organization, a Role and a Time Period."@en ;
             rdfs:isDefinedBy <http://dati.gov.it/onto/covapit> ;
             rdfs:label "Appartenenza"@it ,
@@ -943,7 +943,7 @@ ti:modified rdf:type owl:DatatypeProperty ;
                                                  owl:cardinality "1"^^xsd:nonNegativeInteger
                                                ] ;
                                owl:disjointWith :Office ;
-                               rdfs:comment "Questa classe rappresenta quello che nel contesto italiano viene chiamato Area Organizzativa Omogenea (AOO).  Le Aree Organizzative Omogenee (AOO) identificano gli uffici di protocollo degli Enti che gestiscono i flussi documentali in entrata e in uscita dall'Ente. Esse sono le vie principali per instaurare rapporti con gli Enti e rappresentano i canali ufficiali per l'invio di istanze e l'avvio di procedimenti amministrativi. Come previsto dall'art. 47 comma 3 del CAD, le Amministrazioni devono istituire e pubblicare nell'IPA almeno una casella di posta elettronica certificata per ciascun registro di protocollo (e quindi per ciascuna AOO)."@it ,
+                               rdfs:comment "Questa classe rappresenta quello che nel contesto italiano viene chiamato Area Organizzativa Omogenea (AOO). Le Aree Organizzative Omogenee (AOO) identificano gli uffici di protocollo degli Enti che gestiscono i flussi documentali in entrata e in uscita dall'Ente. Esse sono le vie principali per instaurare rapporti con gli Enti e rappresentano i canali ufficiali per l'invio di istanze e l'avvio di procedimenti amministrativi. Come previsto dall'art. 47 comma 3 del CAD, le Amministrazioni devono istituire e pubblicare nell'IPA almeno una casella di posta elettronica certificata per ciascun registro di protocollo (e quindi per ciascuna AOO)."@it ,
                                             "This class represents what is called in the italian context the homogeneous organizational area that identifies the protocol office of a public organization. The protocol office manages the documental flows in input and output."@en ;
                                rdfs:isDefinedBy <http://dati.gov.it/onto/covapit/> ;
                                rdfs:label "Area Organizzativa Omogenea (AOO)"@it ,
@@ -1188,7 +1188,7 @@ ti:modified rdf:type owl:DatatypeProperty ;
                                       owl:onProperty :IPAcode ;
                                       owl:cardinality "1"^^xsd:nonNegativeInteger
                                     ] ;
-                    rdfs:comment """Questa classe rappresenta un'organizzazione pubblica. Una pubblica amministrazione e qualsiasi altra organizzazione di nautra pubblica può essere modellata utilizzando questa classe. In generale,  individui di questa classe sono organizzazioni registrate presso l'Indice della PA (IPA).
+                    rdfs:comment """Questa classe rappresenta un'organizzazione pubblica. Una pubblica amministrazione e qualsiasi altra organizzazione di nautra pubblica può essere modellata utilizzando questa classe. In generale, individui di questa classe sono organizzazioni registrate presso l'Indice della PA (IPA).
 Questa classe deriva dall'analoga classe del Core Public Organization Vocabulary."""@it ,
                                  """This class represents a public organization. Thus, a public administration is a public organization. Any other organization that is defined public can be modelled using this class.
 This class is derived from the Core Public Organization Vocabulary."""@en ;
@@ -1329,7 +1329,7 @@ l0:Object rdf:type owl:Class ;
 ###  http://dati.gov.it/onto/roapit/Role
 roapit:Role rdf:type owl:Class ;
             rdfs:comment "Questa classe è definita in http://dati.gov.it/onto/roapit/ e, in questa ontologia, rappresenta il ruolo nella relazione ennaria con l'Agente, l'Organizzazione, e la situazione di Appartenenza. Essa è utilizzata per modellare il Ruolo di un membro dell'organizzazione in un certo intervallo temporale."@it ,
-                         "This class is defined in http://dati.gov.it/onto/roapit/ and, in this ontology,  is used in the n-ary relationship involving the Employment, the Agent and the Organization. It is used to model the Role of a member of the organization in a certain time interval."@en ;
+                         "This class is defined in http://dati.gov.it/onto/roapit/ and, in this ontology, is used in the n-ary relationship involving the Employment, the Agent and the Organization. It is used to model the Role of a member of the organization in a certain time interval."@en ;
             rdfs:isDefinedBy roapit: .
 
 

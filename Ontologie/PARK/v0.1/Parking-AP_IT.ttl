@@ -33,7 +33,7 @@
                                     dct:issued "2017-12-19"^^xsd:date ;
                                     rdfs:comment "Questa è l'ontologia del profilo applicativo italiano per i dati sui parcheggi)"@en ;
                                     dc:creator "Agency for Digital Italy - AgID"@en ;
-                                    owl:versionInfo "Version 0.1 - 19  December 2017 - creation of the first draft of the ontology"@en .
+                                    owl:versionInfo "Version 0.1 - 19 December 2017 - creation of the first draft of the ontology"@en .
 
 #################################################################
 #    Annotation properties
@@ -325,7 +325,7 @@ l0:name rdf:type owl:DatatypeProperty .
 :ParkAndRide rdf:type owl:Class ;
              rdfs:subClassOf :CarPark ;
              rdfs:comment "Questa classe rappresenta uno specifico tipo di parcheggio, ovvero il parcheggio di scambio. I parcheggi di scambio sono tipicamente collocati ai margini del centro urbano o storico e sono usati per scambiare mezzo di trasporto e incentivare l’uso di mezzi pubblici."@it ,
-                          "This class represents a specific type of car park; that is, park and ride. The park and ride type  is usually located close to the borders of a urban centre and it can be used to easily change the transportation mean, promoting the use of public transportation."@en ;
+                          "This class represents a specific type of car park; that is, park and ride. The park and ride type is usually located close to the borders of a urban centre and it can be used to easily change the transportation mean, promoting the use of public transportation."@en ;
              rdfs:isDefinedBy <http://dati.gov.it/onto/parkingapit> ;
              rdfs:label "Parcheggio di Scambio"@it ,
                         "Park and Ride"@en ;

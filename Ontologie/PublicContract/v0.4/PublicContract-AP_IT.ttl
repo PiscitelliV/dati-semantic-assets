@@ -254,7 +254,7 @@ xsd:string rdf:type rdfs:Datatype .
                                    ] ;
                        rdfs:range :CallForCompetition ;
                        rdfs:comment "La proprietà che indica il collegamento tra il la procedura o la fase di pubblicazione e un bando di gara. Diversi lotti possono fare riferimento ad un medesimo bando."@it ,
-                                    "The property that links the procedure  or the publication phase to the related call for tender"@en ;
+                                    "The property that links the procedure or the publication phase to the related call for tender"@en ;
                        rdfs:isDefinedBy <https://w3id.org/italia/onto/PublicContract> ;
                        rdfs:label "ha bando di gara"@it ,
                                   "has call for competition"@en ;
@@ -656,7 +656,7 @@ xsd:string rdf:type rdfs:Datatype .
                                   )
                     ] ;
         rdfs:range l0:Agent ;
-        rdfs:comment "Property that identifies the winner and that links the award notice or contract  to the agent who won the tender"@en ,
+        rdfs:comment "Property that identifies the winner and that links the award notice or contract to the agent who won the tender"@en ,
                      "Proprietà che identifica il vincitore e che lega pertanto la notifica di ggiudicazione o il contratto con l'agente (tipicamente organizzazione) che ha vinto la gara"@it ;
         rdfs:isDefinedBy <https://w3id.org/italia/onto/PublicContract> ;
         rdfs:label "vincitore"@it ,
@@ -1232,7 +1232,7 @@ l0:name rdf:type owl:DatatypeProperty .
 :AmendmentRationale rdf:type owl:Class ;
                     rdfs:subClassOf l0:Characteristic ;
                     rdfs:comment "Abstract class that groups the different types of reasons for the admendments."@en ,
-                                 "Classe astratta che raggruppa i diversi tipi di  motivazioni per la modifica"@it ;
+                                 "Classe astratta che raggruppa i diversi tipi di motivazioni per la modifica"@it ;
                     rdfs:isDefinedBy <https://w3id.org/italia/onto/PublicContract> ;
                     rdfs:label "Amendment Rationale"@en ,
                                "Motivazione della Modifica"@it ;
@@ -1554,7 +1554,7 @@ l0:name rdf:type owl:DatatypeProperty .
                              owl:onProperty l0:identifier ;
                              owl:cardinality "1"^^xsd:nonNegativeInteger
                            ] ;
-           rdfs:comment "La classe che comprende le attività che una stazione appaltante mette in atto per realizzare un progetto di procurement, ad esempio le attività svolte tramite un contratto di appalto o di concessione, le attività realizzate attraverso amministrazione diretta,  parternariato pubblico/privato o adesione ad un accordo quadro. Le attività prevedono step procedurali che possono variare in relazione alla modalità di realizzazione."@it ,
+           rdfs:comment "La classe che comprende le attività che una stazione appaltante mette in atto per realizzare un progetto di procurement, ad esempio le attività svolte tramite un contratto di appalto o di concessione, le attività realizzate attraverso amministrazione diretta, parternariato pubblico/privato o adesione ad un accordo quadro. Le attività prevedono step procedurali che possono variare in relazione alla modalità di realizzazione."@it ,
                         "The class that represents the activities that a contracting authority carries out in order to actualize a procurement project, such as those carried out through public procurement, concession, direct administration, public/private partnership or framework agreement. The steps of the procedure may vary according to the type of the procedure. Information."@en ;
            rdfs:isDefinedBy <https://w3id.org/italia/onto/PublicContract> ;
            rdfs:label "Gara"@it ,
@@ -1582,7 +1582,7 @@ l0:name rdf:type owl:DatatypeProperty .
 ###  https://w3id.org/italia/onto/PublicContract/ProcedureType
 :ProcedureType rdf:type owl:Class ;
                rdfs:subClassOf l0:Characteristic ;
-               rdfs:comment "La Classe che rappresenta la modalità di scelta del contraente (per esempio, secondo la procedura dell'affidamento diretto, della procedura aperta o della procedura ristretta), che caratterizza la procedura di affidamento di un lotto, secondo le specifiche tecniche degli XML ex L.190/2012 previste da ANAC. La modalità di scelta del contraente va indicata in compatibilità con le diverse sotto-classi della procedura di affidamento, per cui ad ogni sotto-classe possono corrispondere solo alcune modalità. Le istanze di questa classe possono essere rappresentate come concetti dello standard skos di un vocabolario controllato. "@it ,
+               rdfs:comment "La Classe che rappresenta la modalità di scelta del contraente (per esempio, secondo la procedura dell'affidamento diretto, della procedura aperta o della procedura ristretta), che caratterizza la procedura di affidamento di un lotto, secondo le specifiche tecniche degli XML ex L.190/2012 previste da ANAC. La modalità di scelta del contraente va indicata in compatibilità con le diverse sotto-classi della procedura di affidamento, per cui ad ogni sotto-classe possono corrispondere solo alcune modalità. Le istanze di questa classe possono essere rappresentate come concetti dello standard skos di un vocabolario controllato."@it ,
                             "The class that represents the type of procedure (e.g, direct award, open tender procedure, restricted tender procedure) as provided for by XML ex L.190/2012 technical requirements exploited by ANAC. The instances of this class can be represented as skos concepts of a controlled vocabulary."@en ;
                rdfs:isDefinedBy <https://w3id.org/italia/onto/PublicContract> ;
                rdfs:label "Procedura di Scelta del Contraente"@it ,

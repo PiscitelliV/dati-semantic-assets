@@ -167,7 +167,7 @@ aco:certificateIssuedForApplication rdf:type owl:ObjectProperty ,
 ###  https://w3id.org/italia/onto/ACO/certifies
 aco:certifies rdf:type owl:ObjectProperty ;
               rdfs:domain aco:Certificate ;
-              rdfs:comment "Relazione tra certificato ed evento registrato. "@it ;
+              rdfs:comment "Relazione tra certificato ed evento registrato."@it ;
               rdfs:label "certifica"@it ,
                          "certifies"@en .
 
@@ -264,7 +264,7 @@ aco:playsRole rdf:type owl:ObjectProperty ,
                                         )
                           ] ;
               rdfs:range aco:RoleInApplication ;
-              rdfs:comment "Relazione tra persona fisica e autorità che rilascia il certificato o l’atto e il ruolo ricoperto, oppure interessato o delegato. "@it ;
+              rdfs:comment "Relazione tra persona fisica e autorità che rilascia il certificato o l’atto e il ruolo ricoperto, oppure interessato o delegato."@it ;
               rdfs:label "plays role"@en ,
                          "ricopre ruolo"@it .
 
@@ -310,7 +310,7 @@ aco:residenceInAddress rdf:type owl:ObjectProperty ,
 aco:residenceInCity rdf:type owl:ObjectProperty ,
                              owl:FunctionalProperty ;
                     rdfs:range clv:City ;
-                    rdfs:comment "Relazione tra residenza e comune. "@it ;
+                    rdfs:comment "Relazione tra residenza e comune."@it ;
                     rdfs:label "residence in city"@en ,
                                "residenza in comune"@it .
 
@@ -400,7 +400,7 @@ aco:expiryDate rdf:type owl:DatatypeProperty ,
                         owl:FunctionalProperty ;
                rdfs:domain aco:Certificate ;
                rdfs:range xsd:dateTime ;
-               rdfs:comment "Durata del certificato: 6 mesi (art. 41 dpr 445/00), 3 mesi (art. 33 d. lgs. 223/1989). "@it ;
+               rdfs:comment "Durata del certificato: 6 mesi (art. 41 dpr 445/00), 3 mesi (art. 33 d. lgs. 223/1989)."@it ;
                rdfs:label "data di scadenza"@it ,
                           "expiry date"@en .
 
@@ -529,9 +529,9 @@ aco:BirthCertificate rdf:type owl:Class ;
                                            owl:someValuesFrom owl:Thing
                                          ] ;
                      rdfs:subClassOf aco:MaritalStatusCertificate ;
-                     rdfs:comment "Certificato rilasciato dal Ministero dell’Interno o dal Comune in cui si attesta quanto risulta in anagrafe rispetto all’atto di nascita (artt. 5 e 100, DPR 396/00 ; Artt.12 e 33 del DPR n.223/1989). "@it ;
+                     rdfs:comment "Certificato rilasciato dal Ministero dell’Interno o dal Comune in cui si attesta quanto risulta in anagrafe rispetto all’atto di nascita (artt. 5 e 100, DPR 396/00 ; Artt.12 e 33 del DPR n.223/1989)."@it ;
                      rdfs:label "Birth certificate"@en ,
-                                "Certificato  anagrafico di  nascita"@it .
+                                "Certificato anagrafico di nascita"@it .
 
 
 ###  https://w3id.org/italia/onto/ACO/BirthDeed
@@ -581,17 +581,17 @@ aco:CertificateApplication rdf:type owl:Class ;
                                                  owl:onProperty aco:outcome ;
                                                  owl:someValuesFrom rdfs:Literal
                                                ] ;
-                           rdfs:comment "Istanza volta a ottenere un certificato per se stesso ovvero per gli altri componenti inclusi nello stato di famiglia. "@it ;
+                           rdfs:comment "Istanza volta a ottenere un certificato per se stesso ovvero per gli altri componenti inclusi nello stato di famiglia."@it ;
                            rdfs:label "Certificate application"@en ,
-                                      "Richiesta di  certificato"@it .
+                                      "Richiesta di certificato"@it .
 
 
 ###  https://w3id.org/italia/onto/ACO/CertificateExemptFromSecretarialFees
 aco:CertificateExemptFromSecretarialFees rdf:type owl:Class ;
                                          rdfs:subClassOf aco:Certificate ;
-                                         rdfs:comment "Certificato anagrafico rilasciato senza obbligo di versamento di un corrispettivo per l'attività svolta. "@it ;
+                                         rdfs:comment "Certificato anagrafico rilasciato senza obbligo di versamento di un corrispettivo per l'attività svolta."@it ;
                                          rdfs:label "Certificate exempt from secretarial fees"@en ,
-                                                    "Certificato esente  da diritti di segreteria"@it .
+                                                    "Certificato esente da diritti di segreteria"@it .
 
 
 ###  https://w3id.org/italia/onto/ACO/CertificateExemptFromStampDuty
@@ -599,20 +599,20 @@ aco:CertificateExemptFromStampDuty rdf:type owl:Class ;
                                    rdfs:subClassOf aco:Certificate ;
                                    rdfs:comment "Certificato anagrafico rilasciato senza obbligo di pagamento di una imposta di bollo."@it ;
                                    rdfs:label "Certificate exempt from stamp duty"@en ,
-                                              "Certificato esente  da imposta di bollo"@it .
+                                              "Certificato esente da imposta di bollo"@it .
 
 
 ###  https://w3id.org/italia/onto/ACO/CertificateOfFamilyStatus
 aco:CertificateOfFamilyStatus rdf:type owl:Class ;
-                              rdfs:comment "Certificato rilasciato dal Ministero dell’Interno o dal Comune in cui si attesta quanto risulta in anagrafe rispetto allo stato di famiglia e ai relativi dati di una persona. "@it ;
+                              rdfs:comment "Certificato rilasciato dal Ministero dell’Interno o dal Comune in cui si attesta quanto risulta in anagrafe rispetto allo stato di famiglia e ai relativi dati di una persona."@it ;
                               rdfs:label "Certificate of family status"@en ,
-                                         "Certificato di  stato di famiglia"@it .
+                                         "Certificato di stato di famiglia"@it .
 
 
 ###  https://w3id.org/italia/onto/ACO/CitizenshipCertificate
 aco:CitizenshipCertificate rdf:type owl:Class ;
-                           rdfs:comment "Certificato rilasciato dal Ministero dell’Interno o dal Comune in cui si attesta quanto risulta in anagrafe rispetto alla cittadinanza e ai relativi dati di una persona. "@it ;
-                           rdfs:label "Certificato di  cittadinanza"@it ,
+                           rdfs:comment "Certificato rilasciato dal Ministero dell’Interno o dal Comune in cui si attesta quanto risulta in anagrafe rispetto alla cittadinanza e ai relativi dati di una persona."@it ;
+                           rdfs:label "Certificato di cittadinanza"@it ,
                                       "Citizenship certificate"@en .
 
 
@@ -639,8 +639,8 @@ aco:DeathDeed rdf:type owl:Class ;
 
 ###  https://w3id.org/italia/onto/ACO/DivorceDeed
 aco:DivorceDeed rdf:type owl:Class ;
-                rdfs:comment "Atto che formalizza lo scioglimento del vincolo matrimoniale tra i coniugi derivante dall’accordo degli stessi: - la sentenza del tribunale in caso di domanda congiunta dei coniugi di scioglimento [art. 4 L 898/1970, abrogato]; - l’atto dell’ufficiale di stato civile contenente la dichiarazione dei coniugi di volere ottenere lo scioglimento del matrimonio [art. 12 DL 132/2014]; - il nulla osta ovvero l’autorizzazione del procuratore della Repubblica dell’accordo raggiunto a seguito di convenzione di negoziazione assistita da avvocati [art. 6 DL 132/2014]. "@it ;
-                rdfs:label "Atto di divorzio "@it ,
+                rdfs:comment "Atto che formalizza lo scioglimento del vincolo matrimoniale tra i coniugi derivante dall’accordo degli stessi: - la sentenza del tribunale in caso di domanda congiunta dei coniugi di scioglimento [art. 4 L 898/1970, abrogato]; - l’atto dell’ufficiale di stato civile contenente la dichiarazione dei coniugi di volere ottenere lo scioglimento del matrimonio [art. 12 DL 132/2014]; - il nulla osta ovvero l’autorizzazione del procuratore della Repubblica dell’accordo raggiunto a seguito di convenzione di negoziazione assistita da avvocati [art. 6 DL 132/2014]."@it ;
+                rdfs:label "Atto di divorzio"@it ,
                            "Divorce deed"@en .
 
 
@@ -659,19 +659,19 @@ aco:Evidence rdf:type owl:Class ;
 ###  https://w3id.org/italia/onto/ACO/EvidenceOfBirthCertificate
 aco:EvidenceOfBirthCertificate rdf:type owl:Class ;
                                rdfs:label "Evidence of birth certificate"@en ,
-                                          "Evidenza di  certificato anagrafico  di nascita"@it .
+                                          "Evidenza di certificato anagrafico di nascita"@it .
 
 
 ###  https://w3id.org/italia/onto/ACO/EvidenceOfResidenceCertificate
 aco:EvidenceOfResidenceCertificate rdf:type owl:Class ;
                                    rdfs:label "Evidence of residence certificate"@en ,
-                                              "Evidenza di  certificato anagrafico  di residenza"@it .
+                                              "Evidenza di certificato anagrafico di residenza"@it .
 
 
 ###  https://w3id.org/italia/onto/ACO/MaritalStatusCertificate
 aco:MaritalStatusCertificate rdf:type owl:Class ;
-                             rdfs:comment "Certificato rilasciato dal Ministero dell’Interno o dal Comune in cui si attesta quanto risulta in anagrafe rispetto allo stato civile e ai relativi dati di una persona. "@it ;
-                             rdfs:label "Certificato di  stato civile"@it ,
+                             rdfs:comment "Certificato rilasciato dal Ministero dell’Interno o dal Comune in cui si attesta quanto risulta in anagrafe rispetto allo stato civile e ai relativi dati di una persona."@it ;
+                             rdfs:label "Certificato di stato civile"@it ,
                                         "Marital status certificate"@en .
 
 
@@ -721,7 +721,7 @@ aco:RegistrationCertificate rdf:type owl:Class ;
 ###  https://w3id.org/italia/onto/ACO/RegistryEntry
 aco:RegistryEntry rdf:type owl:Class ;
                   rdfs:subClassOf aco:AdministrativeDeed ;
-                  rdfs:comment "Atto amministrativo mediante il quale una persona fisica viene registrata nell’anagrafe della popolazione residente (Art. 7 DPR 223/1989). "@it ;
+                  rdfs:comment "Atto amministrativo mediante il quale una persona fisica viene registrata nell’anagrafe della popolazione residente (Art. 7 DPR 223/1989)."@it ;
                   rdfs:label "Iscrizione anagrafica"@it ,
                              "Registry entry"@en .
 
@@ -751,8 +751,8 @@ aco:RegistryEntryForBirth rdf:type owl:Class ;
                                                 owl:someValuesFrom rdfs:Literal
                                               ] ;
                           rdfs:subClassOf aco:RegistryEntry ;
-                          rdfs:comment "Atto amministrativo che determina la registrazione nell'anagrafe comunale dei nati da genitori iscritti nell’anagrafe della popolazione residente del comune, anche se la nascita è avvenuta in altro comune o all’estero purché siano pervenuti i relativi atti per la trascrizione. "@it ;
-                          rdfs:label "Iscrizione  anagrafica  per nascita"@it ,
+                          rdfs:comment "Atto amministrativo che determina la registrazione nell'anagrafe comunale dei nati da genitori iscritti nell’anagrafe della popolazione residente del comune, anche se la nascita è avvenuta in altro comune o all’estero purché siano pervenuti i relativi atti per la trascrizione."@it ;
+                          rdfs:label "Iscrizione anagrafica per nascita"@it ,
                                      "Registry entry for birth"@en .
 
 
@@ -763,7 +763,7 @@ aco:ResidenceCertificate rdf:type owl:Class ;
                                                owl:someValuesFrom owl:Thing
                                              ] ;
                          rdfs:comment "Certificato rilasciato dal Ministero o dal Comune dell’Interno in cui si attesta quanto risulta in anagrafe rispetto alla residenza e ai relativi dati di una persona (art. 33 DPR 223/1989)."@it ;
-                         rdfs:label "Certificato  anagrafico di  residenza"@it ,
+                         rdfs:label "Certificato anagrafico di residenza"@it ,
                                     "Residence certificate"@en .
 
 
@@ -781,26 +781,26 @@ aco:RoleInApplication rdf:type owl:Class ;
                       rdfs:subClassOf RO:Role ;
                       rdfs:comment "Ruolo ricoperto da colui che richiede il certificato anagrafico: diretto interessato o semplice richiedente (delegato)."@it ;
                       rdfs:label "Role in application"@en ,
-                                 "Ruolo rispetto  a richiesta"@it .
+                                 "Ruolo rispetto a richiesta"@it .
 
 
 ###  https://w3id.org/italia/onto/ACO/SecretarialFee
 aco:SecretarialFee rdf:type owl:Class ;
-                   rdfs:comment "Versamento effettuato quale corrispettivo per il servizio svolto dalla pubblica amministrazione "@it ;
+                   rdfs:comment "Versamento effettuato quale corrispettivo per il servizio svolto dalla pubblica amministrazione"@it ;
                    rdfs:label "Diritti di segreteria"@it ,
                               "Secretarial fees"@en .
 
 
 ###  https://w3id.org/italia/onto/ACO/SeparationDeed
 aco:SeparationDeed rdf:type owl:Class ;
-                   rdfs:comment "Atto che formalizza lo stato di separazione personale dei coniugi derivante dall’accordo degli stessi. L’atto di separazione consensuale può, alternativamente e ricorrendo i requisiti specifici per ciascuna fattispecie, configurarsi: – nell’atto dell’ufficiale di stato civile contenente l’accordo di separazione personale concluso innanzi a sé dai coniugi, da cui riceve personalmente la dichiarazione di volersi separare, laddove non vi siano figli minori, figli maggiorenni incapaci o portatori di handicap grave ovvero economicamente non autosufficienti [art. 12 DL 132/2014]; - nel decreto di omologazione del tribunale che rende efficace l’accordo raggiunto dai coniugi [art. 711 c.p.c.]; - nella convenzione di negoziazione assistita da avvocati. [art. 6 DL 132/2014] "@it ;
-                   rdfs:label "Atto di separazione "@it ,
+                   rdfs:comment "Atto che formalizza lo stato di separazione personale dei coniugi derivante dall’accordo degli stessi. L’atto di separazione consensuale può, alternativamente e ricorrendo i requisiti specifici per ciascuna fattispecie, configurarsi: – nell’atto dell’ufficiale di stato civile contenente l’accordo di separazione personale concluso innanzi a sé dai coniugi, da cui riceve personalmente la dichiarazione di volersi separare, laddove non vi siano figli minori, figli maggiorenni incapaci o portatori di handicap grave ovvero economicamente non autosufficienti [art. 12 DL 132/2014]; - nel decreto di omologazione del tribunale che rende efficace l’accordo raggiunto dai coniugi [art. 711 c.p.c.]; - nella convenzione di negoziazione assistita da avvocati. [art. 6 DL 132/2014]"@it ;
+                   rdfs:label "Atto di separazione"@it ,
                               "Separation deed"@en .
 
 
 ###  https://w3id.org/italia/onto/ACO/StampDuty
 aco:StampDuty rdf:type owl:Class ;
-              rdfs:comment "Imposta indiretta cui sono soggetti gli atti, i documenti e i registri indicati nella tariffa annessa al DPR 26 ottobre 1972, n. 642. "@it ;
+              rdfs:comment "Imposta indiretta cui sono soggetti gli atti, i documenti e i registri indicati nella tariffa annessa al DPR 26 ottobre 1972, n. 642."@it ;
               rdfs:label "Imposta di bollo"@it ,
                          "Stamp duty"@en .
 
@@ -906,7 +906,7 @@ rpo:RegisteredResidentPerson rdf:type owl:Class ;
 <https://w3id.org/italia/data/contact-point/ISTAT-NDC> rdf:type <http://dati.gov.it/onto/dcatapit#Organization> ,
                                                        vcard:Kind ,
                                                        vcard:Organization ;
-                                                       vcard:fn "Segreteria Tecnica Istat - Progetto PNRR National Data Catalog " ;
+                                                       vcard:fn "Segreteria Tecnica Istat - Progetto PNRR National Data Catalog" ;
                                                        vcard:hasEmail <mailto:ndc-segr-tec@istat.it> .
 
 
@@ -916,8 +916,8 @@ rpo:RegisteredResidentPerson rdf:type owl:Class ;
                                                                                "This is the distribution in RDF/turtle of the administrative certifications"@en ;
                                                                dct:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
                                                                dct:license <https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40> ;
-                                                               dct:title "Distribuzione RDF/Turtle ontologia ACO_IT "@it ,
-                                                                         "RDF/Turtle distribution of ACO_IT  Ontology"@en ;
+                                                               dct:title "Distribuzione RDF/Turtle ontologia ACO_IT"@it ,
+                                                                         "RDF/Turtle distribution of ACO_IT Ontology"@en ;
 															   dcat:accessURL <https://github.com/italia/dati-semantic-assets/tree/master/Ontologie/ACO/latest> ;
 															   dcat:downloadURL <https://raw.githubusercontent.com/italia/dati-semantic-assets/master/Ontologie/ACO/latest/ACO-AP_IT.ttl> .
 
@@ -927,8 +927,8 @@ rpo:RegisteredResidentPerson rdf:type owl:Class ;
                                                                                "This is the distribution in RDF/XML of the administrative certifications"@en ;
                                                                dct:format <http://publications.europa.eu/resource/authority/file-type/RDF_XML> ;
                                                                dct:license <https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40> ;
-                                                               dct:title "Distribuzione RDF/XML ontologia ACO_IT "@it ,
-                                                                         "RDF/XML distribution of ACO_IT  Ontology"@en ;
+                                                               dct:title "Distribuzione RDF/XML ontologia ACO_IT"@it ,
+                                                                         "RDF/XML distribution of ACO_IT Ontology"@en ;
                                                                dcat:accessURL <https://github.com/italia/dati-semantic-assets/tree/master/Ontologie/ACO/latest> ;
                                                                dcat:downloadURL <https://raw.githubusercontent.com/italia/dati-semantic-assets/master/Ontologie/ACO/latest/ACO-AP_IT.rdf> .
 
@@ -938,8 +938,8 @@ rpo:RegisteredResidentPerson rdf:type owl:Class ;
                                                                                "This is the distribution in JSON-LD of the administrative certifications"@en ;
                                                                dct:format <http://publications.europa.eu/resource/authority/file-type/JSON_LD> ;
                                                                dct:license <https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40> ;
-                                                               dct:title "Distribuzione JSON-LD ontologia ACO_IT "@it ,
-                                                                         "JSON-LD distribution of ACO_IT  Ontology"@en ;
+                                                               dct:title "Distribuzione JSON-LD ontologia ACO_IT"@it ,
+                                                                         "JSON-LD distribution of ACO_IT Ontology"@en ;
                                                                dcat:accessURL <https://github.com/italia/dati-semantic-assets/tree/master/Ontologie/ACO/latest> ;
                                                                dcat:downloadURL <https://raw.githubusercontent.com/italia/dati-semantic-assets/master/Ontologie/ACO/latest/ACO-AP_IT.jsonld> .
 

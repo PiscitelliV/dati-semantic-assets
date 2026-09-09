@@ -285,7 +285,7 @@
       },
       {
         "@language": "en",
-        "@value": "This is the distribution in RDF/turtle of the Linked Open Dataset of the Point Of Interest Categories controlled vocabulary "
+        "@value": "This is the distribution in RDF/turtle of the Linked Open Dataset of the Point Of Interest Categories controlled vocabulary"
       }
     ],
     "http://purl.org/dc/terms/format": [
@@ -301,7 +301,7 @@
     "http://purl.org/dc/terms/title": [
       {
         "@language": "it",
-        "@value": "Distribuzione RDF/Turtle vocabolario controllato categorie punti di interesse "
+        "@value": "Distribuzione RDF/Turtle vocabolario controllato categorie punti di interesse"
       },
       {
         "@language": "en",
@@ -337,7 +337,7 @@
       },
       {
         "@language": "en",
-        "@value": "This is the distribution in JSON-LD of the Linked Open Dataset of the Point Of Interest Categories controlled vocabulary "
+        "@value": "This is the distribution in JSON-LD of the Linked Open Dataset of the Point Of Interest Categories controlled vocabulary"
       }
     ],
     "http://purl.org/dc/terms/format": [
@@ -353,7 +353,7 @@
     "http://purl.org/dc/terms/title": [
       {
         "@language": "it",
-        "@value": "Distribuzione JSON-LD vocabolario controllato categorie punti di interesse "
+        "@value": "Distribuzione JSON-LD vocabolario controllato categorie punti di interesse"
       },
       {
         "@language": "en",
@@ -671,7 +671,7 @@
       },
       {
         "@language": "en",
-        "@value": "This is the distribution in CSV of the Linked Open Dataset of the Point Of Interest Categories controlled vocabulary "
+        "@value": "This is the distribution in CSV of the Linked Open Dataset of the Point Of Interest Categories controlled vocabulary"
       }
     ],
     "http://purl.org/dc/terms/format": [
@@ -687,7 +687,7 @@
     "http://purl.org/dc/terms/title": [
       {
         "@language": "it",
-        "@value": "Distribuzione CSV vocabolario controllato categorie punti di interesse "
+        "@value": "Distribuzione CSV vocabolario controllato categorie punti di interesse"
       },
       {
         "@language": "en",
@@ -821,7 +821,7 @@
       },
       {
         "@language": "en",
-        "@value": "This is the distribution in RDF/XML of the Linked Open Dataset of the Point Of Interest Categories controlled vocabulary "
+        "@value": "This is the distribution in RDF/XML of the Linked Open Dataset of the Point Of Interest Categories controlled vocabulary"
       }
     ],
     "http://purl.org/dc/terms/format": [
@@ -837,7 +837,7 @@
     "http://purl.org/dc/terms/title": [
       {
         "@language": "it",
-        "@value": "Distribuzione RDF/XML vocabolario controllato categorie punti di interesse "
+        "@value": "Distribuzione RDF/XML vocabolario controllato categorie punti di interesse"
       },
       {
         "@language": "en",
@@ -1209,7 +1209,7 @@
       },
       {
         "@language": "en",
-        "@value": "This is the distribution in XLSX of the Linked Open Dataset of the Point Of Interest Categories controlled vocabulary "
+        "@value": "This is the distribution in XLSX of the Linked Open Dataset of the Point Of Interest Categories controlled vocabulary"
       }
     ],
     "http://purl.org/dc/terms/format": [
@@ -1225,7 +1225,7 @@
     "http://purl.org/dc/terms/title": [
       {
         "@language": "it",
-        "@value": "Distribuzione XLSX vocabolario controllato categorie punti di interesse "
+        "@value": "Distribuzione XLSX vocabolario controllato categorie punti di interesse"
       },
       {
         "@language": "en",
@@ -1257,7 +1257,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Rientrano in questa categoria tutti i punti di interesse connessi allo shopping quali per esempio, grande distribuzione, piccola distribuzione, mercati,  farmacie, agenzie immobiliari, ecc."
+        "@value": "Rientrano in questa categoria tutti i punti di interesse connessi allo shopping quali per esempio, grande distribuzione, piccola distribuzione, mercati, farmacie, agenzie immobiliari, ecc."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [

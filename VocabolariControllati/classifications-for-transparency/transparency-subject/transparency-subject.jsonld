@@ -1239,7 +1239,7 @@
       "skos:prefLabel": [
         {
           "@language": "it",
-          "@value": "Documento di istruzioni "
+          "@value": "Documento di istruzioni"
         },
         {
           "@language": "en",
@@ -1263,7 +1263,7 @@
       "dcterms:identifier": "006",
       "skos:definition": {
         "@language": "it",
-        "@value": "Per atto giuridico si intende qualsiasi manifestazione di volontà, di scienza o di giudizio (ovvero, in generale, qualunque atto umano) capace di produrre effetti giuridici. "
+        "@value": "Per atto giuridico si intende qualsiasi manifestazione di volontà, di scienza o di giudizio (ovvero, in generale, qualunque atto umano) capace di produrre effetti giuridici."
       },
       "skos:inScheme": {
         "@id": "https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject"
@@ -1437,7 +1437,7 @@
       },
       "skos:definition": {
         "@language": "it",
-        "@value": "Il codice disciplinare è quell’insieme di regole di condotta che il lavoratore è tenuto ad osservare sul luogo di lavoro. Lo stesso normalmente prevede una predeterminazione o una tipizzazione delle infrazioni, sanzioni e delle relative procedure di contestazione. "
+        "@value": "Il codice disciplinare è quell’insieme di regole di condotta che il lavoratore è tenuto ad osservare sul luogo di lavoro. Lo stesso normalmente prevede una predeterminazione o una tipizzazione delle infrazioni, sanzioni e delle relative procedure di contestazione."
       },
       "skos:inScheme": {
         "@id": "https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject"
@@ -1712,7 +1712,7 @@
       "skos:prefLabel": [
         {
           "@language": "it",
-          "@value": "Ruolo di cessato dall'incarico "
+          "@value": "Ruolo di cessato dall'incarico"
         },
         {
           "@language": "en",
@@ -2690,7 +2690,7 @@
       "dcterms:identifier": "050",
       "skos:definition": {
         "@language": "it",
-        "@value": "Totale della  retribuzione corrisposta per una prestazione continuativa o saltuaria di carattere professionale."
+        "@value": "Totale della retribuzione corrisposta per una prestazione continuativa o saltuaria di carattere professionale."
       },
       "skos:inScheme": {
         "@id": "https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject"
@@ -2720,7 +2720,7 @@
       "dcterms:identifier": "051",
       "skos:definition": {
         "@language": "it",
-        "@value": "Numero  dei posti di funzione che si rendono disponibili nella dotazione organica."
+        "@value": "Numero dei posti di funzione che si rendono disponibili nella dotazione organica."
       },
       "skos:inScheme": {
         "@id": "https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject"
@@ -2827,7 +2827,7 @@
         },
         {
           "@language": "en",
-          "@value": "Total amount of personnel "
+          "@value": "Total amount of personnel"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -3540,7 +3540,7 @@
       "skos:prefLabel": [
         {
           "@language": "en",
-          "@value": "Level of  participation of the administration"
+          "@value": "Level of participation of the administration"
         },
         {
           "@language": "it",
@@ -3651,7 +3651,7 @@
       "dcterms:identifier": "081",
       "skos:definition": {
         "@language": "it",
-        "@value": " L'insieme dei documenti contabili volto ad accertare la situazione finanziaria e patrimoniale."
+        "@value": "L'insieme dei documenti contabili volto ad accertare la situazione finanziaria e patrimoniale."
       },
       "skos:inScheme": {
         "@id": "https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject"
@@ -3970,7 +3970,7 @@
       "dcterms:identifier": "091",
       "skos:altLabel": {
         "@language": "it",
-        "@value": "Termine "
+        "@value": "Termine"
       },
       "skos:definition": {
         "@language": "it",
@@ -4004,7 +4004,7 @@
       "dcterms:identifier": "092",
       "skos:definition": {
         "@language": "it",
-        "@value": " Strumenti di tutela amministrativa e giurisdizionale."
+        "@value": "Strumenti di tutela amministrativa e giurisdizionale."
       },
       "skos:inScheme": {
         "@id": "https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject"
@@ -4064,7 +4064,7 @@
       "dcterms:identifier": "094",
       "skos:definition": {
         "@language": "it",
-        "@value": "Le modalità di pagamento definiscono i termini di scadenza della fattura e le tipologie di pagamento (Assegno, Bonifico Bancario, Ricevuta Bancaria, vaglia, contrassegno etc.). "
+        "@value": "Le modalità di pagamento definiscono i termini di scadenza della fattura e le tipologie di pagamento (Assegno, Bonifico Bancario, Ricevuta Bancaria, vaglia, contrassegno etc.)."
       },
       "skos:inScheme": {
         "@id": "https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject"
@@ -4103,7 +4103,7 @@
       "skos:prefLabel": [
         {
           "@language": "en",
-          "@value": "IBAN "
+          "@value": "IBAN"
         },
         {
           "@language": "it",
@@ -4569,7 +4569,7 @@
       "dcterms:identifier": "110",
       "skos:definition": {
         "@language": "it",
-        "@value": "Prezzo concordato  per la realizzazione del lotto."
+        "@value": "Prezzo concordato per la realizzazione del lotto."
       },
       "skos:inScheme": {
         "@id": "https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject"
@@ -5305,7 +5305,7 @@
       "dcterms:identifier": "133",
       "skos:definition": {
         "@language": "it",
-        "@value": " la concessione è il provvedimento amministrativo con cui la pubblica amministrazione conferisce ex novo situazioni giuridiche soggettive attive al beneficiario, ampliandone la sfera giuridica."
+        "@value": "la concessione è il provvedimento amministrativo con cui la pubblica amministrazione conferisce ex novo situazioni giuridiche soggettive attive al beneficiario, ampliandone la sfera giuridica."
       },
       "skos:inScheme": {
         "@id": "https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject"
@@ -5512,7 +5512,7 @@
         },
         {
           "@language": "en",
-          "@value": "Budget index plan "
+          "@value": "Budget index plan"
         }
       ],
       "skos:relatedMatch": {
@@ -6259,7 +6259,7 @@
       "dcterms:identifier": "163",
       "skos:definition": {
         "@language": "it",
-        "@value": "Impresa che  ha diritto di riscuotere una somma o di ricevere una prestazione ."
+        "@value": "Impresa che ha diritto di riscuotere una somma o di ricevere una prestazione ."
       },
       "skos:inScheme": {
         "@id": "https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject"
@@ -7156,7 +7156,7 @@
       },
       "skos:definition": {
         "@language": "it",
-        "@value": " Stato della salute e della sicurezza umana, compresa la contaminazione della catena alimentare, le condizioni della vita umana."
+        "@value": "Stato della salute e della sicurezza umana, compresa la contaminazione della catena alimentare, le condizioni della vita umana."
       },
       "skos:inScheme": {
         "@id": "https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject"
@@ -7450,7 +7450,7 @@
       "dcterms:identifier": "197",
       "skos:definition": {
         "@language": "it",
-        "@value": " Compito, commissione, incombenza che si affida a qualcuno o che qualcuno sponteneamente si assume."
+        "@value": "Compito, commissione, incombenza che si affida a qualcuno o che qualcuno sponteneamente si assume."
       },
       "skos:inScheme": {
         "@id": "https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject"
@@ -7638,7 +7638,7 @@
       "dcterms:identifier": "203",
       "skos:definition": {
         "@language": "it",
-        "@value": "Enti di diritto  privato sottoposti a controllo da parte di amministrazioni pubbliche, oppure gli enti costituiti o vigilati da pubbliche amministrazioni nei quali siano a queste riconosciuti, anche in assenza di una partecipazione azionaria, poteri di nomina dei vertici o dei componenti degli organi."
+        "@value": "Enti di diritto privato sottoposti a controllo da parte di amministrazioni pubbliche, oppure gli enti costituiti o vigilati da pubbliche amministrazioni nei quali siano a queste riconosciuti, anche in assenza di una partecipazione azionaria, poteri di nomina dei vertici o dei componenti degli organi."
       },
       "skos:inScheme": {
         "@id": "https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject"
@@ -7852,7 +7852,7 @@
       "dcterms:identifier": "210",
       "skos:definition": {
         "@language": "it",
-        "@value": " Raccolta di dati che si proponga di dare una visione d'insieme sull'utilizzo di un servizio."
+        "@value": "Raccolta di dati che si proponga di dare una visione d'insieme sull'utilizzo di un servizio."
       },
       "skos:inScheme": {
         "@id": "https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject"
@@ -7955,7 +7955,7 @@
       "skos:prefLabel": [
         {
           "@language": "it",
-          "@value": "Criterio di formazione "
+          "@value": "Criterio di formazione"
         },
         {
           "@language": "en",
@@ -7989,7 +7989,7 @@
         },
         {
           "@language": "it",
-          "@value": "Tipologia di spesa "
+          "@value": "Tipologia di spesa"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -8322,7 +8322,7 @@
         },
         {
           "@language": "it",
-          "@value": "Atto di accertamento "
+          "@value": "Atto di accertamento"
         }
       ],
       "skos:relatedMatch": {
@@ -8466,7 +8466,7 @@
       "dcterms:identifier": "230",
       "skos:definition": {
         "@language": "it",
-        "@value": "Link alle norme di legge statale pubblicate nella banca dati \"Normattiva\" "
+        "@value": "Link alle norme di legge statale pubblicate nella banca dati \"Normattiva\""
       },
       "skos:inScheme": {
         "@id": "https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject"

@@ -165,7 +165,7 @@
         },
         {
           "@language": "en",
-          "@value": "Version 0.1 - 06  December 2017 - creation of the ontology"
+          "@value": "Version 0.1 - 06 December 2017 - creation of the ontology"
         }
       ],
       "rdfs:comment": [
@@ -335,7 +335,7 @@
         },
         {
           "@language": "en",
-          "@value": "This class represents composite public events that are aggregations of multiple events, possibly occurring in parallel, each of which is described independently in the event program.  Example can be the celebration of the anniversary of the Italian Republic."
+          "@value": "This class represents composite public events that are aggregations of multiple events, possibly occurring in parallel, each of which is described independently in the event program. Example can be the celebration of the anniversary of the Italian Republic."
         }
       ],
       "rdfs:isDefinedBy": {
@@ -556,7 +556,7 @@
         },
         {
           "@language": "en",
-          "@value": "This class represents a public event (e.g., a football match, a  conference, a book presentation, etc.)."
+          "@value": "This class represents a public event (e.g., a football match, a conference, a book presentation, etc.)."
         }
       ],
       "rdfs:isDefinedBy": {

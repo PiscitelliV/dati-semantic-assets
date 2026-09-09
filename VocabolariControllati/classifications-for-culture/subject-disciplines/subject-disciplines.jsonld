@@ -203,7 +203,7 @@
       },
       {
         "@language": "it",
-        "@value": "statistica medica "
+        "@value": "statistica medica"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -309,7 +309,7 @@
       },
       {
         "@language": "it",
-        "@value": "scienza delle finanze "
+        "@value": "scienza delle finanze"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -362,7 +362,7 @@
       },
       {
         "@language": "it",
-        "@value": "neuropsichiatria infantile "
+        "@value": "neuropsichiatria infantile"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -592,7 +592,7 @@
       },
       {
         "@language": "it",
-        "@value": "anestesiologia "
+        "@value": "anestesiologia"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -646,7 +646,7 @@
       },
       {
         "@language": "it",
-        "@value": "storia delle religioni "
+        "@value": "storia delle religioni"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -742,7 +742,7 @@
       },
       {
         "@language": "it",
-        "@value": "storia contemporanea "
+        "@value": "storia contemporanea"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -962,7 +962,7 @@
       },
       {
         "@language": "it",
-        "@value": "pedagogia generale e sociale "
+        "@value": "pedagogia generale e sociale"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -1164,7 +1164,7 @@
       },
       {
         "@language": "it",
-        "@value": "patologia clinica "
+        "@value": "patologia clinica"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -1317,7 +1317,7 @@
       },
       {
         "@language": "it",
-        "@value": "ingegneria delle materie prime "
+        "@value": "ingegneria delle materie prime"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -1488,7 +1488,7 @@
       },
       {
         "@language": "it",
-        "@value": "filosofia teoretica "
+        "@value": "filosofia teoretica"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -2025,7 +2025,7 @@
       },
       {
         "@language": "it",
-        "@value": "econometria "
+        "@value": "econometria"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -2078,7 +2078,7 @@
       },
       {
         "@language": "it",
-        "@value": "anatomia patologica "
+        "@value": "anatomia patologica"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -2104,7 +2104,7 @@
       },
       {
         "@language": "it",
-        "@value": "bioingegneria informatica "
+        "@value": "bioingegneria informatica"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
@@ -2141,7 +2141,7 @@
       },
       {
         "@language": "it",
-        "@value": "bioingegneria elettronica e informatica "
+        "@value": "bioingegneria elettronica e informatica"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -2162,7 +2162,7 @@
       },
       {
         "@language": "it",
-        "@value": "logica "
+        "@value": "logica"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
@@ -2306,7 +2306,7 @@
       },
       {
         "@language": "it",
-        "@value": "endocrinologia "
+        "@value": "endocrinologia"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -2445,7 +2445,7 @@
       },
       {
         "@language": "it",
-        "@value": "psicologia clinica "
+        "@value": "psicologia clinica"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -2546,7 +2546,7 @@
       },
       {
         "@language": "it",
-        "@value": "economia politica "
+        "@value": "economia politica"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -2781,7 +2781,7 @@
     "http://www.w3.org/2004/02/skos/core#altLabel": [
       {
         "@language": "it",
-        "@value": "fluidi del sottosuolo "
+        "@value": "fluidi del sottosuolo"
       },
       {
         "@language": "it",
@@ -2826,7 +2826,7 @@
       },
       {
         "@language": "it",
-        "@value": "idrocarburi e fluidi del sottosuolo "
+        "@value": "idrocarburi e fluidi del sottosuolo"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -2946,7 +2946,7 @@
       },
       {
         "@language": "it",
-        "@value": "convertitori, macchine e azionamenti elettrici "
+        "@value": "convertitori, macchine e azionamenti elettrici"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -3257,7 +3257,7 @@
       },
       {
         "@language": "it",
-        "@value": "storia della medicina "
+        "@value": "storia della medicina"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -3531,7 +3531,7 @@
       },
       {
         "@language": "it",
-        "@value": "didattica e storia della fisica "
+        "@value": "didattica e storia della fisica"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -4386,7 +4386,7 @@
       },
       {
         "@language": "it",
-        "@value": "scienze tecniche di medicina di laboratorio "
+        "@value": "scienze tecniche di medicina di laboratorio"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -4794,7 +4794,7 @@
       },
       {
         "@language": "it",
-        "@value": "sistemi per l'energia e l'ambiente "
+        "@value": "sistemi per l'energia e l'ambiente"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -5092,7 +5092,7 @@
       },
       {
         "@language": "it",
-        "@value": "nefrologia "
+        "@value": "nefrologia"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -5858,7 +5858,7 @@
       },
       {
         "@language": "it",
-        "@value": "storia del pensiero economico "
+        "@value": "storia del pensiero economico"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -5906,7 +5906,7 @@
       },
       {
         "@language": "it",
-        "@value": "storia del cristianesimo e delle chiese "
+        "@value": "storia del cristianesimo e delle chiese"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -6361,7 +6361,7 @@
       },
       {
         "@language": "it",
-        "@value": "economia aziendale "
+        "@value": "economia aziendale"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -6414,7 +6414,7 @@
       },
       {
         "@language": "it",
-        "@value": "malattie apparato locomotore "
+        "@value": "malattie apparato locomotore"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -6659,7 +6659,7 @@
     "http://www.w3.org/2004/02/skos/core#altLabel": [
       {
         "@language": "it",
-        "@value": "costruzione di macchine "
+        "@value": "costruzione di macchine"
       },
       {
         "@language": "it",
@@ -6700,7 +6700,7 @@
       },
       {
         "@language": "it",
-        "@value": "progettazione meccanica e costruzione di macchine "
+        "@value": "progettazione meccanica e costruzione di macchine"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -7106,7 +7106,7 @@
     "http://www.w3.org/2004/02/skos/core#altLabel": [
       {
         "@language": "it",
-        "@value": "malattie veneree "
+        "@value": "malattie veneree"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
@@ -7143,7 +7143,7 @@
       },
       {
         "@language": "it",
-        "@value": "malattie cutanee e veneree "
+        "@value": "malattie cutanee e veneree"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -7459,7 +7459,7 @@
       },
       {
         "@language": "it",
-        "@value": "politica economica "
+        "@value": "politica economica"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -7560,7 +7560,7 @@
       },
       {
         "@language": "it",
-        "@value": "chirurgia maxillofacciale "
+        "@value": "chirurgia maxillofacciale"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -7727,7 +7727,7 @@
       },
       {
         "@language": "it",
-        "@value": "reumatologia "
+        "@value": "reumatologia"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -8271,7 +8271,7 @@
       },
       {
         "@language": "it",
-        "@value": "psicologia generale "
+        "@value": "psicologia generale"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -8739,7 +8739,7 @@
       },
       {
         "@language": "it",
-        "@value": "scienze tecniche mediche applicate "
+        "@value": "scienze tecniche mediche applicate"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -8793,7 +8793,7 @@
       },
       {
         "@language": "it",
-        "@value": "chirurgia generale "
+        "@value": "chirurgia generale"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -9406,7 +9406,7 @@
       },
       {
         "@language": "it",
-        "@value": "chirurgia pediatrica e infantile "
+        "@value": "chirurgia pediatrica e infantile"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -9779,7 +9779,7 @@
       },
       {
         "@language": "it",
-        "@value": "economia degli intermediari finanziari "
+        "@value": "economia degli intermediari finanziari"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -9976,7 +9976,7 @@
       },
       {
         "@language": "it",
-        "@value": "propulsione aerospaziale "
+        "@value": "propulsione aerospaziale"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -10193,7 +10193,7 @@
       },
       {
         "@language": "it",
-        "@value": "storia della filosofia "
+        "@value": "storia della filosofia"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -10294,7 +10294,7 @@
       },
       {
         "@language": "it",
-        "@value": "storia moderna "
+        "@value": "storia moderna"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -10511,7 +10511,7 @@
       },
       {
         "@language": "it",
-        "@value": "storia dell'arte moderna "
+        "@value": "storia dell'arte moderna"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -10559,7 +10559,7 @@
       },
       {
         "@language": "it",
-        "@value": "scienza e tecnologia dei materiali "
+        "@value": "scienza e tecnologia dei materiali"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -10774,7 +10774,7 @@
       },
       {
         "@language": "it",
-        "@value": "pedagogia sperimentale "
+        "@value": "pedagogia sperimentale"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -10930,7 +10930,7 @@
       },
       {
         "@language": "it",
-        "@value": "oncologia medica "
+        "@value": "oncologia medica"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -11078,7 +11078,7 @@
       },
       {
         "@language": "it",
-        "@value": "storia della filosofia medievale "
+        "@value": "storia della filosofia medievale"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -11206,7 +11206,7 @@
       },
       {
         "@language": "it",
-        "@value": "psicologia delle organizzazioni "
+        "@value": "psicologia delle organizzazioni"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
@@ -11243,7 +11243,7 @@
       },
       {
         "@language": "it",
-        "@value": "psicologia del lavoro e delle organizzazioni "
+        "@value": "psicologia del lavoro e delle organizzazioni"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -11440,7 +11440,7 @@
       },
       {
         "@language": "it",
-        "@value": "pediatria generale e specialistica "
+        "@value": "pediatria generale e specialistica"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -11596,7 +11596,7 @@
       },
       {
         "@language": "it",
-        "@value": "malattie dell'apparato respiratorio "
+        "@value": "malattie dell'apparato respiratorio"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -11766,7 +11766,7 @@
       },
       {
         "@language": "it",
-        "@value": "filosofia e teoria dei linguaggi "
+        "@value": "filosofia e teoria dei linguaggi"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -11925,7 +11925,7 @@
       },
       {
         "@language": "it",
-        "@value": "psicologia sociale "
+        "@value": "psicologia sociale"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -12196,7 +12196,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Il settore si articola in due campi di competenza anche storicamente distinti: quello della sociologia del diritto (comprensiva della sociologia dell’ordinamento giudiziario e dell’analisi sociologica e antropologica delle istituzioni giuridiche e della loro evoluzione ed efficacia in rapporto al mutamento sociale), e quello della criminologia focalizzata sull’analisi del comportamento che non si adegua ai comandi normativi e che, come tale, viene definito deviante. Pertanto, il settore studia in particolare il rapporto fra norme giuridiche, le loro funzioni e il mutamento sociale, nonché i rapporti fra comportamento deviante, il crimine e la società. "
+        "@value": "Il settore si articola in due campi di competenza anche storicamente distinti: quello della sociologia del diritto (comprensiva della sociologia dell’ordinamento giudiziario e dell’analisi sociologica e antropologica delle istituzioni giuridiche e della loro evoluzione ed efficacia in rapporto al mutamento sociale), e quello della criminologia focalizzata sull’analisi del comportamento che non si adegua ai comandi normativi e che, come tale, viene definito deviante. Pertanto, il settore studia in particolare il rapporto fra norme giuridiche, le loro funzioni e il mutamento sociale, nonché i rapporti fra comportamento deviante, il crimine e la società."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#editorialNote": [
@@ -12323,7 +12323,7 @@
       },
       {
         "@language": "it",
-        "@value": "economia e gestione delle imprese "
+        "@value": "economia e gestione delle imprese"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -12774,7 +12774,7 @@
       },
       {
         "@language": "it",
-        "@value": "storia della filosofia antica "
+        "@value": "storia della filosofia antica"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -12923,7 +12923,7 @@
       },
       {
         "@language": "it",
-        "@value": "fisica tecnica industriale "
+        "@value": "fisica tecnica industriale"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -13218,7 +13218,7 @@
     "http://www.w3.org/2004/02/skos/core#altLabel": [
       {
         "@language": "it",
-        "@value": "sociologia dei processi comunicativi "
+        "@value": "sociologia dei processi comunicativi"
       },
       {
         "@language": "it",
@@ -13259,7 +13259,7 @@
       },
       {
         "@language": "it",
-        "@value": "sociologia dei processi culturali e comunicativi "
+        "@value": "sociologia dei processi culturali e comunicativi"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -13426,7 +13426,7 @@
       },
       {
         "@language": "it",
-        "@value": "geografia "
+        "@value": "geografia"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -13485,7 +13485,7 @@
       },
       {
         "@language": "it",
-        "@value": "patologia generale "
+        "@value": "patologia generale"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -13977,7 +13977,7 @@
       },
       {
         "@language": "it",
-        "@value": "storia economica "
+        "@value": "storia economica"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -14042,7 +14042,7 @@
     "http://www.w3.org/2004/02/skos/core#altLabel": [
       {
         "@language": "it",
-        "@value": "psicologia dell'educazione "
+        "@value": "psicologia dell'educazione"
       },
       {
         "@language": "it",
@@ -14083,7 +14083,7 @@
       },
       {
         "@language": "it",
-        "@value": "psicologia dello sviluppo e psicologia dell'educazione "
+        "@value": "psicologia dello sviluppo e psicologia dell'educazione"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -14208,7 +14208,7 @@
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "general and applied  entomology"
+        "@value": "general and applied entomology"
       },
       {
         "@language": "it",
@@ -14517,7 +14517,7 @@
       },
       {
         "@language": "it",
-        "@value": "economia applicata "
+        "@value": "economia applicata"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -15247,7 +15247,7 @@
       },
       {
         "@language": "it",
-        "@value": "fisica tecnica ambientale "
+        "@value": "fisica tecnica ambientale"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -15301,7 +15301,7 @@
       },
       {
         "@language": "it",
-        "@value": "microbiologia clinica "
+        "@value": "microbiologia clinica"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -15505,7 +15505,7 @@
       },
       {
         "@language": "it",
-        "@value": "malattie infettive "
+        "@value": "malattie infettive"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -15611,7 +15611,7 @@
       },
       {
         "@language": "it",
-        "@value": "paleografia "
+        "@value": "paleografia"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -15718,7 +15718,7 @@
       },
       {
         "@language": "it",
-        "@value": "chirurgia cardiaca "
+        "@value": "chirurgia cardiaca"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -16086,7 +16086,7 @@
       },
       {
         "@language": "it",
-        "@value": "audiologia "
+        "@value": "audiologia"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -16224,7 +16224,7 @@
       },
       {
         "@language": "it",
-        "@value": "psicometria "
+        "@value": "psicometria"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -16656,7 +16656,7 @@
       },
       {
         "@language": "it",
-        "@value": "medicina legale "
+        "@value": "medicina legale"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -16934,7 +16934,7 @@
       },
       {
         "@language": "it",
-        "@value": "impianti nucleari "
+        "@value": "impianti nucleari"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -16987,7 +16987,7 @@
       },
       {
         "@language": "it",
-        "@value": "neuroradiologia "
+        "@value": "neuroradiologia"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -17782,7 +17782,7 @@
       },
       {
         "@language": "it",
-        "@value": "scienze infermieristiche ostetrico-ginecologiche "
+        "@value": "scienze infermieristiche ostetrico-ginecologiche"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -18005,7 +18005,7 @@
       },
       {
         "@language": "it",
-        "@value": "chimica fisica "
+        "@value": "chimica fisica"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -18291,7 +18291,7 @@
       },
       {
         "@language": "it",
-        "@value": "fisica dei reattori nucleari "
+        "@value": "fisica dei reattori nucleari"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -18434,7 +18434,7 @@
       },
       {
         "@language": "it",
-        "@value": "metodi e didattiche delle attività motorie "
+        "@value": "metodi e didattiche delle attività motorie"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -18858,7 +18858,7 @@
       },
       {
         "@language": "it",
-        "@value": "misure meccaniche e termiche "
+        "@value": "misure meccaniche e termiche"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -19572,7 +19572,7 @@
       },
       {
         "@language": "it",
-        "@value": "scienze tecniche dietetiche applicate "
+        "@value": "scienze tecniche dietetiche applicate"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -19620,7 +19620,7 @@
       },
       {
         "@language": "it",
-        "@value": "filosofia morale "
+        "@value": "filosofia morale"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -19668,7 +19668,7 @@
       },
       {
         "@language": "it",
-        "@value": "malattie dell'apparato cardiovascolare "
+        "@value": "malattie dell'apparato cardiovascolare"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -20075,7 +20075,7 @@
       },
       {
         "@language": "it",
-        "@value": "chirurgia plastica "
+        "@value": "chirurgia plastica"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -20255,7 +20255,7 @@
       },
       {
         "@language": "it",
-        "@value": "malattie del sangue "
+        "@value": "malattie del sangue"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -20826,7 +20826,7 @@
       },
       {
         "@language": "it",
-        "@value": "fisica della materia "
+        "@value": "fisica della materia"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -20879,7 +20879,7 @@
       },
       {
         "@language": "it",
-        "@value": "medicina interna "
+        "@value": "medicina interna"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -21160,7 +21160,7 @@
       },
       {
         "@language": "it",
-        "@value": "organizzazione aziendale "
+        "@value": "organizzazione aziendale"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -21497,7 +21497,7 @@
       },
       {
         "@language": "it",
-        "@value": "misure e strumentazione nucleari "
+        "@value": "misure e strumentazione nucleari"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -21748,7 +21748,7 @@
       },
       {
         "@language": "it",
-        "@value": "finanza aziendale "
+        "@value": "finanza aziendale"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -22633,7 +22633,7 @@
       },
       {
         "@language": "it",
-        "@value": "malattie odontostomatologiche "
+        "@value": "malattie odontostomatologiche"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -22695,7 +22695,7 @@
       },
       {
         "@language": "it",
-        "@value": "archivistica, bibliografia e biblioteconomia "
+        "@value": "archivistica, bibliografia e biblioteconomia"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -22805,7 +22805,7 @@
       },
       {
         "@language": "it",
-        "@value": "didattica e pedagogia speciale "
+        "@value": "didattica e pedagogia speciale"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -22947,7 +22947,7 @@
       },
       {
         "@language": "it",
-        "@value": "neurochirurgia "
+        "@value": "neurochirurgia"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -23248,7 +23248,7 @@
       },
       {
         "@language": "it",
-        "@value": "gastroenterologia "
+        "@value": "gastroenterologia"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -23290,7 +23290,7 @@
     "http://purl.org/dc/terms/description": [
       {
         "@language": "it",
-        "@value": "Il tesauro per la categorizzazione degli ambiti disciplinari nasce per individuare delle categorie generali sotto cui indicizzare i luoghi e gli eventi della cultura, per facilitare la ricerca e la navigazione delle informazioni da parte degli utenti.\nLe fonti alla base dell’individuazione delle categorie sono l’elenco dei settori scientifico-disciplinari individuati dal D. M. 4 ottobre 2000 (http://www.miur.it/UserFiles/115.htm), il Thesaurus Pico (http://www.culturaitalia.it/pico/thesaurus/4.3/thesaurus_4.3.0.skos.xml) e il Nuovo Soggettario di Firenze (http://thes.bncf.firenze.sbn.it/ricerca.php).\nGeneralmente si è deciso di utilizzare come fonte della categorizzazione l’elenco MIUR dei settori scientifico-disciplinari (con alcune integrazioni dagli altri Thesauri), ad eccezione dell’ambito Arte, per il quale si è ripresa la suddivisione proposta da Pico http://culturaitalia.it/pico/thesaurus/4.1#arte (cfr. Thesaurus Pico - cosa - aree disciplinari – arte, con le relative suddivisioni in arti applicate, arti visive, arti dello spettacolo), che permette di rappresentare la complessità dei beni artistici con maggiore precisione.\nLe categorie sono state strutturate su tre livelli di specializzazione progressiva, a partire da un primo livello che racchiude 25 macroaree, per arrivare al terzo livello che prevede una specializzazione disciplinare più capillare.\nOgni categoria individuata a partire dalla denominazione del MIUR dei settori scientifico-disciplinari è allineata in maniera \"debole\", dove possibile, con gli Uri dei termini corrispondenti in PICO  e nel Nuovo Soggettario di Firenze.\nLa versione inglese dei termini del vocabolario è stata ottenuta, per le voci del MIUR, dal sito del CUN (Consiglio Universitario Nazionale); per le voci del tesauro PICO, dalla sua versione RDF/XML.\nNel processo di mapping automatico, su un totale di 447 voci del vocabolario controllato si è trovata perfetta corrispondenza in 422 voci, con 9 duplicazioni, cioè in 9 voci sono state inserite due traduzioni distinte in inglese, una da fonte MIUR e una da fonte PICO, per un totale di 413 traduzioni singole. Le 34 voci rimanenti sono state tradotte manualmente."
+        "@value": "Il tesauro per la categorizzazione degli ambiti disciplinari nasce per individuare delle categorie generali sotto cui indicizzare i luoghi e gli eventi della cultura, per facilitare la ricerca e la navigazione delle informazioni da parte degli utenti.\nLe fonti alla base dell’individuazione delle categorie sono l’elenco dei settori scientifico-disciplinari individuati dal D. M. 4 ottobre 2000 (http://www.miur.it/UserFiles/115.htm), il Thesaurus Pico (http://www.culturaitalia.it/pico/thesaurus/4.3/thesaurus_4.3.0.skos.xml) e il Nuovo Soggettario di Firenze (http://thes.bncf.firenze.sbn.it/ricerca.php).\nGeneralmente si è deciso di utilizzare come fonte della categorizzazione l’elenco MIUR dei settori scientifico-disciplinari (con alcune integrazioni dagli altri Thesauri), ad eccezione dell’ambito Arte, per il quale si è ripresa la suddivisione proposta da Pico http://culturaitalia.it/pico/thesaurus/4.1#arte (cfr. Thesaurus Pico - cosa - aree disciplinari – arte, con le relative suddivisioni in arti applicate, arti visive, arti dello spettacolo), che permette di rappresentare la complessità dei beni artistici con maggiore precisione.\nLe categorie sono state strutturate su tre livelli di specializzazione progressiva, a partire da un primo livello che racchiude 25 macroaree, per arrivare al terzo livello che prevede una specializzazione disciplinare più capillare.\nOgni categoria individuata a partire dalla denominazione del MIUR dei settori scientifico-disciplinari è allineata in maniera \"debole\", dove possibile, con gli Uri dei termini corrispondenti in PICO e nel Nuovo Soggettario di Firenze.\nLa versione inglese dei termini del vocabolario è stata ottenuta, per le voci del MIUR, dal sito del CUN (Consiglio Universitario Nazionale); per le voci del tesauro PICO, dalla sua versione RDF/XML.\nNel processo di mapping automatico, su un totale di 447 voci del vocabolario controllato si è trovata perfetta corrispondenza in 422 voci, con 9 duplicazioni, cioè in 9 voci sono state inserite due traduzioni distinte in inglese, una da fonte MIUR e una da fonte PICO, per un totale di 413 traduzioni singole. Le 34 voci rimanenti sono state tradotte manualmente."
       },
       {
         "@language": "en",
@@ -23366,7 +23366,7 @@
     "http://www.w3.org/2000/01/rdf-schema#comment": [
       {
         "@language": "it",
-        "@value": "l tesauro per la categorizzazione degli ambiti disciplinari nasce per individuare delle categorie generali sotto cui indicizzare i luoghi e gli eventi della cultura, per facilitare la ricerca e la navigazione delle informazioni da parte degli utenti.\nLe fonti alla base dell’individuazione delle categorie sono l’elenco dei settori scientifico-disciplinari individuati dal D. M. 4 ottobre 2000 (http://www.miur.it/UserFiles/115.htm), il Thesaurus Pico (http://www.culturaitalia.it/pico/thesaurus/4.3/thesaurus_4.3.0.skos.xml) e il Nuovo Soggettario di Firenze (http://thes.bncf.firenze.sbn.it/ricerca.php).\nGeneralmente si è deciso di utilizzare come fonte della categorizzazione l’elenco MIUR dei settori scientifico-disciplinari (con alcune integrazioni dagli altri Thesauri), ad eccezione dell’ambito Arte, per il quale si è ripresa la suddivisione proposta da Pico http://culturaitalia.it/pico/thesaurus/4.1#arte (cfr. Thesaurus Pico - cosa - aree disciplinari – arte, con le relative suddivisioni in arti applicate, arti visive, arti dello spettacolo), che permette di rappresentare la complessità dei beni artistici con maggiore precisione.\nLe categorie sono state strutturate su tre livelli di specializzazione progressiva, a partire da un primo livello che racchiude 25 macroaree, per arrivare al terzo livello che prevede una specializzazione disciplinare più capillare.\nOgni categoria individuata a partire dalla denominazione del MIUR dei settori scientifico-disciplinari è allineata in maniera \"debole\", dove possibile, con gli Uri dei termini corrispondenti in PICO  e nel Nuovo Soggettario di Firenze.\nLa versione inglese dei termini del vocabolario è stata ottenuta, per le voci del MIUR, dal sito del CUN (Consiglio Universitario Nazionale); per le voci del tesauro PICO, dalla sua versione RDF/XML.\nNel processo di mapping automatico, su un totale di 447 voci del vocabolario controllato si è trovata perfetta corrispondenza in 422 voci, con 9 duplicazioni, cioè in 9 voci sono state inserite due traduzioni distinte in inglese, una da fonte MIUR e una da fonte PICO, per un totale di 413 traduzioni singole. Le 34 voci rimanenti sono state tradotte manualmente."
+        "@value": "l tesauro per la categorizzazione degli ambiti disciplinari nasce per individuare delle categorie generali sotto cui indicizzare i luoghi e gli eventi della cultura, per facilitare la ricerca e la navigazione delle informazioni da parte degli utenti.\nLe fonti alla base dell’individuazione delle categorie sono l’elenco dei settori scientifico-disciplinari individuati dal D. M. 4 ottobre 2000 (http://www.miur.it/UserFiles/115.htm), il Thesaurus Pico (http://www.culturaitalia.it/pico/thesaurus/4.3/thesaurus_4.3.0.skos.xml) e il Nuovo Soggettario di Firenze (http://thes.bncf.firenze.sbn.it/ricerca.php).\nGeneralmente si è deciso di utilizzare come fonte della categorizzazione l’elenco MIUR dei settori scientifico-disciplinari (con alcune integrazioni dagli altri Thesauri), ad eccezione dell’ambito Arte, per il quale si è ripresa la suddivisione proposta da Pico http://culturaitalia.it/pico/thesaurus/4.1#arte (cfr. Thesaurus Pico - cosa - aree disciplinari – arte, con le relative suddivisioni in arti applicate, arti visive, arti dello spettacolo), che permette di rappresentare la complessità dei beni artistici con maggiore precisione.\nLe categorie sono state strutturate su tre livelli di specializzazione progressiva, a partire da un primo livello che racchiude 25 macroaree, per arrivare al terzo livello che prevede una specializzazione disciplinare più capillare.\nOgni categoria individuata a partire dalla denominazione del MIUR dei settori scientifico-disciplinari è allineata in maniera \"debole\", dove possibile, con gli Uri dei termini corrispondenti in PICO e nel Nuovo Soggettario di Firenze.\nLa versione inglese dei termini del vocabolario è stata ottenuta, per le voci del MIUR, dal sito del CUN (Consiglio Universitario Nazionale); per le voci del tesauro PICO, dalla sua versione RDF/XML.\nNel processo di mapping automatico, su un totale di 447 voci del vocabolario controllato si è trovata perfetta corrispondenza in 422 voci, con 9 duplicazioni, cioè in 9 voci sono state inserite due traduzioni distinte in inglese, una da fonte MIUR e una da fonte PICO, per un totale di 413 traduzioni singole. Le 34 voci rimanenti sono state tradotte manualmente."
       },
       {
         "@language": "en",
@@ -23657,7 +23657,7 @@
       },
       {
         "@language": "it",
-        "@value": "storia della pedagogia "
+        "@value": "storia della pedagogia"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -23854,7 +23854,7 @@
       },
       {
         "@language": "it",
-        "@value": "macchine a fluido "
+        "@value": "macchine a fluido"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -24274,7 +24274,7 @@
       },
       {
         "@language": "it",
-        "@value": "discipline demoetnoantropologiche "
+        "@value": "discipline demoetnoantropologiche"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -24585,7 +24585,7 @@
       },
       {
         "@language": "it",
-        "@value": "storia dell'europa orientale "
+        "@value": "storia dell'europa orientale"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -25052,7 +25052,7 @@
       },
       {
         "@language": "it",
-        "@value": "psicobiologia e psicologia fisiologica "
+        "@value": "psicobiologia e psicologia fisiologica"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -25168,7 +25168,7 @@
       },
       {
         "@language": "it",
-        "@value": "fluidodinamica "
+        "@value": "fluidodinamica"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -25221,7 +25221,7 @@
       },
       {
         "@language": "it",
-        "@value": "storia della scienza e delle tecniche "
+        "@value": "storia della scienza e delle tecniche"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -25372,7 +25372,7 @@
       },
       {
         "@language": "it",
-        "@value": "geografia economico-politica "
+        "@value": "geografia economico-politica"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#relatedMatch": [
@@ -25472,7 +25472,7 @@
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "analysis, design and control  of chemical processes"
+        "@value": "analysis, design and control of chemical processes"
       },
       {
         "@language": "it",

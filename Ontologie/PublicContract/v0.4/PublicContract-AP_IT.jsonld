@@ -1051,7 +1051,7 @@
         },
         {
           "@language": "it",
-          "@value": "Classe astratta che raggruppa i diversi tipi di  motivazioni per la modifica"
+          "@value": "Classe astratta che raggruppa i diversi tipi di motivazioni per la modifica"
         }
       ],
       "rdfs:isDefinedBy": {
@@ -2024,7 +2024,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "La classe che comprende le attività che una stazione appaltante mette in atto per realizzare un progetto di procurement, ad esempio le attività svolte tramite un contratto di appalto o di concessione, le attività realizzate attraverso amministrazione diretta,  parternariato pubblico/privato o adesione ad un accordo quadro. Le attività prevedono step procedurali che possono variare in relazione alla modalità di realizzazione."
+          "@value": "La classe che comprende le attività che una stazione appaltante mette in atto per realizzare un progetto di procurement, ad esempio le attività svolte tramite un contratto di appalto o di concessione, le attività realizzate attraverso amministrazione diretta, parternariato pubblico/privato o adesione ad un accordo quadro. Le attività prevedono step procedurali che possono variare in relazione alla modalità di realizzazione."
         },
         {
           "@language": "en",
@@ -2139,7 +2139,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "La Classe che rappresenta la modalità di scelta del contraente (per esempio, secondo la procedura dell'affidamento diretto, della procedura aperta o della procedura ristretta), che caratterizza la procedura di affidamento di un lotto, secondo le specifiche tecniche degli XML ex L.190/2012 previste da ANAC. La modalità di scelta del contraente va indicata in compatibilità con le diverse sotto-classi della procedura di affidamento, per cui ad ogni sotto-classe possono corrispondere solo alcune modalità. Le istanze di questa classe possono essere rappresentate come concetti dello standard skos di un vocabolario controllato. "
+          "@value": "La Classe che rappresenta la modalità di scelta del contraente (per esempio, secondo la procedura dell'affidamento diretto, della procedura aperta o della procedura ristretta), che caratterizza la procedura di affidamento di un lotto, secondo le specifiche tecniche degli XML ex L.190/2012 previste da ANAC. La modalità di scelta del contraente va indicata in compatibilità con le diverse sotto-classi della procedura di affidamento, per cui ad ogni sotto-classe possono corrispondere solo alcune modalità. Le istanze di questa classe possono essere rappresentate come concetti dello standard skos di un vocabolario controllato."
         },
         {
           "@language": "en",
@@ -4169,7 +4169,7 @@
         },
         {
           "@language": "en",
-          "@value": "The property that links the procedure  or the publication phase to the related call for tender"
+          "@value": "The property that links the procedure or the publication phase to the related call for tender"
         }
       ],
       "rdfs:domain": {
@@ -6271,7 +6271,7 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "Property that identifies the winner and that links the award notice or contract  to the agent who won the tender"
+          "@value": "Property that identifies the winner and that links the award notice or contract to the agent who won the tender"
         },
         {
           "@language": "it",

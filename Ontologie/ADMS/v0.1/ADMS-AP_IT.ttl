@@ -1086,7 +1086,7 @@ If the ontology is also defined as a unique skos:ConceptScheme, then this proper
                      "da fare"@it ;
 
           rdfs:comment "Describes future tasks planned by a resource curator. This property is primarily intended to be used for semantic assets or datasets, but the domain is left open, it can be used for any resource. Use iCalendar Vtodo class and its properties to further describe the task calendar, priorities etc."@en ,
-                       "Descrive future attività sulla risorsa pianificate dal suo curatore. Si intende che questa proprietà possa essere usata soprattutto per i semantic assets o per i semantic term, ma se il suo dominio viene lasciato aperto, può essere usato per ogni risorsa. Si usi la classe iCalendar Vtodo e le sue proprietà per descrivere ulteriormente le priorità etc. "@it ;
+                       "Descrive future attività sulla risorsa pianificate dal suo curatore. Si intende che questa proprietà possa essere usata soprattutto per i semantic assets o per i semantic term, ma se il suo dominio viene lasciato aperto, può essere usato per ogni risorsa. Si usi la classe iCalendar Vtodo e le sue proprietà per descrivere ulteriormente le priorità etc."@it ;
 
           rdfs:domain owl:Thing ;
 
@@ -1320,7 +1320,7 @@ An annotation with the owl:deprecated annotation property and the value equal to
                         "etichetta nascosta"@it ;
 
              rdfs:comment "The hidden labels are useful when a user is interacting with a knowledge organization system via a text-based search function. The user may, for example, enter mis-spelled words when trying to find a relevant concept. If the mis-spelled query can be matched against a hidden label, the user will be able to find the relevant concept, but the hidden label won't otherwise be visible to the user (so further mistakes aren't encouraged)."@en ,
-                          "Utile quando un utente inteagisce con un sistema di organizzazione della conoscenza attraverso una ricerca text-based. L'utente potrebbe per esempio, digitare una parola con errori di ortografia, ma se il sistema troca un  match con un'etichetta nascosta, l'utente sarà comunque in grado di trocare il concetto rilevante, mentre l'etichetta non sarà visibile all'utente (in modo da non incoraggiare il perseverare dell'errore)."@it ;
+                          "Utile quando un utente inteagisce con un sistema di organizzazione della conoscenza attraverso una ricerca text-based. L'utente potrebbe per esempio, digitare una parola con errori di ortografia, ma se il sistema troca un match con un'etichetta nascosta, l'utente sarà comunque in grado di trocare il concetto rilevante, mentre l'etichetta non sarà visibile all'utente (in modo da non incoraggiare il perseverare dell'errore)."@it ;
 
              rdfs:range xsd:string ;
 
@@ -2862,14 +2862,14 @@ N.B. Un asset semantico può avere più di una valutazione."""@it ;
 :SemanticAsset rdfs:label "Semantic Asset"@en ,
                           "Asset semantico"@it ;
 
-               rdfs:comment """Un asset semantico (o anche risorsa semantica) è un'entità astratta  che riflette il contenuto intellettuale della risorsa e rappresenta tutte le caratteristiche della risorsa a prescindere dalla sua rappresentazione fisica.  Questa entità astratta combina le entità di FRBR \"work\" ed \"expression\".
+               rdfs:comment """Un asset semantico (o anche risorsa semantica) è un'entità astratta che riflette il contenuto intellettuale della risorsa e rappresenta tutte le caratteristiche della risorsa a prescindere dalla sua rappresentazione fisica. Questa entità astratta combina le entità di FRBR \"work\" ed \"expression\".
 Ogni volta che cambia il contenuto intellettuale, il risultato è considerato un nuovo asset che può essere collegato col precedente e con il successivo (versioning)."""@it ;
 
                prov:wasInfluencedBy "http://omv.ontoware.org/2005/05/ontology#Ontology" ,
                                     "http://www.isibang.ac.in/ns/mod#Ontology" ,
                                     "http://www.w3.org/ns/adms#Asset" ;
 
-               rdfs:comment "A semantic asset  is an abstract entity that reflects the intellectual content of the Semantic Asset and represents those characteristics of the Semantic Asset that are independent of its physical embodiment. This abstract entity combines the FRBR entities work (a distinct intellectual or artistic creation) and expression (the intellectual or artistic realization of a work). Assets can be versioned. Every time the intellectual content of an asset changes, the result is considered to be a new asset that can be linked to previous and next versions of the Semantic Asset."@en ;
+               rdfs:comment "A semantic asset is an abstract entity that reflects the intellectual content of the Semantic Asset and represents those characteristics of the Semantic Asset that are independent of its physical embodiment. This abstract entity combines the FRBR entities work (a distinct intellectual or artistic creation) and expression (the intellectual or artistic realization of a work). Assets can be versioned. Every time the intellectual content of an asset changes, the result is considered to be a new asset that can be linked to previous and next versions of the Semantic Asset."@en ;
 
                prov:wasInfluencedBy "http://purl.org/vocommons/voaf#Vocabulary" ;
 

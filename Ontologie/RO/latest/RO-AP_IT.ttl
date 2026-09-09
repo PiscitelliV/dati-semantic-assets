@@ -58,7 +58,7 @@
                                    rdfs:comment "Questa è l'ontologia del profilo applicativo dei ruoli (di persone, organizzazioni)"@it ;
                                    admsapit:status "catalogued" ;
                                    dct:language <http://publications.europa.eu/resource/authority/language/ITA> ;
-                                   owl:versionInfo "Versione 0.3 - Modificata il 23 Aprile 2019 -  Rifattorizzazione di l0:Event in l0:EventOrSituation."@it ;
+                                   owl:versionInfo "Versione 0.3 - Modificata il 23 Aprile 2019 - Rifattorizzazione di l0:Event in l0:EventOrSituation."@it ;
                                    admsapit:officialURI "https://w3id.org/italia/onto/RO"^^xsd:anyURI ;
                                    admsapit:type admsapit:ServiceOntology ;
                                    admsapit:last : ;

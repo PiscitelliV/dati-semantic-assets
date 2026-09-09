@@ -23,7 +23,7 @@
                                     dc:creator "Italian Digital Transformation Team"@en ;
                                     dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
                                     dcterms:issued "2017-07-19"^^xsd:date ;
-                                    owl:versionInfo "Version 0.2 - 08  August 2017 - exclusion of Location part of the ontology since it is included in the related ontology"@en ;
+                                    owl:versionInfo "Version 0.2 - 08 August 2017 - exclusion of Location part of the ontology since it is included in the related ontology"@en ;
                                     dc:creator "Team per la Trasformazione Digitale"@it ;
                                     rdfs:label "Ontologia delle persone"@it ;
                                     dc:creator "Agency for Digital Italy - AgID"@en ,

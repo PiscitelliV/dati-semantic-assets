@@ -290,19 +290,19 @@ muapit:Value rdf:type owl:Class .
       
       rdfs:comment "This class represents a card valid for the entrance to more than one Cultural Institute or Site. It is a subclass of Ticket."@en ;
       
-      dc:description """Un esempio di utilizzo della classe cis:Card  è il seguente:
+      dc:description """Un esempio di utilizzo della classe cis:Card è il seguente:
 
 <pre>
 
 card:Parco_archeologico_di_Liternum_Card
     a cis:Card ;
-    rdfs:label \"Ingresso per due giorni al Parco archeologico di Liternum\"@it ; 
+    rdfs:label \"Ingresso per due giorni al Parco archeologico di Liternum\"@it ;
     rdfs:label \"Two-day access to Parco archeologico di Liternum\"@en ;
-    cis:name \"Ingresso per due giorni al Parco archeologico di Liternum\"@it ; 
+    cis:name \"Ingresso per due giorni al Parco archeologico di Liternum\"@it ;
     cis:name \"Two-day access to the Parco archeologico di Liternum\"@en ;
     cis:hasValidity Parco_archeologico_di_Liternum_Card_Validity ;
     cis:forAccessTo cissite:Parco_archeologico_di_Liternum ;
-    cis:description \"With this card a tourist can visit Parco archeologico di Liternum for 2 consecutive days\"@en ; 
+    cis:description \"With this card a tourist can visit Parco archeologico di Liternum for 2 consecutive days\"@en ;
     cis:description \"La card permette l'accesso al Parco archeologico di Liternum per 2 giorni consecutivi\"@it .
 
 validity:Parco_archeologico_di_Liternum_Card_Validity
@@ -310,7 +310,7 @@ validity:Parco_archeologico_di_Liternum_Card_Validity
     rdfs:label \"Two-day validity\"@en ;
     rdfs:label \"Validità per due giorni\"@it ;
     cis:hasDuration Parco_archeologico_di_Liternum_Card_Validity_Duration .
- 
+
 quantitativevalue:Parco_archeologico_di_Liternum_Card_Validity_Duration
     a cis:QuantitativeValue ;
     rdfs:label \"2\" ;
@@ -345,7 +345,7 @@ An example is the following:
 <pre>
 
 priceSpecification:Under18>
-      a       cis:PriceSpecification ;
+      a cis:PriceSpecification ;
       rdfs:label \"price specification under 18 \"@en , \"costo under 18 \"@it ;
       cis:hasCurrency cis:Euro ;
       cis:hasCurrencyValue
@@ -382,8 +382,8 @@ cis:Euro a cis:Currency ;
        
        dc:description """Any fare is expressed within the ontology by using instances of the class Offer.
 
-It is possible to specify: 
- * the type of user to whom the offer is applicable  (cf. object property cis:hasEligibleUser);
+It is possible to specify:
+ * the type of user to whom the offer is applicable (cf. object property cis:hasEligibleUser);
  * the information about the price (cf. object property hasPriceSpecification);
  * the information about the temporal validity of the offer (cf. object property hasValidity);
  * the association with a ticket (cf. object property includes).
@@ -393,7 +393,7 @@ The following turtle example exemplifies the base offer of the Biblioteca Nazion
 <pre>
 
 offer:Biblioteca_Nazionale_Centrale_base_offer
-      a       cis:Offer ;
+      a cis:Offer ;
       rdfs:label \"offerta base \"@it , \"base offer \"@en ;
       cis:hasEligibleUser userType:Under18 ;
       cis:hasPriceSpecification
@@ -403,8 +403,8 @@ offer:Biblioteca_Nazionale_Centrale_base_offer
 
 </pre>"""@en ;
        
-       rdfs:comment "It represents an offer (reduction  for specific types of users or base price) related to the entrance ticket for the Cultural Institute or Site or for the Event."@en ,
-                    "Concetto utilizzato per rappresentare  offerte (riduzioni per specifiche categorie di utenti o importo intero) relative ai biglietti d'ingresso per un istituto e luogo della cultura o per un evento."@it ;
+       rdfs:comment "It represents an offer (reduction for specific types of users or base price) related to the entrance ticket for the Cultural Institute or Site or for the Event."@en ,
+                    "Concetto utilizzato per rappresentare offerte (riduzioni per specifiche categorie di utenti o importo intero) relative ai biglietti d'ingresso per un istituto e luogo della cultura o per un evento."@it ;
        
        rdfs:isDefinedBy <http://dati.gov.it/onto/potapit> .
 
@@ -436,7 +436,7 @@ The following turtle provides an example about the price specification of the ba
 <pre>
 
 priceSpecification:Under18
-      a       cis:PriceSpecification ;
+      a cis:PriceSpecification ;
       rdfs:label \"price specification under 18 \"@en , \"costo under 18 \"@it ;
       cis:hasCurrency cis:Euro ;
       cis:hasCurrencyValue
@@ -444,7 +444,7 @@ priceSpecification:Under18
 
 
 offer:Biblioteca_Nazionale_Centrale_base_offer
-      a       cis:Offer ;
+      a cis:Offer ;
       rdfs:label \"offerta base \"@it , \"base offer \"@en ;
       cis:hasEligibleUser userType:Under18 ;
       cis:hasPriceSpecification
@@ -482,14 +482,14 @@ offer:Biblioteca_Nazionale_Centrale_base_offer
 <pre>
 
 offer:Biblioteca_Nazionale_Centrale_base_offer
-      a       cis:Offer ;
+      a cis:Offer ;
       rdfs:label \"offerta base \"@it , \"base offer\"@en ;
       cis:hasEligibleUser userType:Under18 ;
       cis:hasPriceSpecification priceSpecification:Under18 ;
       cis:hasValidity validity:Biblioteca_nazionale_centrale_validity ;
       cis:includes ticket:Biblioteca_nazionale_centrale_ticket_1 .
 
-ticket:Biblioteca_nazionale_centrale_ticket_1 
+ticket:Biblioteca_nazionale_centrale_ticket_1
      a cis:Ticket ;
      rdfs:label \"Biglietto per accedere a 'Biblioteca Nazionale Centrale di Roma'\"@it ;
      rdfs:label \"Ticket for access to 'Biblioteca Nazionale Centrale di Roma'\"@en ;
@@ -513,17 +513,17 @@ qv:Biblioteca_nazionale_centrale_ticket_1
     cis:hasValue \"1\"^^xsd:positiveInteger .
 
 priceSpecification:Under18
-      a       cis:PriceSpecification ;
+      a cis:PriceSpecification ;
       rdfs:label \"price specification under 18 \"@en , \"costo per ragazzi sotto i 18 anni \"@it ;
       cis:hasCurrency cis:Euro ;
       cis:hasCurrencyValue \"5\"^^xsd:float .
 
-userType:Under18 
-   a cis:UserType ; 
-   rdfs:label \"Under 18\" ; 
+userType:Under18
+   a cis:UserType ;
+   rdfs:label \"Under 18\" ;
    cis:name \"Under 18\"; ;
    cis:description \"People under 18 years old\";@en;
-   cis:description \"Persone con età inferiore ai 18 anni\"@it  .
+   cis:description \"Persone con età inferiore ai 18 anni\"@it .
 
 </pre>"""@en ;
         
@@ -554,17 +554,17 @@ userType:Under18
           dc:description """An example of usage of the class cis:UserType is the following:
 
 <pre>
-userType:Under18 
-   a cis:UserType ; 
-   rdfs:label \"Under 18\" ; 
+userType:Under18
+   a cis:UserType ;
+   rdfs:label \"Under 18\" ;
    cis:name \"Under 18\"; ;
    cis:description \"People under 18 years old\";@en;
-   cis:description \"Persone con età inferiore ai 18 anni\"@it  .
+   cis:description \"Persone con età inferiore ai 18 anni\"@it .
 
 </pre>"""@en ;
           
-          rdfs:comment "It represents the identified type of users related to the tickets used to access an event or location. Examples include: people over 25 years old, people over 65 years old,  children, etc."@en ,
-                       "Rappresenta la tipologia di utenti relativa ai biglietti per accedere a un evento o a un luogo. Esempi includono:  \"maggiorenni over 25\", oppure \"over 65\", \"bambini\", ecc."@it ;
+          rdfs:comment "It represents the identified type of users related to the tickets used to access an event or location. Examples include: people over 25 years old, people over 65 years old, children, etc."@en ,
+                       "Rappresenta la tipologia di utenti relativa ai biglietti per accedere a un evento o a un luogo. Esempi includono: \"maggiorenni over 25\", oppure \"over 65\", \"bambini\", ecc."@it ;
           
           rdfs:isDefinedBy <http://dati.gov.it/onto/potapit> .
 

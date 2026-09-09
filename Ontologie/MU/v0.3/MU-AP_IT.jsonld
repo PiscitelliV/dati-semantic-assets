@@ -457,7 +457,7 @@
       "owl:versionInfo": [
         {
           "@language": "it",
-          "@value": "Versione 0.3 - modificata il 27 Aprile 2020 - inserite le proprietà di annotazione per la classe Valore e  le proprietà di annotazione owl:versionInfo per tutti gli elementi dell'ontologia; modificata il 19 Aprile 2020 - rilassati i vincoli OWL sulla classe Vlaue per le prorietà ha unità di misura e valore. Modificata il 24 Aprile 2019- introduzione delle proprietà minPercentage e maxPercentage"
+          "@value": "Versione 0.3 - modificata il 27 Aprile 2020 - inserite le proprietà di annotazione per la classe Valore e le proprietà di annotazione owl:versionInfo per tutti gli elementi dell'ontologia; modificata il 19 Aprile 2020 - rilassati i vincoli OWL sulla classe Vlaue per le prorietà ha unità di misura e valore. Modificata il 24 Aprile 2019- introduzione delle proprietà minPercentage e maxPercentage"
         },
         {
           "@language": "en",

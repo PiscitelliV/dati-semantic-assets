@@ -28,7 +28,7 @@
                                     dct:accrualPeriodicity <http://publications.europa.eu/resource/authority/frequency/IRREG> ;
                                     dct:creator <http://spcdata.digitpa.gov.it/Amministrazione/agid> ,
                                                 <https://w3id.org/italia/data/organization/support-unit/cnr-Z6HZEH/stlab> ;
-                                    dct:description "Questa è l'ontologia del profilo  italiano sui Punti di Interesse (Point of Interest - Italian Application Profile - POI-AP_IT). Esempi di punti di interesse possono essere: luoghi della cultura, un incrocio stradale, una farmacia, un centro commerciale, una fermata dell'autobus, ecc."@it ,
+                                    dct:description "Questa è l'ontologia del profilo italiano sui Punti di Interesse (Point of Interest - Italian Application Profile - POI-AP_IT). Esempi di punti di interesse possono essere: luoghi della cultura, un incrocio stradale, una farmacia, un centro commerciale, una fermata dell'autobus, ecc."@it ,
                                                     "This is the ontology of the Italian application profile for Points of Interest. Examples of Points of Interest can be: cultural sites, crossroads, a pharmacy, a mall, a bus stop, etc."@en ;
                                     dct:issued "2017-10-16"^^xsd:date ;
                                     dct:language <http://publications.europa.eu/resource/authority/language/ENG> ,
@@ -38,7 +38,7 @@
                                     dct:rightsHolder <http://spcdata.digitpa.gov.it/Amministrazione/agid> ;
                                     dct:title "Ontologia dei Punti di Interesse - Profilo applicativo italiano"@it ,
                                               "Point of Interest ontology - Italian application profile"@en ;
-                                    rdfs:comment "Questa è l'ontologia del profilo  italiano sui Punti di Interesse (Point of Interest - Italian Application Profile - POI-AP_IT). Esempi di punti di interesse possono essere: luoghi della cultura, un incrocio stradale, una farmacia, un centro commerciale, una fermata dell'autobus, ecc."@it ,
+                                    rdfs:comment "Questa è l'ontologia del profilo italiano sui Punti di Interesse (Point of Interest - Italian Application Profile - POI-AP_IT). Esempi di punti di interesse possono essere: luoghi della cultura, un incrocio stradale, una farmacia, un centro commerciale, una fermata dell'autobus, ecc."@it ,
                                                  "This is the ontology of the Italian application profile for Points of Interest"@en ;
                                     rdfs:isDefinedBy <https://w3id.org/italia/onto/POI> ;
                                     rdfs:label "Italian Points of Interest ontology"@en ,
@@ -222,7 +222,7 @@ clvapit:hasGeometry rdf:type owl:ObjectProperty .
              owl:inverseOf :isIncludedInPOI ;
              rdfs:domain :MultiplePointOfInterest ;
              rdfs:range :PointOfInterest ;
-             rdfs:comment "Questa proprietà lega un punto di interesse multiplo a tutti i  punti di interesse in esso contenuti."@it ,
+             rdfs:comment "Questa proprietà lega un punto di interesse multiplo a tutti i punti di interesse in esso contenuti."@it ,
                           "This property links a multiple point of interest with all the points of interest included in it."@en ;
              rdfs:isDefinedBy <https://w3id.org/italia/onto/POI> ;
              rdfs:label "include punto di interesse"@it ,

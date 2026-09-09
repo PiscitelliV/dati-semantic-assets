@@ -4354,7 +4354,7 @@
         },
         {
           "@language": "en",
-          "@value": "This is the distribution in CSV of the Linked Open Dataset of the license controlled vocabulary "
+          "@value": "This is the distribution in CSV of the Linked Open Dataset of the license controlled vocabulary"
         }
       ],
       "dcterms:format": {
@@ -4390,7 +4390,7 @@
         },
         {
           "@language": "en",
-          "@value": "This is the distribution in JSON_LD of the Linked Open Dataset of the license controlled vocabulary "
+          "@value": "This is the distribution in JSON_LD of the Linked Open Dataset of the license controlled vocabulary"
         }
       ],
       "dcterms:format": {
@@ -4426,7 +4426,7 @@
         },
         {
           "@language": "en",
-          "@value": "This is the distribution in RDF/turtle of the Linked Open Dataset of the license controlled vocabulary "
+          "@value": "This is the distribution in RDF/turtle of the Linked Open Dataset of the license controlled vocabulary"
         }
       ],
       "dcterms:format": {
@@ -4462,7 +4462,7 @@
         },
         {
           "@language": "en",
-          "@value": "This is the distribution in RDF/XML of the Linked Open Dataset of the license controlled vocabulary "
+          "@value": "This is the distribution in RDF/XML of the Linked Open Dataset of the license controlled vocabulary"
         }
       ],
       "dcterms:format": {
@@ -4498,7 +4498,7 @@
         },
         {
           "@language": "en",
-          "@value": "This is the distribution in XLSX of the Linked Open Dataset of the license controlled vocabulary "
+          "@value": "This is the distribution in XLSX of the Linked Open Dataset of the license controlled vocabulary"
         }
       ],
       "dcterms:format": {

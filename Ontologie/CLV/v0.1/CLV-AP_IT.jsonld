@@ -618,7 +618,7 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "This class represents the  uppermost administrative unit for the address, almost always a country. \"United Kingdom\", \"Italy\", etc. In the Core Location Vocabulary this is modelled as adminUnit1."
+          "@value": "This class represents the uppermost administrative unit for the address, almost always a country. \"United Kingdom\", \"Italy\", etc. In the Core Location Vocabulary this is modelled as adminUnit1."
         },
         {
           "@language": "it",
@@ -1299,7 +1299,7 @@
         },
         {
           "@language": "it",
-          "@value": "Questa classe rappresenta il numero civico e tutte le informazioni a esso collegate così come definite nell'ambito dell'anagrafe nazionale numeri civici e strate urbane.  I numeri civici individuano gli ACCESSI ESTERNI, cioè quelli che dall’area di circolazione immettono, direttamente o indirettamente, alle unità ecografiche semplici ossia abitazioni, esercizi commerciali, uffici e simili."
+          "@value": "Questa classe rappresenta il numero civico e tutte le informazioni a esso collegate così come definite nell'ambito dell'anagrafe nazionale numeri civici e strate urbane. I numeri civici individuano gli ACCESSI ESTERNI, cioè quelli che dall’area di circolazione immettono, direttamente o indirettamente, alle unità ecografiche semplici ossia abitazioni, esercizi commerciali, uffici e simili."
         }
       ],
       "rdfs:isDefinedBy": {
@@ -1522,7 +1522,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa è l'ontologia del profilo di italiano sui luoghi e gli indirizzi (Italian Core Location Vocabulary - Application Profile  - CLV-AP_IT)"
+          "@value": "Questa è l'ontologia del profilo di italiano sui luoghi e gli indirizzi (Italian Core Location Vocabulary - Application Profile - CLV-AP_IT)"
         },
         {
           "@language": "en",

@@ -22,7 +22,7 @@
                                   
                                   owl:versionInfo "Version 0.1 - 07 August 2017"@en ;
                                   
-                                  rdfs:comment "Questa è l'ontologia del profilo di italiano sui luoghi e gli indirizzi (Italian Core Location Vocabulary - Application Profile  - CLV-AP_IT)"@it ;
+                                  rdfs:comment "Questa è l'ontologia del profilo di italiano sui luoghi e gli indirizzi (Italian Core Location Vocabulary - Application Profile - CLV-AP_IT)"@it ;
                                   
                                   owl:versionInfo "Versione 0.1 - 07 Agosto 2017"@it ;
                                   
@@ -744,7 +744,7 @@
                            owl:maxCardinality "1"^^xsd:nonNegativeInteger
                          ] ;
          
-         rdfs:comment "This class represents the  uppermost administrative unit for the address, almost always a country. \"United Kingdom\", \"Italy\", etc. In the Core Location Vocabulary this is modelled as adminUnit1."@en ;
+         rdfs:comment "This class represents the uppermost administrative unit for the address, almost always a country. \"United Kingdom\", \"Italy\", etc. In the Core Location Vocabulary this is modelled as adminUnit1."@en ;
          
          owl:versionInfo "stable"@en ;
          
@@ -775,7 +775,7 @@
           
           owl:versionInfo "unstable"@en ;
           
-          rdfs:comment "Questa classe rappresenta il numero civico e tutte le informazioni a esso collegate così come definite nell'ambito dell'anagrafe nazionale numeri civici e strate urbane.  I numeri civici individuano gli ACCESSI ESTERNI, cioè quelli che dall’area di circolazione immettono, direttamente o indirettamente, alle unità ecografiche semplici ossia abitazioni, esercizi commerciali, uffici e simili."@it ;
+          rdfs:comment "Questa classe rappresenta il numero civico e tutte le informazioni a esso collegate così come definite nell'ambito dell'anagrafe nazionale numeri civici e strate urbane. I numeri civici individuano gli ACCESSI ESTERNI, cioè quelli che dall’area di circolazione immettono, direttamente o indirettamente, alle unità ecografiche semplici ossia abitazioni, esercizi commerciali, uffici e simili."@it ;
           
           owl:versionInfo "provvisoria"@it ;
           

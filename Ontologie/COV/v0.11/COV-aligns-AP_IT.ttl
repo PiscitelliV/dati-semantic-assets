@@ -27,7 +27,7 @@
                                                       "Institute of Cognitive Sciences and Technologies of the Italian Research Council (CNR) - Semantic Technology Laboratory (STLab)"@en ,
                                                       "Italian Digital Transformation Team"@en ;
                                            dc:modified "2019-04-23"^^xsd:date ;
-                                           dc:title "Questi sono gli allineamenti dell'ontologia sulle organizzazioni (pubbliche, private) Core Organization Vocabulary - Italian Application Profile  (COV-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate."@it ,
+                                           dc:title "Questi sono gli allineamenti dell'ontologia sulle organizzazioni (pubbliche, private) Core Organization Vocabulary - Italian Application Profile (COV-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate."@it ,
                                                     "These are the alignments to external ontologies widely used and available at the state of the art"@en .
 
 #################################################################

@@ -107,7 +107,7 @@
 <https://w3id.org/italia/data/contact-point/ISTAT-NDC> rdf:type <http://dati.gov.it/onto/dcatapit#Organization> ,
                                                                 vcard:Kind ,
                                                                 vcard:Organization ;
-                                                       vcard:fn "Segreteria Tecnica Istat - Progetto PNRR National Data Catalog " ;
+                                                       vcard:fn "Segreteria Tecnica Istat - Progetto PNRR National Data Catalog" ;
                                                        vcard:hasEmail <mailto:ndc-segr-tec@istat.it> .
 
 
@@ -128,8 +128,8 @@
                                                                                "This is the distribution in RDF/XML of the ontology of the population registered in the registry office"@en ;
                                                                dct:format <http://publications.europa.eu/resource/authority/file-type/RDF_XML> ;
                                                                dct:license <https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40> ;
-                                                               dct:title "Distribuzione RDF/XML ontologia RPO "@it ,
-                                                                         "RDF/XML distribution of RPO  Ontology"@en ;
+                                                               dct:title "Distribuzione RDF/XML ontologia RPO"@it ,
+                                                                         "RDF/XML distribution of RPO Ontology"@en ;
                                                                dcat:accessURL <https://github.com/italia/dati-semantic-assets/tree/master/Ontologie/RPO/latest> ;
                                                                dcat:downloadURL <https://raw.githubusercontent.com/italia/dati-semantic-assets/master/Ontologie/RPO/latest/RPO-AP_IT.rdf> .
 
@@ -139,8 +139,8 @@
                                                                                "This is the distribution in JSON-LD of the ontology of the population registered in the registry office"@en ;
                                                                dct:format <http://publications.europa.eu/resource/authority/file-type/JSON_LD> ;
                                                                dct:license <https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40> ;
-                                                               dct:title "Distribuzione JSON-LD ontologia RPO "@it ,
-                                                                         "JSON-LD distribution of RPO  Ontology"@en ;
+                                                               dct:title "Distribuzione JSON-LD ontologia RPO"@it ,
+                                                                         "JSON-LD distribution of RPO Ontology"@en ;
                                                                dcat:accessURL <https://github.com/italia/dati-semantic-assets/tree/master/Ontologie/RPO/latest> ;
                                                                dcat:downloadURL <https://raw.githubusercontent.com/italia/dati-semantic-assets/master/Ontologie/RPO/latest/RPO-AP_IT.jsonld> .
 
@@ -193,7 +193,7 @@ rpo:belongsToRegisteredFamily rdf:type owl:ObjectProperty ,
 rpo:belongsToRegisteredFamilyOrCohabitance rdf:type owl:ObjectProperty ,
                                                     owl:FunctionalProperty ;
                                            rdfs:domain cpv:Alive ;
-                                           rdfs:label """appartiene a 
+                                           rdfs:label """appartiene a
 famiglia o convivenza"""@it ,
                                                       "belongs to registered family or cohabitance"@en .
 
@@ -466,7 +466,7 @@ rpo:currentMaritalStatusStartDate rdf:type owl:DatatypeProperty ,
                                   rdfs:domain cpv:Alive ;
                                   rdfs:range xsd:dateTime ;
                                   rdfs:label "current marital status start date"@en ,
-                                             """data inizio stato 
+                                             """data inizio stato
 civile attuale"""@it .
 
 
@@ -663,11 +663,11 @@ rpo:Citizenship rdf:type owl:Class ;
                                       owl:onProperty rpo:citizenshipDenomination ;
                                       owl:someValuesFrom rdfs:Literal
                                     ] ;
-                rdfs:comment """Vincolo giuridico tra un individuo e lo Stato di appartenenza che garantisce il godimento di diritti e l’assoggettamento a particolari oneri. Viene acquisito per nascita o per naturalizzazione, mediante dichiarazione, opzione, matrimonio o altre modalità previste dalla legislazione nazionale. 
-Ad una persona con cittadinanza doppia o multipla, nella rilevazione censuaria va assegnato un unico paese di cittadinanza, da determinare con il seguente ordine di precedenza:  
-1. paese dichiarante; o  
-2. se la persona non ha la cittadinanza del paese dichiarante: altro Stato membro dell'Ue; o  
-3. se la persona non ha la cittadinanza di un altro Stato membro dell'Ue: altro paese non membro dell'Unione europea. 
+                rdfs:comment """Vincolo giuridico tra un individuo e lo Stato di appartenenza che garantisce il godimento di diritti e l’assoggettamento a particolari oneri. Viene acquisito per nascita o per naturalizzazione, mediante dichiarazione, opzione, matrimonio o altre modalità previste dalla legislazione nazionale.
+Ad una persona con cittadinanza doppia o multipla, nella rilevazione censuaria va assegnato un unico paese di cittadinanza, da determinare con il seguente ordine di precedenza:
+1. paese dichiarante; o
+2. se la persona non ha la cittadinanza del paese dichiarante: altro Stato membro dell'Ue; o
+3. se la persona non ha la cittadinanza di un altro Stato membro dell'Ue: altro paese non membro dell'Unione europea.
 Per \"Stato membro dell'Ue\" si intende un paese che è membro dell'Unione europea al tempo di riferimento dell’indagine. Nei casi di doppia cittadinanza, in cui entrambi i paesi sono Stati membri dell'Unione europea ma nessuno è il paese dichiarante, gli Stati membri determinano il paese di cittadinanza da assegnare."""@it ;
                 rdfs:label "Citizenship"@en ,
                            "Cittadinanza"@it .
@@ -699,7 +699,7 @@ rpo:HomelessPerson rdf:type owl:Class ;
                    rdfs:subClassOf rpo:RegisteredResidentPerson ;
                    rdfs:comment "Persona che non ha in alcun comune la dimora abituale e che è registrata in anagrafe sulla base del requisito del domicilio. In mancanza del domicilio, si considera residente nel comune di nascita. (art.2 Legge anagrafica n.1228/1954)"@it ;
                    rdfs:label "Homeless person"@en ,
-                              """Persona senza 
+                              """Persona senza
 fissa dimora"""@it .
 
 
@@ -713,7 +713,7 @@ rpo:MaritalStatus rdf:type owl:Class ;
                                         owl:onProperty rpo:maritalStatusDenomination ;
                                         owl:someValuesFrom rdfs:Literal
                                       ] ;
-                  rdfs:comment "Complesso delle singole posizioni giuridiche spettanti alla persona nella famiglia, nello Stato e nella comunità giuridica. "@it ;
+                  rdfs:comment "Complesso delle singole posizioni giuridiche spettanti alla persona nella famiglia, nello Stato e nella comunità giuridica."@it ;
                   rdfs:label "Marital status"@en ,
                              "Stato civile"@it .
 
@@ -732,7 +732,7 @@ rpo:MembershipInRegisteredFamily rdf:type owl:Class ;
                                                      ] ;
                                  rdfs:subClassOf TI:TimeIndexedEvent ;
                                  rdfs:comment "Registrazione della persona in una famiglia anagrafica."@it ;
-                                 rdfs:label """Appartenenza in 
+                                 rdfs:label """Appartenenza in
 famiglia Anagrafica"""@it ,
                                             "Membership in registered family"@en .
 
@@ -753,8 +753,8 @@ rpo:ParentalRelationship rdf:type owl:Class ;
                                                owl:someValuesFrom owl:Thing
                                              ] ;
                          rdfs:subClassOf TI:TimeIndexedEvent ;
-                         rdfs:comment """Il legame di ciascun membro della famiglia anagrafica con una persona di riferimento all'interno della famiglia stessa. 
-Le relazioni di parentela consentono di ricostruire la composizione e dimensione delle famiglie, le relazioni tra i diversi componenti, le relazioni di coppia de iure (matrimonio/unione civile/) o de facto (convivenza di fatto, art. 1, commi 6ss, L. 20 maggio 2016, 76) e la condizione genitoriale. """@it ;
+                         rdfs:comment """Il legame di ciascun membro della famiglia anagrafica con una persona di riferimento all'interno della famiglia stessa.
+Le relazioni di parentela consentono di ricostruire la composizione e dimensione delle famiglie, le relazioni tra i diversi componenti, le relazioni di coppia de iure (matrimonio/unione civile/) o de facto (convivenza di fatto, art. 1, commi 6ss, L. 20 maggio 2016, 76) e la condizione genitoriale."""@it ;
                          rdfs:label "Parental relationship"@en ,
                                     "Relazione parentale"@it .
 
@@ -774,7 +774,7 @@ rpo:ParentalRelationshipType rdf:type owl:Class ;
                                                    owl:onProperty rpo:parentalRelationshipTypeDenomination ;
                                                    owl:someValuesFrom rdfs:Literal
                                                  ] ;
-                             rdfs:comment """Classificazione dei legami parentali che sussistono tra ciascun membro della famiglia e una persona di riferimento all'interno della famiglia stessa (in questo caso l'intestatario della scheda). 
+                             rdfs:comment """Classificazione dei legami parentali che sussistono tra ciascun membro della famiglia e una persona di riferimento all'interno della famiglia stessa (in questo caso l'intestatario della scheda).
 È una classificazione ad un livello composta delle seguenti categorie: intestatario della scheda; marito/moglie; figlio/figlia; nipote (discendente); pronipote (discendente); padre/madre; nonno/nonna; fratello/sorella; nipote (collaterale); zio/zia (collaterale); cugino/cugina; altro parente; genero/nuora; suocero/suocera; cognato/cognata; nipote (affine); zio/zia (affine); altro affine; convivente (con vincoli di adozione o affettivi); responsabile della convivenza non affettiva; convivente in convivenza non affettiva; adottato; unito civilmente."""@it ;
                              rdfs:label "Parental relationship type"@en ,
                                         "Tipo relazione parentale"@it .
@@ -819,7 +819,7 @@ rpo:RegisteredFamily rdf:type owl:Class ;
                                            owl:onProperty rpo:registeredFamilyCode ;
                                            owl:someValuesFrom rdfs:Literal
                                          ] ;
-                     rdfs:comment "Insieme di persone legate da vincoli di matrimonio, parentela, affinità, adozione, tutela o vincoli affettivi, coabitanti e residenti anagraficamente nello stesso comune. Una famiglia anagrafica può essere costituita anche da una sola persona (famiglia monocomponente). (art. 4 DPR 223/1989) "@it ;
+                     rdfs:comment "Insieme di persone legate da vincoli di matrimonio, parentela, affinità, adozione, tutela o vincoli affettivi, coabitanti e residenti anagraficamente nello stesso comune. Una famiglia anagrafica può essere costituita anche da una sola persona (famiglia monocomponente). (art. 4 DPR 223/1989)"@it ;
                      rdfs:label "Famiglia anagrafica"@it ,
                                 "Registered family"@en .
 
@@ -862,7 +862,7 @@ rpo:RegisteredResidenceEventType rdf:type owl:Class ;
                                                      ] ;
                                  rdfs:comment "La registrazione in anagrafe può consistere nell'iscrizione o nella cancellazione."@it ;
                                  rdfs:label "Registered residence event type"@en ,
-                                            """Tipo evento 
+                                            """Tipo evento
 registrazione anagrafe"""@it .
 
 
@@ -876,7 +876,7 @@ rpo:RegisteredResidentPerson rdf:type owl:Class ;
                                                    owl:onProperty rpo:currentlyHasRegisteredResidenceIn ;
                                                    owl:someValuesFrom owl:Thing
                                                  ] ;
-                             rdfs:comment "Persona fisica avente dimora abituale in un determinato Comune come risultante nell'anagrafe della popolazione residente (artt. 3 e 7 DPR n. 223/1989; art. 43 cc). "@it ;
+                             rdfs:comment "Persona fisica avente dimora abituale in un determinato Comune come risultante nell'anagrafe della popolazione residente (artt. 3 e 7 DPR n. 223/1989; art. 43 cc)."@it ;
                              rdfs:label "Persona anagraficamente residente"@it ,
                                         "Registered resident person"@en .
 

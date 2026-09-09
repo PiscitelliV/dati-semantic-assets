@@ -679,7 +679,7 @@ covapit:hasPublicOrganization rdf:type owl:ObjectProperty .
             rdfs:comment "Questa proprietà si collega a un diploma accademico."@it ,
                          "This property links to an academic diploma."@en ;
             rdfs:isDefinedBy <https://w3id.org/italia/onto/HER> ;
-            rdfs:label "ha  diploma"@it ,
+            rdfs:label "ha diploma"@it ,
                        "has diploma"@en ;
             owl:versionInfo "stabile"@it ,
                             "stable"@en .
@@ -844,7 +844,7 @@ covapit:hasPublicOrganization rdf:type owl:ObjectProperty .
                rdfs:comment "Questa proprietà collega l'informazione sugli studenti iscritti degli atenei in regola con il pagamento delle tasse universitarie all'informazione sulle tipologie di iscrizione."@it ,
                             "This property links information on enrolled students of universities in good standing with the payment of tuition fees to information on the types of enrollment."@en ;
                rdfs:isDefinedBy <https://w3id.org/italia/onto/HER> ;
-               rdfs:label "ha  iscrizione"@it ,
+               rdfs:label "ha iscrizione"@it ,
                           "has enrollment"@en .
 
 
@@ -1196,7 +1196,7 @@ covapit:hasPublicOrganization rdf:type owl:ObjectProperty .
               rdfs:comment "Questa proprietà si collega ad un corso di dottorato di ricerca corrispondente."@it ,
                            "This property links to a corresponding PhD course."@en ;
               rdfs:isDefinedBy <https://w3id.org/italia/onto/HER> ;
-              rdfs:label "ha  corso di dottorato di ricerca"@it ,
+              rdfs:label "ha corso di dottorato di ricerca"@it ,
                          "has phd course"@en ;
               owl:versionInfo "stabile"@it ,
                               "stable"@en .
@@ -1599,7 +1599,7 @@ covapit:hasPublicOrganization rdf:type owl:ObjectProperty .
 :refersToProject rdf:type owl:ObjectProperty ;
                  rdfs:domain :CTNPRINOperation ;
                  rdfs:range :CTNPRINProject ;
-                 rdfs:comment "Questa proprietà  collega un'operazione CTN/PRIN con il progetto CTN/PRIN di riferimento"@it ,
+                 rdfs:comment "Questa proprietà collega un'operazione CTN/PRIN con il progetto CTN/PRIN di riferimento"@it ,
                               "This property links a CTN/Prin opertion to the reference CTN/PRIN project."@en ;
                  rdfs:isDefinedBy <https://w3id.org/italia/onto/HER> ;
                  rdfs:label "refers to project"@en ,
@@ -2144,7 +2144,7 @@ Samples Without DNA: Samples retained, with no potential for DNA extraction from
                            rdfs:subPropertyOf <https://w3id.org/italia/onto/MU/value> ;
                            rdfs:domain :CTNPRINAmount ;
                            rdfs:comment "Cost admitted by decree after the evaluation of the costs indicated in the project proposal for each item of expenditure"@en ,
-                                        "Costo ammesso da decreto dopo la valutazione dei costo indicato nella proposta di progetto  per singola voce di spesa"@it ;
+                                        "Costo ammesso da decreto dopo la valutazione dei costo indicato nella proposta di progetto per singola voce di spesa"@it ;
                            rdfs:label "admitted cost of CTN/PRIN amount"@en ,
                                       "costo ammesso dell'importo CTN/PRIN"@it .
 
@@ -2230,8 +2230,8 @@ Samples Without DNA: Samples retained, with no potential for DNA extraction from
 :ctnprinInitiativeAdmittedCost rdf:type owl:DatatypeProperty ;
                                rdfs:subPropertyOf <https://w3id.org/italia/onto/MU/value> ;
                                rdfs:domain :CTNPRINInitiative ;
-                               rdfs:comment "Total admitted costs after evaluation of the costs indicated in the project proposals.  Calculated as the sum of the counterpart variable 'admittedCost' present at lower aggregation level (admittedCost_operations)"@en ,
-                                            "Totale dei costi ammessi dopo la valutazione dei costi indicati nelle proposte di progetto.  Calcolati come somma dell'omologa variabile \"admittedCost\" presente a livello di aggregazione inferiore (admittedCost_operations)"@it ;
+                               rdfs:comment "Total admitted costs after evaluation of the costs indicated in the project proposals. Calculated as the sum of the counterpart variable 'admittedCost' present at lower aggregation level (admittedCost_operations)"@en ,
+                                            "Totale dei costi ammessi dopo la valutazione dei costi indicati nelle proposte di progetto. Calcolati come somma dell'omologa variabile \"admittedCost\" presente a livello di aggregazione inferiore (admittedCost_operations)"@it ;
                                rdfs:label "admitted cost of CTN/PRIN initiative"@en ,
                                           "costi ammessi per iniziative CTN/PRIN"@it .
 
@@ -2343,10 +2343,10 @@ Samples Without DNA: Samples retained, with no potential for DNA extraction from
                             rdfs:range rdfs:Literal ;
                             rdfs:comment """ID univoco di una operazione.
 E' ottenuto concatenando le seguenti variabili all'origine:
-Codice locale progetto +  ambito + CF beneficiario
+Codice locale progetto + ambito + CF beneficiario
 corrispondenti a: projectCode + scope_operations + fiscalcode_entity"""@it ,
                                          """Unique ID of an operation.
-It is obtained by concatenating the following variables at the origin: \"Codice locale progetto +  ambito + CF beneficiario\"  corresponding to: projectCode + scope_operations + fiscalcode_entity"""@en ;
+It is obtained by concatenating the following variables at the origin: \"Codice locale progetto + ambito + CF beneficiario\" corresponding to: projectCode + scope_operations + fiscalcode_entity"""@en ;
                             rdfs:label "CTN/PRIN operation identifier"@en ,
                                        "identificatore operazione CTN/PRIN"@it .
 
@@ -4907,7 +4907,7 @@ Tradotto con www.DeepL.com/Translator (versione gratuita)"""@it ,
       rdfs:subClassOf :HERClassification ;
       rdfs:isDefinedBy <https://w3id.org/italia/onto/HER> ;
       rdfs:label "All Science Journal Classification"@en ,
-                 "Classificazione  Scopus"@it ,
+                 "Classificazione Scopus"@it ,
                  "Scopus Classification"@en ;
       prov:wasDerivedFrom skos:ConceptScheme ;
       l0:controlledVocabulary <https://w3id.org/italia/controlled-vocabulary/classifications-for-universities/all-science-journal> .

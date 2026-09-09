@@ -361,7 +361,7 @@
 		"@id": "https://w3id.org/italia/onto/PARK/CarPark"
 	}],
 	"http://www.w3.org/2000/01/rdf-schema#comment": [{
-		"@value": "This class represents a specific type of car park; that is, park and ride. The park and ride type  is usually located close to the borders of a urban centre and it can be used to easily change the transportation mean, promoting the use of public transportation.",
+		"@value": "This class represents a specific type of car park; that is, park and ride. The park and ride type is usually located close to the borders of a urban centre and it can be used to easily change the transportation mean, promoting the use of public transportation.",
 		"@language": "en"
 	}, {
 		"@value": "Questa classe rappresenta uno specifico tipo di parcheggio, ovvero il parcheggio di scambio. I parcheggi di scambio sono tipicamente collocati ai margini del centro urbano o storico e sono usati per scambiare mezzo di trasporto e incentivare l’uso di mezzi pubblici.",

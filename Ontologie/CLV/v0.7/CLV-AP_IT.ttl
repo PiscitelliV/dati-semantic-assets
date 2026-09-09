@@ -27,7 +27,7 @@
                                    rdfs:isDefinedBy <http://dati.gov.it/onto/clvapit> ;
                                    dc:creator "Agency for Digital Italy - AgID"@en ;
                                    rdfs:label "Indirizzi(Luoghi)"@it ;
-                                   rdfs:comment "Questa è l'ontologia del profilo di italiano sugli indirizzi che hanno anche una connotazione geografica (Italian Core Location Vocabulary - Application Profile  - CLV-AP_IT)"@it ,
+                                   rdfs:comment "Questa è l'ontologia del profilo di italiano sugli indirizzi che hanno anche una connotazione geografica (Italian Core Location Vocabulary - Application Profile - CLV-AP_IT)"@it ,
                                                 "This is the ontology of the Italian application profile for Location and Addresses"@en .
 
 #################################################################
@@ -138,7 +138,7 @@ prov:wasInfluencedBy rdf:type owl:AnnotationProperty .
          rdfs:subPropertyOf :hasAddressComponent ;
          rdfs:domain :Address ;
          rdfs:range :City ;
-         rdfs:comment "Questa proprietà specializza la proprietà ha componente indirzzo per collegare l'indirizzo alla componente Comune dello stesso.  Esempio di comune: Roma, Bologna, Palermo, Milano, ecc."@it ,
+         rdfs:comment "Questa proprietà specializza la proprietà ha componente indirzzo per collegare l'indirizzo alla componente Comune dello stesso. Esempio di comune: Roma, Bologna, Palermo, Milano, ecc."@it ,
                       "This property speciaizes the property has address component in order to link the address to the city component of the address itself."@en ;
          rdfs:isDefinedBy <http://dati.gov.it/onto/clvapit> ;
          rdfs:label "ha comune"@it ,
@@ -222,7 +222,7 @@ prov:wasInfluencedBy rdf:type owl:AnnotationProperty .
                rdfs:domain :NamedAddressComponent ;
                rdfs:range :NamedAddressComponent ;
                rdfs:comment "Questa proprietà è utilizzata per mettere in relazione due componenti dell'indirizzo che hanno un nome, dove la prima è più specifica della seconda."@it ,
-                            "This property is used to  relate two named address component, where the first is more specific than the second."@en ;
+                            "This property is used to relate two named address component, where the first is more specific than the second."@en ;
                rdfs:isDefinedBy <http://dati.gov.it/onto/clvapit> ;
                rdfs:label "ha livello più alto"@it ,
                           "has higher rank"@en ;
@@ -500,7 +500,7 @@ ti:atTime rdf:type owl:ObjectProperty .
               owl:FunctionalProperty ;
      rdfs:domain :Geometry ;
      rdfs:range rdfs:Literal ;
-     rdfs:comment "Questa proprietà rappresenta l'altitudine, ovvero l'altezza di un oggetto spaziale rispetto alla superficie del livello medio del mare.. E'  proprietà associata alla geometria. Nel caso di geometria associata all'indirizzo, la proprietà  rappresenta l'altezza ortometrica dell’accesso esterno (civico) espressa nei sistemi di riferimento altimetrici nazionali ufficiali."@it ,
+     rdfs:comment "Questa proprietà rappresenta l'altitudine, ovvero l'altezza di un oggetto spaziale rispetto alla superficie del livello medio del mare.. E' proprietà associata alla geometria. Nel caso di geometria associata all'indirizzo, la proprietà rappresenta l'altezza ortometrica dell’accesso esterno (civico) espressa nei sistemi di riferimento altimetrici nazionali ufficiali."@it ,
                   "The property represents the altitude, i.e., the height of an object or point in relation to sea level or ground level. It is associated with the geometry."@en ;
      rdfs:isDefinedBy <http://dati.gov.it/onto/clvapit> ;
      rdfs:label "altitude"@en ,
@@ -539,7 +539,7 @@ ti:atTime rdf:type owl:ObjectProperty .
 :exponent rdf:type owl:DatatypeProperty ;
           rdfs:domain :AddressNumber ;
           rdfs:range rdfs:Literal ;
-          rdfs:comment "Parte letterale del numero civico, ove presente o eventuale esponente attribuito al numero interno.  In quest'ultimo caso, l’utilizzo va preventivamente concordato con l’Istat"@it ,
+          rdfs:comment "Parte letterale del numero civico, ove presente o eventuale esponente attribuito al numero interno. In quest'ultimo caso, l’utilizzo va preventivamente concordato con l’Istat"@it ,
                        "When available, it represents the literal part of the number of the address. It can be used associated with both the external and internal number."@en ;
           rdfs:isDefinedBy <http://dati.gov.it/onto/clvapit> ;
           rdfs:label "esponente"@it ,
@@ -579,7 +579,7 @@ ti:atTime rdf:type owl:ObjectProperty .
                       owl:FunctionalProperty ;
              rdfs:domain :Address ;
              rdfs:range rdfs:Literal ;
-             rdfs:comment "L'indirizzo completo scritto come una stringa. L'uso di questa proprietà  aiuta a comprendere l'indirizzo completo evitando possibili errori derivanti dal frazionamento dello stesso nelle sue rispettive componenti."@it ,
+             rdfs:comment "L'indirizzo completo scritto come una stringa. L'uso di questa proprietà aiuta a comprendere l'indirizzo completo evitando possibili errori derivanti dal frazionamento dello stesso nelle sue rispettive componenti."@it ,
                           "The complete address written as a string, with or without formatting. The use of this property allows one not to incur in any misunderstandings that might arise through the breaking up of an address into its component parts."@en ;
              rdfs:isDefinedBy <http://dati.gov.it/onto/clvapit> ;
              rdfs:label "full address"@en ,
@@ -941,7 +941,7 @@ l0:name rdf:type owl:DatatypeProperty ;
                          ] ;
          :hasRankOrder 1 ;
          rdfs:comment "Questa classe rappresenta lo stato dell'indirizzo. Esempio: \"Italia - Italy\" oppure \"United Kingdom\", ecc."@it ,
-                      "This class represents the  uppermost administrative unit for the address, almost always a country. \"United Kingdom\", \"Italy\", etc. In the Core Location Vocabulary this is modelled as adminUnit1."@en ;
+                      "This class represents the uppermost administrative unit for the address, almost always a country. \"United Kingdom\", \"Italy\", etc. In the Core Location Vocabulary this is modelled as adminUnit1."@en ;
          rdfs:isDefinedBy <http://dati.gov.it/onto/clvapit> ;
          rdfs:label "Country"@en ,
                     "Stato"@it ;
@@ -965,7 +965,7 @@ l0:name rdf:type owl:DatatypeProperty ;
                                          owl:maxCardinality "1"^^xsd:nonNegativeInteger
                                        ] ;
                        owl:disjointWith :InternalAddressNumber ;
-                       rdfs:comment "Questa classe rappresenta il numero civico esterno e tutte le informazioni a esso collegate così come definite nell'ambito dell'anagrafe nazionale numeri civici e strate urbane.  I numeri civici individuano gli ACCESSI ESTERNI, cioè quelli che dall’area di circolazione immettono, direttamente o indirettamente, alle unità ecografiche semplici ossia abitazioni, esercizi commerciali, uffici e simili."@it ,
+                       rdfs:comment "Questa classe rappresenta il numero civico esterno e tutte le informazioni a esso collegate così come definite nell'ambito dell'anagrafe nazionale numeri civici e strate urbane. I numeri civici individuano gli ACCESSI ESTERNI, cioè quelli che dall’area di circolazione immettono, direttamente o indirettamente, alle unità ecografiche semplici ossia abitazioni, esercizi commerciali, uffici e simili."@it ,
                                     "This class represents the street number for the external accesses to the buildings."@en ;
                        rdfs:isDefinedBy <http://dati.gov.it/onto/clvapit> ;
                        rdfs:label "External Address Number"@en ,

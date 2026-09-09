@@ -1153,7 +1153,7 @@
     "@value" : "Questa proprietà è utilizzata per modellare la data di ultima modifica (o il tempo di aggiornamento)"
   }, {
     "@language" : "en",
-    "@value" : "This property  is used in order to model the update time."
+    "@value" : "This property is used in order to model the update time."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
     "@id" : "http://www.w3.org/2002/07/owl#Thing"

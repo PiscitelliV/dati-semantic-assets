@@ -648,11 +648,11 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Rappresenta la tipologia di utenti relativa ai biglietti per accedere a un evento o a un luogo. Esempi includono:  \"maggiorenni over 25\", oppure \"over 65\", \"bambini\", ecc."
+          "@value": "Rappresenta la tipologia di utenti relativa ai biglietti per accedere a un evento o a un luogo. Esempi includono: \"maggiorenni over 25\", oppure \"over 65\", \"bambini\", ecc."
         },
         {
           "@language": "en",
-          "@value": "It represents the identified type of users related to the tickets used to access an event or location. Examples include: people over 25 years old, people over 65 years old,  children, etc."
+          "@value": "It represents the identified type of users related to the tickets used to access an event or location. Examples include: people over 25 years old, people over 65 years old, children, etc."
         }
       ],
       "rdfs:isDefinedBy": {
@@ -1444,7 +1444,7 @@
       "@type": "owl:Class",
       "dc:description": {
         "@language": "en",
-        "@value": "Any fare is expressed within the ontology by using instances of the class Offer.\n\nIt is possible to specify:\n * the type of user to whom the offer is applicable  (cf. object property cis:hasEligibleUser);\n * the information about the price (cf. object property hasPriceSpecification);\n * the information about the temporal validity of the offer (cf. object property hasValidity);\n * the association with a ticket (cf. object property includes)."
+        "@value": "Any fare is expressed within the ontology by using instances of the class Offer.\n\nIt is possible to specify:\n * the type of user to whom the offer is applicable (cf. object property cis:hasEligibleUser);\n * the information about the price (cf. object property hasPriceSpecification);\n * the information about the temporal validity of the offer (cf. object property hasValidity);\n * the association with a ticket (cf. object property includes)."
       },
       "owl:versionInfo": [
         {
@@ -1467,11 +1467,11 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "It represents an offer (reduction  for specific types of users or base price)."
+          "@value": "It represents an offer (reduction for specific types of users or base price)."
         },
         {
           "@language": "it",
-          "@value": "Concetto utilizzato per rappresentare  offerte (riduzioni per specifiche categorie di utenti o importo intero)."
+          "@value": "Concetto utilizzato per rappresentare offerte (riduzioni per specifiche categorie di utenti o importo intero)."
         }
       ],
       "rdfs:isDefinedBy": {

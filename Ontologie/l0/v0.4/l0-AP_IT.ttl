@@ -31,7 +31,7 @@
                                    dc:creator "Agenzia per l'Italia Digitale"@it ,
                                               "Istituto di Scienze e Tecnologie della Cognizione del CNR - Laboratorio di tecnologie semantiche (STLab)"@it ;
                                    
-                                   rdfs:comment "Questa ontologia fornisce il livello fondazionale allo stack ontologico di OntoPiA. Il nome L0 sta per Level-0 ontology poiché essa fornisce le fondamenta concettuali elementari all'intero stack. Questa ontologia è  ispirata da DOLCE zero (http://www.ontologydesignpatterns.org/ont/d0.owl)"@it ;
+                                   rdfs:comment "Questa ontologia fornisce il livello fondazionale allo stack ontologico di OntoPiA. Il nome L0 sta per Level-0 ontology poiché essa fornisce le fondamenta concettuali elementari all'intero stack. Questa ontologia è ispirata da DOLCE zero (http://www.ontologydesignpatterns.org/ont/d0.owl)"@it ;
                                    
                                    dc:creator "Team per la Trasformazione Digitale"@it ;
                                    
@@ -358,7 +358,7 @@ Gli esempi includono i piani (come descrizioni strutturate di azioni da eseguire
        
        owl:disjointWith :Object ;
        
-       rdfs:comment """Any entity that typically flows in time, either in the physical or social world. Examples include athmospheric phenomena, concerts, travels, institutional processes, etc. 
+       rdfs:comment """Any entity that typically flows in time, either in the physical or social world. Examples include athmospheric phenomena, concerts, travels, institutional processes, etc.
 Events are opposable to objects, since events typically flow in time, aggregating multiple objects during their flow, while objects tend to be stable in a certain time interval."""@en ;
        
        owl:versionInfo "stable"@en ;

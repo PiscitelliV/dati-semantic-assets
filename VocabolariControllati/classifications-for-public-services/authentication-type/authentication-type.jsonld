@@ -798,7 +798,7 @@
       },
       {
         "@language": "en",
-        "@value": "Combination of different factors: userid,  one time password and biometric mechanisms"
+        "@value": "Combination of different factors: userid, one time password and biometric mechanisms"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [

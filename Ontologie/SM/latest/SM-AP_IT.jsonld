@@ -1591,7 +1591,7 @@
         },
         {
           "@language": "en",
-          "@value": "Version 0.7 - change of super class of TelephoneType and EmailType; New title of the ontology; Introduction of Contact Point generic class specialized in Physical and Online Contact Point. Introduction of the object property available that connects a contact point with access conditions. Changed the restrictions in UserAccount "
+          "@value": "Version 0.7 - change of super class of TelephoneType and EmailType; New title of the ontology; Introduction of Contact Point generic class specialized in Physical and Online Contact Point. Introduction of the object property available that connects a contact point with access conditions. Changed the restrictions in UserAccount"
         }
       ],
       "prov:wasDerivedFrom": {
@@ -1672,7 +1672,7 @@
         },
         {
           "@language": "it",
-          "@value": "Questa  classe rappresenta un social media come, ad esempio, un social network (ex. Facebook, Twitter, ecc...)."
+          "@value": "Questa classe rappresenta un social media come, ad esempio, un social network (ex. Facebook, Twitter, ecc...)."
         }
       ],
       "rdfs:isDefinedBy": {
@@ -2090,7 +2090,7 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "This property links an online contact  point with one or more email addresses of various types."
+          "@value": "This property links an online contact point with one or more email addresses of various types."
         },
         {
           "@language": "it",
@@ -2516,7 +2516,7 @@
         },
         {
           "@language": "en",
-          "@value": "This class represents the type of Telephone. The value of this class are those defined in the controlled vocabulary https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel and in particular the final values of the category telephone (https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03) that are the following: https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/031 (Voice) https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/032 (Call Center)  https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/033 (Fax)"
+          "@value": "This class represents the type of Telephone. The value of this class are those defined in the controlled vocabulary https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel and in particular the final values of the category telephone (https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03) that are the following: https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/031 (Voice) https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/032 (Call Center) https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/033 (Fax)"
         }
       ],
       "rdfs:isDefinedBy": {
@@ -2672,11 +2672,11 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "Among all  user rating scores it represents the best one"
+          "@value": "Among all user rating scores it represents the best one"
         },
         {
           "@language": "it",
-          "@value": "Tra tutte le valutazioni  rappresenta la migliore"
+          "@value": "Tra tutte le valutazioni rappresenta la migliore"
         }
       ],
       "rdfs:domain": {

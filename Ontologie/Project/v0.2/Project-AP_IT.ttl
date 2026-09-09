@@ -31,14 +31,14 @@
                                         dct:modified "2020-06-16"^^xsd:date ;
                                         dct:publisher <http://spcdata.digitpa.gov.it/browse/page/Amministrazione/agid> ;
                                         dct:rightsHolder <http://spcdata.digitpa.gov.it/browse/page/Amministrazione/agid> ;
-                                        dct:title "Project-AP_IT - Project Ontology - Italian Application Profile "@en ,
+                                        dct:title "Project-AP_IT - Project Ontology - Italian Application Profile"@en ,
                                                   "Project-AP_IT: Profilo applicativo italiano - Ontologia dei progetti"@it ;
                                         rdfs:comment "Questa è l'ontologia del profilo applicativo italiano sui progetti pubblici."@it ,
                                                      "This is the ontology of the Italian application profile for (public) Projects"@en ;
                                         rdfs:isDefinedBy <https://w3id.org/italia/onto/Project> ;
                                         rdfs:label "Ontologia dei progetti (pubblici)"@it ,
                                                    "Project ontology"@en ;
-                                        owl:versionInfo "Version 0.2 - 16  June 2020 - included keyword element for projects."@en ,
+                                        owl:versionInfo "Version 0.2 - 16 June 2020 - included keyword element for projects."@en ,
                                                         "Versione 0.2 - 16 Giugno 2020 - l'ontologia include un nuovo elemento: le keyword per il progetto."@it ;
                                         dcat:contactPoint <https://w3id.org/italia/data/contact-point/onto-agid> ;
                                         dcat:keyword "cup"@it ,
@@ -343,7 +343,7 @@
 ###  https://w3id.org/italia/onto/Project/PublicResearchProject
 :PublicResearchProject rdf:type owl:Class ;
                        rdfs:subClassOf :PublicInvestmentProject ;
-                       rdfs:comment "La classe rappresenta progetti di ricerca finanziati con programmi pubblici (es. Horizon2020,  FETOpen, FTI, ecc.)"@it ,
+                       rdfs:comment "La classe rappresenta progetti di ricerca finanziati con programmi pubblici (es. Horizon2020, FETOpen, FTI, ecc.)"@it ,
                                     "The class represents the research projects funded with public programmes (e.g., Horizon2020, FET Open, FTI, etc.)"@en ;
                        rdfs:isDefinedBy <https://w3id.org/italia/onto/Project> ;
                        rdfs:label "Progetto di Ricerca Pubblica"@it ,

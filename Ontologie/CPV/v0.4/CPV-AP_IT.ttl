@@ -32,7 +32,7 @@
                                    rdfs:label "Person ontology"@en ;
                                    rdfs:isDefinedBy : ;
                                    rdfs:comment "Questa è l'ontologia del profilo applicativo italiano sulle persone."@it ;
-                                   owl:versionInfo "Version 0.4 - 24  January 2018 - integration of ISTAT's ontology on individuals. In particular, introduction of the Registered Family, and Residency"@en ;
+                                   owl:versionInfo "Version 0.4 - 24 January 2018 - integration of ISTAT's ontology on individuals. In particular, introduction of the Registered Family, and Residency"@en ;
                                    dc:creator "Agenzia per l'italia Digitale (AgID)"@it ;
                                    rdfs:comment "This is the ontology of the Italian application profile for Persons"@en ;
                                    prov:wasDerivedFrom <http://dati.gov.it/onto/cpvapit/0.3/> .
@@ -583,7 +583,7 @@ xsd:date rdf:type rdfs:Datatype .
          rdfs:subPropertyOf l0:identifier ;
          rdfs:domain :Person ;
          rdfs:range rdfs:Literal ;
-         rdfs:comment "Il codice fiscale di  una persona."@it ,
+         rdfs:comment "Il codice fiscale di una persona."@it ,
                       "The tax code of a person."@en ;
          rdfs:isDefinedBy : ;
          rdfs:label "codice fiscale"@it ,
@@ -786,7 +786,7 @@ l0:name rdf:type owl:DatatypeProperty ;
 ###  http://dati.gov.it/onto/cpvapit/ParentalRelationship
 :ParentalRelationship rdf:type owl:Class ;
                       rdfs:subClassOf l0:Description ;
-                      rdfs:comment "La classe rappresenta i diversi tipi di relazioni parentali. Per esempio l'intestatario del foglio di famiglia è un tipo di relazione parentale così come il coniuge (o convivente) dell'intestatario, il figlio  dell'intestatario e coniuge convivente, il fratello/sorella dell'intestatario."@it ,
+                      rdfs:comment "La classe rappresenta i diversi tipi di relazioni parentali. Per esempio l'intestatario del foglio di famiglia è un tipo di relazione parentale così come il coniuge (o convivente) dell'intestatario, il figlio dell'intestatario e coniuge convivente, il fratello/sorella dell'intestatario."@it ,
                                    "The class represents the different types of parental relationships"@en ;
                       rdfs:isDefinedBy : ;
                       rdfs:label "Parental Relationship"@en ,

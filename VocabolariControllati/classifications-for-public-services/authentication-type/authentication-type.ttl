@@ -407,4 +407,4 @@ ndc:keyConcept
 	  skos:prefLabel "User ID, One Time Password and Biometric"@en ;
     skos:prefLabel "Benutzer-ID, Einmalpasswort und biometrische Daten"@de ;
 	  skos:definition "Combinazione di più fattori: userid, one time password e strumenti di biometria"@it ;
-	  skos:definition "Combination of different factors: userid,  one time password and biometric mechanisms"@en .
+	  skos:definition "Combination of different factors: userid, one time password and biometric mechanisms"@en .

@@ -15,7 +15,7 @@
     dc:issued "2018-06-25"^^xsd:date ;
     dc:modified "2019-04-23"^^xsd:date ;
     dcterms:description "These are the alignments to external ontologies widely used and available at the state of the art for the Core Public Event Vocabulary - Italian Application Profile"@en,
-        "Questi sono gli allineamenti dell'ontologia sugli eventi pubblici Core Public Event Vocabulary - Italian Application Profile  (CPEV-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate."@it ;
+        "Questi sono gli allineamenti dell'ontologia sugli eventi pubblici Core Public Event Vocabulary - Italian Application Profile (CPEV-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate."@it ;
     dcterms:title "Public Event Ontology Alignments"@en,
         "Allinemaneti per l'Ontologia degli Eventi Pubblici"@it ;
     owl:imports <https://w3id.org/italia/onto/CPEV> ;

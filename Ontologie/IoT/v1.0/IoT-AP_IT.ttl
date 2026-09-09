@@ -48,7 +48,7 @@
                                     rdfs:label "IoT event Ontology"@en ,
                                                "Ontologia Eventi IoT"@it ;
                                     owl:versionInfo "Version 1.0 - May 19 2020 - Modification of the restriction for meeting issues #89: restriction isValueForObservationParameter owl:someValuesFrom :ObservationParameter and not :ObservationValue - April 06 2020 - Introductin of MonitoringFacility, Platform and Method concepts and related object properties."@en ,
-                                                    "Versione 1.0 - Maggio 19 2020 - Modificato la restrizione per risolvere l'issue #89: restrizione isValueForObservationParameter owl:someValuesFrom :ObservationParameter e non :ObservationValue-  06 Aprile 2020 - Introduzione delle classi Piattaforma, Metodo e Strumento di Monitoraggio e relative proprietà."@it ;
+                                                    "Versione 1.0 - Maggio 19 2020 - Modificato la restrizione per risolvere l'issue #89: restrizione isValueForObservationParameter owl:someValuesFrom :ObservationParameter e non :ObservationValue- 06 Aprile 2020 - Introduzione delle classi Piattaforma, Metodo e Strumento di Monitoraggio e relative proprietà."@it ;
                                     dcat:contactPoint <https://w3id.org/italia/data/contact-point/onto-agid> ;
                                     dcat:keyword "Internet of Things"@it ,
                                                  "Misurazione"@it ,
@@ -292,7 +292,7 @@ clvapit:hasGeometry rdf:type owl:ObjectProperty ;
 :isValueForObservationParameter rdf:type owl:ObjectProperty ;
                                 rdfs:domain :ObservationValue ;
                                 rdfs:range :ObservationParameter ;
-                                rdfs:comment "Inverse property of has value for observation parameter that links an observation value to the  observation parameter"@en ,
+                                rdfs:comment "Inverse property of has value for observation parameter that links an observation value to the observation parameter"@en ,
                                              "Proprietà inversa di ha valore per il parametro di osservazione che lega un valore dell'osservazione al parametro dell'osservazione."@it ;
                                 rdfs:isDefinedBy <https://w3id.org/italia/onto/IoT> ;
                                 rdfs:label "is value for observation parameter"@en ,
@@ -723,7 +723,7 @@ clvapit:Geometry rdf:type owl:Class ;
 :Offset rdf:type owl:Class ;
         rdfs:subClassOf :MeasurementQuality ;
         rdfs:comment "It represents the offset error; that is, the difference between the actual output value and the specified output value under some particular set of conditions."@en ,
-                     "Questa classe rappresenta l'errore di compensazione, ovvero  la differenza tra il valore reale di uscita e il valore di uscita specificato in alcune particolari condizioni."@it ;
+                     "Questa classe rappresenta l'errore di compensazione, ovvero la differenza tra il valore reale di uscita e il valore di uscita specificato in alcune particolari condizioni."@it ;
         rdfs:isDefinedBy <https://w3id.org/italia/onto/IoT> ;
         rdfs:label "Compensazione"@it ,
                    "Offset"@en ;
@@ -734,7 +734,7 @@ clvapit:Geometry rdf:type owl:Class ;
 ###  https://w3id.org/italia/onto/IoT/Precision
 :Precision rdf:type owl:Class ;
            rdfs:subClassOf :MeasurementQuality ;
-           rdfs:comment "It represents the Precision; i.e., the  degree of reproducibility of a measurement. In other words, if exactly the same values were measured a number of times, an ideal sensor would output exactly the same value every time."@en ,
+           rdfs:comment "It represents the Precision; i.e., the degree of reproducibility of a measurement. In other words, if exactly the same values were measured a number of times, an ideal sensor would output exactly the same value every time."@en ,
                         "Questa classe rappresenta la Precisione, ovvero il grado di riproducibilità di una misura. In altre parole, se esattamente gli stessi valori sono stati misurati un certo numero di volte, un sensor ideale produrrebbe come output esattamente lo stesso valore ogni volta."@it ;
            rdfs:isDefinedBy <https://w3id.org/italia/onto/IoT> ;
            rdfs:label "Precision"@en ,
@@ -759,7 +759,7 @@ clvapit:Geometry rdf:type owl:Class ;
 :RoadSegment rdf:type owl:Class ;
              rdfs:subClassOf :FeatureOfInterest ;
              rdfs:comment "Classe che rappresenta un arco stradale. Se l'ontologia è utilizzata per rappresentare eventi IoT nell'ambito dei dati real time sul traffico, la classe è rilevante e connota l'arco stradale dell'osservazione."@it ,
-                          "This class represents the Road Segment  If the ontology is used to represent IoT events in the context of real time data traffic, the class is revelant and it represents the road segment of the observation."@en ;
+                          "This class represents the Road Segment If the ontology is used to represent IoT events in the context of real time data traffic, the class is revelant and it represents the road segment of the observation."@en ;
              rdfs:isDefinedBy <https://w3id.org/italia/onto/IoT> ;
              rdfs:label "Arco Stradale"@it ,
                         "Road Segment"@en ;
@@ -782,7 +782,7 @@ clvapit:Geometry rdf:type owl:Class ;
                           owl:onProperty l0:identifier ;
                           owl:cardinality "1"^^xsd:nonNegativeInteger
                         ] ;
-        rdfs:comment "Questa classe rappresenta un sensore. Un sensore è uno strumento il cui scopo è quello di rilevare e rispondere a eventi o cambiamenti che avvengono nel proprio ambienti. L'informazione rilevata può essere  utilizzata e distribuita per successive elaborazioni."@it ,
+        rdfs:comment "Questa classe rappresenta un sensore. Un sensore è uno strumento il cui scopo è quello di rilevare e rispondere a eventi o cambiamenti che avvengono nel proprio ambienti. L'informazione rilevata può essere utilizzata e distribuita per successive elaborazioni."@it ,
                      "This class represents a sensor. A sensor is a device whose purpose is to detect and respond to events or changes in its environment. The detected information can be used and disseminated for successive elaborations."@en ;
         rdfs:isDefinedBy <https://w3id.org/italia/onto/IoT> ;
         rdfs:label "Sensor"@en ,
@@ -853,7 +853,7 @@ tiapit:TimeInterval rdf:type owl:Class ;
                                                               owl:onProperty <https://w3id.org/italia/onto/IoT/hostsMonitoringFacility> ;
                                                               owl:allValuesFrom <https://w3id.org/italia/onto/IoT/MonitoringFacility>
                                                             ] ;
-                                            rdfs:comment "E' un oggetto che ospita strumenti di monitoraggio.  Può essere una boa, un cellulare, un sistema satellitare, una stazione meteo."@it ,
+                                            rdfs:comment "E' un oggetto che ospita strumenti di monitoraggio. Può essere una boa, un cellulare, un sistema satellitare, una stazione meteo."@it ,
                                                          "It is an object that hosts monitoring facilities. It can be a buoy, a mobile phone, a meteo station, a satellite"@en ;
                                             rdfs:isDefinedBy <https://w3id.org/italia/onto/IoT> ;
                                             rdfs:label "Piattaforma"@it ,

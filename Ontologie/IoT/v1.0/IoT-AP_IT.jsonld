@@ -329,7 +329,7 @@
         },
         {
           "@language": "it",
-          "@value": "Versione 1.0 - Maggio 19 2020 - Modificato la restrizione per risolvere l'issue #89: restrizione isValueForObservationParameter owl:someValuesFrom :ObservationParameter e non :ObservationValue-  06 Aprile 2020 - Introduzione delle classi Piattaforma, Metodo e Strumento di Monitoraggio e relative proprietà."
+          "@value": "Versione 1.0 - Maggio 19 2020 - Modificato la restrizione per risolvere l'issue #89: restrizione isValueForObservationParameter owl:someValuesFrom :ObservationParameter e non :ObservationValue- 06 Aprile 2020 - Introduzione delle classi Piattaforma, Metodo e Strumento di Monitoraggio e relative proprietà."
         }
       ],
       "prov:wasDerivedFrom": {
@@ -697,7 +697,7 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "Inverse property of has value for observation parameter that links an observation value to the  observation parameter"
+          "@value": "Inverse property of has value for observation parameter that links an observation value to the observation parameter"
         },
         {
           "@language": "it",
@@ -893,7 +893,7 @@
         },
         {
           "@language": "it",
-          "@value": "Questa classe rappresenta l'errore di compensazione, ovvero  la differenza tra il valore reale di uscita e il valore di uscita specificato in alcune particolari condizioni."
+          "@value": "Questa classe rappresenta l'errore di compensazione, ovvero la differenza tra il valore reale di uscita e il valore di uscita specificato in alcune particolari condizioni."
         }
       ],
       "rdfs:isDefinedBy": {
@@ -1325,7 +1325,7 @@
         },
         {
           "@language": "it",
-          "@value": "E' un oggetto che ospita strumenti di monitoraggio.  Può essere una boa, un cellulare, un sistema satellitare, una stazione meteo."
+          "@value": "E' un oggetto che ospita strumenti di monitoraggio. Può essere una boa, un cellulare, un sistema satellitare, una stazione meteo."
         }
       ],
       "rdfs:isDefinedBy": {
@@ -1416,7 +1416,7 @@
         },
         {
           "@language": "it",
-          "@value": "Questa classe rappresenta un sensore. Un sensore è uno strumento il cui scopo è quello di rilevare e rispondere a eventi o cambiamenti che avvengono nel proprio ambienti. L'informazione rilevata può essere  utilizzata e distribuita per successive elaborazioni."
+          "@value": "Questa classe rappresenta un sensore. Un sensore è uno strumento il cui scopo è quello di rilevare e rispondere a eventi o cambiamenti che avvengono nel proprio ambienti. L'informazione rilevata può essere utilizzata e distribuita per successive elaborazioni."
         }
       ],
       "rdfs:isDefinedBy": {
@@ -1467,7 +1467,7 @@
         },
         {
           "@language": "en",
-          "@value": "This class represents the Road Segment  If the ontology is used to represent IoT events in the context of real time data traffic, the class is revelant and it represents the road segment of the observation."
+          "@value": "This class represents the Road Segment If the ontology is used to represent IoT events in the context of real time data traffic, the class is revelant and it represents the road segment of the observation."
         }
       ],
       "rdfs:isDefinedBy": {
@@ -2293,7 +2293,7 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "It represents the Precision; i.e., the  degree of reproducibility of a measurement. In other words, if exactly the same values were measured a number of times, an ideal sensor would output exactly the same value every time."
+          "@value": "It represents the Precision; i.e., the degree of reproducibility of a measurement. In other words, if exactly the same values were measured a number of times, an ideal sensor would output exactly the same value every time."
         },
         {
           "@language": "it",

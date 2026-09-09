@@ -29,7 +29,7 @@
     dc:issued "2017-09-25"^^xsd:date ;
     dc:modified "2018-08-25"^^xsd:date ;
     dc:title "These are the alignments to external ontologies widely used and available at the state of the art"@en ;
-    dc:title "Questi sono gli allineamenti dell'ontologia sugli indirizzi/luoghi Core Location Vocabulary - Italian Application Profile  (CLV-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate." ;
+    dc:title "Questi sono gli allineamenti dell'ontologia sugli indirizzi/luoghi Core Location Vocabulary - Italian Application Profile (CLV-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate." ;
 
     owl:imports <https://w3id.org/italia/onto/CLV> .
 

@@ -593,7 +593,7 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "This class represents a specific type of car park; that is, park and ride. The park and ride type  is usually located close to the borders of a urban centre and it can be used to easily change the transportation mean, promoting the use of public transportation."
+          "@value": "This class represents a specific type of car park; that is, park and ride. The park and ride type is usually located close to the borders of a urban centre and it can be used to easily change the transportation mean, promoting the use of public transportation."
         },
         {
           "@language": "it",

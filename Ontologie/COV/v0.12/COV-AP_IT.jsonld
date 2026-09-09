@@ -297,7 +297,7 @@
         },
         {
           "@language": "en",
-          "@value": "This property links an agent to another agent and it is used to represent  general reporting or accountability relationships"
+          "@value": "This property links an agent to another agent and it is used to represent general reporting or accountability relationships"
         }
       ],
       "rdfs:domain": {
@@ -339,7 +339,7 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "This class represents the type of activities carried out  by the organization. The instances of this class can be modelled as skos concepts of a controlled vocabulary. In the case of private organization, this class is represented by the ATECO 2007 classification. In the case of public organizations, the COFOG classification can be used."
+          "@value": "This class represents the type of activities carried out by the organization. The instances of this class can be modelled as skos concepts of a controlled vocabulary. In the case of private organization, this class is represented by the ATECO 2007 classification. In the case of public organizations, the COFOG classification can be used."
         },
         {
           "@language": "it",
@@ -984,7 +984,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa classe rappresenta un'organizzazione pubblica. Una pubblica amministrazione e qualsiasi altra organizzazione di nautra pubblica può essere modellata utilizzando questa classe. In generale,  individui di questa classe sono organizzazioni registrate presso l'Indice della PA (IPA).\nQuesta classe deriva dall'analoga classe del Core Public Organization Vocabulary."
+          "@value": "Questa classe rappresenta un'organizzazione pubblica. Una pubblica amministrazione e qualsiasi altra organizzazione di nautra pubblica può essere modellata utilizzando questa classe. In generale, individui di questa classe sono organizzazioni registrate presso l'Indice della PA (IPA).\nQuesta classe deriva dall'analoga classe del Core Public Organization Vocabulary."
         },
         {
           "@language": "en",
@@ -1360,7 +1360,7 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "Organizations are often large and complex and may be a collection of smaller organizations, each of which has a specific identity that may be legally defined.  This property, together with its inverse subOrganizationOf allows one to model a hierarchical structure between organizations."
+          "@value": "Organizations are often large and complex and may be a collection of smaller organizations, each of which has a specific identity that may be legally defined. This property, together with its inverse subOrganizationOf allows one to model a hierarchical structure between organizations."
         },
         {
           "@language": "it",
@@ -1583,7 +1583,7 @@
         },
         {
           "@language": "en",
-          "@value": "This is the ontology of the Italian application profile for Organizations (Public and Private). It allows one to model the main information on organizations (public or private), including the organization of the offices and their head of units. "
+          "@value": "This is the ontology of the Italian application profile for Organizations (Public and Private). It allows one to model the main information on organizations (public or private), including the organization of the offices and their head of units."
         }
       ],
       "dcterms:issued": {
@@ -1648,7 +1648,7 @@
         },
         {
           "@language": "it",
-          "@value": "Versione 0.12 - Modificata il 30 Settembre 2020 - Corretti alcuni errori di battitura. Inoltre è stata introdotta la proprietà hasAlternativeIdentifier (ha identificativo alternativo)  che è associata all'Organizzazione. La proprietà mira a modellare identificativi alternativi per le organizzazioni pubbliche e private presenti in sistemi diversi dalle rispettive banche dati di interesse nazionale di riferimento dove specifici identificativi sono individuati (e.g., il codice IPA per le pubbliche amministrazioni, il numero REA e la partita IVA per il registro imprese). \nAttualmente la proprietà sfrutta la classe Identifier  (Identificativo), con le sue proprietà, definita nell'ontologia Core Location Vocabulary (CLV) - Italian Application Profile (l'ontologia dei luoghi/indirizzi della rete OntopiA), quest'ultima importata in questa ontologia. Tuttavia, una migliore modellazione suggerirebbe di creare un modulo ontologico per gli Identificatori che sia esterno all'ontologia CLV e di supporto per CLV stessa, per questa ontologia e potenzialmente pr tutte le altre della rete OntoPiA."
+          "@value": "Versione 0.12 - Modificata il 30 Settembre 2020 - Corretti alcuni errori di battitura. Inoltre è stata introdotta la proprietà hasAlternativeIdentifier (ha identificativo alternativo) che è associata all'Organizzazione. La proprietà mira a modellare identificativi alternativi per le organizzazioni pubbliche e private presenti in sistemi diversi dalle rispettive banche dati di interesse nazionale di riferimento dove specifici identificativi sono individuati (e.g., il codice IPA per le pubbliche amministrazioni, il numero REA e la partita IVA per il registro imprese).\nAttualmente la proprietà sfrutta la classe Identifier (Identificativo), con le sue proprietà, definita nell'ontologia Core Location Vocabulary (CLV) - Italian Application Profile (l'ontologia dei luoghi/indirizzi della rete OntopiA), quest'ultima importata in questa ontologia. Tuttavia, una migliore modellazione suggerirebbe di creare un modulo ontologico per gli Identificatori che sia esterno all'ontologia CLV e di supporto per CLV stessa, per questa ontologia e potenzialmente pr tutte le altre della rete OntoPiA."
         }
       ],
       "prov:wasDerivedFrom": {
@@ -2224,7 +2224,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa proprietà rappresenta il numero REA (Repertorio Economico Amministrativo) associato a un'impresa.  Il numero REA è costituito da un numero decimale progressivo ed è sempre associato ad una codifica, che precede il numero progressivo, della provincia/CCIAA che lo ha assegnato e, nella prassi, comprende anche tale codifica (ad es. RM-123456). Ogni soggetto/impresa obbligato per legge all´iscrizione al REA riceve un numero REA diverso per ogni provincia/CCIAA in cui apre Sede/Unità Locali."
+          "@value": "Questa proprietà rappresenta il numero REA (Repertorio Economico Amministrativo) associato a un'impresa. Il numero REA è costituito da un numero decimale progressivo ed è sempre associato ad una codifica, che precede il numero progressivo, della provincia/CCIAA che lo ha assegnato e, nella prassi, comprende anche tale codifica (ad es. RM-123456). Ogni soggetto/impresa obbligato per legge all´iscrizione al REA riceve un numero REA diverso per ogni provincia/CCIAA in cui apre Sede/Unità Locali."
         },
         {
           "@language": "en",
@@ -2929,7 +2929,7 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "Organizations are often large and complex and may be a collection of smaller organizations, each of which has a specific identity that may be legally defined.  This property, together with its inverse hasSubOrganization allows one to model a hierarchical structure between organizations."
+          "@value": "Organizations are often large and complex and may be a collection of smaller organizations, each of which has a specific identity that may be legally defined. This property, together with its inverse hasSubOrganization allows one to model a hierarchical structure between organizations."
         },
         {
           "@language": "it",
@@ -3026,7 +3026,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa proprietà modella una sequenza ordinata di organizzazioni che precedono o si susseguono le un con le altre.  Nello specifico questa proprietà rappresenta un'organizzazione che precede un'altra."
+          "@value": "Questa proprietà modella una sequenza ordinata di organizzazioni che precedono o si susseguono le un con le altre. Nello specifico questa proprietà rappresenta un'organizzazione che precede un'altra."
         },
         {
           "@language": "en",
@@ -3281,7 +3281,7 @@
       "rdfs:label": [
         {
           "@language": "en",
-          "@value": "foundation  date"
+          "@value": "foundation date"
         },
         {
           "@language": "it",
@@ -3403,7 +3403,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa proprietà modella una sequenza ordinata di organizzazioni that precedono o si susseguono le un con le altre.  Nello specifico questa proprietà rappresenta un'organizzazione che segue un'altra."
+          "@value": "Questa proprietà modella una sequenza ordinata di organizzazioni that precedono o si susseguono le un con le altre. Nello specifico questa proprietà rappresenta un'organizzazione che segue un'altra."
         },
         {
           "@language": "en",
@@ -3681,7 +3681,7 @@
         },
         {
           "@language": "en",
-          "@value": "This property links a Change Event  to the organization that resulted from it."
+          "@value": "This property links a Change Event to the organization that resulted from it."
         }
       ],
       "rdfs:domain": {
@@ -3842,7 +3842,7 @@
         },
         {
           "@language": "en",
-          "@value": "This property represents the accreditation date of the organization in the public registry (e.g., in Italy in  \"IPA\" registry for public administrations, and in the \"Registro Imprese\" for private organizations)."
+          "@value": "This property represents the accreditation date of the organization in the public registry (e.g., in Italy in \"IPA\" registry for public administrations, and in the \"Registro Imprese\" for private organizations)."
         }
       ],
       "rdfs:domain": {
@@ -4604,7 +4604,7 @@
         },
         {
           "@language": "it",
-          "@value": "Questa classe rappresenta la natura di appartenenza di un agente di un'organizzazione. In particolare, la classe è una relazione ennaria che rappresenta una situazione che coinvolge un agente, un'organizzazione, i l ruolo che l'agente ricopre nell'organizzazione ed eventualment eil lasso temporale in cui quel ruolo è svolto. Esempio: la classe consente di rappresentare il ruolo di amministratore delegato  di un'impresa in un certo lasso temporale oppure il ruolo di consigliere in una società partecipata di una pubblica amministrazione in un certo intervallo temporale."
+          "@value": "Questa classe rappresenta la natura di appartenenza di un agente di un'organizzazione. In particolare, la classe è una relazione ennaria che rappresenta una situazione che coinvolge un agente, un'organizzazione, i l ruolo che l'agente ricopre nell'organizzazione ed eventualment eil lasso temporale in cui quel ruolo è svolto. Esempio: la classe consente di rappresentare il ruolo di amministratore delegato di un'impresa in un certo lasso temporale oppure il ruolo di consigliere in una società partecipata di una pubblica amministrazione in un certo intervallo temporale."
         }
       ],
       "rdfs:isDefinedBy": {
@@ -4973,7 +4973,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa classe rappresenta quello che nel contesto italiano viene chiamato Area Organizzativa Omogenea (AOO).  Le Aree Organizzative Omogenee (AOO) identificano gli uffici di protocollo degli Enti che gestiscono i flussi documentali in entrata e in uscita dall'Ente. Esse sono le vie principali per instaurare rapporti con gli Enti e rappresentano i canali ufficiali per l'invio di istanze e l'avvio di procedimenti amministrativi. Come previsto dall'art. 47 comma 3 del CAD, le Amministrazioni devono istituire e pubblicare nell'IPA almeno una casella di posta elettronica certificata per ciascun registro di protocollo (e quindi per ciascuna AOO)."
+          "@value": "Questa classe rappresenta quello che nel contesto italiano viene chiamato Area Organizzativa Omogenea (AOO). Le Aree Organizzative Omogenee (AOO) identificano gli uffici di protocollo degli Enti che gestiscono i flussi documentali in entrata e in uscita dall'Ente. Esse sono le vie principali per instaurare rapporti con gli Enti e rappresentano i canali ufficiali per l'invio di istanze e l'avvio di procedimenti amministrativi. Come previsto dall'art. 47 comma 3 del CAD, le Amministrazioni devono istituire e pubblicare nell'IPA almeno una casella di posta elettronica certificata per ciascun registro di protocollo (e quindi per ciascuna AOO)."
         },
         {
           "@language": "en",
