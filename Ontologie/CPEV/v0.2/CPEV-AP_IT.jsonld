@@ -179,7 +179,7 @@
 		"@id": "https://w3id.org/italia/onto/CPEV/SinglePublicEvent"
 	}],
 	"http://www.w3.org/2000/01/rdf-schema#comment": [{
-		"@value": "This class represents composite public events that are aggregations of multiple events, possibly occurring in parallel, each of which is described independently in the event program.  Example can be the celebration of the anniversary of the Italian Republic.",
+		"@value": "This class represents composite public events that are aggregations of multiple events, possibly occurring in parallel, each of which is described independently in the event program. Example can be the celebration of the anniversary of the Italian Republic.",
 		"@language": "en"
 	}, {
 		"@value": "Questa classe rappresenta eventi pubblici complessi o compositi che sono delle aggregazione di eventi multipli, che avvengono di solito in parallelo, ognuno dei queli è descritto indipendentemente nel programma dell'evento. Esempio: la celebrazione dell'anniversario della Repubblica Italiana.",
@@ -229,7 +229,7 @@
 		"@id": "_:b10"
 	}],
 	"http://www.w3.org/2000/01/rdf-schema#comment": [{
-		"@value": "This class represents a public event (e.g., a football match, a  conference, a book presentation, etc.).",
+		"@value": "This class represents a public event (e.g., a football match, a conference, a book presentation, etc.).",
 		"@language": "en"
 	}, {
 		"@value": "Questa classe rappresenta un evento pubblico (e.g., una partita di calcio, una mostra, la presentazione di un libro, una fiera, ecc.)",

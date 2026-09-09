@@ -25,7 +25,7 @@
     dc:issued "2018-06-25"^^xsd:date ;
     dc:modified "2018-06-25"^^xsd:date ;
     dct:title "Social Media and Internet Ontology Alignments"@en , "Allineamenti per l'ontologia Social media e Internet"@it ;
-    dct:description "These are the alignments to external ontologies widely used and available at the state of the art for the Social Media and Internet Ontology"@en , "Questi sono gli allineamenti dell'ontologia Social Media and Internet Social Media  - Italian Application Profile  (SM-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate."@it ;
+    dct:description "These are the alignments to external ontologies widely used and available at the state of the art for the Social Media and Internet Ontology"@en , "Questi sono gli allineamenti dell'ontologia Social Media and Internet Social Media - Italian Application Profile (SM-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate."@it ;
 
     owl:imports <https://w3id.org/italia/onto/SM> .
 

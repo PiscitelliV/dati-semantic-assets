@@ -346,7 +346,7 @@
     "http://purl.org/dc/terms/title": [
       {
         "@language": "it",
-        "@value": "Distribuzione CSV per classificazione tipi di eventi pubblici "
+        "@value": "Distribuzione CSV per classificazione tipi di eventi pubblici"
       },
       {
         "@language": "en",
@@ -392,7 +392,7 @@
     "http://purl.org/dc/terms/title": [
       {
         "@language": "it",
-        "@value": "Distribuzione RDF/Turtle per classificazione tipi di eventi pubblici "
+        "@value": "Distribuzione RDF/Turtle per classificazione tipi di eventi pubblici"
       },
       {
         "@language": "en",
@@ -797,7 +797,7 @@
       },
       {
         "@language": "en",
-        "@value": "This concept includes then the inauguration events and the award (e.g., 'David di Donatello',  Literary prize, Journalism prize)"
+        "@value": "This concept includes then the inauguration events and the award (e.g., 'David di Donatello', Literary prize, Journalism prize)"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -2326,11 +2326,11 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "In questo concetto rientrano anche  corsi su materie specifiche come per esempio corsi musicali, corsi di teatro, corsi di danza,  o corsi sportivi"
+        "@value": "In questo concetto rientrano anche corsi su materie specifiche come per esempio corsi musicali, corsi di teatro, corsi di danza, o corsi sportivi"
       },
       {
         "@language": "en",
-        "@value": "This concept also includes  courses on specific subject such as  teather courses, dance courses, sport courses, music courses, etc.)"
+        "@value": "This concept also includes courses on specific subject such as teather courses, dance courses, sport courses, music courses, etc.)"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -2410,7 +2410,7 @@
     "http://purl.org/dc/terms/title": [
       {
         "@language": "it",
-        "@value": "Distribuzione XLSX per classificazione tipi di eventi pubblici "
+        "@value": "Distribuzione XLSX per classificazione tipi di eventi pubblici"
       },
       {
         "@language": "en",
@@ -2738,7 +2738,7 @@
     "http://purl.org/dc/terms/title": [
       {
         "@language": "it",
-        "@value": "Distribuzione RDF/XML per classificazione tipi di eventi pubblici "
+        "@value": "Distribuzione RDF/XML per classificazione tipi di eventi pubblici"
       },
       {
         "@language": "en",
@@ -2785,7 +2785,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Questo concetto include eventi pubblici come dibattiti pubblici, dialoghi, forum e incontri pubblici, prevalentemente finalizzati attorno a temi relativi a questioni civiche, sociali. "
+        "@value": "Questo concetto include eventi pubblici come dibattiti pubblici, dialoghi, forum e incontri pubblici, prevalentemente finalizzati attorno a temi relativi a questioni civiche, sociali."
       },
       {
         "@language": "en",
@@ -5244,7 +5244,7 @@
     "http://purl.org/dc/terms/title": [
       {
         "@language": "it",
-        "@value": "Distribuzione JSON_LD per classificazione tipi di eventi pubblici "
+        "@value": "Distribuzione JSON_LD per classificazione tipi di eventi pubblici"
       },
       {
         "@language": "en",

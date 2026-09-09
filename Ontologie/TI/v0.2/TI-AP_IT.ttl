@@ -22,7 +22,7 @@
                                  
                                  rdfs:comment "This is the ontology of the Italian application profile for time"@en ;
                                  
-                                 owl:versionInfo "Version 0.1 - 25  September"@en ;
+                                 owl:versionInfo "Version 0.1 - 25 September"@en ;
                                  
                                  rdfs:comment "Questa è l'ontologia del profilo applicativo italiano sul tempo"@it ;
                                  

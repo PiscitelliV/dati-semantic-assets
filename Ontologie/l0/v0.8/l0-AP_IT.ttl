@@ -20,7 +20,7 @@
                                    dct:accrualPeriodicity <http://publications.europa.eu/resource/authority/frequency/IRREG> ;
                                    dct:creator <http://spcdata.digitpa.gov.it/Amministrazione/agid> ,
                                                <https://w3id.org/italia/data/organization/support-unit/cnr-Z6HZEH/stlab> ;
-                                   dct:description "Questa è l'ontologia che fornisce il livello fondazionale allo stack ontologico di OntoPiA. Il nome L0 sta per Level-0 ontology poiché essa fornisce le fondamenta concettuali elementari all'intero stack. Questa ontologia è  ispirata da DOLCE zero (http://www.ontologydesignpatterns.org/ont/d0.owl)"@it ,
+                                   dct:description "Questa è l'ontologia che fornisce il livello fondazionale allo stack ontologico di OntoPiA. Il nome L0 sta per Level-0 ontology poiché essa fornisce le fondamenta concettuali elementari all'intero stack. Questa ontologia è ispirata da DOLCE zero (http://www.ontologydesignpatterns.org/ont/d0.owl)"@it ,
                                                    "This ontology provides the foundational level of the ontological stack of OntoPiA. The name L0 stands for Level-0 ontology as it provides the basic conceptual foundations to the whole stack. This ontology is inspired from DOLCE 0 (http://www.ontologydesignpatterns.org/ont/d0.owl)"@en ;
                                    dct:issued "2017-09-29"^^xsd:date ;
                                    dct:language <http://publications.europa.eu/resource/authority/language/ENG> ,
@@ -30,7 +30,7 @@
                                    dct:rightsHolder <http://spcdata.digitpa.gov.it/Amministrazione/agid> ;
                                    dct:title "Ontologia fondazionale di OntoPiA - Livello 0"@it ,
                                              "Top level ontology L0 - Level-0"@en ;
-                                   rdfs:comment "Questa è l'ontologia che fornisce il livello fondazionale allo stack ontologico di OntoPiA. Il nome L0 sta per Level-0 ontology poiché essa fornisce le fondamenta concettuali elementari all'intero stack. Questa ontologia è  ispirata da DOLCE zero (http://www.ontologydesignpatterns.org/ont/d0.owl)"@it ,
+                                   rdfs:comment "Questa è l'ontologia che fornisce il livello fondazionale allo stack ontologico di OntoPiA. Il nome L0 sta per Level-0 ontology poiché essa fornisce le fondamenta concettuali elementari all'intero stack. Questa ontologia è ispirata da DOLCE zero (http://www.ontologydesignpatterns.org/ont/d0.owl)"@it ,
                                                 "This is the top level ontology of OntoPiA"@en ;
                                    rdfs:isDefinedBy <https://w3id.org/italia/onto/l0> ;
                                    rdfs:label "Ontologia fondazionale di OntoPiA - Livello 0"@it ,
@@ -601,7 +601,7 @@ Examples include plans (as structured descriptions of actions to be executed), d
 ###  https://w3id.org/italia/onto/l0/EventOrSituation
 :EventOrSituation rdf:type owl:Class ;
                   rdfs:subClassOf :Entity ;
-                  rdfs:comment """Any entity that typically flows in time, either in the physical or social world  Examples include athmospheric phenomena, concerts, travels, institutional processes, etc.
+                  rdfs:comment """Any entity that typically flows in time, either in the physical or social world Examples include athmospheric phenomena, concerts, travels, institutional processes, etc.
 It also represents a relational context created by an observer on the basis of a frame'
 Events are opposable to objects, since events typically flow in time, aggregating multiple objects during their flow, while objects tend to be stable in a certain time interval."""@en ,
                                """Ogni entità che tipicamente scorre nel tempo, sia nel mondo fisico sia sociale. Gli esempi includono fenomeni atmosferici, concerti, viaggi, processi istituzionali, etc.

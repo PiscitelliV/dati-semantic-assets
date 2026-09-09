@@ -480,7 +480,7 @@
 		"@value": "This class represents a social media like a social network (e.g. Facebook, Twitter, etc.).",
 		"@language": "en"
 	}, {
-		"@value": "Questa  classe rappresenta un social media come, ad esempio, un social network (ex. Facebook, Twitter, ecc...).",
+		"@value": "Questa classe rappresenta un social media come, ad esempio, un social network (ex. Facebook, Twitter, ecc...).",
 		"@language": "it"
 	}],
 	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
@@ -534,7 +534,7 @@
 		"@id": "_:b14"
 	}],
 	"http://www.w3.org/2000/01/rdf-schema#comment": [{
-		"@value": "This class represents the type of Telephone. The value of this class are those defined in the controlled vocabulary http://dati.gov.it/onto/controlledvocabulary/Channel and in particular the final values of the category telephone (http://dati.gov.it/onto/controlledvocabulary/Channel/03 that are the following: http://dati.gov.it/onto/controlledvocabulary/Channel/031 (Voice) http://dati.gov.it/onto/controlledvocabulary/Channel/032 (Call Center)  http://dati.gov.it/onto/controlledvocabulary/Channel/033 (Fax)",
+		"@value": "This class represents the type of Telephone. The value of this class are those defined in the controlled vocabulary http://dati.gov.it/onto/controlledvocabulary/Channel and in particular the final values of the category telephone (http://dati.gov.it/onto/controlledvocabulary/Channel/03 that are the following: http://dati.gov.it/onto/controlledvocabulary/Channel/031 (Voice) http://dati.gov.it/onto/controlledvocabulary/Channel/032 (Call Center) http://dati.gov.it/onto/controlledvocabulary/Channel/033 (Fax)",
 		"@language": "en"
 	}, {
 		"@value": "Questa classe rappresenta il tipo di telefono. I valori di questa classe sono quelli del vocabolario controllato http://dati.gov.it/onto/controlledvocabulary/Channel e in particolare sono i valori finali della categoria http://dati.gov.it/onto/controlledvocabulary/Channel/03 (telefono) e quindi i seguenti http://dati.gov.it/onto/controlledvocabulary/Channel/031 (Numero Dedicato - Voce), http://dati.gov.it/onto/controlledvocabulary/Channel/032 (Call Center), http://dati.gov.it/onto/controlledvocabulary/Channel/033 (Fax)",
@@ -731,7 +731,7 @@
 		"@language": "it"
 	}],
 	"http://www.w3.org/2000/01/rdf-schema#comment": [{
-		"@value": "This property links an online contact  point with one or more email addresses of various types.",
+		"@value": "This property links an online contact point with one or more email addresses of various types.",
 		"@language": "en"
 	}, {
 		"@value": "Questa proprietà collega un punto di contatto online con uno o più indirizzi email di vario tipo.",

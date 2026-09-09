@@ -746,7 +746,7 @@
         },
         {
           "@language": "it",
-          "@value": "Versione 0.3 - Modificata il 23 Aprile 2019 -  Rifattorizzazione di l0:Event in l0:EventOrSituation."
+          "@value": "Versione 0.3 - Modificata il 23 Aprile 2019 - Rifattorizzazione di l0:Event in l0:EventOrSituation."
         }
       ],
       "rdfs:comment": [

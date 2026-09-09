@@ -40,7 +40,7 @@
         },
         {
           "@language": "it",
-          "@value": "Codice della voce del vocabolario controllato sul sesso  https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex. Esso assume i valori \"M\" e \"F\"."
+          "@value": "Codice della voce del vocabolario controllato sul sesso https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex. Esso assume i valori \"M\" e \"F\"."
         }
       ],
       "rdfs:domain": {
@@ -399,7 +399,7 @@
         },
         {
           "@language": "it",
-          "@value": "La classe rappresenta i diversi tipi di relazioni parentali. Per esempio l'intestatario del foglio di famiglia è un tipo di relazione parentale così come il coniuge (o convivente) dell'intestatario, il figlio  dell'intestatario e coniuge convivente, il fratello/sorella dell'intestatario."
+          "@value": "La classe rappresenta i diversi tipi di relazioni parentali. Per esempio l'intestatario del foglio di famiglia è un tipo di relazione parentale così come il coniuge (o convivente) dell'intestatario, il figlio dell'intestatario e coniuge convivente, il fratello/sorella dell'intestatario."
         }
       ],
       "rdfs:isDefinedBy": {
@@ -1702,7 +1702,7 @@
         },
         {
           "@language": "en",
-          "@value": "Version 0.6 - 06  June 2018 - replace of the term gender with sex"
+          "@value": "Version 0.6 - 06 June 2018 - replace of the term gender with sex"
         },
         {
           "@language": "it",
@@ -3333,7 +3333,7 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "Property used to represent the sex as defined in the related Sex controlled vocabulary  https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex"
+          "@value": "Property used to represent the sex as defined in the related Sex controlled vocabulary https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex"
         },
         {
           "@language": "it",
@@ -3495,7 +3495,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Il codice fiscale di  una persona."
+          "@value": "Il codice fiscale di una persona."
         },
         {
           "@language": "en",

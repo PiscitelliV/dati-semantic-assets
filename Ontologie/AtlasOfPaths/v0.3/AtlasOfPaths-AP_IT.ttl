@@ -46,8 +46,8 @@
                                              rdfs:isDefinedBy <https://w3id.org/italia/onto/AtlasOfPaths> ;
                                              rdfs:label "Atlas of Paths Ontology"@en ,
                                                         "Ontologia dell'Atlante dei Cammini"@it ;
-                                             owl:versionInfo "Version 0.3 - 24 April 2019 - Revision of some properties (e.g., hasFirstMember) and classes such as  Path, PathPlan, Pathway e QuantifiedPathwayPaving. Revision of some restrictions."@en ,
-                                                             "Versione 0.3 - 24 Aprile 2019 - Revisione di alcune proprietà (e.g., hasFirstMember) e alcune classi quali  Path, PathPlan, Pathway e QuantifiedPathwayPaving. Revisione di alcune restrizioni."@it ;
+                                             owl:versionInfo "Version 0.3 - 24 April 2019 - Revision of some properties (e.g., hasFirstMember) and classes such as Path, PathPlan, Pathway e QuantifiedPathwayPaving. Revision of some restrictions."@en ,
+                                                             "Versione 0.3 - 24 Aprile 2019 - Revisione di alcune proprietà (e.g., hasFirstMember) e alcune classi quali Path, PathPlan, Pathway e QuantifiedPathwayPaving. Revisione di alcune restrizioni."@it ;
                                              dcat:contactPoint <https://w3id.org/italia/data/contact-point/onto-dgt> ;
                                              dcat:keyword "Atlante cammini"@it ,
                                                           "Cammino"@it ,
@@ -1251,7 +1251,7 @@ l0:Topic rdf:type owl:Class .
 :Walking rdf:type owl:NamedIndividual ,
                   :TravellingMethod ;
          rdfs:comment "Questo individuo rappresenta un tipo di metodo di viaggio possibile lungo un certo percorso."@it ,
-                      "This individual represents a type of possible travel method  along a certain pathway."@en ;
+                      "This individual represents a type of possible travel method along a certain pathway."@en ;
          rdfs:label "a piedi"@it ,
                     "walking"@en ;
          owl:versionInfo "provvisorio"@it ,

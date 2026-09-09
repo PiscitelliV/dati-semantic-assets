@@ -33,7 +33,7 @@
                                                 dcat:contactPoint <https://w3id.org/italia/data/contact-point/onto-agid> ;
                                                 admsapit:hasSemanticAssetDistribution <https://w3id.org/italia/data/distribution/ACAPIT-RDF-TURTLE> ;
                                                 admsapit:semanticAssetInUse <https://w3id.org/italia/data/project/DAF> ;
-                                                rdfs:comment "Questa è l'ontologia del profilo di italiano sulle condizioni di accesso, inclusi gli orari di apertura (Access Condition Ontology - Italian Application Profile  - AccessCondition-AP_IT). Essa può essere utilizzata per modellare tutte le condizioni di accesso a luoghi pubblici."@it ;
+                                                rdfs:comment "Questa è l'ontologia del profilo di italiano sulle condizioni di accesso, inclusi gli orari di apertura (Access Condition Ontology - Italian Application Profile - AccessCondition-AP_IT). Essa può essere utilizzata per modellare tutte le condizioni di accesso a luoghi pubblici."@it ;
                                                 admsapit:hasKeyClass :AccessCondition ;
                                                 dcat:theme <http://publications.europa.eu/resource/authority/data-theme/SOCI> ;
                                                 dcat:keyword "Access Condition"@en ;
@@ -55,7 +55,7 @@
                                                 admsapit:hasKeyClass :TemporaryClosure ;
                                                 dct:language <http://publications.europa.eu/resource/authority/language/ITA> ;
                                                 rdfs:comment "This is the ontology of the Italian application profile for access conditions including opening hours specifications. It can be used to model all the access conditions to public locations."@en ;
-                                                dct:description "Questa è l'ontologia del profilo di italiano sulle condizioni di accesso, inclusi gli orari di apertura (Access Condition Ontology - Italian Application Profile  - AccessCondition-AP_IT). Essa può essere utilizzata per modellare tutte le condizioni di accesso a luoghi pubblici."@it ;
+                                                dct:description "Questa è l'ontologia del profilo di italiano sulle condizioni di accesso, inclusi gli orari di apertura (Access Condition Ontology - Italian Application Profile - AccessCondition-AP_IT). Essa può essere utilizzata per modellare tutte le condizioni di accesso a luoghi pubblici."@it ;
                                                 admsapit:hasSemanticAssetDistribution <https://w3id.org/italia/data/distribution/ACAPIT-RDF-XML> ;
                                                 admsapit:prefix "acapit" ;
                                                 admsapit:type admsapit:ServiceOntology ;
@@ -335,7 +335,7 @@ admsapit:SemanticAssetDistribution rdf:type owl:Class .
                            owl:onProperty l0:name ;
                            owl:someValuesFrom rdfs:Literal
                          ] ;
-         rdfs:comment "It represents the  type of booking for a location/event for instance. Examples can be: Mandatory, Optional, None (free access)."@en ,
+         rdfs:comment "It represents the type of booking for a location/event for instance. Examples can be: Mandatory, Optional, None (free access)."@en ,
                       "Rappresenta la tipologia di prenotazione per l'accesso a un luogo/evento. Esempi possono essere: Obbligatoria, Facoltativa, Nessuna (ingresso libero)."@it ;
          rdfs:isDefinedBy <https://w3id.org/italia/onto/AccessCondition> ;
          rdfs:label "Booking"@en ,

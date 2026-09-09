@@ -118,7 +118,7 @@ prov:wasInfluencedBy rdf:type owl:AnnotationProperty .
           rdfs:label "has email"@en ,
                      "ha email"@it ;
           
-          rdfs:comment "This property links an online contact  point with one or more email addresses of various types."@en ,
+          rdfs:comment "This property links an online contact point with one or more email addresses of various types."@en ,
                        "Questa proprietà collega un punto di contatto online con uno o più indirizzi email di vario tipo."@it ;
           
           rdfs:isDefinedBy <https://w3id.org/italia/onto/SM/> ;
@@ -879,7 +879,7 @@ l0:Object rdf:type owl:Class .
                              ] ;
              
              rdfs:comment "This class represents a social media like a social network (e.g. Facebook, Twitter, etc.)."@en ,
-                          "Questa  classe rappresenta un social media come, ad esempio, un social network (ex. Facebook, Twitter, ecc...)."@it ;
+                          "Questa classe rappresenta un social media come, ad esempio, un social network (ex. Facebook, Twitter, ecc...)."@it ;
              
              rdfs:isDefinedBy <https://w3id.org/italia/onto/SM/> .
 
@@ -930,7 +930,7 @@ l0:Object rdf:type owl:Class .
                                  owl:allValuesFrom :Telephone
                                ] ;
                
-               rdfs:comment "This class represents the type of Telephone. The value of this class are those defined in the controlled vocabulary http://dati.gov.it/onto/controlledvocabulary/Channel and in particular the final values of the category telephone (http://dati.gov.it/onto/controlledvocabulary/Channel/03 that are the following: http://dati.gov.it/onto/controlledvocabulary/Channel/031 (Voice) http://dati.gov.it/onto/controlledvocabulary/Channel/032 (Call Center)  http://dati.gov.it/onto/controlledvocabulary/Channel/033 (Fax)"@en ;
+               rdfs:comment "This class represents the type of Telephone. The value of this class are those defined in the controlled vocabulary http://dati.gov.it/onto/controlledvocabulary/Channel and in particular the final values of the category telephone (http://dati.gov.it/onto/controlledvocabulary/Channel/03 that are the following: http://dati.gov.it/onto/controlledvocabulary/Channel/031 (Voice) http://dati.gov.it/onto/controlledvocabulary/Channel/032 (Call Center) http://dati.gov.it/onto/controlledvocabulary/Channel/033 (Fax)"@en ;
                
                owl:versionInfo "stable"@en ;
                

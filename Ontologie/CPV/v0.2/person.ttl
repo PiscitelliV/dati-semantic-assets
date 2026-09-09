@@ -21,7 +21,7 @@
                                    
                                    rdfs:comment "This is the ontology of the Italian application profile for Person"@en ;
                                    
-                                   owl:versionInfo "Version 0.2 - 08  August 2017 - exclusion of Location part of the ontology since it is included in the related ontology"@en ;
+                                   owl:versionInfo "Version 0.2 - 08 August 2017 - exclusion of Location part of the ontology since it is included in the related ontology"@en ;
                                    
                                    dc:creator "Agenzia per l'italia Digitale (AgID)"@it ,
                                               "Istituto di Scienze e Tecnologie della Cognizione dell'Istituto nazionale delle Ricerche (CNR) - Laboratorio di Tecnologie Semantiche (STlab)"@it ;

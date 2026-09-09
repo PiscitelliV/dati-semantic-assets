@@ -16,7 +16,7 @@
                                                            "Italian Digital Transformation Team"@en ;
                                                 dc:issued "2018-06-27"^^xsd:date ;
                                                 dc:modified "2019-04-23"^^xsd:date ;
-                                                dct:description "Questi sono gli allineamenti dell'ontologia sulle lingue Language - Italian Application Profile  (Language-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate."@it ,
+                                                dct:description "Questi sono gli allineamenti dell'ontologia sulle lingue Language - Italian Application Profile (Language-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate."@it ,
                                                                 "These are the alignments to external ontologies widely used and available at the state of the art for language ontology"@en ;
                                                 dct:title "Allineamenti ontologia Lingue"@it ,
                                                           "Language Alignment"@en .

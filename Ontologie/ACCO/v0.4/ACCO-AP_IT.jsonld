@@ -595,7 +595,7 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "This property links an accommodation facility (or an accommodation room)  to the description of the offered services."
+          "@value": "This property links an accommodation facility (or an accommodation room) to the description of the offered services."
         },
         {
           "@language": "it",
@@ -767,7 +767,7 @@
       "rdfs:label": [
         {
           "@language": "it",
-          "@value": "ha caratteristica  descrizione servizi offerti"
+          "@value": "ha caratteristica descrizione servizi offerti"
         },
         {
           "@language": "en",
@@ -814,7 +814,7 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "This is an abstract class  used to model a  room of the accommodation facility."
+          "@value": "This is an abstract class used to model a room of the accommodation facility."
         },
         {
           "@language": "it",
@@ -1676,7 +1676,7 @@
       "dcterms:description": [
         {
           "@language": "it",
-          "@value": "Questa è l'ontologia del profilo  italiano sulle Strutture Ricettive (Accomodation Facility - Italian Application Profile - ACCO-AP_IT)"
+          "@value": "Questa è l'ontologia del profilo italiano sulle Strutture Ricettive (Accomodation Facility - Italian Application Profile - ACCO-AP_IT)"
         },
         {
           "@language": "en",
@@ -1758,7 +1758,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa è l'ontologia del profilo  italiano sulle Strutture Ricettive (Accomodation Facility - Italian Application Profile - ACCO-AP_IT)"
+          "@value": "Questa è l'ontologia del profilo italiano sulle Strutture Ricettive (Accomodation Facility - Italian Application Profile - ACCO-AP_IT)"
         },
         {
           "@language": "en",

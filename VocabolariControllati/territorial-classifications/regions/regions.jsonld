@@ -1242,7 +1242,7 @@
         },
         {
           "@language": "en",
-          "@value": "This is the distribution in CSV of the Linked Open Dataset of the Italian Regions controlled vocabulary "
+          "@value": "This is the distribution in CSV of the Linked Open Dataset of the Italian Regions controlled vocabulary"
         }
       ],
       "dcterms:format": {
@@ -1278,7 +1278,7 @@
         },
         {
           "@language": "en",
-          "@value": "This is the distribution in JSON-LD of the Linked Open Dataset of the Italian Regions controlled vocabulary "
+          "@value": "This is the distribution in JSON-LD of the Linked Open Dataset of the Italian Regions controlled vocabulary"
         }
       ],
       "dcterms:format": {
@@ -1314,7 +1314,7 @@
         },
         {
           "@language": "en",
-          "@value": "This is the distribution in RDF/turtle of the Linked Open Dataset of the Italian Regions controlled vocabulary "
+          "@value": "This is the distribution in RDF/turtle of the Linked Open Dataset of the Italian Regions controlled vocabulary"
         }
       ],
       "dcterms:format": {
@@ -1350,7 +1350,7 @@
         },
         {
           "@language": "en",
-          "@value": "This is the distribution in RDF/XML of the Linked Open Dataset of the Italian Regions controlled vocabulary "
+          "@value": "This is the distribution in RDF/XML of the Linked Open Dataset of the Italian Regions controlled vocabulary"
         }
       ],
       "dcterms:format": {

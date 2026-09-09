@@ -568,7 +568,7 @@
     "@type" : "dcatapit:Distribution",
     "description" : [ {
       "@language" : "en",
-      "@value" : "This is the distribution in CSV of the Linked Open Dataset of the parental relationship controlled vocabulary "
+      "@value" : "This is the distribution in CSV of the Linked Open Dataset of the parental relationship controlled vocabulary"
     }, {
       "@language" : "it",
       "@value" : "Questa è la distribuzione CSV del dataset Linked Open Data del vocabolario controllato sulle relazioni parentali delle persone"

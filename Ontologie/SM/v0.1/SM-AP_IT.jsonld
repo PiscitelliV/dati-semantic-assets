@@ -489,7 +489,7 @@
         },
         {
           "@language": "it",
-          "@value": "Questa  classe rappresenta un social media come, ad esempio, un social network (ex. Facebook, Twitter, ecc...)."
+          "@value": "Questa classe rappresenta un social media come, ad esempio, un social network (ex. Facebook, Twitter, ecc...)."
         }
       ],
       "rdfs:isDefinedBy": {

@@ -508,7 +508,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 10, c. 8, lett. a), d.lgs. n. 33/2013"
+        "@value": "Art. 10, c. 8, lett. a), d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -537,7 +537,7 @@
       ],
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 10, c. 8, lett. a), d.lgs. n. 33/2013"
+        "@value": "Art. 10, c. 8, lett. a), d.lgs. n. 33/2013"
       }
     },
     {
@@ -563,7 +563,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 12, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 12, c. 1, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -592,7 +592,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 12, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 12, c. 1, d.lgs. n. 33/2013"
       }
     },
     {
@@ -618,7 +618,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 12, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 12, c. 1, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -656,7 +656,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 12, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 12, c. 1, d.lgs. n. 33/2013"
       }
     },
     {
@@ -682,7 +682,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 12, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 12, c. 1, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -714,7 +714,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 12, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 12, c. 1, d.lgs. n. 33/2013"
       }
     },
     {
@@ -740,7 +740,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 12, c. 2, d.lgs. n. 33/2013"
+        "@value": "Art. 12, c. 2, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -769,7 +769,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 12, c. 2, d.lgs. n. 33/2013"
+        "@value": "Art. 12, c. 2, d.lgs. n. 33/2013"
       }
     },
     {
@@ -796,11 +796,11 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 12, c. 1, d.lgs. n. 33/2013"
+          "@value": "Art. 12, c. 1, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 55, c. 2, d.lgs. n. 165/2001"
+          "@value": "Art. 55, c. 2, d.lgs. n. 165/2001"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -831,11 +831,11 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 12, c. 1, d.lgs. n. 33/2013"
+          "@value": "Art. 12, c. 1, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 55, c. 2, d.lgs. n. 165/2001"
+          "@value": "Art. 55, c. 2, d.lgs. n. 165/2001"
         }
       ]
     },
@@ -862,7 +862,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 12, c. 1-bis, d.lgs. n. 33/2013"
+        "@value": "Art. 12, c. 1-bis, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -891,7 +891,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 12, c. 1-bis, d.lgs. n. 33/2013"
+        "@value": "Art. 12, c. 1-bis, d.lgs. n. 33/2013"
       }
     },
     {
@@ -917,7 +917,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 13, c. 1, lett. a), d.lgs. n. 33/2013"
+        "@value": "Art. 13, c. 1, lett. a), d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -952,7 +952,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 13, c. 1, lett. a), d.lgs. n. 33/2013"
+        "@value": "Art. 13, c. 1, lett. a), d.lgs. n. 33/2013"
       }
     },
     {
@@ -993,23 +993,23 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -1043,23 +1043,23 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
         }
       ],
       "trapit:superTransparencyObligationOf": [
@@ -1118,23 +1118,23 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -1168,23 +1168,23 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
         }
       ],
       "trapit:subTransparencyObligationOf": {
@@ -1246,23 +1246,23 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -1296,23 +1296,23 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
         }
       ],
       "trapit:subTransparencyObligationOf": {
@@ -1374,23 +1374,23 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -1424,23 +1424,23 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
         }
       ],
       "trapit:subTransparencyObligationOf": {
@@ -1485,23 +1485,23 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -1562,23 +1562,23 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
         }
       ]
     },
@@ -1616,7 +1616,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 14, co. 1-bis, del dlgs n. 33/2013"
+        "@value": "Art. 14, co. 1-bis, del dlgs n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -1634,7 +1634,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 14, co. 1-bis, del dlgs n. 33/2013"
+        "@value": "Art. 14, co. 1-bis, del dlgs n. 33/2013"
       },
       "trapit:superTransparencyObligationOf": [
         {
@@ -1671,7 +1671,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 47, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 47, c. 1, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -1705,7 +1705,7 @@
       ],
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 47, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 47, c. 1, d.lgs. n. 33/2013"
       }
     },
     {
@@ -1731,7 +1731,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 28, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 28, c. 1, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -1763,7 +1763,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 28, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 28, c. 1, d.lgs. n. 33/2013"
       }
     },
     {
@@ -1789,7 +1789,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 28, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 28, c. 1, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -1821,7 +1821,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 28, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 28, c. 1, d.lgs. n. 33/2013"
       }
     },
     {
@@ -1847,7 +1847,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 13, c. 1, lett. b), d.lgs. n. 33/2013"
+        "@value": "Art. 13, c. 1, lett. b), d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -1897,7 +1897,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 13, c. 1, lett. b), d.lgs. n. 33/2013"
+        "@value": "Art. 13, c. 1, lett. b), d.lgs. n. 33/2013"
       }
     },
     {
@@ -1923,7 +1923,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 13, c. 1, lett. d), d.lgs. n. 33/2013"
+        "@value": "Art. 13, c. 1, lett. d), d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -1952,7 +1952,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 13, c. 1, lett. d), d.lgs. n. 33/2013"
+        "@value": "Art. 13, c. 1, lett. d), d.lgs. n. 33/2013"
       }
     },
     {
@@ -1979,19 +1979,19 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 15, c. 1, lett. d), d.lgs. n. 33/2013"
+          "@value": "Art. 15, c. 1, lett. d), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 15, c. 1, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 15, c. 1, lett. c), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 15, c. 2, d.lgs. n. 33/2013"
+          "@value": "Art. 15, c. 2, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 53, c. 14, d.lgs. n. 165/2001"
+          "@value": "Art. 53, c. 14, d.lgs. n. 165/2001"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -2052,19 +2052,19 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 15, c. 1, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 15, c. 1, lett. c), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 53, c. 14, d.lgs. n. 165/2001"
+          "@value": "Art. 53, c. 14, d.lgs. n. 165/2001"
         },
         {
           "@language": "it",
-          "@value": " Art. 15, c. 1, lett. d), d.lgs. n. 33/2013"
+          "@value": "Art. 15, c. 1, lett. d), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 15, c. 2, d.lgs. n. 33/2013"
+          "@value": "Art. 15, c. 2, d.lgs. n. 33/2013"
         }
       ]
     },
@@ -2091,7 +2091,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 14, comma 2, d.lgs. n. 97 del 2016"
+        "@value": "Art. 14, comma 2, d.lgs. n. 97 del 2016"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -2131,7 +2131,7 @@
       ],
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 14, comma 2, d.lgs. n. 97 del 2016"
+        "@value": "Art. 14, comma 2, d.lgs. n. 97 del 2016"
       }
     },
     {
@@ -2175,27 +2175,27 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1-bis , d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1-bis , d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -2229,27 +2229,27 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1-bis , d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1-bis , d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
         }
       ],
       "trapit:superTransparencyObligationOf": [
@@ -2311,27 +2311,27 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1-bis , d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1-bis , d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -2365,27 +2365,27 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1-bis , d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1-bis , d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
         }
       ],
       "trapit:superTransparencyObligationOf": [
@@ -2429,7 +2429,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 19, c. 1-bis, d.lgs. n. 165/2001"
+        "@value": "Art. 19, c. 1-bis, d.lgs. n. 165/2001"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -2461,7 +2461,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 19, c. 1-bis, d.lgs. n. 165/2001"
+        "@value": "Art. 19, c. 1-bis, d.lgs. n. 165/2001"
       }
     },
     {
@@ -2487,7 +2487,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 1, c. 7, d.p.r. n. 108/2004"
+        "@value": "Art. 1, c. 7, d.p.r. n. 108/2004"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -2519,7 +2519,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 1, c. 7, d.p.r. n. 108/2004"
+        "@value": "Art. 1, c. 7, d.p.r. n. 108/2004"
       }
     },
     {
@@ -2546,23 +2546,23 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -2617,23 +2617,23 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
         }
       ]
     },
@@ -2660,7 +2660,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 14, c. 1-quinquies., d.lgs. n. 33/2013"
+        "@value": "Art. 14, c. 1-quinquies., d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -2695,7 +2695,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 14, c. 1-quinquies., d.lgs. n. 33/2013"
+        "@value": "Art. 14, c. 1-quinquies., d.lgs. n. 33/2013"
       }
     },
     {
@@ -2722,11 +2722,11 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 16, c. 1, d.lgs. n. 33/2013"
+          "@value": "Art. 16, c. 1, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 16, c. 2, d.lgs. n. 33/2013"
+          "@value": "Art. 16, c. 2, d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -2769,11 +2769,11 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 16, c. 1, d.lgs. n. 33/2013"
+          "@value": "Art. 16, c. 1, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 16, c. 2, d.lgs. n. 33/2013"
+          "@value": "Art. 16, c. 2, d.lgs. n. 33/2013"
         }
       ]
     },
@@ -2803,7 +2803,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 17, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 17, c. 1, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -2827,7 +2827,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 17, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 17, c. 1, d.lgs. n. 33/2013"
       },
       "trapit:superTransparencyObligationOf": {
         "@id": "https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-obligation/04070101"
@@ -2859,7 +2859,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 17, c. 2, d.lgs. n. 33/2013"
+        "@value": "Art. 17, c. 2, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -2883,7 +2883,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 17, c. 2, d.lgs. n. 33/2013"
+        "@value": "Art. 17, c. 2, d.lgs. n. 33/2013"
       },
       "trapit:subTransparencyObligationOf": {
         "@id": "https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-obligation/040701"
@@ -2913,11 +2913,11 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 53, c. 14, d.lgs. n. 165/2001"
+          "@value": "Art. 53, c. 14, d.lgs. n. 165/2001"
         },
         {
           "@language": "it",
-          "@value": " Art. 18, d.lgs. n. 33/2013"
+          "@value": "Art. 18, d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -2943,11 +2943,11 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 18, d.lgs. n. 33/2013"
+          "@value": "Art. 18, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 53, c. 14, d.lgs. n. 165/2001"
+          "@value": "Art. 53, c. 14, d.lgs. n. 165/2001"
         }
       ]
     },
@@ -2975,11 +2975,11 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 53, c. 14, d.lgs. n. 165/2001"
+          "@value": "Art. 53, c. 14, d.lgs. n. 165/2001"
         },
         {
           "@language": "it",
-          "@value": " Art. 18, d.lgs. n. 33/2013"
+          "@value": "Art. 18, d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -3022,11 +3022,11 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 18, d.lgs. n. 33/2013"
+          "@value": "Art. 18, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 53, c. 14, d.lgs. n. 165/2001"
+          "@value": "Art. 53, c. 14, d.lgs. n. 165/2001"
         }
       ]
     },
@@ -3054,11 +3054,11 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 47, c. 8, d.lgs. n. 165/2001"
+          "@value": "Art. 47, c. 8, d.lgs. n. 165/2001"
         },
         {
           "@language": "it",
-          "@value": " Art. 21, c. 1, d.lgs. n. 33/2013"
+          "@value": "Art. 21, c. 1, d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -3084,11 +3084,11 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 47, c. 8, d.lgs. n. 165/2001"
+          "@value": "Art. 47, c. 8, d.lgs. n. 165/2001"
         },
         {
           "@language": "it",
-          "@value": " Art. 21, c. 1, d.lgs. n. 33/2013"
+          "@value": "Art. 21, c. 1, d.lgs. n. 33/2013"
         }
       ]
     },
@@ -3118,7 +3118,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 21, c. 2, d.lgs. n. 33/2013"
+        "@value": "Art. 21, c. 2, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -3147,7 +3147,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 21, c. 2, d.lgs. n. 33/2013"
+        "@value": "Art. 21, c. 2, d.lgs. n. 33/2013"
       },
       "trapit:superTransparencyObligationOf": {
         "@id": "https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-obligation/04110101"
@@ -3180,11 +3180,11 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 55, c. 4,d.lgs. n. 150/2009"
+          "@value": "Art. 55, c. 4,d.lgs. n. 150/2009"
         },
         {
           "@language": "it",
-          "@value": " Art. 21, c. 2, d.lgs. n. 33/2013"
+          "@value": "Art. 21, c. 2, d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -3221,11 +3221,11 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 21, c. 2, d.lgs. n. 33/2013"
+          "@value": "Art. 21, c. 2, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 55, c. 4,d.lgs. n. 150/2009"
+          "@value": "Art. 55, c. 4,d.lgs. n. 150/2009"
         }
       ],
       "trapit:subTransparencyObligationOf": {
@@ -3250,21 +3250,21 @@
         },
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione riguardante  gli OIV "
+          "@value": "Obbligo di pubblicazione riguardante gli OIV"
         }
       ],
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " D.lgs. n. 33/2013, Art. 10, c. 8, lett. C"
+          "@value": "D.lgs. n. 33/2013, Art. 10, c. 8, lett. C"
         },
         {
           "@language": "it",
-          "@value": " Art. 10, c. 8, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 10, c. 8, lett. c), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Par. 14.2, delib. CiVIT n. 12/2013"
+          "@value": "Par. 14.2, delib. CiVIT n. 12/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -3298,15 +3298,15 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Par. 14.2, delib. CiVIT n. 12/2013"
+          "@value": "Par. 14.2, delib. CiVIT n. 12/2013"
         },
         {
           "@language": "it",
-          "@value": " D.lgs. n. 33/2013, Art. 10, c. 8, lett. C"
+          "@value": "D.lgs. n. 33/2013, Art. 10, c. 8, lett. C"
         },
         {
           "@language": "it",
-          "@value": " Art. 10, c. 8, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 10, c. 8, lett. c), d.lgs. n. 33/2013"
         }
       ]
     },
@@ -3333,7 +3333,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 19, d.lgs. n. 33/2013"
+        "@value": "Art. 19, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -3368,7 +3368,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 19, d.lgs. n. 33/2013"
+        "@value": "Art. 19, d.lgs. n. 33/2013"
       }
     },
     {
@@ -3393,12 +3393,12 @@
         },
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione  del sistema di misurazione e valutazione della Performance"
+          "@value": "Obbligo di pubblicazione del sistema di misurazione e valutazione della Performance"
         }
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Par. 1, delib. CiVIT n. 104/2010"
+        "@value": "Par. 1, delib. CiVIT n. 104/2010"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -3427,7 +3427,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Par. 1, delib. CiVIT n. 104/2010"
+        "@value": "Par. 1, delib. CiVIT n. 104/2010"
       }
     },
     {
@@ -3453,7 +3453,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 10, c. 8, lett. b), d.lgs. n. 33/2013"
+        "@value": "Art. 10, c. 8, lett. b), d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -3485,7 +3485,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 10, c. 8, lett. b), d.lgs. n. 33/2013"
+        "@value": "Art. 10, c. 8, lett. b), d.lgs. n. 33/2013"
       }
     },
     {
@@ -3511,7 +3511,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 10, c. 8, lett. b), d.lgs. n. 33/2013"
+        "@value": "Art. 10, c. 8, lett. b), d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -3543,7 +3543,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 10, c. 8, lett. b), d.lgs. n. 33/2013"
+        "@value": "Art. 10, c. 8, lett. b), d.lgs. n. 33/2013"
       }
     },
     {
@@ -3569,7 +3569,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 20, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 20, c. 1, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -3601,7 +3601,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 20, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 20, c. 1, d.lgs. n. 33/2013"
       }
     },
     {
@@ -3627,7 +3627,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 20, c. 2, d.lgs. n. 33/2013"
+        "@value": "Art. 20, c. 2, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -3674,7 +3674,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 20, c. 2, d.lgs. n. 33/2013"
+        "@value": "Art. 20, c. 2, d.lgs. n. 33/2013"
       }
     },
     {
@@ -3708,7 +3708,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 22, d.lgs. n. 33/2013"
+        "@value": "Art. 22, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -3732,7 +3732,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 22, d.lgs. n. 33/2013"
+        "@value": "Art. 22, d.lgs. n. 33/2013"
       },
       "trapit:superTransparencyObligationOf": [
         {
@@ -3777,7 +3777,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 22, d.lgs. n. 33/2013"
+        "@value": "Art. 22, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -3801,7 +3801,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 22, d.lgs. n. 33/2013"
+        "@value": "Art. 22, d.lgs. n. 33/2013"
       },
       "trapit:superTransparencyObligationOf": [
         {
@@ -3846,7 +3846,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 22, d.lgs. n. 33/2013"
+        "@value": "Art. 22, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -3870,7 +3870,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 22, d.lgs. n. 33/2013"
+        "@value": "Art. 22, d.lgs. n. 33/2013"
       },
       "trapit:superTransparencyObligationOf": [
         {
@@ -3904,7 +3904,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 22, c. 1, lett. d), d.lgs. n. 33/2013"
+        "@value": "Art. 22, c. 1, lett. d), d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -3939,7 +3939,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 22, c. 1, lett. d), d.lgs. n. 33/2013"
+        "@value": "Art. 22, c. 1, lett. d), d.lgs. n. 33/2013"
       }
     },
     {
@@ -3956,7 +3956,7 @@
       "skos:prefLabel": [
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione relativi alle tipologie di procedimenti amministrativi "
+          "@value": "Obbligo di pubblicazione relativi alle tipologie di procedimenti amministrativi"
         },
         {
           "@language": "en",
@@ -3966,55 +3966,55 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. i), d.lgs. n. 33/2013"
+          "@value": "Art. 35, c. 1, lett. i), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. d), d.lgs. n. 33/2013"
+          "@value": "Art. 35, c. 1, lett. d), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. g), d.lgs. n. 33/2013"
+          "@value": "Art. 35, c. 1, lett. g), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. f), d.lgs. n. 33/2013"
+          "@value": "Art. 35, c. 1, lett. f), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. l), d.lgs. n. 33/2013"
+          "@value": "Art. 35, c. 1, lett. l), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. m), d.lgs. n. 33/2013"
+          "@value": "Art. 35, c. 1, lett. m), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. e), d.lgs. n. 33/2013"
+          "@value": "Art. 35, c. 1, lett. e), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " "
+          "@value": ""
         },
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. h), d.lgs. n. 33/2013"
+          "@value": "Art. 35, c. 1, lett. h), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. d), d.lgs. n. 33/2013 e Art. 1, c. 29, l. 190/2012"
+          "@value": "Art. 35, c. 1, lett. d), d.lgs. n. 33/2013 e Art. 1, c. 29, l. 190/2012"
         },
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 35, c. 1, lett. a), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. b), d.lgs. n. 33/2013"
+          "@value": "Art. 35, c. 1, lett. b), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 35, c. 1, lett. c), d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -4093,55 +4093,55 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. l), d.lgs. n. 33/2013"
+          "@value": "Art. 35, c. 1, lett. l), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. d), d.lgs. n. 33/2013"
+          "@value": "Art. 35, c. 1, lett. d), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. d), d.lgs. n. 33/2013 e Art. 1, c. 29, l. 190/2012"
+          "@value": "Art. 35, c. 1, lett. d), d.lgs. n. 33/2013 e Art. 1, c. 29, l. 190/2012"
         },
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. g), d.lgs. n. 33/2013"
+          "@value": "Art. 35, c. 1, lett. g), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. m), d.lgs. n. 33/2013"
+          "@value": "Art. 35, c. 1, lett. m), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 35, c. 1, lett. c), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. b), d.lgs. n. 33/2013"
+          "@value": "Art. 35, c. 1, lett. b), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " "
+          "@value": ""
         },
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 35, c. 1, lett. a), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. e), d.lgs. n. 33/2013"
+          "@value": "Art. 35, c. 1, lett. e), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. i), d.lgs. n. 33/2013"
+          "@value": "Art. 35, c. 1, lett. i), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. f), d.lgs. n. 33/2013"
+          "@value": "Art. 35, c. 1, lett. f), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 35, c. 1, lett. h), d.lgs. n. 33/2013"
+          "@value": "Art. 35, c. 1, lett. h), d.lgs. n. 33/2013"
         }
       ]
     },
@@ -4168,7 +4168,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 35, c. 3, d.lgs. n. 33/2013"
+        "@value": "Art. 35, c. 3, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -4200,7 +4200,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 35, c. 3, d.lgs. n. 33/2013"
+        "@value": "Art. 35, c. 3, d.lgs. n. 33/2013"
       }
     },
     {
@@ -4227,11 +4227,11 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 1, co. 16 della l. n. 190/2012"
+          "@value": "Art. 1, co. 16 della l. n. 190/2012"
         },
         {
           "@language": "it",
-          "@value": " Art. 23, c. 1, d.lgs. n. 33/2013"
+          "@value": "Art. 23, c. 1, d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -4274,11 +4274,11 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 23, c. 1, d.lgs. n. 33/2013"
+          "@value": "Art. 23, c. 1, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 1, co. 16 della l. n. 190/2012"
+          "@value": "Art. 1, co. 16 della l. n. 190/2012"
         }
       ]
     },
@@ -4306,11 +4306,11 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 1, co. 16 della l. n. 190/2012"
+          "@value": "Art. 1, co. 16 della l. n. 190/2012"
         },
         {
           "@language": "it",
-          "@value": " Art. 23, c. 1, d.lgs. n. 33/2013"
+          "@value": "Art. 23, c. 1, d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -4350,11 +4350,11 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 1, co. 16 della l. n. 190/2012"
+          "@value": "Art. 1, co. 16 della l. n. 190/2012"
         },
         {
           "@language": "it",
-          "@value": " Art. 23, c. 1, d.lgs. n. 33/2013"
+          "@value": "Art. 23, c. 1, d.lgs. n. 33/2013"
         }
       ]
     },
@@ -4376,21 +4376,21 @@
         },
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione dei  dati relativi alle procedure di gara anno corrente"
+          "@value": "Obbligo di pubblicazione dei dati relativi alle procedure di gara anno corrente"
         }
       ],
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 4 delib. Anac n. 39/2016"
+          "@value": "Art. 4 delib. Anac n. 39/2016"
         },
         {
           "@language": "it",
-          "@value": " Art. 37, c. 1, lett. a) d.lgs. n. 33/2013"
+          "@value": "Art. 37, c. 1, lett. a) d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 1, c. 32, l. n. 190/2012"
+          "@value": "Art. 1, c. 32, l. n. 190/2012"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -4445,15 +4445,15 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 4 delib. Anac n. 39/2016"
+          "@value": "Art. 4 delib. Anac n. 39/2016"
         },
         {
           "@language": "it",
-          "@value": " Art. 1, c. 32, l. n. 190/2012"
+          "@value": "Art. 1, c. 32, l. n. 190/2012"
         },
         {
           "@language": "it",
-          "@value": " Art. 37, c. 1, lett. a) d.lgs. n. 33/2013"
+          "@value": "Art. 37, c. 1, lett. a) d.lgs. n. 33/2013"
         }
       ]
     },
@@ -4475,25 +4475,25 @@
         },
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione dei  dati relativi alle procedure di gara anni passati"
+          "@value": "Obbligo di pubblicazione dei dati relativi alle procedure di gara anni passati"
         }
       ],
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 4 delib. Anac n. 39/2017"
+          "@value": "Art. 4 delib. Anac n. 39/2017"
         },
         {
           "@language": "it",
-          "@value": " Art. 4 delib. Anac n. 39/2016"
+          "@value": "Art. 4 delib. Anac n. 39/2016"
         },
         {
           "@language": "it",
-          "@value": " Art. 37, c. 1, lett. a) d.lgs. n. 33/2013"
+          "@value": "Art. 37, c. 1, lett. a) d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 1, c. 32, l. n. 190/2012"
+          "@value": "Art. 1, c. 32, l. n. 190/2012"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -4548,19 +4548,19 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 1, c. 32, l. n. 190/2012"
+          "@value": "Art. 1, c. 32, l. n. 190/2012"
         },
         {
           "@language": "it",
-          "@value": " Art. 37, c. 1, lett. a) d.lgs. n. 33/2013"
+          "@value": "Art. 37, c. 1, lett. a) d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 4 delib. Anac n. 39/2017"
+          "@value": "Art. 4 delib. Anac n. 39/2017"
         },
         {
           "@language": "it",
-          "@value": " Art. 4 delib. Anac n. 39/2016"
+          "@value": "Art. 4 delib. Anac n. 39/2016"
         }
       ]
     },
@@ -4588,11 +4588,11 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 37, c. 1, lett. b) d.lgs. n. 33/2013"
+          "@value": "Art. 37, c. 1, lett. b) d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Artt. 21, c. 7, e 29, c. 1, d.lgs. n. 50/2016"
+          "@value": "Artt. 21, c. 7, e 29, c. 1, d.lgs. n. 50/2016"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -4626,11 +4626,11 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 37, c. 1, lett. b) d.lgs. n. 33/2013"
+          "@value": "Art. 37, c. 1, lett. b) d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Artt. 21, c. 7, e 29, c. 1, d.lgs. n. 50/2016"
+          "@value": "Artt. 21, c. 7, e 29, c. 1, d.lgs. n. 50/2016"
         }
       ]
     },
@@ -4658,11 +4658,11 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 37, c. 1, lett. b) d.lgs. n. 33/2013"
+          "@value": "Art. 37, c. 1, lett. b) d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 29, c. 1, d.lgs. n. 50/2016"
+          "@value": "Art. 29, c. 1, d.lgs. n. 50/2016"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -4735,11 +4735,11 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 29, c. 1, d.lgs. n. 50/2016"
+          "@value": "Art. 29, c. 1, d.lgs. n. 50/2016"
         },
         {
           "@language": "it",
-          "@value": " Art. 37, c. 1, lett. b) d.lgs. n. 33/2013"
+          "@value": "Art. 37, c. 1, lett. b) d.lgs. n. 33/2013"
         }
       ]
     },
@@ -4757,7 +4757,7 @@
       "skos:prefLabel": [
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione concernente  provvedimenti di esclusione e di ammissione"
+          "@value": "Obbligo di pubblicazione concernente provvedimenti di esclusione e di ammissione"
         },
         {
           "@language": "en",
@@ -4767,11 +4767,11 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 29, c. 1, d.lgs. n. 50/2016"
+          "@value": "Art. 29, c. 1, d.lgs. n. 50/2016"
         },
         {
           "@language": "it",
-          "@value": " Art. 37, c. 1, lett. b) d.lgs. n. 33/2013"
+          "@value": "Art. 37, c. 1, lett. b) d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -4805,11 +4805,11 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 37, c. 1, lett. b) d.lgs. n. 33/2013"
+          "@value": "Art. 37, c. 1, lett. b) d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 29, c. 1, d.lgs. n. 50/2016"
+          "@value": "Art. 29, c. 1, d.lgs. n. 50/2016"
         }
       ]
     },
@@ -4837,11 +4837,11 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 37, c. 1, lett. b) d.lgs. n. 33/2013"
+          "@value": "Art. 37, c. 1, lett. b) d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 29, c. 1, d.lgs. n. 50/2016"
+          "@value": "Art. 29, c. 1, d.lgs. n. 50/2016"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -4872,11 +4872,11 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 29, c. 1, d.lgs. n. 50/2016"
+          "@value": "Art. 29, c. 1, d.lgs. n. 50/2016"
         },
         {
           "@language": "it",
-          "@value": " Art. 37, c. 1, lett. b) d.lgs. n. 33/2013"
+          "@value": "Art. 37, c. 1, lett. b) d.lgs. n. 33/2013"
         }
       ]
     },
@@ -4903,7 +4903,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 1, co. 505, l. 208/2015 disposizione speciale rispetto all'art. 21 del d.lgs. 50/2016)"
+        "@value": "Art. 1, co. 505, l. 208/2015 disposizione speciale rispetto all'art. 21 del d.lgs. 50/2016)"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -4932,7 +4932,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 1, co. 505, l. 208/2015 disposizione speciale rispetto all'art. 21 del d.lgs. 50/2016)"
+        "@value": "Art. 1, co. 505, l. 208/2015 disposizione speciale rispetto all'art. 21 del d.lgs. 50/2016)"
       }
     },
     {
@@ -4959,11 +4959,11 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 29, c. 1, d.lgs. n. 50/2016"
+          "@value": "Art. 29, c. 1, d.lgs. n. 50/2016"
         },
         {
           "@language": "it",
-          "@value": " Art. 37, c. 1, lett. b) d.lgs. n. 33/2013"
+          "@value": "Art. 37, c. 1, lett. b) d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -4994,11 +4994,11 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 29, c. 1, d.lgs. n. 50/2016"
+          "@value": "Art. 29, c. 1, d.lgs. n. 50/2016"
         },
         {
           "@language": "it",
-          "@value": " Art. 37, c. 1, lett. b) d.lgs. n. 33/2013"
+          "@value": "Art. 37, c. 1, lett. b) d.lgs. n. 33/2013"
         }
       ]
     },
@@ -5025,7 +5025,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 26, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 26, c. 1, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -5063,7 +5063,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 26, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 26, c. 1, d.lgs. n. 33/2013"
       }
     },
     {
@@ -5090,11 +5090,11 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 27, c. 2, d.lgs. n. 33/2013"
+          "@value": "Art. 27, c. 2, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 27, c. 1, lett. a)-f), d.lgs. n. 33/2013"
+          "@value": "Art. 27, c. 1, lett. a)-f), d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -5134,11 +5134,11 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 27, c. 2, d.lgs. n. 33/2013"
+          "@value": "Art. 27, c. 2, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 27, c. 1, lett. a)-f), d.lgs. n. 33/2013"
+          "@value": "Art. 27, c. 1, lett. a)-f), d.lgs. n. 33/2013"
         }
       ]
     },
@@ -5166,15 +5166,15 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 29, c. 1, d.lgs. n. 33/2013"
+          "@value": "Art. 29, c. 1, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 29, c. 1-bis, d.lgs. n. 33/2013 e d.p.c.m. 29 aprile 2016"
+          "@value": "Art. 29, c. 1-bis, d.lgs. n. 33/2013 e d.p.c.m. 29 aprile 2016"
         },
         {
           "@language": "it",
-          "@value": " Art. 5, c. 1, d.p.c.m. 26 aprile 2011"
+          "@value": "Art. 5, c. 1, d.p.c.m. 26 aprile 2011"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -5211,15 +5211,15 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 29, c. 1, d.lgs. n. 33/2013"
+          "@value": "Art. 29, c. 1, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 29, c. 1-bis, d.lgs. n. 33/2013 e d.p.c.m. 29 aprile 2016"
+          "@value": "Art. 29, c. 1-bis, d.lgs. n. 33/2013 e d.p.c.m. 29 aprile 2016"
         },
         {
           "@language": "it",
-          "@value": " Art. 5, c. 1, d.p.c.m. 26 aprile 2011"
+          "@value": "Art. 5, c. 1, d.p.c.m. 26 aprile 2011"
         }
       ]
     },
@@ -5247,15 +5247,15 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 29, c. 1, d.lgs. n. 33/2013"
+          "@value": "Art. 29, c. 1, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 29, c. 1-bis, d.lgs. n. 33/2013 e d.p.c.m. 29 aprile 2016"
+          "@value": "Art. 29, c. 1-bis, d.lgs. n. 33/2013 e d.p.c.m. 29 aprile 2016"
         },
         {
           "@language": "it",
-          "@value": " Art. 5, c. 1, d.p.c.m. 26 aprile 2011"
+          "@value": "Art. 5, c. 1, d.p.c.m. 26 aprile 2011"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -5292,15 +5292,15 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 5, c. 1, d.p.c.m. 26 aprile 2011"
+          "@value": "Art. 5, c. 1, d.p.c.m. 26 aprile 2011"
         },
         {
           "@language": "it",
-          "@value": " Art. 29, c. 1, d.lgs. n. 33/2013"
+          "@value": "Art. 29, c. 1, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 29, c. 1-bis, d.lgs. n. 33/2013 e d.p.c.m. 29 aprile 2016"
+          "@value": "Art. 29, c. 1-bis, d.lgs. n. 33/2013 e d.p.c.m. 29 aprile 2016"
         }
       ]
     },
@@ -5322,21 +5322,21 @@
         },
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione  del piano degli indicatori e dei risultati attesi di bilancio"
+          "@value": "Obbligo di pubblicazione del piano degli indicatori e dei risultati attesi di bilancio"
         }
       ],
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 18-bis del dlgs n.118/2011"
+          "@value": "Art. 18-bis del dlgs n.118/2011"
         },
         {
           "@language": "it",
-          "@value": " Art. 29, c. 2, d.lgs. n. 33/2013"
+          "@value": "Art. 29, c. 2, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 19 e 22 del dlgs n. 91/2011"
+          "@value": "Art. 19 e 22 del dlgs n. 91/2011"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -5370,15 +5370,15 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 29, c. 2, d.lgs. n. 33/2013"
+          "@value": "Art. 29, c. 2, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 19 e 22 del dlgs n. 91/2011"
+          "@value": "Art. 19 e 22 del dlgs n. 91/2011"
         },
         {
           "@language": "it",
-          "@value": " Art. 18-bis del dlgs n.118/2011"
+          "@value": "Art. 18-bis del dlgs n.118/2011"
         }
       ]
     },
@@ -5396,7 +5396,7 @@
       "skos:prefLabel": [
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione  concernente il patrimonio immobiliare"
+          "@value": "Obbligo di pubblicazione concernente il patrimonio immobiliare"
         },
         {
           "@language": "en",
@@ -5405,7 +5405,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 30, d.lgs. n. 33/2013"
+        "@value": "Art. 30, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -5429,7 +5429,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 30, d.lgs. n. 33/2013"
+        "@value": "Art. 30, d.lgs. n. 33/2013"
       }
     },
     {
@@ -5450,12 +5450,12 @@
         },
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione  concernente canoni di locazione"
+          "@value": "Obbligo di pubblicazione concernente canoni di locazione"
         }
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 30, d.lgs. n. 33/2014"
+        "@value": "Art. 30, d.lgs. n. 33/2014"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -5479,7 +5479,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 30, d.lgs. n. 33/2014"
+        "@value": "Art. 30, d.lgs. n. 33/2014"
       }
     },
     {
@@ -5496,7 +5496,7 @@
       "skos:prefLabel": [
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione  concernente gli atti degli organismi di valutazione"
+          "@value": "Obbligo di pubblicazione concernente gli atti degli organismi di valutazione"
         },
         {
           "@language": "en",
@@ -5505,7 +5505,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 31, d.lgs. n. 33/2013"
+        "@value": "Art. 31, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -5537,7 +5537,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 31, d.lgs. n. 33/2013"
+        "@value": "Art. 31, d.lgs. n. 33/2013"
       }
     },
     {
@@ -5554,7 +5554,7 @@
       "skos:prefLabel": [
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione  concernente le relazioni degli organi di revisione amministrativa e contabile"
+          "@value": "Obbligo di pubblicazione concernente le relazioni degli organi di revisione amministrativa e contabile"
         },
         {
           "@language": "en",
@@ -5563,7 +5563,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 31, d.lgs. n. 33/2013"
+        "@value": "Art. 31, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -5595,7 +5595,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 31, d.lgs. n. 33/2013"
+        "@value": "Art. 31, d.lgs. n. 33/2013"
       }
     },
     {
@@ -5616,12 +5616,12 @@
         },
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione  concernente I rilievi Corte dei conti"
+          "@value": "Obbligo di pubblicazione concernente I rilievi Corte dei conti"
         }
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 31, d.lgs. n. 33/2014"
+        "@value": "Art. 31, d.lgs. n. 33/2014"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -5645,7 +5645,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 31, d.lgs. n. 33/2014"
+        "@value": "Art. 31, d.lgs. n. 33/2014"
       }
     },
     {
@@ -5662,7 +5662,7 @@
       "skos:prefLabel": [
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione  concernente carta dei servizi e standard di qualità"
+          "@value": "Obbligo di pubblicazione concernente carta dei servizi e standard di qualità"
         },
         {
           "@language": "en",
@@ -5671,7 +5671,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 32, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 32, c. 1, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -5703,7 +5703,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 32, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 32, c. 1, d.lgs. n. 33/2013"
       }
     },
     {
@@ -5730,15 +5730,15 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 4, c. 2, d.lgs. n. 198/2009"
+          "@value": "Art. 4, c. 2, d.lgs. n. 198/2009"
         },
         {
           "@language": "it",
-          "@value": " Art. 1, c. 2, d.lgs. n. 198/2009"
+          "@value": "Art. 1, c. 2, d.lgs. n. 198/2009"
         },
         {
           "@language": "it",
-          "@value": " Art. 4, c. 6, d.lgs. n. 198/2009"
+          "@value": "Art. 4, c. 6, d.lgs. n. 198/2009"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -5772,15 +5772,15 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 4, c. 6, d.lgs. n. 198/2009"
+          "@value": "Art. 4, c. 6, d.lgs. n. 198/2009"
         },
         {
           "@language": "it",
-          "@value": " Art. 1, c. 2, d.lgs. n. 198/2009"
+          "@value": "Art. 1, c. 2, d.lgs. n. 198/2009"
         },
         {
           "@language": "it",
-          "@value": " Art. 4, c. 2, d.lgs. n. 198/2009"
+          "@value": "Art. 4, c. 2, d.lgs. n. 198/2009"
         }
       ]
     },
@@ -5808,11 +5808,11 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 32, c. 2, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 32, c. 2, lett. a), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 10, c. 5, d.lgs. n. 33/2013"
+          "@value": "Art. 10, c. 5, d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -5843,11 +5843,11 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 10, c. 5, d.lgs. n. 33/2013"
+          "@value": "Art. 10, c. 5, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 32, c. 2, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 32, c. 2, lett. a), d.lgs. n. 33/2013"
         }
       ]
     },
@@ -5874,7 +5874,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 41, c. 6, d.lgs. n. 33/2013"
+        "@value": "Art. 41, c. 6, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -5912,7 +5912,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 41, c. 6, d.lgs. n. 33/2013"
+        "@value": "Art. 41, c. 6, d.lgs. n. 33/2013"
       }
     },
     {
@@ -5938,7 +5938,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 7 co. 3 d.lgs. 82/2005 modificato dall’art. 8 co. 1 del d.lgs. 179/16"
+        "@value": "Art. 7 co. 3 d.lgs. 82/2005 modificato dall’art. 8 co. 1 del d.lgs. 179/16"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -5970,7 +5970,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 7 co. 3 d.lgs. 82/2005 modificato dall’art. 8 co. 1 del d.lgs. 179/16"
+        "@value": "Art. 7 co. 3 d.lgs. 82/2005 modificato dall’art. 8 co. 1 del d.lgs. 179/16"
       }
     },
     {
@@ -5987,7 +5987,7 @@
       "skos:prefLabel": [
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione  dei dati sui pagamenti"
+          "@value": "Obbligo di pubblicazione dei dati sui pagamenti"
         },
         {
           "@language": "en",
@@ -5996,7 +5996,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 4-bis, c. 2, dlgs n. 33/2013"
+        "@value": "Art. 4-bis, c. 2, dlgs n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -6028,7 +6028,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 4-bis, c. 2, dlgs n. 33/2013"
+        "@value": "Art. 4-bis, c. 2, dlgs n. 33/2013"
       }
     },
     {
@@ -6054,7 +6054,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 41, c. 1-bis, d.lgs. n. 33/2013"
+        "@value": "Art. 41, c. 1-bis, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -6095,7 +6095,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 41, c. 1-bis, d.lgs. n. 33/2013"
+        "@value": "Art. 41, c. 1-bis, d.lgs. n. 33/2013"
       }
     },
     {
@@ -6124,7 +6124,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 33, d.lgs. n. 33/2013"
+        "@value": "Art. 33, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -6153,7 +6153,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 33, d.lgs. n. 33/2013"
+        "@value": "Art. 33, d.lgs. n. 33/2013"
       },
       "trapit:superTransparencyObligationOf": {
         "@id": "https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-obligation/15080101"
@@ -6180,12 +6180,12 @@
         },
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione relativo all’indicatore trimestrale  di tempestività dei pagamenti"
+          "@value": "Obbligo di pubblicazione relativo all’indicatore trimestrale di tempestività dei pagamenti"
         }
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 33, d.lgs. n. 33/2013"
+        "@value": "Art. 33, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -6214,7 +6214,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 33, d.lgs. n. 33/2013"
+        "@value": "Art. 33, d.lgs. n. 33/2013"
       },
       "trapit:subTransparencyObligationOf": {
         "@id": "https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-obligation/150801"
@@ -6243,7 +6243,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 33, d.lgs. n. 33/2014"
+        "@value": "Art. 33, d.lgs. n. 33/2014"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -6272,7 +6272,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 33, d.lgs. n. 33/2014"
+        "@value": "Art. 33, d.lgs. n. 33/2014"
       }
     },
     {
@@ -6289,7 +6289,7 @@
       "skos:prefLabel": [
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione  delle informazioni sui pagamenti informatici"
+          "@value": "Obbligo di pubblicazione delle informazioni sui pagamenti informatici"
         },
         {
           "@language": "en",
@@ -6299,11 +6299,11 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 5, c. 1, d.lgs. n. 82/2005"
+          "@value": "Art. 5, c. 1, d.lgs. n. 82/2005"
         },
         {
           "@language": "it",
-          "@value": " Art. 36, d.lgs. n. 33/2013"
+          "@value": "Art. 36, d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -6337,11 +6337,11 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 5, c. 1, d.lgs. n. 82/2005"
+          "@value": "Art. 5, c. 1, d.lgs. n. 82/2005"
         },
         {
           "@language": "it",
-          "@value": " Art. 36, d.lgs. n. 33/2013"
+          "@value": "Art. 36, d.lgs. n. 33/2013"
         }
       ]
     },
@@ -6363,12 +6363,12 @@
         },
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione relativo ai nuclei di valutazione e  verifica degli investimenti pubblici "
+          "@value": "Obbligo di pubblicazione relativo ai nuclei di valutazione e verifica degli investimenti pubblici"
         }
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 38, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 38, c. 1, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -6397,7 +6397,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 38, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 38, c. 1, d.lgs. n. 33/2013"
       }
     },
     {
@@ -6424,15 +6424,15 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 21 co.7 d.lgs. n. 50/2016"
+          "@value": "Art. 21 co.7 d.lgs. n. 50/2016"
         },
         {
           "@language": "it",
-          "@value": " Art. 38, c. 2 e 2 bis d.lgs. n. 33/2013"
+          "@value": "Art. 38, c. 2 e 2 bis d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 29 d.lgs. n. 50/2016"
+          "@value": "Art. 29 d.lgs. n. 50/2016"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -6472,15 +6472,15 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 38, c. 2 e 2 bis d.lgs. n. 33/2013"
+          "@value": "Art. 38, c. 2 e 2 bis d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 29 d.lgs. n. 50/2016"
+          "@value": "Art. 29 d.lgs. n. 50/2016"
         },
         {
           "@language": "it",
-          "@value": " Art. 21 co.7 d.lgs. n. 50/2016"
+          "@value": "Art. 21 co.7 d.lgs. n. 50/2016"
         }
       ]
     },
@@ -6507,7 +6507,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 38, c. 2, d.lgs. n. 33/2013"
+        "@value": "Art. 38, c. 2, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -6542,7 +6542,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 38, c. 2, d.lgs. n. 33/2013"
+        "@value": "Art. 38, c. 2, d.lgs. n. 33/2013"
       }
     },
     {
@@ -6569,15 +6569,15 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 40, c. 2, d.lgs. n. 33/2013"
+          "@value": "Art. 40, c. 2, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 39, c. 1, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 39, c. 1, lett. a), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 2, c. 1, lett. a), d.lgs. 195/2005"
+          "@value": "Art. 2, c. 1, lett. a), d.lgs. 195/2005"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -6626,15 +6626,15 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 40, c. 2, d.lgs. n. 33/2013"
+          "@value": "Art. 40, c. 2, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 39, c. 1, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 39, c. 1, lett. a), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 2, c. 1, lett. a), d.lgs. 195/2005"
+          "@value": "Art. 2, c. 1, lett. a), d.lgs. 195/2005"
         }
       ]
     },
@@ -6662,11 +6662,11 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 2, c. 1, lett. a), d.lgs. 195/2005"
+          "@value": "Art. 2, c. 1, lett. a), d.lgs. 195/2005"
         },
         {
           "@language": "it",
-          "@value": " Art. 40, c. 2, d.lgs. n. 33/2013"
+          "@value": "Art. 40, c. 2, d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -6763,11 +6763,11 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 40, c. 2, d.lgs. n. 33/2013"
+          "@value": "Art. 40, c. 2, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 2, c. 1, lett. a), d.lgs. 195/2005"
+          "@value": "Art. 2, c. 1, lett. a), d.lgs. 195/2005"
         }
       ]
     },
@@ -6794,7 +6794,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 41, c. 4, d.lgs. n. 33/2013"
+        "@value": "Art. 41, c. 4, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -6823,7 +6823,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 41, c. 4, d.lgs. n. 33/2013"
+        "@value": "Art. 41, c. 4, d.lgs. n. 33/2013"
       }
     },
     {
@@ -6849,7 +6849,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 42, c. 1, lett. a)-c), d.lgs. n. 33/2013"
+        "@value": "Art. 42, c. 1, lett. a)-c), d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -6873,7 +6873,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 42, c. 1, lett. a)-c), d.lgs. n. 33/2013"
+        "@value": "Art. 42, c. 1, lett. a)-c), d.lgs. n. 33/2013"
       }
     },
     {
@@ -6899,7 +6899,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 1, c. 8, l. n. 190/2012, Art. 43, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 1, c. 8, l. n. 190/2012, Art. 43, c. 1, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -6934,7 +6934,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 1, c. 8, l. n. 190/2012, Art. 43, c. 1, d.lgs. n. 33/2013"
+        "@value": "Art. 1, c. 8, l. n. 190/2012, Art. 43, c. 1, d.lgs. n. 33/2013"
       }
     },
     {
@@ -7002,12 +7002,12 @@
         },
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione della relazione del responsabile della prevenzione della corruzione e della trasparenza "
+          "@value": "Obbligo di pubblicazione della relazione del responsabile della prevenzione della corruzione e della trasparenza"
         }
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 1, c. 14, l. n. 190/2012"
+        "@value": "Art. 1, c. 14, l. n. 190/2012"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -7036,7 +7036,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 1, c. 14, l. n. 190/2012"
+        "@value": "Art. 1, c. 14, l. n. 190/2012"
       }
     },
     {
@@ -7057,12 +7057,12 @@
         },
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione dei provvedimenti adottati dall'A.N.AC. "
+          "@value": "Obbligo di pubblicazione dei provvedimenti adottati dall'A.N.AC."
         }
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 1, c. 3, l. n. 190/2012"
+        "@value": "Art. 1, c. 3, l. n. 190/2012"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -7094,7 +7094,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 1, c. 3, l. n. 190/2012"
+        "@value": "Art. 1, c. 3, l. n. 190/2012"
       }
     },
     {
@@ -7115,12 +7115,12 @@
         },
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione di atti di accertamento delle violazioni "
+          "@value": "Obbligo di pubblicazione di atti di accertamento delle violazioni"
         }
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 18, c. 5, d.lgs. n. 39/2013"
+        "@value": "Art. 18, c. 5, d.lgs. n. 39/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -7149,7 +7149,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 18, c. 5, d.lgs. n. 39/2013"
+        "@value": "Art. 18, c. 5, d.lgs. n. 39/2013"
       }
     },
     {
@@ -7166,7 +7166,7 @@
       "skos:prefLabel": [
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione  concernente le richeste di accesso civico 'semplice'"
+          "@value": "Obbligo di pubblicazione concernente le richeste di accesso civico 'semplice'"
         },
         {
           "@language": "en",
@@ -7175,7 +7175,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 5, c. 1, d.lgs. n. 33/2013 / Art. 2, c. 9-bis, l. 241/90"
+        "@value": "Art. 5, c. 1, d.lgs. n. 33/2013 / Art. 2, c. 9-bis, l. 241/90"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -7216,7 +7216,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 5, c. 1, d.lgs. n. 33/2013 / Art. 2, c. 9-bis, l. 241/90"
+        "@value": "Art. 5, c. 1, d.lgs. n. 33/2013 / Art. 2, c. 9-bis, l. 241/90"
       }
     },
     {
@@ -7233,7 +7233,7 @@
       "skos:prefLabel": [
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione  concernente le richeste di accesso civico 'generalizzato'"
+          "@value": "Obbligo di pubblicazione concernente le richeste di accesso civico 'generalizzato'"
         },
         {
           "@language": "en",
@@ -7242,7 +7242,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 5, c. 2, d.lgs. n. 33/2013"
+        "@value": "Art. 5, c. 2, d.lgs. n. 33/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -7277,7 +7277,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 5, c. 2, d.lgs. n. 33/2013"
+        "@value": "Art. 5, c. 2, d.lgs. n. 33/2013"
       }
     },
     {
@@ -7298,12 +7298,12 @@
         },
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione del registro degli accessi "
+          "@value": "Obbligo di pubblicazione del registro degli accessi"
         }
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Linee guida Anac FOIA (del. 1309/2016)"
+        "@value": "Linee guida Anac FOIA (del. 1309/2016)"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -7335,7 +7335,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Linee guida Anac FOIA (del. 1309/2016)"
+        "@value": "Linee guida Anac FOIA (del. 1309/2016)"
       }
     },
     {
@@ -7356,12 +7356,12 @@
         },
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione  Catalogo dei dati, metadati e delle banche dati"
+          "@value": "Obbligo di pubblicazione Catalogo dei dati, metadati e delle banche dati"
         }
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 53, c. 1 bis, d.lgs. 82/2005 modificato dall’art. 43 del d.lgs. 179/16"
+        "@value": "Art. 53, c. 1 bis, d.lgs. 82/2005 modificato dall’art. 43 del d.lgs. 179/16"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -7385,7 +7385,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 53, c. 1 bis, d.lgs. 82/2005 modificato dall’art. 43 del d.lgs. 179/16"
+        "@value": "Art. 53, c. 1 bis, d.lgs. 82/2005 modificato dall’art. 43 del d.lgs. 179/16"
       }
     },
     {
@@ -7406,12 +7406,12 @@
         },
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione  dei regolamenti su accesso telematico e il riutilizzo dei dati"
+          "@value": "Obbligo di pubblicazione dei regolamenti su accesso telematico e il riutilizzo dei dati"
         }
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 53, c. 1,  bis, d.lgs. 82/2005"
+        "@value": "Art. 53, c. 1, bis, d.lgs. 82/2005"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -7440,7 +7440,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 53, c. 1,  bis, d.lgs. 82/2005"
+        "@value": "Art. 53, c. 1, bis, d.lgs. 82/2005"
       }
     },
     {
@@ -7466,7 +7466,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 9, c. 7, d.l. n. 179/2012 convertito con modificazioni dalla L. 17 dicembre 2012, n. 221"
+        "@value": "Art. 9, c. 7, d.l. n. 179/2012 convertito con modificazioni dalla L. 17 dicembre 2012, n. 221"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -7490,7 +7490,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 9, c. 7, d.l. n. 179/2012 convertito con modificazioni dalla L. 17 dicembre 2012, n. 221"
+        "@value": "Art. 9, c. 7, d.l. n. 179/2012 convertito con modificazioni dalla L. 17 dicembre 2012, n. 221"
       }
     },
     {
@@ -7527,7 +7527,7 @@
       "skos:prefLabel": [
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione di informazioni generali per titolari di incarico  "
+          "@value": "Obbligo di pubblicazione di informazioni generali per titolari di incarico"
         },
         {
           "@language": "en",
@@ -7535,29 +7535,29 @@
         },
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione di informazioni generali per titolari di incarico "
+          "@value": "Obbligo di pubblicazione di informazioni generali per titolari di incarico"
         }
       ],
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -7605,23 +7605,23 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"
         }
       ],
       "trapit:subTransparencyObligationOf": [
@@ -7679,7 +7679,7 @@
       "skos:prefLabel": [
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione di informazioni sul reddito per titolari di incarico "
+          "@value": "Obbligo di pubblicazione di informazioni sul reddito per titolari di incarico"
         },
         {
           "@language": "en",
@@ -7689,11 +7689,11 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. f), d.lgs. n. 33/2013 Art. 2, c. 1, punto 1, l. n. 441/1982"
+          "@value": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013 Art. 2, c. 1, punto 1, l. n. 441/1982"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. f), d.lgs. n. 33/2013 Art. 2, c. 1, punto 2, l. n. 441/1982"
+          "@value": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013 Art. 2, c. 1, punto 2, l. n. 441/1982"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -7744,11 +7744,11 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. f), d.lgs. n. 33/2013 Art. 2, c. 1, punto 2, l. n. 441/1982"
+          "@value": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013 Art. 2, c. 1, punto 2, l. n. 441/1982"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. f), d.lgs. n. 33/2013 Art. 2, c. 1, punto 1, l. n. 441/1982"
+          "@value": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013 Art. 2, c. 1, punto 1, l. n. 441/1982"
         }
       ],
       "trapit:subTransparencyObligationOf": [
@@ -7800,7 +7800,7 @@
       "skos:prefLabel": [
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione di informazioni sulle spese elettorali per titolari di incarico "
+          "@value": "Obbligo di pubblicazione di informazioni sulle spese elettorali per titolari di incarico"
         },
         {
           "@language": "en",
@@ -7809,7 +7809,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 14, c. 1, lett. f), d.lgs. n. 33/2013 Art. 2, c. 1, punto 3, l. n. 441/1982"
+        "@value": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013 Art. 2, c. 1, punto 3, l. n. 441/1982"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -7833,7 +7833,7 @@
       },
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 14, c. 1, lett. f), d.lgs. n. 33/2013 Art. 2, c. 1, punto 3, l. n. 441/1982"
+        "@value": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013 Art. 2, c. 1, punto 3, l. n. 441/1982"
       },
       "trapit:subTransparencyObligationOf": [
         {
@@ -7884,7 +7884,7 @@
       "skos:prefLabel": [
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione di informazioni sulla situazione patrimoniale per titolari di incarico "
+          "@value": "Obbligo di pubblicazione di informazioni sulla situazione patrimoniale per titolari di incarico"
         },
         {
           "@language": "en",
@@ -7893,7 +7893,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 14, c. 1, lett. f), d.lgs. n. 33/2013 Art. 3, l. n. 441/1982"
+        "@value": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013 Art. 3, l. n. 441/1982"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -7927,7 +7927,7 @@
       ],
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 14, c. 1, lett. f), d.lgs. n. 33/2013 Art. 3, l. n. 441/1982"
+        "@value": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013 Art. 3, l. n. 441/1982"
       },
       "trapit:subTransparencyObligationOf": [
         {
@@ -7972,7 +7972,7 @@
       "skos:prefLabel": [
         {
           "@language": "it",
-          "@value": "Obbligo di pubblicazione riguardante cause di incompatibilità  "
+          "@value": "Obbligo di pubblicazione riguardante cause di incompatibilità"
         },
         {
           "@language": "en",
@@ -7982,23 +7982,23 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 20, c. 3, d.lgs. n. 39/2013"
+          "@value": "Art. 20, c. 3, d.lgs. n. 39/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1-ter, secondo periodo, d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1-ter, secondo periodo, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 3, l. n. 441/1982"
+          "@value": "Art. 3, l. n. 441/1982"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1-bis, d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1-bis, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -8024,23 +8024,23 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1-bis, d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1-bis, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1-ter, secondo periodo, d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1-ter, secondo periodo, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 3, l. n. 441/1982"
+          "@value": "Art. 3, l. n. 441/1982"
         },
         {
           "@language": "it",
-          "@value": " Art. 20, c. 3, d.lgs. n. 39/2013"
+          "@value": "Art. 20, c. 3, d.lgs. n. 39/2013"
         }
       ],
       "trapit:subTransparencyObligationOf": [
@@ -8084,23 +8084,23 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 3, l. n. 441/1982"
+          "@value": "Art. 3, l. n. 441/1982"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 20, c. 3, d.lgs. n. 39/2013"
+          "@value": "Art. 20, c. 3, d.lgs. n. 39/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1-bis, d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1-bis, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1-ter, secondo periodo, d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1-ter, secondo periodo, d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -8126,23 +8126,23 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1-bis, d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1-bis, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 3, l. n. 441/1982"
+          "@value": "Art. 3, l. n. 441/1982"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 20, c. 3, d.lgs. n. 39/2013"
+          "@value": "Art. 20, c. 3, d.lgs. n. 39/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 14, c. 1-ter, secondo periodo, d.lgs. n. 33/2013"
+          "@value": "Art. 14, c. 1-ter, secondo periodo, d.lgs. n. 33/2013"
         }
       ],
       "trapit:subTransparencyObligationOf": [
@@ -8189,11 +8189,11 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 20, c. 3, d.lgs. n. 39/2013"
+          "@value": "Art. 20, c. 3, d.lgs. n. 39/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 22, c. 2, d.lgs. n. 33/2013"
+          "@value": "Art. 22, c. 2, d.lgs. n. 33/2013"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -8253,11 +8253,11 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 20, c. 3, d.lgs. n. 39/2013"
+          "@value": "Art. 20, c. 3, d.lgs. n. 39/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 22, c. 2, d.lgs. n. 33/2013"
+          "@value": "Art. 22, c. 2, d.lgs. n. 33/2013"
         }
       ],
       "trapit:subTransparencyObligationOf": [
@@ -8306,7 +8306,7 @@
       ],
       "skos:scopeNote": {
         "@language": "it",
-        "@value": " Art. 20, c. 3, d.lgs. n. 39/2013"
+        "@value": "Art. 20, c. 3, d.lgs. n. 39/2013"
       },
       "clvapit:hasRankOrder": {
         "@type": "xsd:int",
@@ -8338,7 +8338,7 @@
       ],
       "trapit:regulationReference": {
         "@language": "it",
-        "@value": " Art. 20, c. 3, d.lgs. n. 39/2013"
+        "@value": "Art. 20, c. 3, d.lgs. n. 39/2013"
       },
       "trapit:subTransparencyObligationOf": [
         {
@@ -8379,11 +8379,11 @@
       "skos:scopeNote": [
         {
           "@language": "it",
-          "@value": " Art. 22, c. 1. lett. d-bis, d.lgs. n. 33/2013"
+          "@value": "Art. 22, c. 1. lett. d-bis, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 19, c. 7, d.lgs. n. 175/2016"
+          "@value": "Art. 19, c. 7, d.lgs. n. 175/2016"
         }
       ],
       "clvapit:hasRankOrder": {
@@ -8417,11 +8417,11 @@
       "trapit:regulationReference": [
         {
           "@language": "it",
-          "@value": " Art. 22, c. 1. lett. d-bis, d.lgs. n. 33/2013"
+          "@value": "Art. 22, c. 1. lett. d-bis, d.lgs. n. 33/2013"
         },
         {
           "@language": "it",
-          "@value": " Art. 19, c. 7, d.lgs. n. 175/2016"
+          "@value": "Art. 19, c. 7, d.lgs. n. 175/2016"
         }
       ],
       "trapit:subTransparencyObligationOf": {

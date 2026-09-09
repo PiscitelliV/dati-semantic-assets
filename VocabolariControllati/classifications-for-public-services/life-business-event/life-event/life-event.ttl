@@ -296,7 +296,7 @@ ndc:keyConcept
     skos:prefLabel "Arbeit suchen, einen neuen Job beginnen, arbeitslos werden"@de ;
 	  skos:prefLabel "Looking for a job, starting a new job, becoming unemployed"@en ;
     skos:definition "Questo evento della vita raggruppa servizi pubblici utili a quelli che cercano un nuovo lavoro, iniziano un nuovo lavoro, lasciano un lavoro spontaneamente o perdono il lavoro"@it ;
-    skos:definition "This life event groups public services for when someone looks for a new job, starts a new job, leaves or quits a particular job on his own, or when someone loses his job "@en .
+    skos:definition "This life event groups public services for when someone looks for a new job, starts a new job, leaves or quits a particular job on his own, or when someone loses his job"@en .
 
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/life-business-event/life-event/4>
@@ -345,7 +345,7 @@ ndc:keyConcept
     skos:prefLabel "Accesso al trasporto pubblico"@it ;
     skos:prefLabel "Zugang zu öffentlichen Verkehrsmitteln"@de ;
     skos:prefLabel "Access to public transportation"@en ;
-    skos:definition "Questo evento della vita raggruppa servizi pubblici relativi all'accesso al trasporto pubblico come per esempio il rinnovo di un abbonamento, l'acquisto di un biglietto singolo per l'autobus, ecc. "@it ;
+    skos:definition "Questo evento della vita raggruppa servizi pubblici relativi all'accesso al trasporto pubblico come per esempio il rinnovo di un abbonamento, l'acquisto di un biglietto singolo per l'autobus, ecc."@it ;
     skos:definition "This life event groups public services related to the access to the public transportation such as for instance the renewal of a subscription, the purchase of a single bus ticket, etc."@en .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/life-business-event/life-event/8>

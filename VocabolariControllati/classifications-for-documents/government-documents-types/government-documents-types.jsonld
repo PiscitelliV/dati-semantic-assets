@@ -642,7 +642,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Rientrano in questo concetto l'insieme dei moduli in uso presso gli uffici della pubblica amministrazione. Esempi includono, modulo primario,  moduli allegati, ecc."
+        "@value": "Rientrano in questo concetto l'insieme dei moduli in uso presso gli uffici della pubblica amministrazione. Esempi includono, modulo primario, moduli allegati, ecc."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -1116,7 +1116,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Qualunque documento, anche di natura tecnica, pubblicato dall'amministrazione  (e.g., slide, pubblicazioni generiche, rapporti tecnici, documenti di progetto, linee guida diverse da quelle dell'articolo 71 del Codice dell'Amministrazione Digitale)"
+        "@value": "Qualunque documento, anche di natura tecnica, pubblicato dall'amministrazione (e.g., slide, pubblicazioni generiche, rapporti tecnici, documenti di progetto, linee guida diverse da quelle dell'articolo 71 del Codice dell'Amministrazione Digitale)"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [

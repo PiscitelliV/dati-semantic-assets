@@ -29,7 +29,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Le attività ricettive  in  esercizi  di  ristorazione  sono  le strutture composte da camere, ciascuna con accesso indipendente dagli altri  locali,  gestite  in  modo  complementare all'esercizio   di ristorazione  dallo  stesso  titolare  e   nello   stesso complesso immobiliare. "
+        "@value": "Le attività ricettive in esercizi di ristorazione sono le strutture composte da camere, ciascuna con accesso indipendente dagli altri locali, gestite in modo complementare all'esercizio di ristorazione dallo stesso titolare e nello stesso complesso immobiliare."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -49,7 +49,7 @@
       },
       {
         "@language": "en",
-        "@value": "Accommodation and Catering Facility "
+        "@value": "Accommodation and Catering Facility"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -83,7 +83,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Si tratta di esercizi ricettivi aperti al pubblico, che, oltre all'alloggio, solitamente fornito in camere o suite ubicate in uno o più edifici o anche in parti di essi, offrono alla propria clientela anche vitto ed altri servizi accessori. "
+        "@value": "Si tratta di esercizi ricettivi aperti al pubblico, che, oltre all'alloggio, solitamente fornito in camere o suite ubicate in uno o più edifici o anche in parti di essi, offrono alla propria clientela anche vitto ed altri servizi accessori."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#exactMatch": [
@@ -275,7 +275,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Sono villaggi turistici le strutture ricettive aperte al pubblico, a gestione  unitaria,  allestite  ed  attrezzate  su  aree  recintate destinate alla sosta ed  al  soggiorno  di  turisti  in  allestimenti minimi,  in  prevalenza  sprovvisti  di  propri   mezzi   mobili   di pernottamento. "
+        "@value": "Sono villaggi turistici le strutture ricettive aperte al pubblico, a gestione unitaria, allestite ed attrezzate su aree recintate destinate alla sosta ed al soggiorno di turisti in allestimenti minimi, in prevalenza sprovvisti di propri mezzi mobili di pernottamento."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -510,7 +510,7 @@
     "http://purl.org/dc/terms/title": [
       {
         "@language": "it",
-        "@value": "Distribuzione JSON_LD per classificazione tipologie strutture ricettive "
+        "@value": "Distribuzione JSON_LD per classificazione tipologie strutture ricettive"
       },
       {
         "@language": "en",
@@ -722,7 +722,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Sono  campeggi  le  strutture  ricettive  aperte  al  pubblico,  a gestione  unitaria,  allestite  ed  attrezzate  su   aree   recintate destinate alla  sosta  ed  al  soggiorno  di  turisti  in  prevalenza provvisti di propri mezzi mobili  di  pernottamento.  In  alternativa alla dizione di campeggio può essere usata quella di camping. "
+        "@value": "Sono campeggi le strutture ricettive aperte al pubblico, a gestione unitaria, allestite ed attrezzate su aree recintate destinate alla sosta ed al soggiorno di turisti in prevalenza provvisti di propri mezzi mobili di pernottamento. In alternativa alla dizione di campeggio può essere usata quella di camping."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#exactMatch": [
@@ -1688,7 +1688,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Le  strutture  ricettive  -  residence  sono  complessi  unitari costituiti da uno o più immobili comprendenti appartamenti  arredati e dotati di servizi igienici e di cucina autonomi, gestiti  in  forma imprenditoriale, dati in locazione ai turisti, con  contratti  aventi validità non inferiore a tre giorni. "
+        "@value": "Le strutture ricettive - residence sono complessi unitari costituiti da uno o più immobili comprendenti appartamenti arredati e dotati di servizi igienici e di cucina autonomi, gestiti in forma imprenditoriale, dati in locazione ai turisti, con contratti aventi validità non inferiore a tre giorni."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -1736,7 +1736,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "I bed  and  breakfast  in  forma  imprenditoriale  sono  strutture ricettive  a  conduzione  ed  organizzazione  familiare,  gestite  da privati in  modo  professionale,  che  forniscono  alloggio  e  prima colazione utilizzando parti della stessa unità  immobiliare  purché funzionalmente collegate e con spazi familiari condivisi."
+        "@value": "I bed and breakfast in forma imprenditoriale sono strutture ricettive a conduzione ed organizzazione familiare, gestite da privati in modo professionale, che forniscono alloggio e prima colazione utilizzando parti della stessa unità immobiliare purché funzionalmente collegate e con spazi familiari condivisi."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#exactMatch": [
@@ -1864,7 +1864,7 @@
     "http://www.w3.org/2004/02/skos/core#defintion": [
       {
         "@language": "it",
-        "@value": "I campeggi nell'ambito delle attivita' agrituristiche sono aree di ricezione all'aperto gestite da imprenditori agricoli ai sensi  della legge 20 febbraio 2006, n. 96, recante disciplina dell'agriturismo. "
+        "@value": "I campeggi nell'ambito delle attivita' agrituristiche sono aree di ricezione all'aperto gestite da imprenditori agricoli ai sensi della legge 20 febbraio 2006, n. 96, recante disciplina dell'agriturismo."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -2437,7 +2437,7 @@
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "it",
-        "@value": "Residenza turistico alberghiera "
+        "@value": "Residenza turistico alberghiera"
       },
       {
         "@language": "en",
@@ -2565,7 +2565,7 @@
     "http://purl.org/dc/terms/title": [
       {
         "@language": "it",
-        "@value": "Distribuzione RDF/Turtle per classificazione tipologie strutture ricettive "
+        "@value": "Distribuzione RDF/Turtle per classificazione tipologie strutture ricettive"
       },
       {
         "@language": "en",
@@ -2672,7 +2672,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Sono parchi di vacanza i campeggi, a gestione unitaria, in cui  è praticato  l'affitto  della  piazzola  ad  un  unico  equipaggio  per l'intera durata del periodo di apertura della struttura.  8. Le strutture ricettive all'aperto sono  classificate  in  base  ai requisiti e alle caratteristiche posseduti  secondo  le  prescrizioni previste dalle regioni e dalle  province  autonome  di  Trento  e  di Bolzano."
+        "@value": "Sono parchi di vacanza i campeggi, a gestione unitaria, in cui è praticato l'affitto della piazzola ad un unico equipaggio per l'intera durata del periodo di apertura della struttura. 8. Le strutture ricettive all'aperto sono classificate in base ai requisiti e alle caratteristiche posseduti secondo le prescrizioni previste dalle regioni e dalle province autonome di Trento e di Bolzano."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -2867,7 +2867,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "I bed  and  breakfast  in  forma  imprenditoriale  sono  strutture ricettive  a  conduzione  ed  organizzazione  familiare,  gestite  da privati in  modo  professionale,  che  forniscono  alloggio  e  prima colazione utilizzando parti della stessa unità  immobiliare  purché funzionalmente collegate e con spazi familiari condivisi."
+        "@value": "I bed and breakfast in forma imprenditoriale sono strutture ricettive a conduzione ed organizzazione familiare, gestite da privati in modo professionale, che forniscono alloggio e prima colazione utilizzando parti della stessa unità immobiliare purché funzionalmente collegate e con spazi familiari condivisi."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#exactMatch": [
@@ -3004,7 +3004,7 @@
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "it",
-        "@value": "Residenza turistico alberghiera "
+        "@value": "Residenza turistico alberghiera"
       },
       {
         "@language": "en",
@@ -3078,7 +3078,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "I bed and breakfast sono strutture  ricettive  a  conduzione  ed organizzazione  familiare,  gestite   da   privati   in   forma   non imprenditoriale,  che   forniscono   alloggio   e   prima   colazione utilizzando   parti   della   stessa   unità   immobiliare   purché funzionalmente collegate e con spazi familiari condivisi."
+        "@value": "I bed and breakfast sono strutture ricettive a conduzione ed organizzazione familiare, gestite da privati in forma non imprenditoriale, che forniscono alloggio e prima colazione utilizzando parti della stessa unità immobiliare purché funzionalmente collegate e con spazi familiari condivisi."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#exactMatch": [
@@ -3213,7 +3213,7 @@
     "http://purl.org/dc/terms/title": [
       {
         "@language": "it",
-        "@value": "Distribuzione CSV per classificazione tipologie strutture ricettive "
+        "@value": "Distribuzione CSV per classificazione tipologie strutture ricettive"
       },
       {
         "@language": "en",
@@ -3267,7 +3267,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Le case per ferie sono strutture  ricettive  attrezzate  per  il soggiorno di persone o gruppi e  gestite,  al  di  fuori  di  normali canali commerciali, da enti pubblici, operanti senza  fine  di  lucro per il conseguimento di finalita' sociali, culturali, assistenziali o sportive, nonche' da enti o  aziende  per  il  soggiorno  dei  propri dipendenti e loro familiari. Nelle case per  ferie  possono  altresì essere ospitati dipendenti e relativi familiari, di altre  aziende  o assistiti dagli enti di cui al presente comma con i quali  sia  stata stipulata apposita convenzione. "
+        "@value": "Le case per ferie sono strutture ricettive attrezzate per il soggiorno di persone o gruppi e gestite, al di fuori di normali canali commerciali, da enti pubblici, operanti senza fine di lucro per il conseguimento di finalita' sociali, culturali, assistenziali o sportive, nonche' da enti o aziende per il soggiorno dei propri dipendenti e loro familiari. Nelle case per ferie possono altresì essere ospitati dipendenti e relativi familiari, di altre aziende o assistiti dagli enti di cui al presente comma con i quali sia stata stipulata apposita convenzione."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -3467,7 +3467,7 @@
     "http://purl.org/dc/terms/title": [
       {
         "@language": "it",
-        "@value": "Distribuzione XLSX per classificazione tipologie strutture ricettive "
+        "@value": "Distribuzione XLSX per classificazione tipologie strutture ricettive"
       },
       {
         "@language": "en",
@@ -3537,7 +3537,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "I villaggi turistici assumono la denominazione aggiuntiva A (annuale) quando sono aperti per la doppia stagione estivo-invernale o sono autorizzati a esercitare la propria attività per l'intero anno. "
+        "@value": "I villaggi turistici assumono la denominazione aggiuntiva A (annuale) quando sono aperti per la doppia stagione estivo-invernale o sono autorizzati a esercitare la propria attività per l'intero anno."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -3594,7 +3594,7 @@
     "http://purl.org/dc/terms/title": [
       {
         "@language": "it",
-        "@value": "Distribuzione RDF/XML per classificazione tipologie strutture ricettive "
+        "@value": "Distribuzione RDF/XML per classificazione tipologie strutture ricettive"
       },
       {
         "@language": "en",
@@ -3694,7 +3694,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Le residenze della salute o beauty farm sono esercizi  alberghieri dotati di particolari strutture di  tipo  specialistico  proprie  del ed estetici."
+        "@value": "Le residenze della salute o beauty farm sono esercizi alberghieri dotati di particolari strutture di tipo specialistico proprie del ed estetici."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -3828,7 +3828,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Si tratta di esercizi ricettivi aperti al pubblico, che, oltre all'alloggio, solitamente fornito in camere o suite ubicate in uno o più edifici o anche in parti di essi, offrono alla propria clientela anche vitto ed altri servizi accessori. "
+        "@value": "Si tratta di esercizi ricettivi aperti al pubblico, che, oltre all'alloggio, solitamente fornito in camere o suite ubicate in uno o più edifici o anche in parti di essi, offrono alla propria clientela anche vitto ed altri servizi accessori."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#exactMatch": [
@@ -4036,7 +4036,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "I rifugi alpini sono strutture ricettive ubicate  in  montagna, ad alta  quota,  fuori  dai  centri  urbani.  I  rifugi  alpini  sono predisposti per il ricovero, il ristoro e per il  soccorso  alpino  e devono essere custoditi e aperti al  pubblico  per  periodi  limitati nelle stagioni turistiche. Durante i periodi  di  chiusura  i  rifugi alpini devono disporre di un  locale  per  il  ricovero  di  fortuna, convenientemente dotato, sempre  aperto  e  accessibile  dall'esterno anche in caso di abbondanti nevicate e durante il periodo di apertura stagionale il servizio di ricovero deve essere comunque garantito per l'intero arco della giornata. "
+        "@value": "I rifugi alpini sono strutture ricettive ubicate in montagna, ad alta quota, fuori dai centri urbani. I rifugi alpini sono predisposti per il ricovero, il ristoro e per il soccorso alpino e devono essere custoditi e aperti al pubblico per periodi limitati nelle stagioni turistiche. Durante i periodi di chiusura i rifugi alpini devono disporre di un locale per il ricovero di fortuna, convenientemente dotato, sempre aperto e accessibile dall'esterno anche in caso di abbondanti nevicate e durante il periodo di apertura stagionale il servizio di ricovero deve essere comunque garantito per l'intero arco della giornata."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -4101,7 +4101,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Sono villaggi turistici le strutture ricettive aperte al pubblico, a gestione  unitaria,  allestite  ed  attrezzate  su  aree  recintate destinate alla sosta ed  al  soggiorno  di  turisti  in  allestimenti minimi,  in  prevalenza  sprovvisti  di  propri   mezzi   mobili   di pernottamento. "
+        "@value": "Sono villaggi turistici le strutture ricettive aperte al pubblico, a gestione unitaria, allestite ed attrezzate su aree recintate destinate alla sosta ed al soggiorno di turisti in allestimenti minimi, in prevalenza sprovvisti di propri mezzi mobili di pernottamento."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -4172,7 +4172,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Gli ostelli per la gioventu' sono  strutture  ricettive  per  il soggiorno e il pernottamento, per periodi limitati, dei giovani e dei loro accompagnatori, gestite, in forma diretta o indiretta, da enti o associazioni."
+        "@value": "Gli ostelli per la gioventu' sono strutture ricettive per il soggiorno e il pernottamento, per periodi limitati, dei giovani e dei loro accompagnatori, gestite, in forma diretta o indiretta, da enti o associazioni."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#exactMatch": [
@@ -4317,7 +4317,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Gli ostelli per la gioventu' sono  strutture  ricettive  per  il soggiorno e il pernottamento, per periodi limitati, dei giovani e dei loro accompagnatori, gestite, in forma diretta o indiretta, da enti o associazioni."
+        "@value": "Gli ostelli per la gioventu' sono strutture ricettive per il soggiorno e il pernottamento, per periodi limitati, dei giovani e dei loro accompagnatori, gestite, in forma diretta o indiretta, da enti o associazioni."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#exactMatch": [
@@ -4385,7 +4385,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Sono case o appartamenti offerti in affitto a turisti per un periodo non inferiore a sette giorni e non superiore a sei mesi consecutivi. Arredati, dotati di servizi igienici e di cucina autonomi, non offrono alcun servizio di tipo alberghiero e possono essere gestite sia in forma imprenditoriale che non (fino ad un massimo di quattro unità abitative) ovvero con una gestione non diretta affidata dai proprietari ad agenzie immobiliari e società di gestione immobiliare turistica esterne che, in tal caso, si occupano sia della promozione della struttura che della relativa locazione. "
+        "@value": "Sono case o appartamenti offerti in affitto a turisti per un periodo non inferiore a sette giorni e non superiore a sei mesi consecutivi. Arredati, dotati di servizi igienici e di cucina autonomi, non offrono alcun servizio di tipo alberghiero e possono essere gestite sia in forma imprenditoriale che non (fino ad un massimo di quattro unità abitative) ovvero con una gestione non diretta affidata dai proprietari ad agenzie immobiliari e società di gestione immobiliare turistica esterne che, in tal caso, si occupano sia della promozione della struttura che della relativa locazione."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -4405,7 +4405,7 @@
       },
       {
         "@language": "en",
-        "@value": "Furnished Accommodation unit for tourists "
+        "@value": "Furnished Accommodation unit for tourists"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [
@@ -4491,7 +4491,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Gli alloggi nell'ambito  delle  attività agrituristiche sono locali siti in fabbricati rurali gestiti da imprenditori agricoli  ai sensi della  legge  20  febbraio  2006,  n.  96,  recante  disciplina dell'agriturismo."
+        "@value": "Gli alloggi nell'ambito delle attività agrituristiche sono locali siti in fabbricati rurali gestiti da imprenditori agricoli ai sensi della legge 20 febbraio 2006, n. 96, recante disciplina dell'agriturismo."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -4544,7 +4544,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Le residenze della salute o beauty farm sono esercizi  alberghieri dotati di particolari strutture di  tipo  specialistico  proprie  del ed estetici."
+        "@value": "Le residenze della salute o beauty farm sono esercizi alberghieri dotati di particolari strutture di tipo specialistico proprie del ed estetici."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -4717,7 +4717,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Si tratta di esercizi ricettivi aperti al pubblico, che, oltre all'alloggio, solitamente fornito in camere o suite ubicate in uno o più edifici o anche in parti di essi, offrono alla propria clientela anche vitto ed altri servizi accessori. "
+        "@value": "Si tratta di esercizi ricettivi aperti al pubblico, che, oltre all'alloggio, solitamente fornito in camere o suite ubicate in uno o più edifici o anche in parti di essi, offrono alla propria clientela anche vitto ed altri servizi accessori."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#exactMatch": [
@@ -5121,7 +5121,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Le case per ferie sono strutture  ricettive  attrezzate  per  il soggiorno di persone o gruppi e  gestite,  al  di  fuori  di  normali canali commerciali, da enti pubblici, operanti senza  fine  di  lucro per il conseguimento di finalita' sociali, culturali, assistenziali o sportive, nonche' da enti o  aziende  per  il  soggiorno  dei  propri dipendenti e loro familiari. Nelle case per  ferie  possono  altresì essere ospitati dipendenti e relativi familiari, di altre  aziende  o assistiti dagli enti di cui al presente comma con i quali  sia  stata stipulata apposita convenzione. "
+        "@value": "Le case per ferie sono strutture ricettive attrezzate per il soggiorno di persone o gruppi e gestite, al di fuori di normali canali commerciali, da enti pubblici, operanti senza fine di lucro per il conseguimento di finalita' sociali, culturali, assistenziali o sportive, nonche' da enti o aziende per il soggiorno dei propri dipendenti e loro familiari. Nelle case per ferie possono altresì essere ospitati dipendenti e relativi familiari, di altre aziende o assistiti dagli enti di cui al presente comma con i quali sia stata stipulata apposita convenzione."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -5254,7 +5254,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "I bed and breakfast sono strutture  ricettive  a  conduzione  ed organizzazione  familiare,  gestite   da   privati   in   forma   non imprenditoriale,  che   forniscono   alloggio   e   prima   colazione utilizzando   parti   della   stessa   unità   immobiliare   purché funzionalmente collegate e con spazi familiari condivisi."
+        "@value": "I bed and breakfast sono strutture ricettive a conduzione ed organizzazione familiare, gestite da privati in forma non imprenditoriale, che forniscono alloggio e prima colazione utilizzando parti della stessa unità immobiliare purché funzionalmente collegate e con spazi familiari condivisi."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#exactMatch": [
@@ -5453,7 +5453,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "I rifugi escursionistici sono  strutture  ricettive  aperte  al pubblico idonee ad offrire ospitalita' e ristoro ad escursionisti  in zone montane ubicate in luoghi favorevoli ad ascensioni,  servite  da strade o da altri mezzi di trasporto ordinari, anche  in  prossimità di centri abitati ed anche  collegate  direttamente  alla  viabilità pubblica."
+        "@value": "I rifugi escursionistici sono strutture ricettive aperte al pubblico idonee ad offrire ospitalita' e ristoro ad escursionisti in zone montane ubicate in luoghi favorevoli ad ascensioni, servite da strade o da altri mezzi di trasporto ordinari, anche in prossimità di centri abitati ed anche collegate direttamente alla viabilità pubblica."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -6123,7 +6123,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Sono parchi di vacanza i campeggi, a gestione unitaria, in cui  è praticato  l'affitto  della  piazzola  ad  un  unico  equipaggio  per l'intera durata del periodo di apertura della struttura.  8. Le strutture ricettive all'aperto sono  classificate  in  base  ai requisiti e alle caratteristiche posseduti  secondo  le  prescrizioni previste dalle regioni e dalle  province  autonome  di  Trento  e  di Bolzano."
+        "@value": "Sono parchi di vacanza i campeggi, a gestione unitaria, in cui è praticato l'affitto della piazzola ad un unico equipaggio per l'intera durata del periodo di apertura della struttura. 8. Le strutture ricettive all'aperto sono classificate in base ai requisiti e alle caratteristiche posseduti secondo le prescrizioni previste dalle regioni e dalle province autonome di Trento e di Bolzano."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -6415,7 +6415,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Sono parchi di vacanza i campeggi, a gestione unitaria, in cui  è praticato  l'affitto  della  piazzola  ad  un  unico  equipaggio  per l'intera durata del periodo di apertura della struttura.  8. Le strutture ricettive all'aperto sono  classificate  in  base  ai requisiti e alle caratteristiche posseduti  secondo  le  prescrizioni previste dalle regioni e dalle  province  autonome  di  Trento  e  di Bolzano."
+        "@value": "Sono parchi di vacanza i campeggi, a gestione unitaria, in cui è praticato l'affitto della piazzola ad un unico equipaggio per l'intera durata del periodo di apertura della struttura. 8. Le strutture ricettive all'aperto sono classificate in base ai requisiti e alle caratteristiche posseduti secondo le prescrizioni previste dalle regioni e dalle province autonome di Trento e di Bolzano."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -6653,7 +6653,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Le residenze della salute o beauty farm sono esercizi  alberghieri dotati di particolari strutture di  tipo  specialistico  proprie  del ed estetici."
+        "@value": "Le residenze della salute o beauty farm sono esercizi alberghieri dotati di particolari strutture di tipo specialistico proprie del ed estetici."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -6729,7 +6729,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Le attivita' ricettive in residenze rurali o country house sono le strutture localizzate in ville padronali o  fabbricati  rurali  da utilizzare per l'animazione sportivo-ricreativa  composte  da  camere con  eventuale  angolo  cottura,  che  dispongono  di   servizio   di ristorazione aperto al pubblico."
+        "@value": "Le attivita' ricettive in residenze rurali o country house sono le strutture localizzate in ville padronali o fabbricati rurali da utilizzare per l'animazione sportivo-ricreativa composte da camere con eventuale angolo cottura, che dispongono di servizio di ristorazione aperto al pubblico."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -6945,7 +6945,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "I bed  and  breakfast  in  forma  imprenditoriale  sono  strutture ricettive  a  conduzione  ed  organizzazione  familiare,  gestite  da privati in  modo  professionale,  che  forniscono  alloggio  e  prima colazione utilizzando parti della stessa unità  immobiliare  purché funzionalmente collegate e con spazi familiari condivisi."
+        "@value": "I bed and breakfast in forma imprenditoriale sono strutture ricettive a conduzione ed organizzazione familiare, gestite da privati in modo professionale, che forniscono alloggio e prima colazione utilizzando parti della stessa unità immobiliare purché funzionalmente collegate e con spazi familiari condivisi."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#exactMatch": [

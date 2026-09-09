@@ -55,8 +55,8 @@
                                    admsapit:hasKeyClass :Characteristic ;
                                    dct:accrualPeriodicity <http://publications.europa.eu/resource/authority/frequency/IRREG> ;
                                    admsapit:acronym "l0-AP_IT" ;
-                                   rdfs:comment "Questa è l'ontologia che fornisce il livello fondazionale allo stack ontologico di OntoPiA. Il nome L0 sta per Level-0 ontology poiché essa fornisce le fondamenta concettuali elementari all'intero stack. Questa ontologia è  ispirata da DOLCE zero (http://www.ontologydesignpatterns.org/ont/d0.owl)"@it ;
-                                   dct:description "Questa è l'ontologia che fornisce il livello fondazionale allo stack ontologico di OntoPiA. Il nome L0 sta per Level-0 ontology poiché essa fornisce le fondamenta concettuali elementari all'intero stack. Questa ontologia è  ispirata da DOLCE zero (http://www.ontologydesignpatterns.org/ont/d0.owl)"@it ;
+                                   rdfs:comment "Questa è l'ontologia che fornisce il livello fondazionale allo stack ontologico di OntoPiA. Il nome L0 sta per Level-0 ontology poiché essa fornisce le fondamenta concettuali elementari all'intero stack. Questa ontologia è ispirata da DOLCE zero (http://www.ontologydesignpatterns.org/ont/d0.owl)"@it ;
+                                   dct:description "Questa è l'ontologia che fornisce il livello fondazionale allo stack ontologico di OntoPiA. Il nome L0 sta per Level-0 ontology poiché essa fornisce le fondamenta concettuali elementari all'intero stack. Questa ontologia è ispirata da DOLCE zero (http://www.ontologydesignpatterns.org/ont/d0.owl)"@it ;
                                    prov:wasInfluencedBy <http://www.ontologydesignpatterns.org/ont/d0.owl> ;
                                    rdfs:isDefinedBy <https://w3id.org/italia/onto/l0> ;
                                    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/GOVE> ;

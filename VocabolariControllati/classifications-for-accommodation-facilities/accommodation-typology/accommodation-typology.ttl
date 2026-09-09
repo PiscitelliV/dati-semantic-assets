@@ -221,7 +221,7 @@ ndc:keyConcept
 
 <http://dati.gov.it/data/resource/Distribution/AccoTypology_RDF_Turtle>
       a	dcatapit:Distribution  ;
-      dct:title	"Distribuzione RDF/Turtle per classificazione tipologie strutture ricettive "@it , "RDF/Turtle distribution for accommodation facilities typology"@en ;
+      dct:title	"Distribuzione RDF/Turtle per classificazione tipologie strutture ricettive"@it , "RDF/Turtle distribution for accommodation facilities typology"@en ;
       dct:description	"Questa è la distribuzione RDF/Turtle del dataset Linked Open Data del vocabolario controllato sulla classificazione delle tipologie di strutture ricettive"@it , "This is the distribution in RDF/turtle of the Linked Open Dataset of the controlled vocabulary related to the typology classification for accommodation facilities"@en ;
       dct:format 	<http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
       dct:license <https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40> ;
@@ -230,7 +230,7 @@ ndc:keyConcept
 
   <http://dati.gov.it/data/resource/Distribution/AccoTypology_RDF_XML>
       a	dcatapit:Distribution  ;
-      dct:title	"Distribuzione RDF/XML per classificazione tipologie strutture ricettive "@it , "RDF/XML distribution for accommodation facilities typology"@en ;
+      dct:title	"Distribuzione RDF/XML per classificazione tipologie strutture ricettive"@it , "RDF/XML distribution for accommodation facilities typology"@en ;
       dct:description	"Questa è la distribuzione RDF/XML del dataset Linked Open Data del vocabolario controllato sulla classificazione delle tipologie di strutture ricettive"@it , "This is the distribution in RDF/XML of the Linked Open Dataset of the controlled vocabulary related to the typology classification for accommodation facilities"@en ;
       dct:format 	<http://publications.europa.eu/resource/authority/file-type/RDF_XML> ;
       dct:license <http://dati.gov.it/onto/controlledvocabulary/License/A21_CCBY40> ;
@@ -239,7 +239,7 @@ ndc:keyConcept
 
 <http://dati.gov.it/data/resource/Distribution/AccoTypology_JSON_LD>
       a	dcatapit:Distribution  ;
-      dct:title	"Distribuzione JSON_LD per classificazione tipologie strutture ricettive "@it , "JSON_LD distribution for accommodation facilities typology"@en ;
+      dct:title	"Distribuzione JSON_LD per classificazione tipologie strutture ricettive"@it , "JSON_LD distribution for accommodation facilities typology"@en ;
       dct:description	"Questa è la distribuzione JSON_LD del dataset Linked Open Data del vocabolario controllato sulla classificazione delle tipologie di strutture ricettive"@it , "This is the distribution in JSON_LD of the Linked Open Dataset of the controlled vocabulary related to the typology classification for accommodation facilities"@en ;
       dct:format 	<http://publications.europa.eu/resource/authority/file-type/JSON_LD> ;
       dct:license <http://dati.gov.it/onto/controlledvocabulary/License/A21_CCBY40> ;
@@ -248,7 +248,7 @@ ndc:keyConcept
 
   <http://dati.gov.it/data/resource/Distribution/AccoTypology_CSV>
       a	dcatapit:Distribution  ;
-      dct:title	"Distribuzione CSV per classificazione tipologie strutture ricettive "@it , "CSV distribution for accommodation facilities typology"@en ;
+      dct:title	"Distribuzione CSV per classificazione tipologie strutture ricettive"@it , "CSV distribution for accommodation facilities typology"@en ;
       dct:description	"Questa è la distribuzione CSV del dataset Linked Open Data del vocabolario controllato sulla classificazione delle tipologie di strutture ricettive"@it , "This is the distribution in CSV of the Linked Open Dataset of the controlled vocabulary related to the typology classification for accommodation facilities"@en ;
       dct:format 	<http://publications.europa.eu/resource/authority/file-type/CSV> ;
       dct:license <http://dati.gov.it/onto/controlledvocabulary/License/A21_CCBY40> ;
@@ -257,7 +257,7 @@ ndc:keyConcept
 
 <http://dati.gov.it/data/resource/Distribution/AccoTypology_XLSX>
       a	dcatapit:Distribution  ;
-      dct:title	"Distribuzione XLSX per classificazione tipologie strutture ricettive "@it , "XLSX distribution for accommodation facilities typology"@en ;
+      dct:title	"Distribuzione XLSX per classificazione tipologie strutture ricettive"@it , "XLSX distribution for accommodation facilities typology"@en ;
       dct:description	"Questa è la distribuzione XLSX del dataset Linked Open Data del vocabolario controllato sulla classificazione delle tipologie di strutture ricettive"@it , "This is the distribution in XLSX of the Linked Open Dataset of the controlled vocabulary related to the typology classification for accommodation facilities"@en ;
       dct:format 	<http://publications.europa.eu/resource/authority/file-type/XLSX> ;
       dct:license <http://dati.gov.it/onto/controlledvocabulary/License/A21_CCBY40> ;
@@ -315,7 +315,7 @@ ndc:keyConcept
     skos:prefLabel "Albergo/Hotel"@it ;
     skos:altLabel "Alberghi"@it ;
     skos:prefLabel "Hotel"@en ;
-    skos:definition "Si tratta di esercizi ricettivi aperti al pubblico, che, oltre all'alloggio, solitamente fornito in camere o suite ubicate in uno o più edifici o anche in parti di essi, offrono alla propria clientela anche vitto ed altri servizi accessori. "@it .
+    skos:definition "Si tratta di esercizi ricettivi aperti al pubblico, che, oltre all'alloggio, solitamente fornito in camere o suite ubicate in uno o più edifici o anche in parti di essi, offrono alla propria clientela anche vitto ed altri servizi accessori."@it .
 
     <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/A2>
     a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -401,7 +401,7 @@ ndc:keyConcept
     clvapit:hasRankOrder "2" ;
     skos:prefLabel "Bed & Breakfast organizzato in forma imprenditoriale"@it ;
     skos:prefLabel "Bed & Breakfast - enterpreneurial form"@en ;
-    skos:definition "I bed  and  breakfast  in  forma  imprenditoriale  sono  strutture ricettive  a  conduzione  ed  organizzazione  familiare,  gestite  da privati in  modo  professionale,  che  forniscono  alloggio  e  prima colazione utilizzando parti della stessa unità  immobiliare  purché funzionalmente collegate e con spazi familiari condivisi."@it .
+    skos:definition "I bed and breakfast in forma imprenditoriale sono strutture ricettive a conduzione ed organizzazione familiare, gestite da privati in modo professionale, che forniscono alloggio e prima colazione utilizzando parti della stessa unità immobiliare purché funzionalmente collegate e con spazi familiari condivisi."@it .
 
     <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/A8>
         a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -414,7 +414,7 @@ ndc:keyConcept
         clvapit:hasRankOrder "2" ;
         skos:prefLabel "Residenza della salute/beauty farm"@it ;
         skos:prefLabel "Beauty Farm"@en ;
-        skos:definition "Le residenze della salute o beauty farm sono esercizi  alberghieri dotati di particolari strutture di  tipo  specialistico  proprie  del ed estetici."@it .
+        skos:definition "Le residenze della salute o beauty farm sono esercizi alberghieri dotati di particolari strutture di tipo specialistico proprie del ed estetici."@it .
 
       <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/A9>
             a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -479,7 +479,7 @@ ndc:keyConcept
     skos:prefLabel "Albergo/Hotel"@it ;
     skos:altLabel "Alberghi"@it ;
     skos:prefLabel "Hotel"@en ;
-    skos:definition "Si tratta di esercizi ricettivi aperti al pubblico, che, oltre all'alloggio, solitamente fornito in camere o suite ubicate in uno o più edifici o anche in parti di essi, offrono alla propria clientela anche vitto ed altri servizi accessori. "@it .
+    skos:definition "Si tratta di esercizi ricettivi aperti al pubblico, che, oltre all'alloggio, solitamente fornito in camere o suite ubicate in uno o più edifici o anche in parti di essi, offrono alla propria clientela anche vitto ed altri servizi accessori."@it .
 
     <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/A21>
     a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -519,7 +519,7 @@ ndc:keyConcept
     skos:notation "A.4.1" ;
     dct:identifier "A.4.1" ;
     clvapit:hasRankOrder "3" ;
-    skos:prefLabel "Residenza turistico alberghiera "@it ;
+    skos:prefLabel "Residenza turistico alberghiera"@it ;
     skos:altLabel "RTA"@it , "residenze turistiche-alberghiere"@it ;
     skos:prefLabel "Tourist Residence"@en ;
     skos:definition "Le residenze turistico alberghiere, dette anche alberghi residenziali, sono esercizi ricettivi che, a differenza degli hotel, contestualmente al mero alloggio pernottamento, offrono alla clientela servizi accessori, come ad esempio l'uso autonomo della cucina in dotazione, in unità abitative arredate di uno o più locali."@it .
@@ -565,7 +565,7 @@ ndc:keyConcept
     clvapit:hasRankOrder "3" ;
     skos:prefLabel "Bed & Breakfast organizzato in forma imprenditoriale"@it ;
     skos:prefLabel "Bed & Breakfast - enterpreneurial form"@en ;
-    skos:definition "I bed  and  breakfast  in  forma  imprenditoriale  sono  strutture ricettive  a  conduzione  ed  organizzazione  familiare,  gestite  da privati in  modo  professionale,  che  forniscono  alloggio  e  prima colazione utilizzando parti della stessa unità  immobiliare  purché funzionalmente collegate e con spazi familiari condivisi."@it .
+    skos:definition "I bed and breakfast in forma imprenditoriale sono strutture ricettive a conduzione ed organizzazione familiare, gestite da privati in modo professionale, che forniscono alloggio e prima colazione utilizzando parti della stessa unità immobiliare purché funzionalmente collegate e con spazi familiari condivisi."@it .
 
     <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/A81>
         a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -578,7 +578,7 @@ ndc:keyConcept
         clvapit:hasRankOrder "3" ;
         skos:prefLabel "Residenza della salute/beauty farm"@it ;
         skos:prefLabel "Beauty Farm"@en ;
-        skos:definition "Le residenze della salute o beauty farm sono esercizi  alberghieri dotati di particolari strutture di  tipo  specialistico  proprie  del ed estetici."@it .
+        skos:definition "Le residenze della salute o beauty farm sono esercizi alberghieri dotati di particolari strutture di tipo specialistico proprie del ed estetici."@it .
 
       <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/A91>
         a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -642,7 +642,7 @@ ndc:keyConcept
     skos:prefLabel "Albergo/Hotel"@it ;
     skos:altLabel "Alberghi"@it ;
     skos:prefLabel "Hotel"@en ;
-    skos:definition "Si tratta di esercizi ricettivi aperti al pubblico, che, oltre all'alloggio, solitamente fornito in camere o suite ubicate in uno o più edifici o anche in parti di essi, offrono alla propria clientela anche vitto ed altri servizi accessori. "@it .
+    skos:definition "Si tratta di esercizi ricettivi aperti al pubblico, che, oltre all'alloggio, solitamente fornito in camere o suite ubicate in uno o più edifici o anche in parti di essi, offrono alla propria clientela anche vitto ed altri servizi accessori."@it .
 
     <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/A211>
     a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -679,7 +679,7 @@ ndc:keyConcept
     skos:notation "A.4.1.1" ;
     dct:identifier "A.4.1.1" ;
     clvapit:hasRankOrder "4" ;
-    skos:prefLabel "Residenza turistico alberghiera "@it ;
+    skos:prefLabel "Residenza turistico alberghiera"@it ;
     skos:altLabel "RTA"@it , "residenze turistiche-alberghiere"@it ;
     skos:prefLabel "Tourist Residence"@en ;
     skos:definition "Le residenze turistico alberghiere, dette anche alberghi residenziali, sono esercizi ricettivi che, a differenza degli hotel, contestualmente al mero alloggio pernottamento, offrono alla clientela servizi accessori, come ad esempio l'uso autonomo della cucina in dotazione, in unità abitative arredate di uno o più locali."@it .
@@ -722,7 +722,7 @@ ndc:keyConcept
     clvapit:hasRankOrder "4" ;
     skos:prefLabel "Bed & Breakfast organizzato in forma imprenditoriale"@it ;
     skos:prefLabel "Bed & Breakfast - enterpreneurial form"@en ;
-    skos:definition "I bed  and  breakfast  in  forma  imprenditoriale  sono  strutture ricettive  a  conduzione  ed  organizzazione  familiare,  gestite  da privati in  modo  professionale,  che  forniscono  alloggio  e  prima colazione utilizzando parti della stessa unità  immobiliare  purché funzionalmente collegate e con spazi familiari condivisi."@it .
+    skos:definition "I bed and breakfast in forma imprenditoriale sono strutture ricettive a conduzione ed organizzazione familiare, gestite da privati in modo professionale, che forniscono alloggio e prima colazione utilizzando parti della stessa unità immobiliare purché funzionalmente collegate e con spazi familiari condivisi."@it .
 
     <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/A811>
         a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -734,7 +734,7 @@ ndc:keyConcept
         clvapit:hasRankOrder "4" ;
         skos:prefLabel "Residenza della salute/beauty farm"@it ;
         skos:prefLabel "Beauty Farm"@en ;
-        skos:definition "Le residenze della salute o beauty farm sono esercizi  alberghieri dotati di particolari strutture di  tipo  specialistico  proprie  del ed estetici."@it .
+        skos:definition "Le residenze della salute o beauty farm sono esercizi alberghieri dotati di particolari strutture di tipo specialistico proprie del ed estetici."@it .
 
       <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/A911>
         a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -917,7 +917,7 @@ ndc:keyConcept
   skos:prefLabel "Ostello per la gioventù"@it ;
   skos:altLabel "Ostelli per la gioventù"@it , "Ostello"@it , "Casa per la gioventù"@it , "Case per la gioventù"@it ;
   skos:prefLabel "Youth Hostel"@en ;
-  skos:definition "Gli ostelli per la gioventu' sono  strutture  ricettive  per  il soggiorno e il pernottamento, per periodi limitati, dei giovani e dei loro accompagnatori, gestite, in forma diretta o indiretta, da enti o associazioni."@it .
+  skos:definition "Gli ostelli per la gioventu' sono strutture ricettive per il soggiorno e il pernottamento, per periodi limitati, dei giovani e dei loro accompagnatori, gestite, in forma diretta o indiretta, da enti o associazioni."@it .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/B14>
   a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -938,7 +938,7 @@ ndc:keyConcept
   skos:prefLabel "Casa per ferie"@it ;
   skos:altLabel "Case per ferie"@it ;
   skos:prefLabel "Holiday House"@en ;
-  skos:definition "Le case per ferie sono strutture  ricettive  attrezzate  per  il soggiorno di persone o gruppi e  gestite,  al  di  fuori  di  normali canali commerciali, da enti pubblici, operanti senza  fine  di  lucro per il conseguimento di finalita' sociali, culturali, assistenziali o sportive, nonche' da enti o  aziende  per  il  soggiorno  dei  propri dipendenti e loro familiari. Nelle case per  ferie  possono  altresì essere ospitati dipendenti e relativi familiari, di altre  aziende  o assistiti dagli enti di cui al presente comma con i quali  sia  stata stipulata apposita convenzione. "@it .
+  skos:definition "Le case per ferie sono strutture ricettive attrezzate per il soggiorno di persone o gruppi e gestite, al di fuori di normali canali commerciali, da enti pubblici, operanti senza fine di lucro per il conseguimento di finalita' sociali, culturali, assistenziali o sportive, nonche' da enti o aziende per il soggiorno dei propri dipendenti e loro familiari. Nelle case per ferie possono altresì essere ospitati dipendenti e relativi familiari, di altre aziende o assistiti dagli enti di cui al presente comma con i quali sia stata stipulata apposita convenzione."@it .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/B15>
     a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -982,7 +982,7 @@ ndc:keyConcept
     skos:prefLabel "Bed & Breakfast a conduzione familiare"@it ;
     skos:altLabel "Bed & Braakfast"@it , "Bed & Braakfast"@en ;
     skos:prefLabel "Bed & Breakfast - family form"@en ;
-    skos:definition "I bed and breakfast sono strutture  ricettive  a  conduzione  ed organizzazione  familiare,  gestite   da   privati   in   forma   non imprenditoriale,  che   forniscono   alloggio   e   prima   colazione utilizzando   parti   della   stessa   unità   immobiliare   purché funzionalmente collegate e con spazi familiari condivisi."@it .
+    skos:definition "I bed and breakfast sono strutture ricettive a conduzione ed organizzazione familiare, gestite da privati in forma non imprenditoriale, che forniscono alloggio e prima colazione utilizzando parti della stessa unità immobiliare purché funzionalmente collegate e con spazi familiari condivisi."@it .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/C21>
     a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -1034,8 +1034,8 @@ ndc:keyConcept
     clvapit:hasRankOrder "4" ;
     skos:prefLabel "Attività ricettiva in esercizio di ristorazione"@it ;
     skos:altLabel "Attività ricettive in esercizio di ristorazione"@it ;
-    skos:prefLabel "Accommodation and Catering Facility "@en ;
-    skos:definition "Le attività ricettive  in  esercizi  di  ristorazione  sono  le strutture composte da camere, ciascuna con accesso indipendente dagli altri  locali,  gestite  in  modo  complementare all'esercizio   di ristorazione  dallo  stesso  titolare  e   nello   stesso complesso immobiliare. "@it .
+    skos:prefLabel "Accommodation and Catering Facility"@en ;
+    skos:definition "Le attività ricettive in esercizi di ristorazione sono le strutture composte da camere, ciascuna con accesso indipendente dagli altri locali, gestite in modo complementare all'esercizio di ristorazione dallo stesso titolare e nello stesso complesso immobiliare."@it .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/B113>
     a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -1047,8 +1047,8 @@ ndc:keyConcept
     clvapit:hasRankOrder "4" ;
     skos:prefLabel "Unità abitativa ammobiliata a uso turistico"@it ;
     skos:altLabel "Unità abitative ammobiliata a uso turistico"@it , "locande turistiche"@it ;
-    skos:prefLabel "Furnished Accommodation unit for tourists "@en ;
-    skos:definition "Sono case o appartamenti offerti in affitto a turisti per un periodo non inferiore a sette giorni e non superiore a sei mesi consecutivi. Arredati, dotati di servizi igienici e di cucina autonomi, non offrono alcun servizio di tipo alberghiero e possono essere gestite sia in forma imprenditoriale che non (fino ad un massimo di quattro unità abitative) ovvero con una gestione non diretta affidata dai proprietari ad agenzie immobiliari e società di gestione immobiliare turistica esterne che, in tal caso, si occupano sia della promozione della struttura che della relativa locazione. "@it .
+    skos:prefLabel "Furnished Accommodation unit for tourists"@en ;
+    skos:definition "Sono case o appartamenti offerti in affitto a turisti per un periodo non inferiore a sette giorni e non superiore a sei mesi consecutivi. Arredati, dotati di servizi igienici e di cucina autonomi, non offrono alcun servizio di tipo alberghiero e possono essere gestite sia in forma imprenditoriale che non (fino ad un massimo di quattro unità abitative) ovvero con una gestione non diretta affidata dai proprietari ad agenzie immobiliari e società di gestione immobiliare turistica esterne che, in tal caso, si occupano sia della promozione della struttura che della relativa locazione."@it .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/B114>
     a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -1061,7 +1061,7 @@ ndc:keyConcept
     skos:prefLabel "Struttura ricettiva - residence"@it ;
     skos:altLabel "Residence"@it ;
     skos:prefLabel "Residence"@en ;
-    skos:definition "Le  strutture  ricettive  -  residence  sono  complessi  unitari costituiti da uno o più immobili comprendenti appartamenti  arredati e dotati di servizi igienici e di cucina autonomi, gestiti  in  forma imprenditoriale, dati in locazione ai turisti, con  contratti  aventi validità non inferiore a tre giorni. "@it .
+    skos:definition "Le strutture ricettive - residence sono complessi unitari costituiti da uno o più immobili comprendenti appartamenti arredati e dotati di servizi igienici e di cucina autonomi, gestiti in forma imprenditoriale, dati in locazione ai turisti, con contratti aventi validità non inferiore a tre giorni."@it .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/B115>
     a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -1097,7 +1097,7 @@ ndc:keyConcept
     clvapit:hasRankOrder "4" ;
     skos:prefLabel "Alloggio in ambito di attività agrituristica"@it ;
     skos:prefLabel "Accommodation in the agritourism sector"@en ;
-    skos:definition "Gli alloggi nell'ambito  delle  attività agrituristiche sono locali siti in fabbricati rurali gestiti da imprenditori agricoli  ai sensi della  legge  20  febbraio  2006,  n.  96,  recante  disciplina dell'agriturismo."@it .
+    skos:definition "Gli alloggi nell'ambito delle attività agrituristiche sono locali siti in fabbricati rurali gestiti da imprenditori agricoli ai sensi della legge 20 febbraio 2006, n. 96, recante disciplina dell'agriturismo."@it .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/B131>
     a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -1111,7 +1111,7 @@ ndc:keyConcept
     skos:prefLabel "Ostello per la gioventù"@it ;
     skos:altLabel "Ostelli per la gioventù"@it , "Ostello"@it , "Casa per la gioventù"@it , "Case per la gioventù"@it ;
     skos:prefLabel "Youth Hostel"@en ;
-    skos:definition "Gli ostelli per la gioventu' sono  strutture  ricettive  per  il soggiorno e il pernottamento, per periodi limitati, dei giovani e dei loro accompagnatori, gestite, in forma diretta o indiretta, da enti o associazioni."@it .
+    skos:definition "Gli ostelli per la gioventu' sono strutture ricettive per il soggiorno e il pernottamento, per periodi limitati, dei giovani e dei loro accompagnatori, gestite, in forma diretta o indiretta, da enti o associazioni."@it .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/B141>
     a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -1124,7 +1124,7 @@ ndc:keyConcept
     skos:prefLabel "Casa per ferie"@it ;
     skos:altLabel "Case per ferie"@it ;
     skos:prefLabel "Holiday House"@en ;
-    skos:definition "Le case per ferie sono strutture  ricettive  attrezzate  per  il soggiorno di persone o gruppi e  gestite,  al  di  fuori  di  normali canali commerciali, da enti pubblici, operanti senza  fine  di  lucro per il conseguimento di finalita' sociali, culturali, assistenziali o sportive, nonche' da enti o  aziende  per  il  soggiorno  dei  propri dipendenti e loro familiari. Nelle case per  ferie  possono  altresì essere ospitati dipendenti e relativi familiari, di altre  aziende  o assistiti dagli enti di cui al presente comma con i quali  sia  stata stipulata apposita convenzione. "@it .
+    skos:definition "Le case per ferie sono strutture ricettive attrezzate per il soggiorno di persone o gruppi e gestite, al di fuori di normali canali commerciali, da enti pubblici, operanti senza fine di lucro per il conseguimento di finalita' sociali, culturali, assistenziali o sportive, nonche' da enti o aziende per il soggiorno dei propri dipendenti e loro familiari. Nelle case per ferie possono altresì essere ospitati dipendenti e relativi familiari, di altre aziende o assistiti dagli enti di cui al presente comma con i quali sia stata stipulata apposita convenzione."@it .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/B142>
     a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -1220,7 +1220,7 @@ ndc:keyConcept
     skos:prefLabel "Rifugio escursionistico"@it ;
     skos:altLabel "Rifugi escursionistici"@it ;
     skos:prefLabel "Hiking Refuge"@en ;
-    skos:definition "I rifugi escursionistici sono  strutture  ricettive  aperte  al pubblico idonee ad offrire ospitalita' e ristoro ad escursionisti  in zone montane ubicate in luoghi favorevoli ad ascensioni,  servite  da strade o da altri mezzi di trasporto ordinari, anche  in  prossimità di centri abitati ed anche  collegate  direttamente  alla  viabilità pubblica."@it .
+    skos:definition "I rifugi escursionistici sono strutture ricettive aperte al pubblico idonee ad offrire ospitalita' e ristoro ad escursionisti in zone montane ubicate in luoghi favorevoli ad ascensioni, servite da strade o da altri mezzi di trasporto ordinari, anche in prossimità di centri abitati ed anche collegate direttamente alla viabilità pubblica."@it .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/B152>
     a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -1233,7 +1233,7 @@ ndc:keyConcept
     skos:prefLabel "Rifugio alpino"@it ;
     skos:altLabel "Rifiugi alpini"@it , "Rifugi"@it ;
     skos:prefLabel "Alpine Refuge"@en ;
-    skos:definition "I rifugi alpini sono strutture ricettive ubicate  in  montagna, ad alta  quota,  fuori  dai  centri  urbani.  I  rifugi  alpini  sono predisposti per il ricovero, il ristoro e per il  soccorso  alpino  e devono essere custoditi e aperti al  pubblico  per  periodi  limitati nelle stagioni turistiche. Durante i periodi  di  chiusura  i  rifugi alpini devono disporre di un  locale  per  il  ricovero  di  fortuna, convenientemente dotato, sempre  aperto  e  accessibile  dall'esterno anche in caso di abbondanti nevicate e durante il periodo di apertura stagionale il servizio di ricovero deve essere comunque garantito per l'intero arco della giornata. "@it .
+    skos:definition "I rifugi alpini sono strutture ricettive ubicate in montagna, ad alta quota, fuori dai centri urbani. I rifugi alpini sono predisposti per il ricovero, il ristoro e per il soccorso alpino e devono essere custoditi e aperti al pubblico per periodi limitati nelle stagioni turistiche. Durante i periodi di chiusura i rifugi alpini devono disporre di un locale per il ricovero di fortuna, convenientemente dotato, sempre aperto e accessibile dall'esterno anche in caso di abbondanti nevicate e durante il periodo di apertura stagionale il servizio di ricovero deve essere comunque garantito per l'intero arco della giornata."@it .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/B153>
     a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -1282,7 +1282,7 @@ ndc:keyConcept
     skos:prefLabel "Attività ricettive in residenze rurali o country house"@it ;
     skos:prefLabel "Country House"@en ;
     skos:altLabel "Residenza rurale"@it , "Residenze rurali"@it , "Esercizi rurali"@it , "Country House"@it ;
-    skos:definition "Le attivita' ricettive in residenze rurali o country house sono le strutture localizzate in ville padronali o  fabbricati  rurali  da utilizzare per l'animazione sportivo-ricreativa  composte  da  camere con  eventuale  angolo  cottura,  che  dispongono  di   servizio   di ristorazione aperto al pubblico."@it .
+    skos:definition "Le attivita' ricettive in residenze rurali o country house sono le strutture localizzate in ville padronali o fabbricati rurali da utilizzare per l'animazione sportivo-ricreativa composte da camere con eventuale angolo cottura, che dispongono di servizio di ristorazione aperto al pubblico."@it .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/C111>
     a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -1296,7 +1296,7 @@ ndc:keyConcept
     skos:prefLabel "Bed & Breakfast a conduzione familiare"@it ;
     skos:altLabel "Bed & Braakfast"@it , "Bed & Braakfast"@en ;
     skos:prefLabel "Bed & Breakfast - family form"@en ;
-    skos:definition "I bed and breakfast sono strutture  ricettive  a  conduzione  ed organizzazione  familiare,  gestite   da   privati   in   forma   non imprenditoriale,  che   forniscono   alloggio   e   prima   colazione utilizzando   parti   della   stessa   unità   immobiliare   purché funzionalmente collegate e con spazi familiari condivisi."@it .
+    skos:definition "I bed and breakfast sono strutture ricettive a conduzione ed organizzazione familiare, gestite da privati in forma non imprenditoriale, che forniscono alloggio e prima colazione utilizzando parti della stessa unità immobiliare purché funzionalmente collegate e con spazi familiari condivisi."@it .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/C211>
     a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -1376,7 +1376,7 @@ ndc:keyConcept
     skos:prefLabel "Parco Vacanze"@it ;
     skos:altLabel "parchi di vacanza"@it ;
  	  skos:prefLabel "Holiday Park"@en ;
-    skos:definition "Sono parchi di vacanza i campeggi, a gestione unitaria, in cui  è praticato  l'affitto  della  piazzola  ad  un  unico  equipaggio  per l'intera durata del periodo di apertura della struttura.  8. Le strutture ricettive all'aperto sono  classificate  in  base  ai requisiti e alle caratteristiche posseduti  secondo  le  prescrizioni previste dalle regioni e dalle  province  autonome  di  Trento  e  di Bolzano."@it .
+    skos:definition "Sono parchi di vacanza i campeggi, a gestione unitaria, in cui è praticato l'affitto della piazzola ad un unico equipaggio per l'intera durata del periodo di apertura della struttura. 8. Le strutture ricettive all'aperto sono classificate in base ai requisiti e alle caratteristiche posseduti secondo le prescrizioni previste dalle regioni e dalle province autonome di Trento e di Bolzano."@it .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/D3>
     a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -1431,7 +1431,7 @@ ndc:keyConcept
   skos:prefLabel "Villaggio turistico"@it ;
   skos:altLabel "villaggi turistici"@it ;
   skos:prefLabel "Tourist Village"@en ;
-  skos:definition "Sono villaggi turistici le strutture ricettive aperte al pubblico, a gestione  unitaria,  allestite  ed  attrezzate  su  aree  recintate destinate alla sosta ed  al  soggiorno  di  turisti  in  allestimenti minimi,  in  prevalenza  sprovvisti  di  propri   mezzi   mobili   di pernottamento. "@it .
+  skos:definition "Sono villaggi turistici le strutture ricettive aperte al pubblico, a gestione unitaria, allestite ed attrezzate su aree recintate destinate alla sosta ed al soggiorno di turisti in allestimenti minimi, in prevalenza sprovvisti di propri mezzi mobili di pernottamento."@it .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/D13>
     a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -1458,7 +1458,7 @@ ndc:keyConcept
     skos:prefLabel "Parco Vacanze"@it ;
     skos:altLabel "parchi di vacanza"@it ;
     skos:prefLabel "Holiday Park"@en ;
-    skos:definition "Sono parchi di vacanza i campeggi, a gestione unitaria, in cui  è praticato  l'affitto  della  piazzola  ad  un  unico  equipaggio  per l'intera durata del periodo di apertura della struttura.  8. Le strutture ricettive all'aperto sono  classificate  in  base  ai requisiti e alle caratteristiche posseduti  secondo  le  prescrizioni previste dalle regioni e dalle  province  autonome  di  Trento  e  di Bolzano."@it .
+    skos:definition "Sono parchi di vacanza i campeggi, a gestione unitaria, in cui è praticato l'affitto della piazzola ad un unico equipaggio per l'intera durata del periodo di apertura della struttura. 8. Le strutture ricettive all'aperto sono classificate in base ai requisiti e alle caratteristiche posseduti secondo le prescrizioni previste dalle regioni e dalle province autonome di Trento e di Bolzano."@it .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/D31>
     a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -1497,7 +1497,7 @@ ndc:keyConcept
     skos:prefLabel "Campeggio"@it ;
  	  skos:prefLabel "Campground"@en ;
     skos:altLabel "Camping"@it , "campeggi"@it ;
-    skos:definition "Sono  campeggi  le  strutture  ricettive  aperte  al  pubblico,  a gestione  unitaria,  allestite  ed  attrezzate  su   aree   recintate destinate alla  sosta  ed  al  soggiorno  di  turisti  in  prevalenza provvisti di propri mezzi mobili  di  pernottamento.  In  alternativa alla dizione di campeggio può essere usata quella di camping. "@it .
+    skos:definition "Sono campeggi le strutture ricettive aperte al pubblico, a gestione unitaria, allestite ed attrezzate su aree recintate destinate alla sosta ed al soggiorno di turisti in prevalenza provvisti di propri mezzi mobili di pernottamento. In alternativa alla dizione di campeggio può essere usata quella di camping."@it .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/D112>
     a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -1525,7 +1525,7 @@ ndc:keyConcept
     skos:prefLabel "Campeggio nell'ambito di attività agrituristiche"@it ;
     skos:altLabel "Campeggi nell'ambito di attività agrituristiche"@it ;
  	  skos:prefLabel "Camground in the context of agritourism activities"@en ;
-    skos:defintion "I campeggi nell'ambito delle attivita' agrituristiche sono aree di ricezione all'aperto gestite da imprenditori agricoli ai sensi  della legge 20 febbraio 2006, n. 96, recante disciplina dell'agriturismo. "@it .
+    skos:defintion "I campeggi nell'ambito delle attivita' agrituristiche sono aree di ricezione all'aperto gestite da imprenditori agricoli ai sensi della legge 20 febbraio 2006, n. 96, recante disciplina dell'agriturismo."@it .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/D121>
     a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -1538,7 +1538,7 @@ ndc:keyConcept
     skos:prefLabel "Villaggio turistico"@it ;
     skos:altLabel "villaggi turistici"@it ;
     skos:prefLabel "Tourist Village"@en ;
-    skos:definition "Sono villaggi turistici le strutture ricettive aperte al pubblico, a gestione  unitaria,  allestite  ed  attrezzate  su  aree  recintate destinate alla sosta ed  al  soggiorno  di  turisti  in  allestimenti minimi,  in  prevalenza  sprovvisti  di  propri   mezzi   mobili   di pernottamento. "@it .
+    skos:definition "Sono villaggi turistici le strutture ricettive aperte al pubblico, a gestione unitaria, allestite ed attrezzate su aree recintate destinate alla sosta ed al soggiorno di turisti in allestimenti minimi, in prevalenza sprovvisti di propri mezzi mobili di pernottamento."@it .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/D122>
     a  	skos:Concept , accoapit:AccommodationTypology ;
@@ -1551,7 +1551,7 @@ ndc:keyConcept
     skos:prefLabel "Villaggio turistico A"@it ;
     skos:altLabel "villaggi turistici A"@it ;
     skos:prefLabel "Tourist Village A"@en ;
-    skos:definition "I villaggi turistici assumono la denominazione aggiuntiva A (annuale) quando sono aperti per la doppia stagione estivo-invernale o sono autorizzati a esercitare la propria attività per l'intero anno. "@it .
+    skos:definition "I villaggi turistici assumono la denominazione aggiuntiva A (annuale) quando sono aperti per la doppia stagione estivo-invernale o sono autorizzati a esercitare la propria attività per l'intero anno."@it .
 
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/D131>
@@ -1577,7 +1577,7 @@ ndc:keyConcept
     skos:prefLabel "Parco Vacanze"@it ;
     skos:altLabel "parchi di vacanza"@it ;
     skos:prefLabel "Holiday Park"@en ;
-    skos:definition "Sono parchi di vacanza i campeggi, a gestione unitaria, in cui  è praticato  l'affitto  della  piazzola  ad  un  unico  equipaggio  per l'intera durata del periodo di apertura della struttura.  8. Le strutture ricettive all'aperto sono  classificate  in  base  ai requisiti e alle caratteristiche posseduti  secondo  le  prescrizioni previste dalle regioni e dalle  province  autonome  di  Trento  e  di Bolzano."@it .
+    skos:definition "Sono parchi di vacanza i campeggi, a gestione unitaria, in cui è praticato l'affitto della piazzola ad un unico equipaggio per l'intera durata del periodo di apertura della struttura. 8. Le strutture ricettive all'aperto sono classificate in base ai requisiti e alle caratteristiche posseduti secondo le prescrizioni previste dalle regioni e dalle province autonome di Trento e di Bolzano."@it .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/D311>
     a  	skos:Concept , accoapit:AccommodationTypology ;

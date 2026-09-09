@@ -1160,7 +1160,7 @@
     "http://purl.org/dc/terms/description": [
       {
         "@language": "en",
-        "@value": "GSIM is a reference framework of internationally agreed definitions, attributes and relationships that describe the  pieces of information that are used in the production of  official statistics (information objects).  This framework enables generic descriptions of the definition, management and use of data and metadata throughout the statistical production process."
+        "@value": "GSIM is a reference framework of internationally agreed definitions, attributes and relationships that describe the pieces of information that are used in the production of official statistics (information objects). This framework enables generic descriptions of the definition, management and use of data and metadata throughout the statistical production process."
       }
     ],
     "http://purl.org/dc/terms/identifier": [

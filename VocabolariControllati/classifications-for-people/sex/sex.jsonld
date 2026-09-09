@@ -299,7 +299,7 @@
     "@type" : "dcatapit:Distribution",
     "description" : [ {
       "@language" : "en",
-      "@value" : "This is the distribution in RDF/turtle of the Linked Open Dataset of the sex controlled vocabulary "
+      "@value" : "This is the distribution in RDF/turtle of the Linked Open Dataset of the sex controlled vocabulary"
     }, {
       "@language" : "it",
       "@value" : "Questa è la distribuzione RDF/Turtle del dataset Linked Open Data del vocabolario controllato sul sesso"
@@ -320,7 +320,7 @@
     "@type" : "dcatapit:Distribution",
     "description" : [ {
       "@language" : "en",
-      "@value" : "This is the distribution in RDF/XML of the Linked Open Dataset of the sex controlled vocabulary "
+      "@value" : "This is the distribution in RDF/XML of the Linked Open Dataset of the sex controlled vocabulary"
     }, {
       "@language" : "it",
       "@value" : "Questa è la distribuzione RDF/XML del dataset Linked Open Data del vocabolario controllato sul sesso"
@@ -341,7 +341,7 @@
     "@type" : "dcatapit:Distribution",
     "description" : [ {
       "@language" : "en",
-      "@value" : "This is the distribution in XLSX of the sex controlled vocabulary "
+      "@value" : "This is the distribution in XLSX of the sex controlled vocabulary"
     }, {
       "@language" : "it",
       "@value" : "Questa è la distribuzione XLSX del vocabolario controllato sul sesso"

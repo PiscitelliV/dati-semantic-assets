@@ -460,7 +460,7 @@ prov:wasDerivedFrom rdf:type owl:AnnotationProperty .
                                 rdfs:label "is value for observation parameter"@en ,
                                            "è valore per parametro osservazione"@it ;
 
-                                rdfs:comment "Inverse property of has value for observation parameter that links an observation value to the  observation parameter"@en ;
+                                rdfs:comment "Inverse property of has value for observation parameter that links an observation value to the observation parameter"@en ;
 
                                 owl:versionInfo "stable"@en ;
 
@@ -627,11 +627,11 @@ tiapit:atTime rdf:type owl:ObjectProperty .
              rdfs:label "description"@en ,
                         "descrizione"@it ;
 
-             rdfs:comment "This property is equivalent to http://purl.org/dc/terms/description as included in the alignment file. It is used in order to model the description of the Things of the Italian  IoT Applicaiton Profile."@en ;
+             rdfs:comment "This property is equivalent to http://purl.org/dc/terms/description as included in the alignment file. It is used in order to model the description of the Things of the Italian IoT Applicaiton Profile."@en ;
 
              owl:versionInfo "stable"@en ;
 
-             rdfs:comment "Questa proprietà è equivalente a in http://purl.org/dc/terms/description, come indicato nel file di allineamento dell'ontologia ad altre esterne del web dei dati,  ed è usata allo scopo di modellare le descrizioni delle \"cose\" del profilo applicativo italiano per IoT."@it ;
+             rdfs:comment "Questa proprietà è equivalente a in http://purl.org/dc/terms/description, come indicato nel file di allineamento dell'ontologia ad altre esterne del web dei dati, ed è usata allo scopo di modellare le descrizioni delle \"cose\" del profilo applicativo italiano per IoT."@it ;
 
              owl:versionInfo "stabile"@it ;
 
@@ -850,7 +850,7 @@ tiapit:atTime rdf:type owl:ObjectProperty .
 
           rdfs:subClassOf l0:Location ;
 
-          rdfs:comment "This class represents a geometry. A geometry provides the means to identify a location as a point, line, polygon, etc. expressed using coordinates in some coordinate reference system. The class is defined in the italian core location application profile.. Its properties  are not defined in the OWL since in practice  geometry encodings all include already these properties. At least one of the following encodings must be used: GML or WKT."@en ;
+          rdfs:comment "This class represents a geometry. A geometry provides the means to identify a location as a point, line, polygon, etc. expressed using coordinates in some coordinate reference system. The class is defined in the italian core location application profile.. Its properties are not defined in the OWL since in practice geometry encodings all include already these properties. At least one of the following encodings must be used: GML or WKT."@en ;
 
           owl:versionInfo "stable"@en ;
 
@@ -1117,7 +1117,7 @@ tiapit:atTime rdf:type owl:ObjectProperty .
 
         owl:versionInfo "unstable"@en ;
 
-        rdfs:comment "Questa classe rappresenta l'errore di compensazione, ovvero  la differenza tra il valore reale di uscita e il valore di uscita specificato in alcune particolari condizioni."@it ;
+        rdfs:comment "Questa classe rappresenta l'errore di compensazione, ovvero la differenza tra il valore reale di uscita e il valore di uscita specificato in alcune particolari condizioni."@it ;
 
         owl:versionInfo "instabile"@it ;
 
@@ -1134,7 +1134,7 @@ tiapit:atTime rdf:type owl:ObjectProperty .
 
            rdfs:subClassOf :MeasurementQuality ;
 
-           rdfs:comment "It represents the Precision; i.e., the  degree of reproducibility of a measurement. In other words, if exactly the same values were measured a number of times, an ideal sensor would output exactly the same value every time."@en ;
+           rdfs:comment "It represents the Precision; i.e., the degree of reproducibility of a measurement. In other words, if exactly the same values were measured a number of times, an ideal sensor would output exactly the same value every time."@en ;
 
            owl:versionInfo "unstable"@en ;
 
@@ -1176,7 +1176,7 @@ tiapit:atTime rdf:type owl:ObjectProperty .
 
              rdfs:subClassOf :FeatureOfInterest ;
 
-             rdfs:comment "This class represents the Road Segment  If the ontology is used to represent IoT events in the context of real time data traffic, the class is revelant and it represents the road segment of the observation."@en ;
+             rdfs:comment "This class represents the Road Segment If the ontology is used to represent IoT events in the context of real time data traffic, the class is revelant and it represents the road segment of the observation."@en ;
 
              owl:versionInfo "stable"@en ;
 
@@ -1213,7 +1213,7 @@ tiapit:atTime rdf:type owl:ObjectProperty .
 
         owl:versionInfo "stable"@en ;
 
-        rdfs:comment "Questa classe rappresenta un sensore. Un sensore è uno strumento il cui scopo è quello di rilevare e rispondere a eventi o cambiamenti che avvengono nel proprio ambienti. L'informazione rilevata può essere  utilizzata e distribuita per successive elaborazioni."@it ;
+        rdfs:comment "Questa classe rappresenta un sensore. Un sensore è uno strumento il cui scopo è quello di rilevare e rispondere a eventi o cambiamenti che avvengono nel proprio ambienti. L'informazione rilevata può essere utilizzata e distribuita per successive elaborazioni."@it ;
 
         owl:versionInfo "stabile"@it ;
 

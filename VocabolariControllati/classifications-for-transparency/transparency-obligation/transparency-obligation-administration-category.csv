@@ -32,7 +32,7 @@ id_obbligo,label_ita_obbligo,categoria_amministrazione,classificazione_S13_codic
 041001,Obbligo di pubblicazione riguardante i riferimenti alla contrattazione collettiva,Comuni,204
 041101,Obbligo di pubblicazione riguardante i riferimenti alla contrattazione integrativa,Comuni,204
 04110101,Obbligo di pubblicazione riguardante il costo dei contratti integrativi,Comuni,204
-050101,Obbligo di pubblicazione relativo all'elenco dei bandi espletati ,Comuni,204
+050101,Obbligo di pubblicazione relativo all'elenco dei bandi espletati,Comuni,204
 050102,Obbligo di pubblicazione relativo ai bandi di concorso,Comuni,204
 060101,Obbligo di pubblicazione del sistema di misurazione e valutazione della Performance,Comuni,204
 060201,Obbligo di pubblicazione del Piano della Performance e Piano esecutivo di gestione,Comuni,204
@@ -43,7 +43,7 @@ id_obbligo,label_ita_obbligo,categoria_amministrazione,classificazione_S13_codic
 070201,Obbligo di pubblicazione dei dati relativi alle società  partecipate,Comuni,204
 070301,Obbligo di pubblicazione dei dati relativi agli enti di diritto privato controllati,Comuni,204
 070401,Obbligo di pubblicazione della rappresentazione grafica degli enti controllati,Comuni,204
-080101,Obbligo di pubblicazione relativi alle tipologie di procedimenti amministrativi ,Comuni,204
+080101,Obbligo di pubblicazione relativi alle tipologie di procedimenti amministrativi,Comuni,204
 080201,Obbligo di pubblicazione dei recapiti dell'ufficio responsabile,Comuni,204
 090101,Obbligo di pubblicazione concernente provvedimenti degli organi di indirizzo politico,Comuni,204
 090201,Obbligo di pubblicazione concernente provvedimenti di dirigenti amministrativi,Comuni,204
@@ -77,7 +77,7 @@ id_obbligo,label_ita_obbligo,categoria_amministrazione,classificazione_S13_codic
 15080101,Obbligo di pubblicazione relativo all'indicatore trimestrale di tempestività  dei pagamenti,Comuni,204
 150802,Obbligo di pubblicazione relativo all'ammontare complessivo dei debiti,Comuni,204
 150901,Obbligo di pubblicazione delle informazioni su iBAN e pagamenti informatici,Comuni,204
-160101,Obbligo di pubblicazione relativo ai nuclei di valutazione e verifica degli investimenti pubblici ,Comuni,204
+160101,Obbligo di pubblicazione relativo ai nuclei di valutazione e verifica degli investimenti pubblici,Comuni,204
 160201,Obbligo di pubblicazione degli atti di programmazione delle opere pubbliche,Comuni,204
 160301,"Obbligo di pubblicazione di tempi, costi unitari e indicatori di realizzazione delle opere pubbliche in corso o completate.",Comuni,204
 170101,Obbligo di trasparenza concernente gli atti di governo del territorio,Comuni,204
@@ -87,12 +87,12 @@ id_obbligo,label_ita_obbligo,categoria_amministrazione,classificazione_S13_codic
 200101,Obbligo di pubblicazione concernente gli interventi straordinari e di emergenza,Comuni,204
 010101,Obbligo inerente la pubblicazione del Piano triennale per la prevenzione della corruzione e della trasparenza (PTCT),Comuni,204
 210102,Obbligo di pubblicazione riguardante il responsabile della prevenzione della corruzione e della trasparenza,Comuni,204
-210104,Obbligo di pubblicazione della relazione del responsabile della prevenzione della corruzione e della trasparenza ,Comuni,204
-210105,Obbligo di pubblicazione dei provvedimenti adottati dall'A.N.AC. ,Comuni,204
-210106,Obbligo di pubblicazione di atti di accertamento delle violazioni ,Comuni,204
+210104,Obbligo di pubblicazione della relazione del responsabile della prevenzione della corruzione e della trasparenza,Comuni,204
+210105,Obbligo di pubblicazione dei provvedimenti adottati dall'A.N.AC.,Comuni,204
+210106,Obbligo di pubblicazione di atti di accertamento delle violazioni,Comuni,204
 210201,"Obbligo di pubblicazione concernente le richeste di accesso civico ""semplice""",Comuni,204
 210202,"Obbligo di pubblicazione concernente le richeste di accesso civico ""generalizzato""",Comuni,204
-210203,Obbligo di pubblicazione del registro degli accessi ,Comuni,204
+210203,Obbligo di pubblicazione del registro degli accessi,Comuni,204
 210301,"Obbligo di pubblicazione Catalogo dei dati, metadati e delle banche dati",Comuni,204
 210302,Obbligo di pubblicazione dei regolamenti su accesso telematico e il riutilizzo dei dati,Comuni,204
 210303,Obbligo di pubblicazione di obiettivi di accessibilità ,Comuni,204

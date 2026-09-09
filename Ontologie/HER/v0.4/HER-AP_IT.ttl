@@ -658,7 +658,7 @@ owl:maxQualifiedCardinality rdf:type owl:AnnotationProperty .
                                               rdfs:comment "Questa proprietà si collega a un diploma accademico."@it ,
                                                            "This property links to an academic diploma."@en ;
                                               rdfs:isDefinedBy <https://w3id.org/italia/onto/HER> ;
-                                              rdfs:label "ha  diploma"@it ,
+                                              rdfs:label "ha diploma"@it ,
                                                          "has diploma"@en ;
                                               owl:versionInfo "stabile"@it ,
                                                               "stable"@en .
@@ -790,7 +790,7 @@ owl:maxQualifiedCardinality rdf:type owl:AnnotationProperty .
                                                                             )
                                                               ] ;
                                                   rdfs:range <https://w3id.org/italia/onto/HER/ERCSubpanel> ;
-                                                  rdfs:comment "Property used to specify the second level area/sector of reference (if any) for the CTN/PRIN Operation or CTN/PRIN  Project"@en ,
+                                                  rdfs:comment "Property used to specify the second level area/sector of reference (if any) for the CTN/PRIN Operation or CTN/PRIN Project"@en ,
                                                                "Proprietà utilizzata per specificare il secondo livello dell'area/settore di riferimento (se esistente) per un'operazione o un progetto CTN/PRIN."@it ;
                                                   rdfs:isDefinedBy <https://w3id.org/italia/onto/HER> ;
                                                   rdfs:label "ha sotto pannello ERC"@it ,
@@ -847,7 +847,7 @@ owl:maxQualifiedCardinality rdf:type owl:AnnotationProperty .
                                                  rdfs:comment "Questa proprietà collega l'informazione sugli studenti iscritti degli atenei in regola con il pagamento delle tasse universitarie all'informazione sulle tipologie di iscrizione."@it ,
                                                               "This property links information on enrolled students of universities in good standing with the payment of tuition fees to information on the types of enrollment."@en ;
                                                  rdfs:isDefinedBy <https://w3id.org/italia/onto/HER> ;
-                                                 rdfs:label "ha  iscrizione"@it ,
+                                                 rdfs:label "ha iscrizione"@it ,
                                                             "has enrollment"@en ;
                                                  owl:versionInfo "stabile"@it ,
                                                                  "stable"@en .
@@ -1233,7 +1233,7 @@ owl:maxQualifiedCardinality rdf:type owl:AnnotationProperty .
                                                 rdfs:comment "Questa proprietà si collega ad un corso di dottorato di ricerca corrispondente."@it ,
                                                              "This property links to a corresponding PhD course."@en ;
                                                 rdfs:isDefinedBy <https://w3id.org/italia/onto/HER> ;
-                                                rdfs:label "ha  corso di dottorato di ricerca"@it ,
+                                                rdfs:label "ha corso di dottorato di ricerca"@it ,
                                                            "has phd course"@en ;
                                                 owl:versionInfo "stabile"@it ,
                                                                 "stable"@en .
@@ -1666,7 +1666,7 @@ owl:maxQualifiedCardinality rdf:type owl:AnnotationProperty .
 <https://w3id.org/italia/onto/HER/refersToProject> rdf:type owl:ObjectProperty ;
                                                    rdfs:domain <https://w3id.org/italia/onto/HER/CTNPRINOperation> ;
                                                    rdfs:range <https://w3id.org/italia/onto/HER/CTNPRINProject> ;
-                                                   rdfs:comment "Questa proprietà  collega un'operazione CTN/PRIN con il progetto CTN/PRIN di riferimento"@it ,
+                                                   rdfs:comment "Questa proprietà collega un'operazione CTN/PRIN con il progetto CTN/PRIN di riferimento"@it ,
                                                                 "This property links a CTN/Prin opertion to the reference CTN/PRIN project."@en ;
                                                    rdfs:isDefinedBy <https://w3id.org/italia/onto/HER> ;
                                                    rdfs:label "refers to project"@en ,
@@ -2216,7 +2216,7 @@ Samples Without DNA: Samples retained, with no potential for DNA extraction from
                                                              rdfs:domain <https://w3id.org/italia/onto/HER/CTNPRINAmount> ;
                                                              rdfs:range xsd:decimal ;
                                                              rdfs:comment "Cost admitted by decree after the evaluation of the costs indicated in the project proposal for each item of expenditure"@en ,
-                                                                          "Costo ammesso da decreto dopo la valutazione dei costo indicato nella proposta di progetto  per singola voce di spesa"@it ;
+                                                                          "Costo ammesso da decreto dopo la valutazione dei costo indicato nella proposta di progetto per singola voce di spesa"@it ;
                                                              rdfs:isDefinedBy <https://w3id.org/italia/onto/HER> ;
                                                              rdfs:label "admitted cost of CTN/PRIN amount"@en ,
                                                                         "costo ammesso dell'importo CTN/PRIN"@it ;
@@ -2348,8 +2348,8 @@ Samples Without DNA: Samples retained, with no potential for DNA extraction from
                                                                  rdfs:subPropertyOf <https://w3id.org/italia/onto/MU/value> ;
                                                                  rdfs:domain <https://w3id.org/italia/onto/HER/CTNPRINInitiative> ;
                                                                  rdfs:range xsd:decimal ;
-                                                                 rdfs:comment "Total admitted costs after evaluation of the costs indicated in the project proposals.  Calculated as the sum of the counterpart variable 'admittedCost' present at lower aggregation level (admittedCost_operations)"@en ,
-                                                                              "Totale dei costi ammessi dopo la valutazione dei costi indicati nelle proposte di progetto.  Calcolati come somma dell'omologa variabile \"admittedCost\" presente a livello di aggregazione inferiore (admittedCost_operations)"@it ;
+                                                                 rdfs:comment "Total admitted costs after evaluation of the costs indicated in the project proposals. Calculated as the sum of the counterpart variable 'admittedCost' present at lower aggregation level (admittedCost_operations)"@en ,
+                                                                              "Totale dei costi ammessi dopo la valutazione dei costi indicati nelle proposte di progetto. Calcolati come somma dell'omologa variabile \"admittedCost\" presente a livello di aggregazione inferiore (admittedCost_operations)"@it ;
                                                                  rdfs:isDefinedBy <https://w3id.org/italia/onto/HER> ;
                                                                  rdfs:label "admitted cost of CTN/PRIN initiative"@en ,
                                                                             "costi ammessi per iniziative CTN/PRIN"@it ;
@@ -2504,10 +2504,10 @@ Samples Without DNA: Samples retained, with no potential for DNA extraction from
                                                               rdfs:range rdfs:Literal ;
                                                               rdfs:comment """ID univoco di una operazione.
 E' ottenuto concatenando le seguenti variabili all'origine:
-Codice locale progetto +  ambito + CF beneficiario
+Codice locale progetto + ambito + CF beneficiario
 corrispondenti a: projectCode + scope_operations + fiscalcode_entity"""@it ,
                                                                            """Unique ID of an operation.
-It is obtained by concatenating the following variables at the origin: \"Codice locale progetto +  ambito + CF beneficiario\"  corresponding to: projectCode + scope_operations + fiscalcode_entity"""@en ;
+It is obtained by concatenating the following variables at the origin: \"Codice locale progetto + ambito + CF beneficiario\" corresponding to: projectCode + scope_operations + fiscalcode_entity"""@en ;
                                                               rdfs:isDefinedBy <https://w3id.org/italia/onto/HER> ;
                                                               rdfs:label "CTN/PRIN operation identifier"@en ,
                                                                          "identificatore operazione CTN/PRIN"@it ;
@@ -2928,7 +2928,7 @@ Il tipo può essere:
 <https://w3id.org/italia/onto/HER/founderShareholding> rdf:type owl:DatatypeProperty ;
                                                        rdfs:domain <https://w3id.org/italia/onto/HER/Spinoff> ;
                                                        rdfs:range xsd:decimal ;
-                                                       rdfs:comment "Indica la participazione azionaria  (in percentuale) dell'Università o dell'ente di ricerca di origine al momento della fondazione dello spin-off."@it ,
+                                                       rdfs:comment "Indica la participazione azionaria (in percentuale) dell'Università o dell'ente di ricerca di origine al momento della fondazione dello spin-off."@it ,
                                                                     "It indicates the shareholding (in percentage) of the university or research institution of origin at the time of the foundation of the spin-off."@en ;
                                                        rdfs:isDefinedBy <https://w3id.org/italia/onto/HER> ;
                                                        rdfs:label "founder shareholding"@en ,
@@ -2942,7 +2942,7 @@ Il tipo può essere:
                                          rdfs:domain <https://w3id.org/italia/onto/HER/EUREKAParticipant> ;
                                          rdfs:range xsd:decimal ;
                                          rdfs:comment "Property used to indicate the funding in euros received by the EUREKA participant"@en ,
-                                                      "Proprietà usata per indicare il contributo in euro ricevuto dai  partecipanti EUREKA"@it ;
+                                                      "Proprietà usata per indicare il contributo in euro ricevuto dai partecipanti EUREKA"@it ;
                                          rdfs:isDefinedBy <https://w3id.org/italia/onto/HER> ;
                                          rdfs:label "contributo (per partecipanti EUREKA)"@it ,
                                                     "grant (for EUREKA participant)"@en ;
@@ -4156,7 +4156,7 @@ Campione di nonrobabilità: Qualsiasi di una varietà di altri processi di campi
                                                            rdfs:comment "Indication that a clinical study is studying a drug product (including a biological product) subject to section 505 of the Federal Food, Drug, and Cosmetic Act or to section 351 of the Public Health Service Act. Select true/false"@en ,
                                                                         "Indicazione che uno studio clinico sta studiando un prodotto farmaceutico (incluso un prodotto biologico) soggetto alla sezione 505 del Federal Food, Drug, and Cosmetic Act o alla sezione 351 del Public Health Service Act. Selezionare vero/falso."@it ;
                                                            rdfs:isDefinedBy <https://w3id.org/italia/onto/HER> ;
-                                                           rdfs:label "studia  farmaco regolamentato dalla FDA"@it ,
+                                                           rdfs:label "studia farmaco regolamentato dalla FDA"@it ,
                                                                       "studies FDA regulated drug?"@en ;
                                                            owl:versionInfo "stabile"@it ,
                                                                            "stable"@en .
@@ -5091,7 +5091,7 @@ Tradotto con www.DeepL.com/Translator (versione gratuita)"""@it ,
                                         rdfs:subClassOf <https://w3id.org/italia/onto/HER/HERClassification> ;
                                         rdfs:isDefinedBy <https://w3id.org/italia/onto/HER> ;
                                         rdfs:label "All Science Journal Classification"@en ,
-                                                   "Classificazione  Scopus"@it ,
+                                                   "Classificazione Scopus"@it ,
                                                    "Scopus Classification"@en ;
                                         owl:versionInfo "stabile"@it ,
                                                         "stable"@en ;

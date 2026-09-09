@@ -360,7 +360,7 @@ ndc:keyConcept
       dct:identifier "9" ;
       skos:prefLabel "Tributi, finanze e contravvenzioni"@it ;
       skos:relatedMatch <http://publications.europa.eu/resource/authority/data-theme/ECON> , <https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/life-business-event/life-event/17> , <https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/life-business-event/business-event/8> ;
-      skos:altLabel "Tributi, finanze e contravvenzioni -  dichiarazione redditi, contributi"@it ;
+      skos:altLabel "Tributi, finanze e contravvenzioni - dichiarazione redditi, contributi"@it ;
       skos:definition "Questa materia include tutti quei servizi legati alle tasse e alla finanza. Rientrano i servizi per la dichiarazione dei redditi, per il pagamento di contributi e contravvenzioni, ecc."@it .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/public-services-subject-matters/10>

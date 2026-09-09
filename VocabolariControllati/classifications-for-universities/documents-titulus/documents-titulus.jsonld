@@ -3822,7 +3822,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Direttore   "
+        "@value": "Direttore"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#editorialNote": [
@@ -3844,7 +3844,7 @@
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "it",
-        "@value": "Direttore   "
+        "@value": "Direttore"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#topConceptOf": [
@@ -5387,7 +5387,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "it",
-        "@value": "Poli "
+        "@value": "Poli"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#editorialNote": [
@@ -5409,7 +5409,7 @@
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "it",
-        "@value": "Poli "
+        "@value": "Poli"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#topConceptOf": [

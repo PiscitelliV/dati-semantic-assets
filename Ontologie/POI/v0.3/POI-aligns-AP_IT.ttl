@@ -18,7 +18,7 @@
                                                       "Institute of Cognitive Sciences and Technologies of the Italian Research Council (CNR) - Semantic Technology Laboratory (STLab)"@en ,
                                                       "Italian Digital Transformation Team"@en ;
                                            dc:modified "2019-04-23" ;
-                                           dc:title "Questi sono gli allineamenti dell'ontologia sui punti di interesse Point of Interest - Italian Application Profile  (POI-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate."@it ,
+                                           dc:title "Questi sono gli allineamenti dell'ontologia sui punti di interesse Point of Interest - Italian Application Profile (POI-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate."@it ,
                                                     "These are the alignments to external ontologies widely used and available at the state of the art for the POI-AP_IT ontology"@en ;
                                            dct:issued "2017-10-20" .
 

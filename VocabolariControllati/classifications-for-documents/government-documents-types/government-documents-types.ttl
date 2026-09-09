@@ -278,7 +278,7 @@ ndc:keyConcept
       dct:identifier "2" ;
       skos:prefLabel "Modulistica"@it ;
       skos:relatedMatch <https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/service-input-output/ADMINDOC> ;
-      skos:definition "Rientrano in questo concetto l'insieme dei moduli in uso presso gli uffici della pubblica amministrazione. Esempi includono, modulo primario,  moduli allegati, ecc."@it .
+      skos:definition "Rientrano in questo concetto l'insieme dei moduli in uso presso gli uffici della pubblica amministrazione. Esempi includono, modulo primario, moduli allegati, ecc."@it .
 
 
 
@@ -331,7 +331,7 @@ ndc:keyConcept
       dct:identifier "7" ;
       skos:prefLabel "Documento (tecnico) di supporto"@it ;
       skos:altLabel "Documenti (tecnici) di supporto"@en ;
-      skos:definition "Qualunque documento, anche di natura tecnica, pubblicato dall'amministrazione  (e.g., slide, pubblicazioni generiche, rapporti tecnici, documenti di progetto, linee guida diverse da quelle dell'articolo 71 del Codice dell'Amministrazione Digitale)"@it .
+      skos:definition "Qualunque documento, anche di natura tecnica, pubblicato dall'amministrazione (e.g., slide, pubblicazioni generiche, rapporti tecnici, documenti di progetto, linee guida diverse da quelle dell'articolo 71 del Codice dell'Amministrazione Digitale)"@it .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-documents/government-documents-types/8>
       a  	skos:Concept ;

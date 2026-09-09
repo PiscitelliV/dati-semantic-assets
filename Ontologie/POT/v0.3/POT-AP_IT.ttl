@@ -463,16 +463,16 @@ This allows modelling Price Specification as a a quantified value, where the val
                                          dc:description """Any fare is expressed within the ontology by using instances of the class Offer.
 
 It is possible to specify:
- * the type of user to whom the offer is applicable  (cf. object property cis:hasEligibleUser);
+ * the type of user to whom the offer is applicable (cf. object property cis:hasEligibleUser);
  * the information about the price (cf. object property hasPriceSpecification);
  * the information about the temporal validity of the offer (cf. object property hasValidity);
  * the association with a ticket (cf. object property includes)."""@en ;
 
-                                         rdfs:comment "It represents an offer (reduction  for specific types of users or base price)."@en ;
+                                         rdfs:comment "It represents an offer (reduction for specific types of users or base price)."@en ;
 
                                          owl:versionInfo "stable"@en ;
 
-                                         rdfs:comment "Concetto utilizzato per rappresentare  offerte (riduzioni per specifiche categorie di utenti o importo intero)."@it ;
+                                         rdfs:comment "Concetto utilizzato per rappresentare offerte (riduzioni per specifiche categorie di utenti o importo intero)."@it ;
 
                                          owl:versionInfo "stabile"@it ;
 
@@ -571,11 +571,11 @@ It is associated to a currency (e.g., Euro) and a currency value (i.e., a quanti
                                                               owl:allValuesFrom rdfs:Literal
                                                             ] ;
 
-                                            rdfs:comment "It represents the identified type of users related to the tickets used to access an event or location. Examples include: people over 25 years old, people over 65 years old,  children, etc."@en ;
+                                            rdfs:comment "It represents the identified type of users related to the tickets used to access an event or location. Examples include: people over 25 years old, people over 65 years old, children, etc."@en ;
 
                                             owl:versionInfo "stable"@en ;
 
-                                            rdfs:comment "Rappresenta la tipologia di utenti relativa ai biglietti per accedere a un evento o a un luogo. Esempi includono:  \"maggiorenni over 25\", oppure \"over 65\", \"bambini\", ecc."@it ;
+                                            rdfs:comment "Rappresenta la tipologia di utenti relativa ai biglietti per accedere a un evento o a un luogo. Esempi includono: \"maggiorenni over 25\", oppure \"over 65\", \"bambini\", ecc."@it ;
 
                                             owl:versionInfo "stabile"@it ;
 

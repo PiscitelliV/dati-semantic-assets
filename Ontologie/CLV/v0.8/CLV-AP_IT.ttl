@@ -29,7 +29,7 @@
                                    
                                    owl:versionInfo "Version 0.8 - 03 March 2018 - Use of w3id.org/italia/onto as base URI."@en ;
                                    
-                                   rdfs:comment "Questa è l'ontologia del profilo di italiano sugli indirizzi che hanno anche una connotazione geografica (Italian Core Location Vocabulary - Application Profile  - CLV-AP_IT)"@it ;
+                                   rdfs:comment "Questa è l'ontologia del profilo di italiano sugli indirizzi che hanno anche una connotazione geografica (Italian Core Location Vocabulary - Application Profile - CLV-AP_IT)"@it ;
                                    
                                    owl:versionInfo "Versione 0.8 - 03 Marzo 2018 - Uso di w3id.org/italia/onto come base URI"@it ;
                                    
@@ -234,7 +234,7 @@ l0:controlledVocabulary rdf:type owl:AnnotationProperty .
          
          owl:versionInfo "unstable"@en ;
          
-         rdfs:comment "Questa proprietà specializza la proprietà ha componente indirzzo per collegare l'indirizzo alla componente Comune dello stesso.  Esempio di comune: Roma, Bologna, Palermo, Milano, ecc."@it ;
+         rdfs:comment "Questa proprietà specializza la proprietà ha componente indirzzo per collegare l'indirizzo alla componente Comune dello stesso. Esempio di comune: Roma, Bologna, Palermo, Milano, ecc."@it ;
          
          owl:versionInfo "provvisoria"@it ;
          
@@ -379,7 +379,7 @@ l0:controlledVocabulary rdf:type owl:AnnotationProperty .
                rdfs:label "has higher rank"@en ,
                           "ha livello più alto"@it ;
                
-               rdfs:comment "This property is used to  relate two named address component, where the first is more specific than the second."@en ;
+               rdfs:comment "This property is used to relate two named address component, where the first is more specific than the second."@en ;
                
                owl:versionInfo "unstable"@en ;
                
@@ -876,7 +876,7 @@ ti:atTime rdf:type owl:ObjectProperty .
      
      owl:versionInfo "stable"@en ;
      
-     rdfs:comment "Questa proprietà rappresenta l'altitudine, ovvero l'altezza di un oggetto spaziale rispetto alla superficie del livello medio del mare.. E'  proprietà associata alla geometria. Nel caso di geometria associata all'indirizzo, la proprietà  rappresenta l'altezza ortometrica dell’accesso esterno (civico) espressa nei sistemi di riferimento altimetrici nazionali ufficiali."@it ;
+     rdfs:comment "Questa proprietà rappresenta l'altitudine, ovvero l'altezza di un oggetto spaziale rispetto alla superficie del livello medio del mare.. E' proprietà associata alla geometria. Nel caso di geometria associata all'indirizzo, la proprietà rappresenta l'altezza ortometrica dell’accesso esterno (civico) espressa nei sistemi di riferimento altimetrici nazionali ufficiali."@it ;
      
      owl:versionInfo "stabile"@it ;
      
@@ -945,7 +945,7 @@ ti:atTime rdf:type owl:ObjectProperty .
           
           owl:versionInfo "stable"@en ;
           
-          rdfs:comment "Parte letterale del numero civico, ove presente o eventuale esponente attribuito al numero interno.  In quest'ultimo caso, l’utilizzo va preventivamente concordato con l’Istat"@it ;
+          rdfs:comment "Parte letterale del numero civico, ove presente o eventuale esponente attribuito al numero interno. In quest'ultimo caso, l’utilizzo va preventivamente concordato con l’Istat"@it ;
           
           owl:versionInfo "stabile"@it ;
           
@@ -1015,7 +1015,7 @@ ti:atTime rdf:type owl:ObjectProperty .
              
              owl:versionInfo "stable"@en ;
              
-             rdfs:comment "L'indirizzo completo scritto come una stringa. L'uso di questa proprietà  aiuta a comprendere l'indirizzo completo evitando possibili errori derivanti dal frazionamento dello stesso nelle sue rispettive componenti."@it ;
+             rdfs:comment "L'indirizzo completo scritto come una stringa. L'uso di questa proprietà aiuta a comprendere l'indirizzo completo evitando possibili errori derivanti dal frazionamento dello stesso nelle sue rispettive componenti."@it ;
              
              owl:versionInfo "stabile"@it ;
              
@@ -1588,7 +1588,7 @@ l0:name rdf:type owl:DatatypeProperty ;
          
          :hasRankOrder 1 ;
          
-         rdfs:comment "This class represents the  uppermost administrative unit for the address, almost always a country. \"United Kingdom\", \"Italy\", etc. In the Core Location Vocabulary this is modelled as adminUnit1."@en ;
+         rdfs:comment "This class represents the uppermost administrative unit for the address, almost always a country. \"United Kingdom\", \"Italy\", etc. In the Core Location Vocabulary this is modelled as adminUnit1."@en ;
          
          owl:versionInfo "stable"@en ;
          
@@ -1627,7 +1627,7 @@ l0:name rdf:type owl:DatatypeProperty ;
                        
                        owl:versionInfo "unstable"@en ;
                        
-                       rdfs:comment "Questa classe rappresenta il numero civico esterno e tutte le informazioni a esso collegate così come definite nell'ambito dell'anagrafe nazionale numeri civici e strate urbane.  I numeri civici individuano gli ACCESSI ESTERNI, cioè quelli che dall’area di circolazione immettono, direttamente o indirettamente, alle unità ecografiche semplici ossia abitazioni, esercizi commerciali, uffici e simili."@it ;
+                       rdfs:comment "Questa classe rappresenta il numero civico esterno e tutte le informazioni a esso collegate così come definite nell'ambito dell'anagrafe nazionale numeri civici e strate urbane. I numeri civici individuano gli ACCESSI ESTERNI, cioè quelli che dall’area di circolazione immettono, direttamente o indirettamente, alle unità ecografiche semplici ossia abitazioni, esercizi commerciali, uffici e simili."@it ;
                        
                        owl:versionInfo "provvisoria"@it ;
                        

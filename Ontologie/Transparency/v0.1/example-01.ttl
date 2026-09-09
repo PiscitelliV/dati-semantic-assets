@@ -67,10 +67,10 @@
 	tiapit:date "2019-05-17"^^xsd:date ;
 	trapit:hasTransparencyActivityTypology trapit:TransparencyPublicationActivity;
 	.
-  
+
 <https://w3id.org/italia/data/time-intervals/20130313> a tiapit:TimeInterval ;
 	tiapit:startTime "2013-03-13"^^xsd:date ;
-	tiapit:endTime "9999-12-31"^^xsd:date 
+	tiapit:endTime "9999-12-31"^^xsd:date
 	.
 
 
@@ -80,9 +80,9 @@
 	l0:description "Regione Campania: file contenente le informazioni sulle singole procedure di gara (contratti del 2018) in formato tabellare"@it ;
 	trapit:hasFormat <http://publications.europa.eu/resource/authority/file-type/CSV> ;
 	trapit:generatedBy <https://w3id.org/italia/data/transparency-activity/r_campan/publication-activity-01> ;
-	trapit:refersToTransparencyEntity 
+	trapit:refersToTransparencyEntity
 		<https://w3id.org/italia/data/lot/ZAB2435F70>,
-		<https://w3id.org/italia/data/office/r_campan/500714>, 
+		<https://w3id.org/italia/data/office/r_campan/500714>,
 		<https://w3id.org/italia/data/call-for-competition/ZAB2435F70> ;
 	trapit:mustBeUptodatedWithin <http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT> ;
 	tiapit:modifed "2013-05-14"^^xsd:date ;
@@ -112,7 +112,7 @@
 	trapit:refersToTransparencySubject <https://w3id.org/italia/data/transparency-subject/total-amount-paid> ;
 	trapit:refersToTransparencySubject <https://w3id.org/italia/data/transparency-subject/cig> ;
 	.
-    
+
 <https://w3id.org/italia/data/procedure/ZAB2435F70> a pcapit:Procedure ;
 	# SHOULD :hasCPV, :hasProcurementDocument, :includesLot
 	# SHOULD roapit:holdsRoleInTime
@@ -131,20 +131,20 @@
 	l0:name "Importo delle somme liquidate"@it ;
 	l0:description "Importo delle somme liquidate"@it ;
 	.
-  
+
 # TransparencySubject: "Oggetto del Bando"
 <https://w3id.org/italia/data/transparency-subject/call-for-competition-subject> a trapit:TransparencySubject ;
 	l0:name "Oggetto del Bando"@it ;
 	l0:description "Oggetto del Bando"@it ;
 	.
-  
+
 # Bando
 <https://w3id.org/italia/data/call-for-competition/ZAB2435F70> a pcapit:CallForCompetition ;
 	l0:name "Bando ZAB2435F70" ;
 	l0:description "Acquisto materiale di rapido consumo..."@it ;
 	trapit:refersToTransparencySubject <https://w3id.org/italia/data/transparency-subject/call-for-competition-subject> ;
 	.
-  
+
 
 [] rdfs:comment """
 
@@ -153,7 +153,7 @@ SOURCE: http://www.regione.campania.it/regione/it/amministrazione-trasparente-fy
 DOWNLOAD: http://www.regione.campania.it/assets/documents/at-contratti-anno2018.csv
 SEE: riga 1214
 
-Path: 
+Path:
 Amministrazione Trasparente
     Bandi di gara e contratti
     Informazioni sulle singole procedure in formato tabellare

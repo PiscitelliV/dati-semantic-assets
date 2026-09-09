@@ -90,7 +90,7 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "This property links an online contact  point with one or more email addresses of various types."
+          "@value": "This property links an online contact point with one or more email addresses of various types."
         },
         {
           "@language": "it",
@@ -996,7 +996,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa  classe rappresenta un social media come, ad esempio, un social network (ex. Facebook, Twitter, ecc...)."
+          "@value": "Questa classe rappresenta un social media come, ad esempio, un social network (ex. Facebook, Twitter, ecc...)."
         },
         {
           "@language": "en",
@@ -1800,7 +1800,7 @@
         },
         {
           "@language": "en",
-          "@value": "This class represents the type of Telephone. The value of this class are those defined in the controlled vocabulary http://dati.gov.it/onto/controlledvocabulary/Channel and in particular the final values of the category telephone (http://dati.gov.it/onto/controlledvocabulary/Channel/03 that are the following: http://dati.gov.it/onto/controlledvocabulary/Channel/031 (Voice) http://dati.gov.it/onto/controlledvocabulary/Channel/032 (Call Center)  http://dati.gov.it/onto/controlledvocabulary/Channel/033 (Fax)"
+          "@value": "This class represents the type of Telephone. The value of this class are those defined in the controlled vocabulary http://dati.gov.it/onto/controlledvocabulary/Channel and in particular the final values of the category telephone (http://dati.gov.it/onto/controlledvocabulary/Channel/03 that are the following: http://dati.gov.it/onto/controlledvocabulary/Channel/031 (Voice) http://dati.gov.it/onto/controlledvocabulary/Channel/032 (Call Center) http://dati.gov.it/onto/controlledvocabulary/Channel/033 (Fax)"
         }
       ],
       "rdfs:isDefinedBy": {

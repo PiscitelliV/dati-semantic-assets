@@ -22,7 +22,7 @@
     dc:modified "2018-08-25"^^xsd:date ;
     owl:versionInfo "Versione 0.1 - creazione allineamento alle specifiche del database geotopografico"@it ;
     dc:title "These are the alignments to Italian GeoTopographic Database"@en ;
-    dc:title "Questi sono gli allineamenti dell'ontologia sugli indirizzi/luoghi Core Location Vocabulary - Italian Application Profile  (CLV-AP_IT) alle specifiche del database geotopografico." ;
+    dc:title "Questi sono gli allineamenti dell'ontologia sugli indirizzi/luoghi Core Location Vocabulary - Italian Application Profile (CLV-AP_IT) alle specifiche del database geotopografico." ;
 
     owl:imports <https://w3id.org/italia/onto/CLV> .
 

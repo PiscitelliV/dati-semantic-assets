@@ -19,7 +19,7 @@
                                                       <https://w3id.org/italia/onto/l0> ;
                                           dc:modified "2019-04-24"^^xsd:date ;
                                           owl:versionInfo "Version 0.8 on 24 April 2019 - better alignment with DOLCE\""@en ,
-                                                          "Versione 0.8  del 24 Aprile 2019 - Revisione degli allineamenti a Dolce Ultra Light e DOLCE\""@it .
+                                                          "Versione 0.8 del 24 Aprile 2019 - Revisione degli allineamenti a Dolce Ultra Light e DOLCE\""@it .
 
 #################################################################
 #    Annotation properties

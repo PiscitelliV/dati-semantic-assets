@@ -1253,7 +1253,7 @@ ndc:keyConcept
     skos:notation "N.2" ;
     dct:identifier "N.2" ;
     clvapit:hasRankOrder "2" ;
-    skos:prefLabel "Acquedotto "@it ;
+    skos:prefLabel "Acquedotto"@it ;
     skos:exactMatch <https://schema.org/Airport> ;
     skos:altLabel "Acquedotti"@it .
 

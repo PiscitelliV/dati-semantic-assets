@@ -2134,7 +2134,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "Property used to represent the sex as defined in the related Sex controlled vocabulary  https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex"
+    "@value" : "Property used to represent the sex as defined in the related Sex controlled vocabulary https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex"
   }, {
     "@language" : "it",
     "@value" : "Proprietà utilizzata per rappresentare il sesso di una persona come definito nel vocabolario controllato sul sesso: https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex"
@@ -2173,7 +2173,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty", "http://www.w3.org/2002/07/owl#FunctionalProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Codice della voce del vocabolario controllato sul sesso  https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex. Esso assume i valori \"M\" e \"F\"."
+    "@value" : "Codice della voce del vocabolario controllato sul sesso https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex. Esso assume i valori \"M\" e \"F\"."
   }, {
     "@language" : "en",
     "@value" : "Sex code used in the sex controlled vocabulary https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex. It assumes the values \"F\" and \"M\"."
@@ -2212,7 +2212,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Il codice fiscale di  una persona."
+    "@value" : "Il codice fiscale di una persona."
   }, {
     "@language" : "en",
     "@value" : "The tax code of a person."

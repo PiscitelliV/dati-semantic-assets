@@ -332,7 +332,7 @@ l0:name rdf:type owl:DatatypeProperty ;
                       
                       owl:disjointWith :SinglePublicEvent ;
                       
-                      rdfs:comment "This class represents composite public events that are aggregations of multiple events, possibly occurring in parallel, each of which is described independently in the event program.  Example can be the celebration of the anniversary of the Italian Republic."@en ;
+                      rdfs:comment "This class represents composite public events that are aggregations of multiple events, possibly occurring in parallel, each of which is described independently in the event program. Example can be the celebration of the anniversary of the Italian Republic."@en ;
                       
                       owl:versionInfo "stable"@en ;
                       
@@ -393,7 +393,7 @@ l0:name rdf:type owl:DatatypeProperty ;
                                owl:allValuesFrom smapit:OnlineContactPoint
                              ] ;
              
-             rdfs:comment "This class represents a public event (e.g., a football match, a  conference, a book presentation, etc.)."@en ;
+             rdfs:comment "This class represents a public event (e.g., a football match, a conference, a book presentation, etc.)."@en ;
              
              owl:versionInfo "stable"@en ;
              

@@ -328,7 +328,7 @@
 
 :094    a                     trapit:TransparencySubject , skos:Concept ;
         dct:identifier        "094" ;
-        skos:definition       "Le modalità di pagamento definiscono i termini di scadenza della fattura e le tipologie di pagamento (Assegno, Bonifico Bancario, Ricevuta Bancaria, vaglia, contrassegno etc.). "@it ;
+        skos:definition       "Le modalità di pagamento definiscono i termini di scadenza della fattura e le tipologie di pagamento (Assegno, Bonifico Bancario, Ricevuta Bancaria, vaglia, contrassegno etc.)."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "094" ;
         skos:prefLabel        "Payment method"@en , "Modalità pagamento"@it ;
@@ -424,7 +424,7 @@
 
 :110    a                     trapit:TransparencySubject , skos:Concept ;
         dct:identifier        "110" ;
-        skos:definition       "Prezzo concordato  per la realizzazione del lotto."@it ;
+        skos:definition       "Prezzo concordato per la realizzazione del lotto."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "110" ;
         skos:prefLabel        "Importo di aggiudicazione"@it , "Agreed amount"@en ;
@@ -432,7 +432,7 @@
 
 :081    a                     trapit:TransparencySubject , skos:Concept ;
         dct:identifier        "081" ;
-        skos:definition       " L'insieme dei documenti contabili volto ad accertare la situazione finanziaria e patrimoniale."@it ;
+        skos:definition       "L'insieme dei documenti contabili volto ad accertare la situazione finanziaria e patrimoniale."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "081" ;
         skos:prefLabel        "Balance sheet"@en , "Documento di bilancio"@it ;
@@ -458,7 +458,7 @@
 
 :210    a                     trapit:TransparencySubject , skos:Concept ;
         dct:identifier        "210" ;
-        skos:definition       " Raccolta di dati che si proponga di dare una visione d'insieme sull'utilizzo di un servizio."@it ;
+        skos:definition       "Raccolta di dati che si proponga di dare una visione d'insieme sull'utilizzo di un servizio."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "210" ;
         skos:prefLabel        "Usage statistics"@en , "Statistica di utilizzo"@it ;
@@ -504,7 +504,7 @@
         skos:definition       "Documento di piano sugli indicartori di bilancio."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "139" ;
-        skos:prefLabel        "Piano degli indicatori"@it , "Budget index plan "@en ;
+        skos:prefLabel        "Piano degli indicatori"@it , "Budget index plan"@en ;
         skos:relatedMatch     <https://w3id.org/italia/controlled-vocabulary/classifications-for-documents/government-documents-types/7> ;
         clvapit:hasRankOrder  1 .
 
@@ -568,7 +568,7 @@
         skos:definition       "Atto contenente regole di comportamento di carattere tecnico, a chiarimento di altre norme (di legge) generali o (amministrative) particolari, ed inviati da uffici superiori ad uffici inferiori, o talvolta da uffici tecnici ad uffici amministrativi."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "005" ;
-        skos:prefLabel        "Documento di istruzioni "@it , "Instruction"@en ;
+        skos:prefLabel        "Documento di istruzioni"@it , "Instruction"@en ;
         skos:relatedMatch     <https://w3id.org/italia/controlled-vocabulary/classifications-for-documents/government-documents-types/3> ;
         clvapit:hasRankOrder  1 .
 
@@ -675,7 +675,7 @@
 
 :197    a                     trapit:TransparencySubject , skos:Concept ;
         dct:identifier        "197" ;
-        skos:definition       " Compito, commissione, incombenza che si affida a qualcuno o che qualcuno sponteneamente si assume."@it ;
+        skos:definition       "Compito, commissione, incombenza che si affida a qualcuno o che qualcuno sponteneamente si assume."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "197" ;
         skos:prefLabel        "Incarico generico"@it , "Generic professional assignment"@en ;
@@ -755,7 +755,7 @@
         skos:definition       "Regole in base alla quale è possibile determinare la formazione di una attività o documento."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "213" ;
-        skos:prefLabel        "Criterio di formazione "@it , "Composition criterion"@en ;
+        skos:prefLabel        "Criterio di formazione"@it , "Composition criterion"@en ;
         clvapit:hasRankOrder  1 .
 
 :021    a                     skos:Concept , trapit:TransparencySubject ;
@@ -779,7 +779,7 @@
 
 :163    a                     trapit:TransparencySubject , skos:Concept ;
         dct:identifier        "163" ;
-        skos:definition       "Impresa che  ha diritto di riscuotere una somma o di ricevere una prestazione ."@it ;
+        skos:definition       "Impresa che ha diritto di riscuotere una somma o di ricevere una prestazione ."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "163" ;
         skos:prefLabel        "Impresa creditrice"@it , "Creditor company"@en ;
@@ -814,7 +814,7 @@
 
 :092    a                     trapit:TransparencySubject , skos:Concept ;
         dct:identifier        "092" ;
-        skos:definition       " Strumenti di tutela amministrativa e giurisdizionale."@it ;
+        skos:definition       "Strumenti di tutela amministrativa e giurisdizionale."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "092" ;
         skos:prefLabel        "Strumento di tutela"@it , "Judicial protection instrument"@en ;
@@ -830,7 +830,7 @@
 
 :050    a                     trapit:TransparencySubject , skos:Concept ;
         dct:identifier        "050" ;
-        skos:definition       "Totale della  retribuzione corrisposta per una prestazione continuativa o saltuaria di carattere professionale."@it ;
+        skos:definition       "Totale della retribuzione corrisposta per una prestazione continuativa o saltuaria di carattere professionale."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "050" ;
         skos:prefLabel        "Total amount of emoluments"@en , "Ammontare complessivo degli emolumenti"@it ;
@@ -1096,7 +1096,7 @@
         skos:definition       "L'IBAN è un codice utilizzato nelle transazioni fra conti correnti diversi e che all'interno contiene l'identificazione del paese, della banca e del numero di conto corrente, il tutto in un unico codice."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "095" ;
-        skos:prefLabel        "IBAN "@en , "Codice IBAN"@it ;
+        skos:prefLabel        "IBAN"@en , "Codice IBAN"@it ;
         clvapit:hasRankOrder  1 .
 
 :074    a                     trapit:TransparencySubject , skos:Concept ;
@@ -1134,7 +1134,7 @@
 
 :203    a                     trapit:TransparencySubject , skos:Concept ;
         dct:identifier        "203" ;
-        skos:definition       "Enti di diritto  privato sottoposti a controllo da parte di amministrazioni pubbliche, oppure gli enti costituiti o vigilati da pubbliche amministrazioni nei quali siano a queste riconosciuti, anche in assenza di una partecipazione azionaria, poteri di nomina dei vertici o dei componenti degli organi."@it ;
+        skos:definition       "Enti di diritto privato sottoposti a controllo da parte di amministrazioni pubbliche, oppure gli enti costituiti o vigilati da pubbliche amministrazioni nei quali siano a queste riconosciuti, anche in assenza di una partecipazione azionaria, poteri di nomina dei vertici o dei componenti degli organi."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "203" ;
         skos:prefLabel        "Ente di diritto privato controllato"@it , "Controlled private law unit"@en ;
@@ -1143,7 +1143,7 @@
 :011    a                     skos:Concept , trapit:TransparencySubject ;
         dct:identifier        "011" ;
         skos:altLabel         "Codice di condotta"@it ;
-        skos:definition       "Il codice disciplinare è quell’insieme di regole di condotta che il lavoratore è tenuto ad osservare sul luogo di lavoro. Lo stesso normalmente prevede una predeterminazione o una tipizzazione delle infrazioni, sanzioni e delle relative procedure di contestazione. "@it ;
+        skos:definition       "Il codice disciplinare è quell’insieme di regole di condotta che il lavoratore è tenuto ad osservare sul luogo di lavoro. Lo stesso normalmente prevede una predeterminazione o una tipizzazione delle infrazioni, sanzioni e delle relative procedure di contestazione."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "011" ;
         skos:prefLabel        "Disciplinary code"@en , "Codice disciplinare"@it ;
@@ -1241,7 +1241,7 @@
         skos:definition       "Soggetto che ha terminato un incarico."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "019" ;
-        skos:prefLabel        "Ruolo di cessato dall'incarico "@it , "Terminated from office"@en ;
+        skos:prefLabel        "Ruolo di cessato dall'incarico"@it , "Terminated from office"@en ;
         clvapit:hasRankOrder  1 .
 
 :182    a                     skos:Concept , trapit:TransparencySubject ;
@@ -1331,7 +1331,7 @@
 
 :006    a                     skos:Concept , trapit:TransparencySubject ;
         dct:identifier        "006" ;
-        skos:definition       "Per atto giuridico si intende qualsiasi manifestazione di volontà, di scienza o di giudizio (ovvero, in generale, qualunque atto umano) capace di produrre effetti giuridici. "@it ;
+        skos:definition       "Per atto giuridico si intende qualsiasi manifestazione di volontà, di scienza o di giudizio (ovvero, in generale, qualunque atto umano) capace di produrre effetti giuridici."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "006" ;
         skos:prefLabel        "Legal act"@en , "Atto giuridico"@it ;
@@ -1389,7 +1389,7 @@
         skos:definition       "Misura di partecipazione dell'amministrazione in una società controllata."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "077" ;
-        skos:prefLabel        "Level of  participation of the administration"@en , "Misura di partecipazione dell'amministrazione"@it ;
+        skos:prefLabel        "Level of participation of the administration"@en , "Misura di partecipazione dell'amministrazione"@it ;
         clvapit:hasRankOrder  1 .
 
 :056    a                     trapit:TransparencySubject , skos:Concept ;
@@ -1515,7 +1515,7 @@
         skos:definition       "Classificazione delle diversi tipi di spesa."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "214" ;
-        skos:prefLabel        "Type of expenditure"@en , "Tipologia di spesa "@it ;
+        skos:prefLabel        "Type of expenditure"@en , "Tipologia di spesa"@it ;
         clvapit:hasRankOrder  1 .
 
 :022    a                     skos:Concept , trapit:TransparencySubject ;
@@ -1600,7 +1600,7 @@
 
 :051    a                     trapit:TransparencySubject , skos:Concept ;
         dct:identifier        "051" ;
-        skos:definition       "Numero  dei posti di funzione che si rendono disponibili nella dotazione organica."@it ;
+        skos:definition       "Numero dei posti di funzione che si rendono disponibili nella dotazione organica."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "051" ;
         skos:prefLabel        "Total amount of available positions"@en , "Numero posti di funzione disponibile"@it ;
@@ -1693,7 +1693,7 @@
 
 :230    a                     trapit:TransparencySubject , skos:Concept ;
         dct:identifier        "230" ;
-        skos:definition       "Link alle norme di legge statale pubblicate nella banca dati \"Normattiva\" "@it ;
+        skos:definition       "Link alle norme di legge statale pubblicate nella banca dati \"Normattiva\""@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "230" ;
         skos:prefLabel        "Link to Narmattiva"@en , "Link a Normattiva"@it ;
@@ -1823,7 +1823,7 @@
 :188    a                     skos:Concept , trapit:TransparencySubject ;
         dct:identifier        "188" ;
         skos:altLabel         "Salute e sicurezza umana"@it ;
-        skos:definition       " Stato della salute e della sicurezza umana, compresa la contaminazione della catena alimentare, le condizioni della vita umana."@it ;
+        skos:definition       "Stato della salute e della sicurezza umana, compresa la contaminazione della catena alimentare, le condizioni della vita umana."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "188" ;
         skos:prefLabel        "Stato della salute e sicurezza umana"@it , "Human health and safety"@en ;
@@ -1887,7 +1887,7 @@
         skos:definition       "Numero totale del personale."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "054" ;
-        skos:prefLabel        "Numero totale del personale"@it , "Total amount of personnel "@en ;
+        skos:prefLabel        "Numero totale del personale"@it , "Total amount of personnel"@en ;
         clvapit:hasRankOrder  1 .
 
 :225    a                     skos:Concept , trapit:TransparencySubject ;
@@ -1895,7 +1895,7 @@
         skos:definition       "Atto formale dell'Amministrazione finanziaria di contestazione al contribuente in merito all'adempimento di una specifica obbligazione tributaria."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "225" ;
-        skos:prefLabel        "Assessment act"@en , "Atto di accertamento "@it ;
+        skos:prefLabel        "Assessment act"@en , "Atto di accertamento"@it ;
         skos:relatedMatch     <https://w3id.org/italia/controlled-vocabulary/classifications-for-documents/government-documents-types/4> ;
         clvapit:hasRankOrder  1 .
 
@@ -1951,7 +1951,7 @@
 
 :133    a                     trapit:TransparencySubject , skos:Concept ;
         dct:identifier        "133" ;
-        skos:definition       " la concessione è il provvedimento amministrativo con cui la pubblica amministrazione conferisce ex novo situazioni giuridiche soggettive attive al beneficiario, ampliandone la sfera giuridica."@it ;
+        skos:definition       "la concessione è il provvedimento amministrativo con cui la pubblica amministrazione conferisce ex novo situazioni giuridiche soggettive attive al beneficiario, ampliandone la sfera giuridica."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "133" ;
         skos:prefLabel        "Atto di concessione"@it , "Act of concession"@en ;
@@ -2055,7 +2055,7 @@
 
 :091    a                     trapit:TransparencySubject , skos:Concept ;
         dct:identifier        "091" ;
-        skos:altLabel         "Termine "@it ;
+        skos:altLabel         "Termine"@it ;
         skos:definition       "Termine temporale, data di scadenza."@it ;
         skos:inScheme         <https://w3id.org/italia/controlled-vocabulary/classifications-for-trasparency/transparency-subject> ;
         skos:notation         "091" ;

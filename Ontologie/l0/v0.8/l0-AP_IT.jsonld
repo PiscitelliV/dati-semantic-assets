@@ -415,7 +415,7 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "Any entity that typically flows in time, either in the physical or social world  Examples include athmospheric phenomena, concerts, travels, institutional processes, etc.\nIt also represents a relational context created by an observer on the basis of a frame'\nEvents are opposable to objects, since events typically flow in time, aggregating multiple objects during their flow, while objects tend to be stable in a certain time interval."
+          "@value": "Any entity that typically flows in time, either in the physical or social world Examples include athmospheric phenomena, concerts, travels, institutional processes, etc.\nIt also represents a relational context created by an observer on the basis of a frame'\nEvents are opposable to objects, since events typically flow in time, aggregating multiple objects during their flow, while objects tend to be stable in a certain time interval."
         },
         {
           "@language": "it",
@@ -1313,7 +1313,7 @@
       "dcterms:description": [
         {
           "@language": "it",
-          "@value": "Questa è l'ontologia che fornisce il livello fondazionale allo stack ontologico di OntoPiA. Il nome L0 sta per Level-0 ontology poiché essa fornisce le fondamenta concettuali elementari all'intero stack. Questa ontologia è  ispirata da DOLCE zero (http://www.ontologydesignpatterns.org/ont/d0.owl)"
+          "@value": "Questa è l'ontologia che fornisce il livello fondazionale allo stack ontologico di OntoPiA. Il nome L0 sta per Level-0 ontology poiché essa fornisce le fondamenta concettuali elementari all'intero stack. Questa ontologia è ispirata da DOLCE zero (http://www.ontologydesignpatterns.org/ont/d0.owl)"
         },
         {
           "@language": "en",
@@ -1374,7 +1374,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa è l'ontologia che fornisce il livello fondazionale allo stack ontologico di OntoPiA. Il nome L0 sta per Level-0 ontology poiché essa fornisce le fondamenta concettuali elementari all'intero stack. Questa ontologia è  ispirata da DOLCE zero (http://www.ontologydesignpatterns.org/ont/d0.owl)"
+          "@value": "Questa è l'ontologia che fornisce il livello fondazionale allo stack ontologico di OntoPiA. Il nome L0 sta per Level-0 ontology poiché essa fornisce le fondamenta concettuali elementari all'intero stack. Questa ontologia è ispirata da DOLCE zero (http://www.ontologydesignpatterns.org/ont/d0.owl)"
         },
         {
           "@language": "en",

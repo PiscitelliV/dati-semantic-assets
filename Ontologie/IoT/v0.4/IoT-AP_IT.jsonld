@@ -212,7 +212,7 @@
       "@value" : "Questa classe rappresenta una geometria. La geometria è uno strumento per rappresentare un luogo come un punto, una linea un poligono, ecc. espresso utilizzando coordinate geografiche definite nell'ambito di un sistema di riferimento di coordinate geografiche. La classe è definita è definita nel profilo application italiano core location. Le sue proprietà non sono tuttavia definite nell'OWL dal momento che, in pratica, meccanismi di codifica di geometrie includono già tutte queste proprietà. Aalmeno una delle seguenti codifiche deve essere utilizzata: GML o WKT."
     }, {
       "@language" : "en",
-      "@value" : "This class represents a geometry. A geometry provides the means to identify a location as a point, line, polygon, etc. expressed using coordinates in some coordinate reference system. The class is defined in the italian core location application profile.. Its properties  are not defined in the OWL since in practice  geometry encodings all include already these properties. At least one of the following encodings must be used: GML or WKT."
+      "@value" : "This class represents a geometry. A geometry provides the means to identify a location as a point, line, polygon, etc. expressed using coordinates in some coordinate reference system. The class is defined in the italian core location application profile.. Its properties are not defined in the OWL since in practice geometry encodings all include already these properties. At least one of the following encodings must be used: GML or WKT."
     } ],
     "isDefinedBy" : "http://dati.gov.it/onto/clapit",
     "label" : [ {
@@ -576,7 +576,7 @@
     "@type" : "owl:Class",
     "comment" : [ {
       "@language" : "it",
-      "@value" : "Questa classe rappresenta l'errore di compensazione, ovvero  la differenza tra il valore reale di uscita e il valore di uscita specificato in alcune particolari condizioni."
+      "@value" : "Questa classe rappresenta l'errore di compensazione, ovvero la differenza tra il valore reale di uscita e il valore di uscita specificato in alcune particolari condizioni."
     }, {
       "@language" : "en",
       "@value" : "It represents the offset error; that is, the difference between the actual output value and the specified output value under some particular set of conditions."
@@ -605,7 +605,7 @@
       "@value" : "Questa classe rappresenta la Precisione, ovvero il grado di riproducibilità di una misura. In altre parole, se esattamente gli stessi valori sono stati misurati un certo numero di volte, un sensor ideale produrrebbe come output esattamente lo stesso valore ogni volta."
     }, {
       "@language" : "en",
-      "@value" : "It represents the Precision; i.e., the  degree of reproducibility of a measurement. In other words, if exactly the same values were measured a number of times, an ideal sensor would output exactly the same value every time."
+      "@value" : "It represents the Precision; i.e., the degree of reproducibility of a measurement. In other words, if exactly the same values were measured a number of times, an ideal sensor would output exactly the same value every time."
     } ],
     "isDefinedBy" : "http://dati.gov.it/onto/iotapit",
     "label" : [ {
@@ -657,7 +657,7 @@
       "@value" : "Classe che rappresenta un arco stradale. Se l'ontologia è utilizzata per rappresentare eventi IoT nell'ambito dei dati real time sul traffico, la classe è rilevante e connota l'arco stradale dell'osservazione."
     }, {
       "@language" : "en",
-      "@value" : "This class represents the Road Segment  If the ontology is used to represent IoT events in the context of real time data traffic, the class is revelant and it represents the road segment of the observation."
+      "@value" : "This class represents the Road Segment If the ontology is used to represent IoT events in the context of real time data traffic, the class is revelant and it represents the road segment of the observation."
     } ],
     "isDefinedBy" : "http://dati.gov.it/onto/iotapit",
     "label" : [ {
@@ -680,7 +680,7 @@
     "@type" : "owl:Class",
     "comment" : [ {
       "@language" : "it",
-      "@value" : "Questa classe rappresenta un sensore. Un sensore è uno strumento il cui scopo è quello di rilevare e rispondere a eventi o cambiamenti che avvengono nel proprio ambienti. L'informazione rilevata può essere  utilizzata e distribuita per successive elaborazioni."
+      "@value" : "Questa classe rappresenta un sensore. Un sensore è uno strumento il cui scopo è quello di rilevare e rispondere a eventi o cambiamenti che avvengono nel proprio ambienti. L'informazione rilevata può essere utilizzata e distribuita per successive elaborazioni."
     }, {
       "@language" : "en",
       "@value" : "This class represents a sensor. A sensor is a device whose purpose is to detect and respond to events or changes in its environment. The detected information can be used and disseminated for successive elaborations."
@@ -733,7 +733,7 @@
     "@type" : "owl:ObjectProperty",
     "comment" : [ {
       "@language" : "it",
-      "@value" : "Questa proprietà è sotto proprietà di atTime e mira a rappresentare il tempo di generazione  dell'osservazione di un qualsiasi evento IoT. Nell'ambito dei dati raccolti sul traffico è il tempo di invocazione delle API del sensore"
+      "@value" : "Questa proprietà è sotto proprietà di atTime e mira a rappresentare il tempo di generazione dell'osservazione di un qualsiasi evento IoT. Nell'ambito dei dati raccolti sul traffico è il tempo di invocazione delle API del sensore"
     }, {
       "@language" : "en",
       "@value" : "This property is subproperty of atTime and aims at representing the generation time of the observation in case of any IoT event. In the context of the real time traffic data collected, it is the sensor API time invocation."
@@ -1091,7 +1091,7 @@
       "@value" : "Proprietà inversa di ha valore dell'osservazione che lega un valore dell'osservazione al parametro dell'osservazione."
     }, {
       "@language" : "en",
-      "@value" : "Inverse property of has observation value that links an observation value to the  observation parameter"
+      "@value" : "Inverse property of has observation value that links an observation value to the observation parameter"
     } ],
     "domain" : "http://dati.gov.it/onto/iotapit/ObservationValue",
     "isDefinedBy" : "http://dati.gov.it/onto/iotapit/",
@@ -1254,7 +1254,7 @@
     "@type" : "owl:DatatypeProperty",
     "comment" : [ {
       "@language" : "en",
-      "@value" : "This property is defined in http://purl.org/dc/terms and it has been added in order to model the description of the Things of the Italian  IoT Applicaiton Profile."
+      "@value" : "This property is defined in http://purl.org/dc/terms and it has been added in order to model the description of the Things of the Italian IoT Applicaiton Profile."
     }, {
       "@id" : "http://purl.org/dc/terms"
     }, {
@@ -1458,7 +1458,7 @@
       "@value" : "Questa classe è definita in http://www.ontologydesignpatterns.org/ont/dul/DUL.owl ed è utilizzata per l'allineamento dell'ontologia all'ontologia fondazionale DUL. La classe rappresenta un concetto che classifica una regione. La differenza tra una regione e un parametro è che la regione rappresenta insiemi di valori osservabili, e.g., l'altezza di un dato edificio mentre il parametro rappresenta vincoli o selezioni su valori osservabili , e.g., \"molto alto\"."
     }, {
       "@language" : "en",
-      "@value" : "This class is defined in http://www.ontologydesignpatterns.org/ont/dul/DUL.owl and it is used to align this ontology to the foundational one DUL. The class represents a Concept that classifies a Region; the difference between a Region and a Parameter is that regions represent sets of observable values, e.g. the height  of a given building, while parameters represent constraints or selections on observable values, e.g. 'VeryHigh'."
+      "@value" : "This class is defined in http://www.ontologydesignpatterns.org/ont/dul/DUL.owl and it is used to align this ontology to the foundational one DUL. The class represents a Concept that classifies a Region; the difference between a Region and a Parameter is that regions represent sets of observable values, e.g. the height of a given building, while parameters represent constraints or selections on observable values, e.g. 'VeryHigh'."
     } ],
     "isDefinedBy" : "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl",
     "label" : [ {
@@ -1508,7 +1508,7 @@
       "@value" : "Questa classe è definita in http://www.ontologydesignpatterns.org/ont/dul/DUL.owl# e rappresnta l'allineamento di questa ontologia a quella fondazionale DUL. La classe rappresenta una regione che è qualsiasi regione in uno spazio dimensionale che può essere usato come valore per una qualità di un'entitò."
     }, {
       "@language" : "en",
-      "@value" : "This class is defined in http://www.ontologydesignpatterns.org/ont/dul/DUL.owl and it is used in order to align the ontology to the foundational one DUL. The class represents a region; that is, any region in a dimensional space, which can be used as a value for a quality of an Entity . \nRegions are not data values in the ordinary knowledge representation sense"
+      "@value" : "This class is defined in http://www.ontologydesignpatterns.org/ont/dul/DUL.owl and it is used in order to align the ontology to the foundational one DUL. The class represents a region; that is, any region in a dimensional space, which can be used as a value for a quality of an Entity .\nRegions are not data values in the ordinary knowledge representation sense"
     } ],
     "isDefinedBy" : "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl",
     "label" : [ {
@@ -1533,7 +1533,7 @@
       "@value" : "La classe è definita in ttp://www.ontologydesignpatterns.org/ont/dul/DUL.owl e, nel contesto della presente ontologia, è utilizzata per l'allineamento con l'ontologia fondazionale DUL. La classe rappresenta una vista, consistente con una descrizione, su un insieme di entità. Essa può essere vista come un 'contesto relazionale' creato da un osservatore sulla base di un 'frame' (i.e., una descrizione). Per esempio, un Piano di esecuzione è un contesto che include un insieme di azioni eseguite da agenti secondo determinati parametri e task predefinit che devono essere raggiunti e che formano il piano; una situazione diagnostica è un contesto di entità osservate che è interpretato sulla base di una diagnosi, ecc."
     }, {
       "@language" : "en",
-      "@value" : "This class is defined in http://www.ontologydesignpatterns.org/ont/dul/DUL.owl and, in the context of this ontology is used to align with the DUL ontology. The class represents a view, consistent with ('satisfying') a Description, on a set of entities. \nIt can also be seen as a 'relational context' created by an observer on the basis of a 'frame' (i.e. a Description). \nFor example, a PlanExecution is a context including some actions executed by agents according to certain parameters and expected tasks to be achieved from a Plan; a DiagnosedSituation is a context of observed entities that is interpreted on the basis of a Diagnosis, etc."
+      "@value" : "This class is defined in http://www.ontologydesignpatterns.org/ont/dul/DUL.owl and, in the context of this ontology is used to align with the DUL ontology. The class represents a view, consistent with ('satisfying') a Description, on a set of entities.\nIt can also be seen as a 'relational context' created by an observer on the basis of a 'frame' (i.e. a Description).\nFor example, a PlanExecution is a context including some actions executed by agents according to certain parameters and expected tasks to be achieved from a Plan; a DiagnosedSituation is a context of observed entities that is interpreted on the basis of a Diagnosis, etc."
     } ],
     "isDefinedBy" : "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl",
     "label" : [ {
@@ -1631,7 +1631,7 @@
       "@value" : "Questa classe è definita in http://www.w3.org/ns/ssn/ ed è utilizzata per l'allineamento dell'ontologia alla Semantic Network Ontology. La classe modella una caratteristica identificabile e osservabile che rappresenta l'abilità del sistema di operare secondo il suo principale scopo."
     }, {
       "@language" : "en",
-      "@value" : "This class is defined in http://www.w3.org/ns/ssn/ and it is used to align the ontology with the Semantic Sensor Network Ontology. The class models  An identifiable and observable characteristic that represents the System's ability to operate its primary purpose."
+      "@value" : "This class is defined in http://www.w3.org/ns/ssn/ and it is used to align the ontology with the Semantic Sensor Network Ontology. The class models An identifiable and observable characteristic that represents the System's ability to operate its primary purpose."
     } ],
     "isDefinedBy" : "http://www.w3.org/ns/ssn/",
     "label" : [ {

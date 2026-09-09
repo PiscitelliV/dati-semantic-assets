@@ -28,7 +28,7 @@
                                    
                                    rdfs:comment "This is the ontology of the Italian application profile for Persons"@en ;
                                    
-                                   owl:versionInfo "Version 0.5 - 03  March 2018 - use of w3id.org/italia as base URI"@en ;
+                                   owl:versionInfo "Version 0.5 - 03 March 2018 - use of w3id.org/italia as base URI"@en ;
                                    
                                    dc:creator "Agenzia per l'italia Digitale (AgID)"@it ,
                                               "Istituto Nazionale di Statistica - ISTAT"@it ,
@@ -1072,7 +1072,7 @@ xsd:date rdf:type rdfs:Datatype .
          
          owl:versionInfo "stable"@en ;
          
-         rdfs:comment "Il codice fiscale di  una persona."@it ;
+         rdfs:comment "Il codice fiscale di una persona."@it ;
          
          owl:versionInfo "stabile"@it ;
          
@@ -1405,7 +1405,7 @@ l0:name rdf:type owl:DatatypeProperty ;
                       
                       owl:versionInfo "unstable"@en ;
                       
-                      rdfs:comment "La classe rappresenta i diversi tipi di relazioni parentali. Per esempio l'intestatario del foglio di famiglia è un tipo di relazione parentale così come il coniuge (o convivente) dell'intestatario, il figlio  dell'intestatario e coniuge convivente, il fratello/sorella dell'intestatario."@it ;
+                      rdfs:comment "La classe rappresenta i diversi tipi di relazioni parentali. Per esempio l'intestatario del foglio di famiglia è un tipo di relazione parentale così come il coniuge (o convivente) dell'intestatario, il figlio dell'intestatario e coniuge convivente, il fratello/sorella dell'intestatario."@it ;
                       
                       owl:versionInfo "provvisoria"@it ;
                       

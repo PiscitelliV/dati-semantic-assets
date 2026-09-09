@@ -1254,7 +1254,7 @@
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "it",
-        "@value": "Acquedotto "
+        "@value": "Acquedotto"
       }
     ],
     "https://w3id.org/italia/onto/CLV/hasRankOrder": [

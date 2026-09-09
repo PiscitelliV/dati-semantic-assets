@@ -474,7 +474,7 @@
   "@id" : "https://w3id.org/italia/data/contact-point/ISTAT-NDC",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://dati.gov.it/onto/dcatapit#Organization", "http://www.w3.org/2006/vcard/ns#Kind", "http://www.w3.org/2006/vcard/ns#Organization" ],
   "http://www.w3.org/2006/vcard/ns#fn" : [ {
-    "@value" : "Segreteria Tecnica Istat - Progetto PNRR National Data Catalog "
+    "@value" : "Segreteria Tecnica Istat - Progetto PNRR National Data Catalog"
   } ],
   "http://www.w3.org/2006/vcard/ns#hasEmail" : [ {
     "@id" : "mailto:ndc-segr-tec@istat.it"
@@ -497,10 +497,10 @@
   } ],
   "http://purl.org/dc/terms/title" : [ {
     "@language" : "it",
-    "@value" : "Distribuzione JSON-LD ontologia RPO "
+    "@value" : "Distribuzione JSON-LD ontologia RPO"
   }, {
     "@language" : "en",
-    "@value" : "JSON-LD distribution of RPO  Ontology"
+    "@value" : "JSON-LD distribution of RPO Ontology"
   } ],
   "http://www.w3.org/ns/dcat#accessURL" : [ {
     "@id" : "https://github.com/italia/dati-semantic-assets/tree/master/Ontologie/RPO/latest"
@@ -555,10 +555,10 @@
   } ],
   "http://purl.org/dc/terms/title" : [ {
     "@language" : "it",
-    "@value" : "Distribuzione RDF/XML ontologia RPO "
+    "@value" : "Distribuzione RDF/XML ontologia RPO"
   }, {
     "@language" : "en",
-    "@value" : "RDF/XML distribution of RPO  Ontology"
+    "@value" : "RDF/XML distribution of RPO Ontology"
   } ],
   "http://www.w3.org/ns/dcat#accessURL" : [ {
     "@id" : "https://github.com/italia/dati-semantic-assets/tree/master/Ontologie/RPO/latest"
@@ -832,7 +832,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Vincolo giuridico tra un individuo e lo Stato di appartenenza che garantisce il godimento di diritti e l’assoggettamento a particolari oneri. Viene acquisito per nascita o per naturalizzazione, mediante dichiarazione, opzione, matrimonio o altre modalità previste dalla legislazione nazionale. \nAd una persona con cittadinanza doppia o multipla, nella rilevazione censuaria va assegnato un unico paese di cittadinanza, da determinare con il seguente ordine di precedenza:  \n1. paese dichiarante; o  \n2. se la persona non ha la cittadinanza del paese dichiarante: altro Stato membro dell'Ue; o  \n3. se la persona non ha la cittadinanza di un altro Stato membro dell'Ue: altro paese non membro dell'Unione europea. \nPer \"Stato membro dell'Ue\" si intende un paese che è membro dell'Unione europea al tempo di riferimento dell’indagine. Nei casi di doppia cittadinanza, in cui entrambi i paesi sono Stati membri dell'Unione europea ma nessuno è il paese dichiarante, gli Stati membri determinano il paese di cittadinanza da assegnare."
+    "@value" : "Vincolo giuridico tra un individuo e lo Stato di appartenenza che garantisce il godimento di diritti e l’assoggettamento a particolari oneri. Viene acquisito per nascita o per naturalizzazione, mediante dichiarazione, opzione, matrimonio o altre modalità previste dalla legislazione nazionale.\nAd una persona con cittadinanza doppia o multipla, nella rilevazione censuaria va assegnato un unico paese di cittadinanza, da determinare con il seguente ordine di precedenza:\n1. paese dichiarante; o\n2. se la persona non ha la cittadinanza del paese dichiarante: altro Stato membro dell'Ue; o\n3. se la persona non ha la cittadinanza di un altro Stato membro dell'Ue: altro paese non membro dell'Unione europea.\nPer \"Stato membro dell'Ue\" si intende un paese che è membro dell'Unione europea al tempo di riferimento dell’indagine. Nei casi di doppia cittadinanza, in cui entrambi i paesi sono Stati membri dell'Unione europea ma nessuno è il paese dichiarante, gli Stati membri determinano il paese di cittadinanza da assegnare."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -882,7 +882,7 @@
     "@value" : "Homeless person"
   }, {
     "@language" : "it",
-    "@value" : "Persona senza \nfissa dimora"
+    "@value" : "Persona senza\nfissa dimora"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
     "@id" : "https://w3id.org/italia/onto/RPO/RegisteredResidentPerson"
@@ -892,7 +892,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Complesso delle singole posizioni giuridiche spettanti alla persona nella famiglia, nello Stato e nella comunità giuridica. "
+    "@value" : "Complesso delle singole posizioni giuridiche spettanti alla persona nella famiglia, nello Stato e nella comunità giuridica."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -915,7 +915,7 @@
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "it",
-    "@value" : "Appartenenza in \nfamiglia Anagrafica"
+    "@value" : "Appartenenza in\nfamiglia Anagrafica"
   }, {
     "@language" : "en",
     "@value" : "Membership in registered family"
@@ -933,7 +933,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Il legame di ciascun membro della famiglia anagrafica con una persona di riferimento all'interno della famiglia stessa. \nLe relazioni di parentela consentono di ricostruire la composizione e dimensione delle famiglie, le relazioni tra i diversi componenti, le relazioni di coppia de iure (matrimonio/unione civile/) o de facto (convivenza di fatto, art. 1, commi 6ss, L. 20 maggio 2016, 76) e la condizione genitoriale. "
+    "@value" : "Il legame di ciascun membro della famiglia anagrafica con una persona di riferimento all'interno della famiglia stessa.\nLe relazioni di parentela consentono di ricostruire la composizione e dimensione delle famiglie, le relazioni tra i diversi componenti, le relazioni di coppia de iure (matrimonio/unione civile/) o de facto (convivenza di fatto, art. 1, commi 6ss, L. 20 maggio 2016, 76) e la condizione genitoriale."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -957,7 +957,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Classificazione dei legami parentali che sussistono tra ciascun membro della famiglia e una persona di riferimento all'interno della famiglia stessa (in questo caso l'intestatario della scheda). \nÈ una classificazione ad un livello composta delle seguenti categorie: intestatario della scheda; marito/moglie; figlio/figlia; nipote (discendente); pronipote (discendente); padre/madre; nonno/nonna; fratello/sorella; nipote (collaterale); zio/zia (collaterale); cugino/cugina; altro parente; genero/nuora; suocero/suocera; cognato/cognata; nipote (affine); zio/zia (affine); altro affine; convivente (con vincoli di adozione o affettivi); responsabile della convivenza non affettiva; convivente in convivenza non affettiva; adottato; unito civilmente."
+    "@value" : "Classificazione dei legami parentali che sussistono tra ciascun membro della famiglia e una persona di riferimento all'interno della famiglia stessa (in questo caso l'intestatario della scheda).\nÈ una classificazione ad un livello composta delle seguenti categorie: intestatario della scheda; marito/moglie; figlio/figlia; nipote (discendente); pronipote (discendente); padre/madre; nonno/nonna; fratello/sorella; nipote (collaterale); zio/zia (collaterale); cugino/cugina; altro parente; genero/nuora; suocero/suocera; cognato/cognata; nipote (affine); zio/zia (affine); altro affine; convivente (con vincoli di adozione o affettivi); responsabile della convivenza non affettiva; convivente in convivenza non affettiva; adottato; unito civilmente."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -1017,7 +1017,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Insieme di persone legate da vincoli di matrimonio, parentela, affinità, adozione, tutela o vincoli affettivi, coabitanti e residenti anagraficamente nello stesso comune. Una famiglia anagrafica può essere costituita anche da una sola persona (famiglia monocomponente). (art. 4 DPR 223/1989) "
+    "@value" : "Insieme di persone legate da vincoli di matrimonio, parentela, affinità, adozione, tutela o vincoli affettivi, coabitanti e residenti anagraficamente nello stesso comune. Una famiglia anagrafica può essere costituita anche da una sola persona (famiglia monocomponente). (art. 4 DPR 223/1989)"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "it",
@@ -1069,7 +1069,7 @@
     "@value" : "Registered residence event type"
   }, {
     "@language" : "it",
-    "@value" : "Tipo evento \nregistrazione anagrafe"
+    "@value" : "Tipo evento\nregistrazione anagrafe"
   } ],
   "http://www.w3.org/2002/07/owl#equivalentClass" : [ {
     "@id" : "_:genid53"
@@ -1083,7 +1083,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Persona fisica avente dimora abituale in un determinato Comune come risultante nell'anagrafe della popolazione residente (artt. 3 e 7 DPR n. 223/1989; art. 43 cc). "
+    "@value" : "Persona fisica avente dimora abituale in un determinato Comune come risultante nell'anagrafe della popolazione residente (artt. 3 e 7 DPR n. 223/1989; art. 43 cc)."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "it",
@@ -1152,7 +1152,7 @@
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "it",
-    "@value" : "appartiene a \nfamiglia o convivenza"
+    "@value" : "appartiene a\nfamiglia o convivenza"
   }, {
     "@language" : "en",
     "@value" : "belongs to registered family or cohabitance"
@@ -1286,7 +1286,7 @@
     "@value" : "current marital status start date"
   }, {
     "@language" : "it",
-    "@value" : "data inizio stato \ncivile attuale"
+    "@value" : "data inizio stato\ncivile attuale"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
     "@id" : "http://www.w3.org/2001/XMLSchema#dateTime"

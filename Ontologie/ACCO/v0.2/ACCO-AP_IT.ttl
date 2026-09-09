@@ -28,7 +28,7 @@
                                                "Italian Digital Transformation Team"@en ;
                                     dct:issued "2017-10-23" ;
                                     dc:creator "Istituto di Scienze e Tecnologie della Cognizione del CNR - Laboratorio di Tecnologie Semantiche (STLab)"@it ;
-                                    rdfs:comment "Questa è l'ontologia del profilo  italiano sulle Strutture Ricettive (Accomodation Facility - Italian Application Profile - ACCO-AP_IT)"@it ;
+                                    rdfs:comment "Questa è l'ontologia del profilo italiano sulle Strutture Ricettive (Accomodation Facility - Italian Application Profile - ACCO-AP_IT)"@it ;
                                     prov:wasDerivedFrom <http://dati.gov.it/onto/accoapit/0.1> ;
                                     dct:modified "2017-12-06" ;
                                     owl:versionInfo "Version 0.2 - 19 Novembre 2017 - Rifattorizzazione dell'ontologia sulla base delle due nuove ontologie POT-AP_IT (biglietti, offerte e biglietti) e MU-AP_IT (unità di misura)"@it ;
@@ -141,7 +141,7 @@ prov:wasInfluencedBy rdf:type owl:AnnotationProperty .
                rdfs:comment "Questa proprietà collega la descrizione dei servizi offerti alla caratteristica descritta. Esempi di caratteristica sono: lo spazio occupato per una stanza, camera da letto per la struttura ricettiva, unità abitative, posto letto, ecc."@it ,
                             "This property links the description of the offered services to its feature (or attribute or characteristic)."@en ;
                rdfs:isDefinedBy <http://dati.gov.it/onto/accoapit> ;
-               rdfs:label "ha caratteristica  descrizione servizi offerti"@it ,
+               rdfs:label "ha caratteristica descrizione servizi offerti"@it ,
                           "has offered service description feature"@en ;
                owl:versionInfo "stable"@en ,
                                "stable"@it .
@@ -156,7 +156,7 @@ prov:wasInfluencedBy rdf:type owl:AnnotationProperty .
                                           ] ;
                               rdfs:range :OfferedServiceDescription ;
                               rdfs:comment "Questa proprietà collega una struttura ricettiva ( o una camera della struttura ricettiva) alla descrizione di tutti i possibili servizi offerti dalla struttura (camera) stessa."@it ,
-                                           "This property links an accommodation facility (or an accommodation room)  to the description of the offered services."@en ;
+                                           "This property links an accommodation facility (or an accommodation room) to the description of the offered services."@en ;
                               rdfs:isDefinedBy <http://dati.gov.it/onto/accoapit> ;
                               rdfs:label "ha descrizione servizi offerti"@it ,
                                          "has offered service description"@en ;
@@ -601,7 +601,7 @@ l0:name rdf:type owl:DatatypeProperty ;
                                      owl:allValuesFrom rdfs:Literal
                                    ] ;
                    rdfs:comment "Questa è una classe astratta utilizzta per modellare una camera/stanza di una struttura ricettiva."@it ,
-                                "This is an abstract class  used to model a  room of the accommodation facility."@en ;
+                                "This is an abstract class used to model a room of the accommodation facility."@en ;
                    rdfs:isDefinedBy <http://dati.gov.it/onto/accoapit> ;
                    rdfs:label "Accommodation Room"@en ,
                               "Camera (Stanza) della Struttura Ricettiva"@it ;

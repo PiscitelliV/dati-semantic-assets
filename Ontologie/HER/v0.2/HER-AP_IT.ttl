@@ -2123,7 +2123,7 @@ Samples Without DNA: Samples retained, with no potential for DNA extraction from
                            rdfs:subPropertyOf <https://w3id.org/italia/onto/MU/value> ;
                            rdfs:domain :CTNPRINAmount ;
                            rdfs:comment "Cost admitted by decree after the evaluation of the costs indicated in the project proposal for each item of expenditure"@en ,
-                                        "Costo ammesso da decreto dopo la valutazione dei costo indicato nella proposta di progetto  per singola voce di spesa"@it ;
+                                        "Costo ammesso da decreto dopo la valutazione dei costo indicato nella proposta di progetto per singola voce di spesa"@it ;
                            rdfs:label "CTN/PRIN amount admitted cost"@en .
 
 
@@ -2194,8 +2194,8 @@ Samples Without DNA: Samples retained, with no potential for DNA extraction from
 :ctnprinInitiativeAdmittedCost rdf:type owl:DatatypeProperty ;
                                rdfs:subPropertyOf <https://w3id.org/italia/onto/MU/value> ;
                                rdfs:domain :CTNPRINInitiative ;
-                               rdfs:comment "Total admitted costs after evaluation of the costs indicated in the project proposals.  Calculated as the sum of the counterpart variable 'admittedCost' present at lower aggregation level (admittedCost_operations)"@en ,
-                                            "Totale dei costi ammessi dopo la valutazione dei costi indicati nelle proposte di progetto.  Calcolati come somma dell'omologa variabile \"admittedCost\" presente a livello di aggregazione inferiore (admittedCost_operations)"@it ;
+                               rdfs:comment "Total admitted costs after evaluation of the costs indicated in the project proposals. Calculated as the sum of the counterpart variable 'admittedCost' present at lower aggregation level (admittedCost_operations)"@en ,
+                                            "Totale dei costi ammessi dopo la valutazione dei costi indicati nelle proposte di progetto. Calcolati come somma dell'omologa variabile \"admittedCost\" presente a livello di aggregazione inferiore (admittedCost_operations)"@it ;
                                rdfs:label "admitted cost of CTN/PRIN initiative"@en .
 
 
@@ -2295,10 +2295,10 @@ Samples Without DNA: Samples retained, with no potential for DNA extraction from
                             rdfs:domain :CTNPRINOperation ;
                             rdfs:comment """ID univoco di una operazione.
 E' ottenuto concatenando le seguenti variabili all'origine:
-Codice locale progetto +  ambito + CF beneficiario
+Codice locale progetto + ambito + CF beneficiario
 corrispondenti a: projectCode + scope_operations + fiscalcode_entity"""@it ,
                                          """Unique ID of an operation.
-It is obtained by concatenating the following variables at the origin: \"Codice locale progetto +  ambito + CF beneficiario\"  corresponding to: projectCode + scope_operations + fiscalcode_entity"""@en ;
+It is obtained by concatenating the following variables at the origin: \"Codice locale progetto + ambito + CF beneficiario\" corresponding to: projectCode + scope_operations + fiscalcode_entity"""@en ;
                             rdfs:label "CTN/PRIN operation identifier"@en .
 
 
@@ -2570,7 +2570,7 @@ When using the data take particular care to avoid duplication, after having care
 In particular pay attention to the values indicated as \"of which...\", already included in the main entry."""@en ,
                                          """Descrizione del servizio a favore degli studenti (posti alloggio e mense).
 Nell'utilizzo dei dati porre particolare attenzione ad evitare duplicazioni, dopo aver letto accuratamente le descrizioni dei codici.
-In particolare fare attenzione ai valori indicati come \"di cui…\",  già ricompresi nella voce principale."""@it ;
+In particolare fare attenzione ai valori indicati come \"di cui…\", già ricompresi nella voce principale."""@it ;
                             rdfs:label "university intervention description"@en .
 
 
@@ -4787,7 +4787,7 @@ Tradotto con www.DeepL.com/Translator (versione gratuita)"""@it ,
       rdfs:subClassOf :HERClassification ;
       rdfs:isDefinedBy <https://w3id.org/italia/onto/HER> ;
       rdfs:label "All Science Journal Classification"@en ,
-                 "Classificazione  Scopus"@it ,
+                 "Classificazione Scopus"@it ,
                  "Scopus Classification"@en ;
       prov:wasDerivedFrom skos:ConceptScheme ;
       l0:controlledVocabulary <https://w3id.org/italia/controlled-vocabulary/classifications-for-universities/all-science-journal> .
@@ -6027,7 +6027,7 @@ ci sono i seguenti ruoli accademici:
                                  owl:allValuesFrom <https://w3id.org/italia/onto/CLV/Feature>
                                ] ;
                rdfs:comment "Information on the headquarters (legal, operational or both) of the spin-off, if available. This information was provided by the contact person for the Spin-off Italy database (see the information at the link: https://www.spinoffitalia.it/?q=about)."@en ,
-                            "Informazione sulla sede (legale, operativa o entrambe) dello spin-off, se disponibili. Tali informazioni sono state fornite dalla persona di riferimento per il database Spin-off Italia (si veda l'informazione al link: https://www.spinoffitalia.it/?q=about). "@it ;
+                            "Informazione sulla sede (legale, operativa o entrambe) dello spin-off, se disponibili. Tali informazioni sono state fornite dalla persona di riferimento per il database Spin-off Italia (si veda l'informazione al link: https://www.spinoffitalia.it/?q=about)."@it ;
                rdfs:isDefinedBy <https://w3id.org/italia/onto/HER> ;
                rdfs:label "Office of spinoff"@en ,
                           "Ufficio Spinoff"@it .

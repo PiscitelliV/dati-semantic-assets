@@ -440,7 +440,7 @@
   "@id" : "https://w3id.org/italia/data/contact-point/ISTAT-NDC",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://dati.gov.it/onto/dcatapit#Organization", "http://www.w3.org/2006/vcard/ns#Kind", "http://www.w3.org/2006/vcard/ns#Organization" ],
   "http://www.w3.org/2006/vcard/ns#fn" : [ {
-    "@value" : "Segreteria Tecnica Istat - Progetto PNRR National Data Catalog "
+    "@value" : "Segreteria Tecnica Istat - Progetto PNRR National Data Catalog"
   } ],
   "http://www.w3.org/2006/vcard/ns#hasEmail" : [ {
     "@id" : "mailto:ndc-segr-tec@istat.it"
@@ -463,10 +463,10 @@
   } ],
   "http://purl.org/dc/terms/title" : [ {
     "@language" : "it",
-    "@value" : "Distribuzione JSON-LD ontologia RPO "
+    "@value" : "Distribuzione JSON-LD ontologia RPO"
   }, {
     "@language" : "en",
-    "@value" : "JSON-LD distribution of RPO  Ontology"
+    "@value" : "JSON-LD distribution of RPO Ontology"
   } ],
   "http://www.w3.org/ns/dcat#accessURL" : [ {
     "@id" : "https://github.com/italia/dati-semantic-assets/tree/master/Ontologie/RPO/latest"
@@ -521,10 +521,10 @@
   } ],
   "http://purl.org/dc/terms/title" : [ {
     "@language" : "it",
-    "@value" : "Distribuzione RDF/XML ontologia RPO "
+    "@value" : "Distribuzione RDF/XML ontologia RPO"
   }, {
     "@language" : "en",
-    "@value" : "RDF/XML distribution of RPO  Ontology"
+    "@value" : "RDF/XML distribution of RPO Ontology"
   } ],
   "http://www.w3.org/ns/dcat#accessURL" : [ {
     "@id" : "https://github.com/italia/dati-semantic-assets/tree/master/Ontologie/RPO/latest"
@@ -726,7 +726,7 @@
   } ],
   "http://www.w3.org/2002/07/owl#versionInfo" : [ {
     "@language" : "it",
-    "@value" : "Versione 0.2 - Inserita la proprietà, residentPersonID, che descrive il codice identificativo univoco attribuito dall'Anagrafe Nazionale delle Persone Residenti (ANPR) "
+    "@value" : "Versione 0.2 - Inserita la proprietà, residentPersonID, che descrive il codice identificativo univoco attribuito dall'Anagrafe Nazionale delle Persone Residenti (ANPR)"
   } ],
   "http://www.w3.org/ns/dcat#contactPoint" : [ {
     "@id" : "https://schema.gov.it/lodview/data/contact-point/ISTAT-NDC"
@@ -852,7 +852,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Complesso delle singole posizioni giuridiche spettanti alla persona nella famiglia, nello Stato e nella comunità giuridica. "
+    "@value" : "Complesso delle singole posizioni giuridiche spettanti alla persona nella famiglia, nello Stato e nella comunità giuridica."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -893,7 +893,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Il legame di ciascun membro della famiglia anagrafica con una persona di riferimento all'interno della famiglia stessa. Le relazioni di parentela consentono di ricostruire la composizione e dimensione delle famiglie, le relazioni tra i diversi componenti, le relazioni di coppia de iure (matrimonio/unione civile/) o de facto (convivenza di fatto, art. 1, commi 6ss, L. 20 maggio 2016, 76) e la condizione genitoriale. "
+    "@value" : "Il legame di ciascun membro della famiglia anagrafica con una persona di riferimento all'interno della famiglia stessa. Le relazioni di parentela consentono di ricostruire la composizione e dimensione delle famiglie, le relazioni tra i diversi componenti, le relazioni di coppia de iure (matrimonio/unione civile/) o de facto (convivenza di fatto, art. 1, commi 6ss, L. 20 maggio 2016, 76) e la condizione genitoriale."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -977,7 +977,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Insieme di persone legate da vincoli di matrimonio, parentela, affinità, adozione, tutela o vincoli affettivi, coabitanti e residenti anagraficamente nello stesso comune. Una famiglia anagrafica può essere costituita anche da una sola persona (famiglia monocomponente). (art. 4 DPR 223/1989) "
+    "@value" : "Insieme di persone legate da vincoli di matrimonio, parentela, affinità, adozione, tutela o vincoli affettivi, coabitanti e residenti anagraficamente nello stesso comune. Una famiglia anagrafica può essere costituita anche da una sola persona (famiglia monocomponente). (art. 4 DPR 223/1989)"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "it",
@@ -1039,7 +1039,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Persona fisica avente dimora abituale in un determinato Comune come risultante nell'anagrafe della popolazione residente (artt. 3 e 7 DPR n. 223/1989; art. 43 cc). "
+    "@value" : "Persona fisica avente dimora abituale in un determinato Comune come risultante nell'anagrafe della popolazione residente (artt. 3 e 7 DPR n. 223/1989; art. 43 cc)."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "it",
@@ -1786,7 +1786,7 @@
     "@value" : "Identificativo persona residente"
   }, {
     "@language" : "en",
-    "@value" : "Resident person identifier "
+    "@value" : "Resident person identifier"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
     "@id" : "http://www.w3.org/2001/XMLSchema#string"

@@ -11,7 +11,7 @@
       },
       {
         "@language": "en",
-        "@value": "This is the distribution in RDF/XML of the Linked Open Dataset of the Italian Provinces controlled vocabulary "
+        "@value": "This is the distribution in RDF/XML of the Linked Open Dataset of the Italian Provinces controlled vocabulary"
       }
     ],
     "http://purl.org/dc/terms/format": [
@@ -5113,7 +5113,7 @@
       },
       {
         "@language": "en",
-        "@value": "This is the distribution in RDF/turtle of the Linked Open Dataset of the Italian Provinces controlled vocabulary "
+        "@value": "This is the distribution in RDF/turtle of the Linked Open Dataset of the Italian Provinces controlled vocabulary"
       }
     ],
     "http://purl.org/dc/terms/format": [
@@ -10191,7 +10191,7 @@
       },
       {
         "@language": "en",
-        "@value": "This is the distribution in JSON-LD of the Linked Open Dataset of the Italian Provinces controlled vocabulary "
+        "@value": "This is the distribution in JSON-LD of the Linked Open Dataset of the Italian Provinces controlled vocabulary"
       }
     ],
     "http://purl.org/dc/terms/format": [

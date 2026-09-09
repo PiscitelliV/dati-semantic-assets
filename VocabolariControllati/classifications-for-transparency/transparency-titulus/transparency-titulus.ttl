@@ -512,7 +512,7 @@ foaf:name "Dipartimento per la Trasformazione Digitale della Presidenza del Cons
 	l0:positionInSequence "4"^^xsd:int;
 	skos:broader :04  ;
 	skos:prefLabel 	 "Sanzioni per mancata comunicazione dei dati"@it ,
-					 "Penalties for failure to communicate data "@en ,
+					 "Penalties for failure to communicate data"@en ,
 					 "Sanziuns ajache al n’é nia gnü lascé alsavëi i dac"@de ;
 	skos:scopeNote "D.lgs. n. 33/2013, Art. 47, c. 1"@it ;
 	clvapit:hasRankOrder 2 ;

@@ -1242,7 +1242,7 @@ l0:Topic rdf:type owl:Class .
 :Walking rdf:type owl:NamedIndividual ,
                   :TravellingMethod ;
          rdfs:comment "Questo individuo rappresenta un tipo di metodo di viaggio possibile lungo un certo percorso."@it ,
-                      "This individual represents a type of possible travel method  along a certain pathway."@en ;
+                      "This individual represents a type of possible travel method along a certain pathway."@en ;
          rdfs:label "a piedi"@it ,
                     "walking"@en ;
          owl:versionInfo "provvisorio"@it ,

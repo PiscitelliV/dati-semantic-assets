@@ -22,7 +22,7 @@
     dc:creator "Italian Digital Transformation Team"@en ;
     dc:modified "2017-12-06"^^xsd:date ;
     dc:title "These are the alignments to external ontologies widely used and available at the state of the art"@en ;
-    dc:title "Questi sono gli allineamenti dell'ontologia sulle strutture ricettive (Accommodation - Italian Application Profile  (ACCO-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate."@it ;
+    dc:title "Questi sono gli allineamenti dell'ontologia sulle strutture ricettive (Accommodation - Italian Application Profile (ACCO-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate."@it ;
 
     owl:imports <http://dati.gov.it/onto/accoapit> .
 

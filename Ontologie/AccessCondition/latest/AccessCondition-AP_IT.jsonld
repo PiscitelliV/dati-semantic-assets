@@ -268,7 +268,7 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "It represents the  type of booking for a location/event for instance. Examples can be: Mandatory, Optional, None (free access)."
+          "@value": "It represents the type of booking for a location/event for instance. Examples can be: Mandatory, Optional, None (free access)."
         },
         {
           "@language": "it",
@@ -806,7 +806,7 @@
       "dcterms:description": [
         {
           "@language": "it",
-          "@value": "Questa è l'ontologia del profilo di italiano sulle condizioni di accesso, inclusi gli orari di apertura (Access Condition Ontology - Italian Application Profile  - AccessCondition-AP_IT). Essa può essere utilizzata per modellare tutte le condizioni di accesso a luoghi pubblici."
+          "@value": "Questa è l'ontologia del profilo di italiano sulle condizioni di accesso, inclusi gli orari di apertura (Access Condition Ontology - Italian Application Profile - AccessCondition-AP_IT). Essa può essere utilizzata per modellare tutte le condizioni di accesso a luoghi pubblici."
         },
         {
           "@language": "en",
@@ -873,7 +873,7 @@
         },
         {
           "@language": "it",
-          "@value": "Questa è l'ontologia del profilo di italiano sulle condizioni di accesso, inclusi gli orari di apertura (Access Condition Ontology - Italian Application Profile  - AccessCondition-AP_IT). Essa può essere utilizzata per modellare tutte le condizioni di accesso a luoghi pubblici."
+          "@value": "Questa è l'ontologia del profilo di italiano sulle condizioni di accesso, inclusi gli orari di apertura (Access Condition Ontology - Italian Application Profile - AccessCondition-AP_IT). Essa può essere utilizzata per modellare tutte le condizioni di accesso a luoghi pubblici."
         }
       ],
       "rdfs:isDefinedBy": {

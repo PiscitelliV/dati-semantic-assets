@@ -21,7 +21,7 @@
     dct:issued "2017-10-20"
     dc:modified "2017-10-20" ;
     dc:title "These are the alignments to external ontologies widely used and available at the state of the art for the POI-AP_IT ontology"@en ;
-    dc:title "Questi sono gli allineamenti dell'ontologia sui punti di interesse Point of Interest - Italian Application Profile  (POI-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate."@it ;
+    dc:title "Questi sono gli allineamenti dell'ontologia sui punti di interesse Point of Interest - Italian Application Profile (POI-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate."@it ;
 
     owl:imports <http://dati.gov.it/onto/poiapit/0.1> .
 

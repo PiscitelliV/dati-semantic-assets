@@ -57,7 +57,7 @@
 		"@value": "These are the alignments to external ontologies widely used and available at the state of the art",
 		"@language": "en"
 	}, {
-		"@value": "Questi sono gli allineamenti dell'ontologia sulle strutture ricettive (Accommodation - Italian Application Profile  (ACCO-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate.",
+		"@value": "Questi sono gli allineamenti dell'ontologia sulle strutture ricettive (Accommodation - Italian Application Profile (ACCO-AP_IT) verso ontologie esterne del Web semantico standard e ampiamente utilizzate.",
 		"@language": "it"
 	}],
 	"http://www.w3.org/2002/07/owl#imports": [{

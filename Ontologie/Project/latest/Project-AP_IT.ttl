@@ -31,14 +31,14 @@
                                         dct:modified "2020-11-01"^^xsd:date ;
                                         dct:publisher <https://w3id.org/italia/data/public-organization/agid> ;
                                         dct:rightsHolder <https://w3id.org/italia/data/public-organization/agid> ;
-                                        dct:title "Project-AP_IT - Project Ontology - Italian Application Profile "@en ,
+                                        dct:title "Project-AP_IT - Project Ontology - Italian Application Profile"@en ,
                                                   "Project-AP_IT: Profilo applicativo italiano - Ontologia dei progetti"@it ;
                                         rdfs:comment "Questa è l'ontologia del profilo applicativo italiano sui progetti pubblici."@it ,
                                                      "This is the ontology of the Italian application profile for (public) Projects"@en ;
                                         rdfs:isDefinedBy <https://w3id.org/italia/onto/Project> ;
                                         rdfs:label "Ontologia dei progetti (pubblici)"@it ,
                                                    "Project ontology"@en ;
-                                        owl:versionInfo "Version 0.3 - 01  November 2020 - introduction of the following elements for the project: call, programme, work package, summary and their related restrictions."@en ,
+                                        owl:versionInfo "Version 0.3 - 01 November 2020 - introduction of the following elements for the project: call, programme, work package, summary and their related restrictions."@en ,
                                                         "Versione 0.3 - 01 Novembre 2020 - L'ontologia introduce nuovi elementi per i progetti: bandi, work package, programma, summary. Inoltre si aggiungo le relative restrizioni per questi elementi."@it ;
                                         dcat:contactPoint <https://w3id.org/italia/data/contact-point/onto-agid> ;
                                         dcat:keyword "cup"@it ,
@@ -441,7 +441,7 @@
                                            owl:maxQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
                                            owl:onDataRange xsd:float
                                          ] ;
-                         rdfs:comment "La classe consente di rappresentare progetti di investimento pubblico. Un 'progetto d’investimento pubblico'  è un complesso di azioni o di strumenti di sostegno, afferenti a un medesimo quadro economico di spesa e collegati fra loro da quattro elementi: la presenza di un decisore pubblico; la previsione di un finanziamento (diretto o indiretto, totale o parziale) con risorse pubbliche; l’indicazione di un comune obiettivo di sviluppo economico e sociale; la definizione di un orizzonte temporale certo."@it ,
+                         rdfs:comment "La classe consente di rappresentare progetti di investimento pubblico. Un 'progetto d’investimento pubblico' è un complesso di azioni o di strumenti di sostegno, afferenti a un medesimo quadro economico di spesa e collegati fra loro da quattro elementi: la presenza di un decisore pubblico; la previsione di un finanziamento (diretto o indiretto, totale o parziale) con risorse pubbliche; l’indicazione di un comune obiettivo di sviluppo economico e sociale; la definizione di un orizzonte temporale certo."@it ,
                                       "The class allows one to model a public investmnet project."@en ;
                          rdfs:isDefinedBy <https://w3id.org/italia/onto/Project> ;
                          rdfs:label "Progetto d'Investimento Pubblico"@it ,
@@ -457,7 +457,7 @@
                                          owl:onProperty :hasWorkPackage ;
                                          owl:allValuesFrom :WorkPackage
                                        ] ;
-                       rdfs:comment "La classe rappresenta progetti di ricerca finanziati con programmi pubblici (es. Horizon2020,  FETOpen, FTI, ecc.). Si tratta di 'un'indagine' scientifica, di solito condotta con metodi scientifici, per raggiungere obiettivi definiti"@it ,
+                       rdfs:comment "La classe rappresenta progetti di ricerca finanziati con programmi pubblici (es. Horizon2020, FETOpen, FTI, ecc.). Si tratta di 'un'indagine' scientifica, di solito condotta con metodi scientifici, per raggiungere obiettivi definiti"@it ,
                                     "The class represents the research projects funded with public programmes (e.g., Horizon2020, FET Open, FTI, etc.). It is a scientific investigation, usually carried out using scientific methods, to achieve defined objectives"@en ;
                        rdfs:isDefinedBy <https://w3id.org/italia/onto/Project> ;
                        rdfs:label "Progetto di Ricerca Pubblica"@it ,

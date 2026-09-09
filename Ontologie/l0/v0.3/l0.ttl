@@ -11,7 +11,7 @@
 
 <http://dati.gov.it/onto/l0/> rdf:type owl:Ontology ;
                                owl:versionIRI <http://dati.gov.it/onto/l0/> ;
-                               rdfs:comment "Questa ontologia fornisce il livello fondazionale allo stack ontologico di OntoPiA. Il nome L0 sta per Level-0 ontology poiché essa fornisce le fondamenta concettuali elementari all'intero stack. Questa ontologia è  ispirata da DOLCE zero (http://www.ontologydesignpatterns.org/ont/d0.owl)"@it ;
+                               rdfs:comment "Questa ontologia fornisce il livello fondazionale allo stack ontologico di OntoPiA. Il nome L0 sta per Level-0 ontology poiché essa fornisce le fondamenta concettuali elementari all'intero stack. Questa ontologia è ispirata da DOLCE zero (http://www.ontologydesignpatterns.org/ont/d0.owl)"@it ;
                                dct:modified "2018-02-01" ;
                                dc:creator "Institute of Cognitive Sciences and Technologies of the Italian Research Council (CNR) - Semantic Technology Laboratory (STLab)"@en ;
                                owl:versionInfo "0.3 - 01 February 2018 - refactoring of the main classes and alignment with DOLCE 0"@en ;
@@ -207,7 +207,7 @@ Examples include plans (as structured descriptions of actions to be executed), d
 :Event rdf:type owl:Class ;
        rdfs:subClassOf :Entity ;
        owl:disjointWith :Object ;
-       rdfs:comment """Any entity that typically flows in time, either in the physical or social world. Examples include athmospheric phenomena, concerts, travels, institutional processes, etc. 
+       rdfs:comment """Any entity that typically flows in time, either in the physical or social world. Examples include athmospheric phenomena, concerts, travels, institutional processes, etc.
 Events are opposable to objects, since events typically flow in time, aggregating multiple objects during their flow, while objects tend to be stable in a certain time interval."""@en ,
                     """Ogni entità che tipicamente scorre nel tempo, sia nel mondo fisico sia sociale. Gli esempi includono fenomeni atmosferici, concerti, viaggi, processi istituzionali, etc.
 Gli eventi si oppongono agli oggetti, poiché, mentre gli eventi scorrono nel tempo e aggregano uno o più oggetti nel loro scorrerre, gli oggetti tendono a essere stabili in un intervallo di tempo."""@it ;

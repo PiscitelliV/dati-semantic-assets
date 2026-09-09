@@ -25,7 +25,7 @@
                                     rdfs:label "Eventi Pubblici"@it ;
                                     rdfs:comment "This is the ontology of the Italian application profile for Public Events"@en ;
                                     dc:creator "Italian Digital Transformation Team"@en ;
-                                    owl:versionInfo "Version 0.1 - 06  December 2017 - creation of the ontology"@en ;
+                                    owl:versionInfo "Version 0.1 - 06 December 2017 - creation of the ontology"@en ;
                                     dct:modified "2017-12-06" ;
                                     rdfs:isDefinedBy <http://dati.gov.it/onto/cpevapit> ;
                                     dct:license <https://creativecommons.org/licenses/by/4.0/> ;
@@ -198,7 +198,7 @@ l0:name rdf:type owl:DatatypeProperty ;
                                       ] ;
                       owl:disjointWith :SinglePublicEvent ;
                       rdfs:comment "Questa classe rappresenta eventi pubblici complessi o compositi che sono delle aggregazione di eventi multipli, che avvengono di solito in parallelo, ognuno dei queli è descritto indipendentemente nel programma dell'evento. Esempio: la celebrazione dell'anniversario della Repubblica Italiana."@it ,
-                                   "This class represents composite public events that are aggregations of multiple events, possibly occurring in parallel, each of which is described independently in the event program.  Example can be the celebration of the anniversary of the Italian Republic."@en ;
+                                   "This class represents composite public events that are aggregations of multiple events, possibly occurring in parallel, each of which is described independently in the event program. Example can be the celebration of the anniversary of the Italian Republic."@en ;
                       rdfs:isDefinedBy <http://dati.gov.it/onto/cpevapit> ;
                       rdfs:label "Composite Public Event"@en ,
                                  "Evento Pubblico Composito"@it ;
@@ -250,7 +250,7 @@ l0:name rdf:type owl:DatatypeProperty ;
                                owl:cardinality "1"^^xsd:nonNegativeInteger
                              ] ;
              rdfs:comment "Questa classe rappresenta un evento pubblico (e.g., una partita di calcio, una mostra, la presentazione di un libro, una fiera, ecc.)"@it ,
-                          "This class represents a public event (e.g., a football match, a  conference, a book presentation, etc.)."@en ;
+                          "This class represents a public event (e.g., a football match, a conference, a book presentation, etc.)."@en ;
              rdfs:isDefinedBy <http://dati.gov.it/onto/cpevapit> ;
              rdfs:label "Evento Pubblico"@it ,
                         "Public Event"@en ;

@@ -1729,7 +1729,7 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "This individual represents a type of possible travel method  along a certain pathway."
+          "@value": "This individual represents a type of possible travel method along a certain pathway."
         },
         {
           "@language": "it",
@@ -2686,11 +2686,11 @@
       "owl:versionInfo": [
         {
           "@language": "it",
-          "@value": "Versione 0.3 - 24 Aprile 2019 - Revisione di alcune proprietà (e.g., hasFirstMember) e alcune classi quali  Path, PathPlan, Pathway e QuantifiedPathwayPaving. Revisione di alcune restrizioni."
+          "@value": "Versione 0.3 - 24 Aprile 2019 - Revisione di alcune proprietà (e.g., hasFirstMember) e alcune classi quali Path, PathPlan, Pathway e QuantifiedPathwayPaving. Revisione di alcune restrizioni."
         },
         {
           "@language": "en",
-          "@value": "Version 0.3 - 24 April 2019 - Revision of some properties (e.g., hasFirstMember) and classes such as  Path, PathPlan, Pathway e QuantifiedPathwayPaving. Revision of some restrictions."
+          "@value": "Version 0.3 - 24 April 2019 - Revision of some properties (e.g., hasFirstMember) and classes such as Path, PathPlan, Pathway e QuantifiedPathwayPaving. Revision of some restrictions."
         }
       ],
       "rdfs:comment": [

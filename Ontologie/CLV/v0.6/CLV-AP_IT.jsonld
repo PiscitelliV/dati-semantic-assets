@@ -213,7 +213,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa classe rappresenta il numero civico e tutte le informazioni a esso collegate così come definite nell'ambito dell'anagrafe nazionale numeri civici e strate urbane.  I numeri civici individuano gli ACCESSI ESTERNI, cioè quelli che dall’area di circolazione immettono, direttamente o indirettamente, alle unità ecografiche semplici ossia abitazioni, esercizi commerciali, uffici e simili."
+          "@value": "Questa classe rappresenta il numero civico e tutte le informazioni a esso collegate così come definite nell'ambito dell'anagrafe nazionale numeri civici e strate urbane. I numeri civici individuano gli ACCESSI ESTERNI, cioè quelli che dall’area di circolazione immettono, direttamente o indirettamente, alle unità ecografiche semplici ossia abitazioni, esercizi commerciali, uffici e simili."
         },
         {
           "@language": "en",
@@ -756,7 +756,7 @@
         },
         {
           "@language": "en",
-          "@value": "This property is used to  relate two named address component, where the first is more specific than the second."
+          "@value": "This property is used to relate two named address component, where the first is more specific than the second."
         }
       ],
       "rdfs:domain": {
@@ -1109,7 +1109,7 @@
         },
         {
           "@language": "it",
-          "@value": "L'indirizzo completo scritto come una stringa. L'uso di questa proprietà  aiuta a comprendere l'indirizzo completo evitando possibili errori derivanti dal frazionamento dello stesso nelle sue rispettive componenti."
+          "@value": "L'indirizzo completo scritto come una stringa. L'uso di questa proprietà aiuta a comprendere l'indirizzo completo evitando possibili errori derivanti dal frazionamento dello stesso nelle sue rispettive componenti."
         }
       ],
       "rdfs:domain": {
@@ -1952,7 +1952,7 @@
         },
         {
           "@language": "en",
-          "@value": "This class represents the  uppermost administrative unit for the address, almost always a country. \"United Kingdom\", \"Italy\", etc. In the Core Location Vocabulary this is modelled as adminUnit1."
+          "@value": "This class represents the uppermost administrative unit for the address, almost always a country. \"United Kingdom\", \"Italy\", etc. In the Core Location Vocabulary this is modelled as adminUnit1."
         }
       ],
       "rdfs:isDefinedBy": {
@@ -2216,7 +2216,7 @@
         },
         {
           "@language": "it",
-          "@value": "Questa proprietà rappresenta l'altitudine, ovvero l'altezza di un oggetto spaziale rispetto alla superficie del livello medio del mare.. E'  proprietà associata alla geometria. Nel caso di geometria associata all'indirizzo, la proprietà  rappresenta l'altezza ortometrica dell’accesso esterno (civico) espressa nei sistemi di riferimento altimetrici nazionali ufficiali."
+          "@value": "Questa proprietà rappresenta l'altitudine, ovvero l'altezza di un oggetto spaziale rispetto alla superficie del livello medio del mare.. E' proprietà associata alla geometria. Nel caso di geometria associata all'indirizzo, la proprietà rappresenta l'altezza ortometrica dell’accesso esterno (civico) espressa nei sistemi di riferimento altimetrici nazionali ufficiali."
         }
       ],
       "rdfs:domain": {
@@ -2918,7 +2918,7 @@
         },
         {
           "@language": "it",
-          "@value": "Questa proprietà specializza la proprietà ha componente indirzzo per collegare l'indirizzo alla componente Comune dello stesso.  Esempio di comune: Roma, Bologna, Palermo, Milano, ecc."
+          "@value": "Questa proprietà specializza la proprietà ha componente indirzzo per collegare l'indirizzo alla componente Comune dello stesso. Esempio di comune: Roma, Bologna, Palermo, Milano, ecc."
         }
       ],
       "rdfs:domain": {
@@ -3446,7 +3446,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Parte letterale del numero civico, ove presente o eventuale esponente attribuito al numero interno.  In quest'ultimo caso, l’utilizzo va preventivamente concordato con l’Istat"
+          "@value": "Parte letterale del numero civico, ove presente o eventuale esponente attribuito al numero interno. In quest'ultimo caso, l’utilizzo va preventivamente concordato con l’Istat"
         },
         {
           "@language": "en",
@@ -3658,7 +3658,7 @@
         },
         {
           "@language": "it",
-          "@value": "Questa è l'ontologia del profilo di italiano sugli indirizzi che hanno anche una connotazione geografica (Italian Core Location Vocabulary - Application Profile  - CLV-AP_IT)"
+          "@value": "Questa è l'ontologia del profilo di italiano sugli indirizzi che hanno anche una connotazione geografica (Italian Core Location Vocabulary - Application Profile - CLV-AP_IT)"
         }
       ],
       "rdfs:isDefinedBy": {

@@ -581,7 +581,7 @@
   "@id" : "https://w3id.org/italia/data/contact-point/ISTAT-NDC",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://dati.gov.it/onto/dcatapit#Organization", "http://www.w3.org/2006/vcard/ns#Kind", "http://www.w3.org/2006/vcard/ns#Organization" ],
   "http://www.w3.org/2006/vcard/ns#fn" : [ {
-    "@value" : "Segreteria Tecnica Istat - Progetto PNRR National Data Catalog "
+    "@value" : "Segreteria Tecnica Istat - Progetto PNRR National Data Catalog"
   } ],
   "http://www.w3.org/2006/vcard/ns#hasEmail" : [ {
     "@id" : "mailto:ndc-segr-tec@istat.it"
@@ -604,10 +604,10 @@
   } ],
   "http://purl.org/dc/terms/title" : [ {
     "@language" : "it",
-    "@value" : "Distribuzione JSON-LD ontologia ACO_IT "
+    "@value" : "Distribuzione JSON-LD ontologia ACO_IT"
   }, {
     "@language" : "en",
-    "@value" : "JSON-LD distribution of ACO_IT  Ontology"
+    "@value" : "JSON-LD distribution of ACO_IT Ontology"
   } ],
   "http://www.w3.org/ns/dcat#accessURL" : [ {
     "@id" : "https://github.com/italia/dati-semantic-assets/tree/master/Ontologie/ACO/latest"
@@ -633,10 +633,10 @@
   } ],
   "http://purl.org/dc/terms/title" : [ {
     "@language" : "it",
-    "@value" : "Distribuzione RDF/Turtle ontologia ACO_IT "
+    "@value" : "Distribuzione RDF/Turtle ontologia ACO_IT"
   }, {
     "@language" : "en",
-    "@value" : "RDF/Turtle distribution of ACO_IT  Ontology"
+    "@value" : "RDF/Turtle distribution of ACO_IT Ontology"
   } ],
   "http://www.w3.org/ns/dcat#accessURL" : [ {
     "@id" : "https://github.com/italia/dati-semantic-assets/tree/master/Ontologie/ACO/latest"
@@ -662,10 +662,10 @@
   } ],
   "http://purl.org/dc/terms/title" : [ {
     "@language" : "it",
-    "@value" : "Distribuzione RDF/XML ontologia ACO_IT "
+    "@value" : "Distribuzione RDF/XML ontologia ACO_IT"
   }, {
     "@language" : "en",
-    "@value" : "RDF/XML distribution of ACO_IT  Ontology"
+    "@value" : "RDF/XML distribution of ACO_IT Ontology"
   } ],
   "http://www.w3.org/ns/dcat#accessURL" : [ {
     "@id" : "https://github.com/italia/dati-semantic-assets/tree/master/Ontologie/ACO/latest"
@@ -931,14 +931,14 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Certificato rilasciato dal Ministero dell’Interno o dal Comune in cui si attesta quanto risulta in anagrafe rispetto all’atto di nascita (artt. 5 e 100, DPR 396/00 ; Artt.12 e 33 del DPR n.223/1989). "
+    "@value" : "Certificato rilasciato dal Ministero dell’Interno o dal Comune in cui si attesta quanto risulta in anagrafe rispetto all’atto di nascita (artt. 5 e 100, DPR 396/00 ; Artt.12 e 33 del DPR n.223/1989)."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "Birth certificate"
   }, {
     "@language" : "it",
-    "@value" : "Certificato  anagrafico di  nascita"
+    "@value" : "Certificato anagrafico di nascita"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
     "@id" : "https://w3id.org/italia/onto/ACO/MaritalStatusCertificate"
@@ -993,14 +993,14 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Istanza volta a ottenere un certificato per se stesso ovvero per gli altri componenti inclusi nello stato di famiglia. "
+    "@value" : "Istanza volta a ottenere un certificato per se stesso ovvero per gli altri componenti inclusi nello stato di famiglia."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "Certificate application"
   }, {
     "@language" : "it",
-    "@value" : "Richiesta di  certificato"
+    "@value" : "Richiesta di certificato"
   } ],
   "http://www.w3.org/2002/07/owl#equivalentClass" : [ {
     "@id" : "_:genid20"
@@ -1012,14 +1012,14 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Certificato anagrafico rilasciato senza obbligo di versamento di un corrispettivo per l'attività svolta. "
+    "@value" : "Certificato anagrafico rilasciato senza obbligo di versamento di un corrispettivo per l'attività svolta."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "Certificate exempt from secretarial fees"
   }, {
     "@language" : "it",
-    "@value" : "Certificato esente  da diritti di segreteria"
+    "@value" : "Certificato esente da diritti di segreteria"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
     "@id" : "https://w3id.org/italia/onto/ACO/Certificate"
@@ -1036,7 +1036,7 @@
     "@value" : "Certificate exempt from stamp duty"
   }, {
     "@language" : "it",
-    "@value" : "Certificato esente  da imposta di bollo"
+    "@value" : "Certificato esente da imposta di bollo"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
     "@id" : "https://w3id.org/italia/onto/ACO/Certificate"
@@ -1046,25 +1046,25 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Certificato rilasciato dal Ministero dell’Interno o dal Comune in cui si attesta quanto risulta in anagrafe rispetto allo stato di famiglia e ai relativi dati di una persona. "
+    "@value" : "Certificato rilasciato dal Ministero dell’Interno o dal Comune in cui si attesta quanto risulta in anagrafe rispetto allo stato di famiglia e ai relativi dati di una persona."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
     "@value" : "Certificate of family status"
   }, {
     "@language" : "it",
-    "@value" : "Certificato di  stato di famiglia"
+    "@value" : "Certificato di stato di famiglia"
   } ]
 }, {
   "@id" : "https://w3id.org/italia/onto/ACO/CitizenshipCertificate",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Certificato rilasciato dal Ministero dell’Interno o dal Comune in cui si attesta quanto risulta in anagrafe rispetto alla cittadinanza e ai relativi dati di una persona. "
+    "@value" : "Certificato rilasciato dal Ministero dell’Interno o dal Comune in cui si attesta quanto risulta in anagrafe rispetto alla cittadinanza e ai relativi dati di una persona."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "it",
-    "@value" : "Certificato di  cittadinanza"
+    "@value" : "Certificato di cittadinanza"
   }, {
     "@language" : "en",
     "@value" : "Citizenship certificate"
@@ -1116,11 +1116,11 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Atto che formalizza lo scioglimento del vincolo matrimoniale tra i coniugi derivante dall’accordo degli stessi: - la sentenza del tribunale in caso di domanda congiunta dei coniugi di scioglimento [art. 4 L 898/1970, abrogato]; - l’atto dell’ufficiale di stato civile contenente la dichiarazione dei coniugi di volere ottenere lo scioglimento del matrimonio [art. 12 DL 132/2014]; - il nulla osta ovvero l’autorizzazione del procuratore della Repubblica dell’accordo raggiunto a seguito di convenzione di negoziazione assistita da avvocati [art. 6 DL 132/2014]. "
+    "@value" : "Atto che formalizza lo scioglimento del vincolo matrimoniale tra i coniugi derivante dall’accordo degli stessi: - la sentenza del tribunale in caso di domanda congiunta dei coniugi di scioglimento [art. 4 L 898/1970, abrogato]; - l’atto dell’ufficiale di stato civile contenente la dichiarazione dei coniugi di volere ottenere lo scioglimento del matrimonio [art. 12 DL 132/2014]; - il nulla osta ovvero l’autorizzazione del procuratore della Repubblica dell’accordo raggiunto a seguito di convenzione di negoziazione assistita da avvocati [art. 6 DL 132/2014]."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "it",
-    "@value" : "Atto di divorzio "
+    "@value" : "Atto di divorzio"
   }, {
     "@language" : "en",
     "@value" : "Divorce deed"
@@ -1150,7 +1150,7 @@
     "@value" : "Evidence of birth certificate"
   }, {
     "@language" : "it",
-    "@value" : "Evidenza di  certificato anagrafico  di nascita"
+    "@value" : "Evidenza di certificato anagrafico di nascita"
   } ]
 }, {
   "@id" : "https://w3id.org/italia/onto/ACO/EvidenceOfResidenceCertificate",
@@ -1160,18 +1160,18 @@
     "@value" : "Evidence of residence certificate"
   }, {
     "@language" : "it",
-    "@value" : "Evidenza di  certificato anagrafico  di residenza"
+    "@value" : "Evidenza di certificato anagrafico di residenza"
   } ]
 }, {
   "@id" : "https://w3id.org/italia/onto/ACO/MaritalStatusCertificate",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Certificato rilasciato dal Ministero dell’Interno o dal Comune in cui si attesta quanto risulta in anagrafe rispetto allo stato civile e ai relativi dati di una persona. "
+    "@value" : "Certificato rilasciato dal Ministero dell’Interno o dal Comune in cui si attesta quanto risulta in anagrafe rispetto allo stato civile e ai relativi dati di una persona."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "it",
-    "@value" : "Certificato di  stato civile"
+    "@value" : "Certificato di stato civile"
   }, {
     "@language" : "en",
     "@value" : "Marital status certificate"
@@ -1234,7 +1234,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Atto amministrativo mediante il quale una persona fisica viene registrata nell’anagrafe della popolazione residente (Art. 7 DPR 223/1989). "
+    "@value" : "Atto amministrativo mediante il quale una persona fisica viene registrata nell’anagrafe della popolazione residente (Art. 7 DPR 223/1989)."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "it",
@@ -1251,11 +1251,11 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Atto amministrativo che determina la registrazione nell'anagrafe comunale dei nati da genitori iscritti nell’anagrafe della popolazione residente del comune, anche se la nascita è avvenuta in altro comune o all’estero purché siano pervenuti i relativi atti per la trascrizione. "
+    "@value" : "Atto amministrativo che determina la registrazione nell'anagrafe comunale dei nati da genitori iscritti nell’anagrafe della popolazione residente del comune, anche se la nascita è avvenuta in altro comune o all’estero purché siano pervenuti i relativi atti per la trascrizione."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "it",
-    "@value" : "Iscrizione  anagrafica  per nascita"
+    "@value" : "Iscrizione anagrafica per nascita"
   }, {
     "@language" : "en",
     "@value" : "Registry entry for birth"
@@ -1283,7 +1283,7 @@
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "it",
-    "@value" : "Certificato  anagrafico di  residenza"
+    "@value" : "Certificato anagrafico di residenza"
   }, {
     "@language" : "en",
     "@value" : "Residence certificate"
@@ -1303,7 +1303,7 @@
     "@value" : "Role in application"
   }, {
     "@language" : "it",
-    "@value" : "Ruolo rispetto  a richiesta"
+    "@value" : "Ruolo rispetto a richiesta"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
     "@id" : "https://w3id.org/italia/onto/RO/Role"
@@ -1318,7 +1318,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Versamento effettuato quale corrispettivo per il servizio svolto dalla pubblica amministrazione "
+    "@value" : "Versamento effettuato quale corrispettivo per il servizio svolto dalla pubblica amministrazione"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "it",
@@ -1332,11 +1332,11 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Atto che formalizza lo stato di separazione personale dei coniugi derivante dall’accordo degli stessi. L’atto di separazione consensuale può, alternativamente e ricorrendo i requisiti specifici per ciascuna fattispecie, configurarsi: – nell’atto dell’ufficiale di stato civile contenente l’accordo di separazione personale concluso innanzi a sé dai coniugi, da cui riceve personalmente la dichiarazione di volersi separare, laddove non vi siano figli minori, figli maggiorenni incapaci o portatori di handicap grave ovvero economicamente non autosufficienti [art. 12 DL 132/2014]; - nel decreto di omologazione del tribunale che rende efficace l’accordo raggiunto dai coniugi [art. 711 c.p.c.]; - nella convenzione di negoziazione assistita da avvocati. [art. 6 DL 132/2014] "
+    "@value" : "Atto che formalizza lo stato di separazione personale dei coniugi derivante dall’accordo degli stessi. L’atto di separazione consensuale può, alternativamente e ricorrendo i requisiti specifici per ciascuna fattispecie, configurarsi: – nell’atto dell’ufficiale di stato civile contenente l’accordo di separazione personale concluso innanzi a sé dai coniugi, da cui riceve personalmente la dichiarazione di volersi separare, laddove non vi siano figli minori, figli maggiorenni incapaci o portatori di handicap grave ovvero economicamente non autosufficienti [art. 12 DL 132/2014]; - nel decreto di omologazione del tribunale che rende efficace l’accordo raggiunto dai coniugi [art. 711 c.p.c.]; - nella convenzione di negoziazione assistita da avvocati. [art. 6 DL 132/2014]"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "it",
-    "@value" : "Atto di separazione "
+    "@value" : "Atto di separazione"
   }, {
     "@language" : "en",
     "@value" : "Separation deed"
@@ -1346,7 +1346,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Imposta indiretta cui sono soggetti gli atti, i documenti e i registri indicati nella tariffa annessa al DPR 26 ottobre 1972, n. 642. "
+    "@value" : "Imposta indiretta cui sono soggetti gli atti, i documenti e i registri indicati nella tariffa annessa al DPR 26 ottobre 1972, n. 642."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "it",
@@ -1420,7 +1420,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Relazione tra certificato ed evento registrato. "
+    "@value" : "Relazione tra certificato ed evento registrato."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
     "@id" : "https://w3id.org/italia/onto/ACO/Certificate"
@@ -1580,7 +1580,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty", "http://www.w3.org/2002/07/owl#FunctionalProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Durata del certificato: 6 mesi (art. 41 dpr 445/00), 3 mesi (art. 33 d. lgs. 223/1989). "
+    "@value" : "Durata del certificato: 6 mesi (art. 41 dpr 445/00), 3 mesi (art. 33 d. lgs. 223/1989)."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
     "@id" : "https://w3id.org/italia/onto/ACO/Certificate"
@@ -1757,7 +1757,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty", "http://www.w3.org/2002/07/owl#InverseFunctionalProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Relazione tra persona fisica e autorità che rilascia il certificato o l’atto e il ruolo ricoperto, oppure interessato o delegato. "
+    "@value" : "Relazione tra persona fisica e autorità che rilascia il certificato o l’atto e il ruolo ricoperto, oppure interessato o delegato."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
     "@id" : "_:genid4"
@@ -1853,7 +1853,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty", "http://www.w3.org/2002/07/owl#FunctionalProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Relazione tra residenza e comune. "
+    "@value" : "Relazione tra residenza e comune."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",

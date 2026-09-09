@@ -536,7 +536,7 @@ admsapit:SemanticAssetDistribution rdf:type owl:Class .
                                owl:cardinality "1"^^xsd:nonNegativeInteger
                              ] ;
              rdfs:comment "Questa classe rappresenta un evento pubblico (e.g., una partita di calcio, una mostra, la presentazione di un libro, una fiera, ecc.). Un evento che si tiene in un determinato luogo e che accade a un certo tempo, organizzato/gestito da uno o più agenti con uno specifico fine e nell’interesse di un pubblico generale. Esistono diversi tipi di eventi pubblici in base alla loro dimensione e in base al loro contenuto"@it ,
-                          "This class represents a public event (e.g., a football match, a  conference, a book presentation, etc.). A public event is defined as an event that takes places in a given place and that occurs at a certain time, organised/run/promoted by one or more agents with a specific purpose and in the interest of a general public. There exist different types of public events depending on their size and content."@en ;
+                          "This class represents a public event (e.g., a football match, a conference, a book presentation, etc.). A public event is defined as an event that takes places in a given place and that occurs at a certain time, organised/run/promoted by one or more agents with a specific purpose and in the interest of a general public. There exist different types of public events depending on their size and content."@en ;
              rdfs:isDefinedBy <https://w3id.org/italia/onto/CPEV> ;
              rdfs:label "Evento Pubblico"@it ,
                         "Public Event"@en ;

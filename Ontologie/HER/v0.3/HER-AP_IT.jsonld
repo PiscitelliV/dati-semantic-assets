@@ -2235,7 +2235,7 @@
       "rdfs:comment": [
         {
           "@language": "it",
-          "@value": "Questa proprietà  collega un'operazione CTN/PRIN con il progetto CTN/PRIN di riferimento"
+          "@value": "Questa proprietà collega un'operazione CTN/PRIN con il progetto CTN/PRIN di riferimento"
         },
         {
           "@language": "en",
@@ -8835,11 +8835,11 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "Unique ID of an operation.\nIt is obtained by concatenating the following variables at the origin: \"Codice locale progetto +  ambito + CF beneficiario\"  corresponding to: projectCode + scope_operations + fiscalcode_entity"
+          "@value": "Unique ID of an operation.\nIt is obtained by concatenating the following variables at the origin: \"Codice locale progetto + ambito + CF beneficiario\" corresponding to: projectCode + scope_operations + fiscalcode_entity"
         },
         {
           "@language": "it",
-          "@value": "ID univoco di una operazione.\nE' ottenuto concatenando le seguenti variabili all'origine:\nCodice locale progetto +  ambito + CF beneficiario\ncorrispondenti a: projectCode + scope_operations + fiscalcode_entity"
+          "@value": "ID univoco di una operazione.\nE' ottenuto concatenando le seguenti variabili all'origine:\nCodice locale progetto + ambito + CF beneficiario\ncorrispondenti a: projectCode + scope_operations + fiscalcode_entity"
         }
       ],
       "rdfs:domain": {
@@ -11469,11 +11469,11 @@
       "rdfs:comment": [
         {
           "@language": "en",
-          "@value": "Total admitted costs after evaluation of the costs indicated in the project proposals.  Calculated as the sum of the counterpart variable 'admittedCost' present at lower aggregation level (admittedCost_operations)"
+          "@value": "Total admitted costs after evaluation of the costs indicated in the project proposals. Calculated as the sum of the counterpart variable 'admittedCost' present at lower aggregation level (admittedCost_operations)"
         },
         {
           "@language": "it",
-          "@value": "Totale dei costi ammessi dopo la valutazione dei costi indicati nelle proposte di progetto.  Calcolati come somma dell'omologa variabile \"admittedCost\" presente a livello di aggregazione inferiore (admittedCost_operations)"
+          "@value": "Totale dei costi ammessi dopo la valutazione dei costi indicati nelle proposte di progetto. Calcolati come somma dell'omologa variabile \"admittedCost\" presente a livello di aggregazione inferiore (admittedCost_operations)"
         }
       ],
       "rdfs:domain": {
@@ -11608,7 +11608,7 @@
         },
         {
           "@language": "it",
-          "@value": "ha  diploma"
+          "@value": "ha diploma"
         }
       ],
       "rdfs:range": {
@@ -13336,7 +13336,7 @@
         },
         {
           "@language": "it",
-          "@value": "Costo ammesso da decreto dopo la valutazione dei costo indicato nella proposta di progetto  per singola voce di spesa"
+          "@value": "Costo ammesso da decreto dopo la valutazione dei costo indicato nella proposta di progetto per singola voce di spesa"
         }
       ],
       "rdfs:domain": {
@@ -16044,7 +16044,7 @@
         },
         {
           "@language": "it",
-          "@value": "ha  corso di dottorato di ricerca"
+          "@value": "ha corso di dottorato di ricerca"
         }
       ],
       "rdfs:range": {
@@ -16473,7 +16473,7 @@
       "rdfs:label": [
         {
           "@language": "it",
-          "@value": "Classificazione  Scopus"
+          "@value": "Classificazione Scopus"
         },
         {
           "@language": "en",
@@ -17962,7 +17962,7 @@
       "rdfs:label": [
         {
           "@language": "it",
-          "@value": "ha  iscrizione"
+          "@value": "ha iscrizione"
         },
         {
           "@language": "en",

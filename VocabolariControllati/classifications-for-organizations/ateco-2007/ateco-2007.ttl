@@ -763,7 +763,7 @@ ndc:keyConcept a rdfs:Property .
 	skos:notation "01.13.21" ; clvapit:hasRankOrder "6" ;
 	skos:prefLabel  "Coltivazione di ortaggi (inclusi i meloni) in foglia, a fusto, a frutto, in radici, bulbi e tuberi in colture protette fuori suolo (escluse barbabietola da zucchero e patate)"@it ;
 	dct:replaces <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/011320> ;
-	owl:versionInfo "Sostituisce 01.13.20  - aggiornamento 2021 - 18 Dicembre 2020"@it ;
+	owl:versionInfo "Sostituisce 01.13.20 - aggiornamento 2021 - 18 Dicembre 2020"@it ;
 	skos:definition "" ;
 	skos:note "i) coltivazione fuori suolo (inclusa coltivazione idroponica e acquaponica) di ortaggi in foglia o a fusto come: carciofi, asparagi, cavoli, cavolfiori e broccoli, lattuga e cicoria, spinaci, finocchi, sedano, altri ortaggi in foglia o a fusto; ii) coltivazione fuori suolo (inclusa coltivazione idroponica e acquaponica) di ortaggi a frutto come: cetrioli e cetriolini, melanzane, pomodori, peperoni, zucchine, fagiolini, angurie, meloni (cantalupo), altri meloni e vegetali da frutto; iii) coltivazione fuori suolo (inclusa coltivazione idroponica e acquaponica) di ortaggi in radici, bulbi o tuberi come: carote, rape, ravanelli, aglio, cipolle (incluso lo scalogno), porro e altri vegetali agliacei, altre radici, bulbi o tuberi; iv) coltivazione fuori suolo (inclusa coltivazione idroponica e acquaponica) di granoturco dolce; v) coltivazione fuori suolo (inclusa coltivazione idroponica e acquaponica) di funghi e tartufi; vi) produzione fuori suolo (inclusa coltivazione idroponica e acquaponica) di sementi (esclusi i semi di barbabietola da zucchero, esclusi i semi delle altre barbabietole); vii) coltivazione fuori suolo (inclusa coltivazione idroponica e acquaponica) di altri ortaggi"@it .
 
@@ -16610,10 +16610,10 @@ Questa sezione include pertanto la gestione di aziende elettriche e del gas, che
 	skos:prefLabel  "ATTIVITÀ MANIFATTURIERE"@it ;
 	skos:definition """Questa sezione include la trasformazione fisica o chimica di materiali, sostanze o componenti in nuovi prodotti, sebbene questo non sia l'unico criterio con cui à¨ possibile definire queste attività  (cfr. nota sul riciclaggio dei materiali di scarto). I materiali, le sostanze o i componenti trasformati sono materie prime che provengono dall'agricoltura, dalla silvicoltura, dalla pesca, dall'estrazione di minerali oppure sono il prodotto di altre attività  manifatturiere. L'alterazione, la rigenerazione o la ricostruzione sostanziale dei prodotti sono in genere considerate attività  manifatturiere.
 Le attività  manifatturiere spesso sono effettuate in stabilimenti, fabbriche od opifici che utilizzano macchine a motore e apparecchiature di movimentazione dei materiali. Rientrano in questa sezione anche le unità  che trasformano manualmente materiali e sostanze in nuovi prodotti, quelle che effettuano la manifattura nell'abitazione del lavoratore e le unità  che vendono al pubblico prodotti fabbricati nei medesimi locali in cui avviene la vendita, quali panetterie e sartorie di abiti su misura. Le unità  manifatturiere possono:
--   lavorare direttamente i materiali
--   subappaltare una parte della lavorazione dei materiali
--   subappaltare l'intera lavorazione dei materiali propri e non, mantenendo la proprietà  legale ed i brevetti del prodotto
--   portare a termine le lavorazioni subappaltate menzionate sopra.
+- lavorare direttamente i materiali
+- subappaltare una parte della lavorazione dei materiali
+- subappaltare l'intera lavorazione dei materiali propri e non, mantenendo la proprietà  legale ed i brevetti del prodotto
+- portare a termine le lavorazioni subappaltate menzionate sopra.
 Il nuovo prodotto trasformato puà² essere finito, ossia pronto per l'utilizzo o il consumo, oppure puà² trattarsi di un prodotto semilavorato destinato ad un'ulteriore attività  manifatturiera. Ad esempio il prodotto di una raffineria di allumina viene utilizzato per la produzione di alluminio di base, l'alluminio primario viene utilizzato negli impianti di trafilatura per fili di alluminio e i fili di alluminio sono utilizzati per la fabbricazione di prodotti fatti con fili di alluminio.
 La produzione di componenti e parti specialistiche, nonchà© di accessori, di macchinari ed apparecchiature viene, in generale, classificata nella stessa classe della produzione di macchinari ed apparecchiature cui le parti e gli accessori sono destinati. La produzione di componenti e parti non specialistiche di macchinari e apparecchiature, ad esempio motori, pistoni, motori elettrici, gruppi elettrici, valvole, ingranaggi, cuscinetti a rulli, à¨ classificata nella classe di produzione appropriata, a prescindere dal macchinario o dall'apparecchiatura in cui queste parti saranno incluse. Tuttavia, la produzione di componenti e accessori specialistici tramite fusione o estrusione di materiali plastici à¨ inclusa nel gruppo 22.2.
 Il montaggio dei componenti di prodotti lavorati rientra tra le attività  manifatturiere ed include il montaggio dei prodotti creati tramite pezzi auto-prodotti o acquistati.
@@ -16621,22 +16621,22 @@ Il riciclaggio dei materiali di scarto, ossia la trasformazione di questi materi
 In generale le attività  di manutenzione specializzata e riparazione di macchine e attrezzature industriali, commerciali e simili sono classificate nella divisione 33 (Riparazione, manutenzione ed installazione di macchinari ed apparecchiature). Tuttavia, le unità  impiegate nella riparazione di computer, beni per uso personale e per la casa sono classificate all'interno della divisione 95 (Riparazione di computer e di beni per uso personale e per la casa), mentre quelle impiegate nella riparazione di autoveicoli sono classificate nella divisione 45 (Commercio all'ingrosso e al dettaglio e riparazione di autoveicoli e motocicli).
 L'installazione di macchinari ed apparecchiature, se effettuata come attività  specializzata, à¨ classificata nella classe 33.20.
 Di contro, la Nace non considera come manifatturiere altre attività  che talvolta implicano un processo di trasformazione, quali:
--   Utilizzazione di aree forestali, classificata nella sezione A (Agricoltura, silvicoltura e pesca);
--   Prima lavorazione di prodotti agricoli, classificata nella sezione A (Agricoltura, silvicoltura e pesca);
--   La preparazione di alimenti per il consumo immediato sul posto à¨ classificata nella divisione 56 (Attività  dei servizi di ristorazione);
--   Arricchimento di minerali, classificato nella sezione B (Estrazione di minerali);
--   Costruzione di strutture e operazioni di fabbricazione eseguite nel cantiere edile, classificate nella sezione F (Costruzioni);
--   Attività  per il riordinamento di grosse partite di merci e la loro ridistribuzione in partite pià¹ piccole, incluso l'imballaggio, il reimballaggio, o l'imbottigliamento di prodotti come liquori o elementi chimici; la cernita di cascami; la mescolatura di vernici e il taglio di metalli secondo l'ordine del cliente per produrre una versione modificata dello stesso prodotto, classificate nella sezione G (Commercio all'ingrosso e al dettaglio; riparazione di autoveicoli e motocicli).""" ;
+- Utilizzazione di aree forestali, classificata nella sezione A (Agricoltura, silvicoltura e pesca);
+- Prima lavorazione di prodotti agricoli, classificata nella sezione A (Agricoltura, silvicoltura e pesca);
+- La preparazione di alimenti per il consumo immediato sul posto à¨ classificata nella divisione 56 (Attività  dei servizi di ristorazione);
+- Arricchimento di minerali, classificato nella sezione B (Estrazione di minerali);
+- Costruzione di strutture e operazioni di fabbricazione eseguite nel cantiere edile, classificate nella sezione F (Costruzioni);
+- Attività  per il riordinamento di grosse partite di merci e la loro ridistribuzione in partite pià¹ piccole, incluso l'imballaggio, il reimballaggio, o l'imbottigliamento di prodotti come liquori o elementi chimici; la cernita di cascami; la mescolatura di vernici e il taglio di metalli secondo l'ordine del cliente per produrre una versione modificata dello stesso prodotto, classificate nella sezione G (Commercio all'ingrosso e al dettaglio; riparazione di autoveicoli e motocicli).""" ;
 	skos:note """Nota: I confini del settore manifatturiero e degli altri settori del sistema di classificazione sono talvolta indistinti. Come regola generale, le attività  della sezione manifattura implicano la trasformazione di materiali in nuovi prodotti. Il loro output à¨ un prodotto nuovo. Tuttavia il confine tra cià² che puà² essere considerato o meno un prodotto nuovo puà² avere aree di incertezza. Ai fini di una classificazione univoca, la Nace risolve in un senso o nell'altro i diversi casi, considerando, ad esempio, come attività  manifatturiere le seguenti attività :
--   Lavorazione del pesce fresco (sgusciatura delle ostriche, filettatura del pesce), non effettuate su un peschereccio (cfr. 10.20)
--   Pastorizzazione ed imbottigliamento del latte (cfr. 10.51)
--   Trasformazione del cuoio (cfr. 15.11)
--   Conservazione del legno (cfr. 16.10)
--   Stampa ed attività  connesse (cfr. 18.1)
--   Rigenerazione di pneumatici (cfr. 22.11)
--   Produzione di calcestruzzo pronto all'uso (cfr. 23.63)
--   Galvanostegia, placcatura, trattamento termico dei metalli e lucidatura (cfr. 25.61)
--   Ricostruzione o rifabbricazione di macchine (ad esempio motori per autoveicoli, cfr. 29.10)""" .
+- Lavorazione del pesce fresco (sgusciatura delle ostriche, filettatura del pesce), non effettuate su un peschereccio (cfr. 10.20)
+- Pastorizzazione ed imbottigliamento del latte (cfr. 10.51)
+- Trasformazione del cuoio (cfr. 15.11)
+- Conservazione del legno (cfr. 16.10)
+- Stampa ed attività  connesse (cfr. 18.1)
+- Rigenerazione di pneumatici (cfr. 22.11)
+- Produzione di calcestruzzo pronto all'uso (cfr. 23.63)
+- Galvanostegia, placcatura, trattamento termico dei metalli e lucidatura (cfr. 25.61)
+- Ricostruzione o rifabbricazione di macchine (ad esempio motori per autoveicoli, cfr. 29.10)""" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/493> a skos:Concept , covapit:PrivateOrgActivityType ;
 	skos:narrower <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/4931> , <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/4932> , <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/4939> ;
@@ -17402,7 +17402,7 @@ Questa sezione include i servizi di ristorazione e bar effettuati dalle stesse i
 	skos:broader <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/85> ;
 	skos:notation "85.5" ; clvapit:hasRankOrder "3" ;
 	skos:prefLabel  "ALTRI SERVIZI DI ISTRUZIONE"@it ;
-	skos:definition "Questo gruppo include l'istruzione generale continua, istruzione professionale continua e la formazione per le varie professioni, per hobby o per lo sviluppo conoscitivo personale. Sono escluse le attività  comprese nei gruppi 85.1-85.4  -  istruzione prescolastica, istruzione primaria, istruzione secondaria ed istruzione superiore. Sono inclusi corsi di preparazione all'attività  sportiva, corsi di lingua straniera, corsi di arte, recitazione o musica o altri corsi di formazione specialistici, non assimilabili alle attività  di istruzione generale comprese nei gruppi 85.1-85.4" .
+	skos:definition "Questo gruppo include l'istruzione generale continua, istruzione professionale continua e la formazione per le varie professioni, per hobby o per lo sviluppo conoscitivo personale. Sono escluse le attività  comprese nei gruppi 85.1-85.4 - istruzione prescolastica, istruzione primaria, istruzione secondaria ed istruzione superiore. Sono inclusi corsi di preparazione all'attività  sportiva, corsi di lingua straniera, corsi di arte, recitazione o musica o altri corsi di formazione specialistici, non assimilabili alle attività  di istruzione generale comprese nei gruppi 85.1-85.4" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/774> a skos:Concept , covapit:PrivateOrgActivityType ;
 	skos:narrower <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/7740> ;
@@ -17925,7 +17925,7 @@ Questa sezione include i servizi di ristorazione e bar effettuati dalle stesse i
 	skos:definition """Questo gruppo include le visite mediche ed i trattamenti effettuati da medici generici, specialisti, inclusi chirurghi, dentisti eccetera.
 Le attività  previste in questo gruppo possono essere svolte in studi privati, in ambulatori in cui operano gruppi di medici ed in cliniche ospedaliere che svolgono servizio ambulatoriale presso aziende, scuole, case di riposo, organizzazioni sindacali, nonchà© a domicilio degli ammalati.
 Questo gruppo include anche:
--   servizi di consulto privato a pazienti ricoverati""" .
+- servizi di consulto privato a pazienti ricoverati""" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/619> a skos:Concept , covapit:PrivateOrgActivityType ;
 	skos:narrower <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/6190> ;
@@ -18190,8 +18190,8 @@ Questo gruppo include anche:
 	skos:notation "46.1" ; clvapit:hasRankOrder "3" ;
 	skos:prefLabel  "INTERMEDIARI DEL COMMERCIO"@it ;
 	skos:definition """Questo gruppo include:
--   attività  di operatori di borsa merci, commercianti che effettuano operazioni commerciali a nome e per conto di terzi
--   attività  dei rappresentanti del commercio e intermediari che effettuano transazioni commerciali a nome di un mandante, anche via internet""" .
+- attività  di operatori di borsa merci, commercianti che effettuano operazioni commerciali a nome e per conto di terzi
+- attività  dei rappresentanti del commercio e intermediari che effettuano transazioni commerciali a nome di un mandante, anche via internet""" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/662> a skos:Concept , covapit:PrivateOrgActivityType ;
 	skos:narrower <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/6622> , <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/6621> , <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/6629> ;
@@ -20178,8 +20178,8 @@ Questa divisione include anche la riproduzione di supporti di registrazione come
 Inoltre, sono incluse le attività  di servizio accessorie all'agricoltura, alla caccia e alle attività  a queste relative.
 Il gruppo 01.5 (Coltivazioni agricole associate all'allevamento di animali: attività  mista) costituisce una eccezione ai principi generali adottati per l'identificazione dell'attività  principale. Si ammette che un'azienda agricola possa avere una ben bilanciata produzione sia agricola che animale. In questo caso sarebbe arbitrario classificare l'azienda in una categoria o nell'altra.
 L'attività  agricola esclude qualsiasi lavorazione successiva dei prodotti agricoli (classificata nelle divisioni 10 e 11 (Produzione di prodotti alimentari e bevande) e nella divisione 12 (Produzione di prodotti del tabacco), ad eccezione di quelle necessarie per preparare i prodotti per i mercati primari. Comunque, come eccezione alla regola generale di classificazione delle attività  svolte in maniera integrata, una unità  che trasforma in prevalenza i propri prodotti agricoli all'interno dell'azienda viene classificata nella 01 (Agricoltura), anche se l'output normalmente à¨ un prodotto della sezione C (Attività  manifatturiere). Ne sono esempi:
--  la produzione di vino da uve prevalentemente proprie;
--   la produzione di olio di pressione da olive prevalentemente proprie.
+- la produzione di vino da uve prevalentemente proprie;
+- la produzione di olio di pressione da olive prevalentemente proprie.
 Dalla divisione sono esclusi i lavori di movimento terra per l'agricoltura (ad esempio: il terrazzamento di terreni agricoli, il drenaggio, la preparazione di risaie eccetera) classificati nella sezione F (Costruzioni) ed i gruppi di acquisto e le associazioni cooperative che svolgono attività  di commercializzazione di prodotti agricoli, classificate nella sezione G. àˆ anche esclusa l'attività  di cura e manutenzione del paesaggio (81.30).""" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/4614> a skos:Concept , covapit:PrivateOrgActivityType ;
@@ -21520,8 +21520,8 @@ Tuttavia, qui non à¨ classificata l'attività  di supervisione diretta dei pr
 	skos:prefLabel  "ATTIVITÀ DI RICERCA, SELEZIONE, FORNITURA DI PERSONALE"@it ;
 	skos:definition """Questa divisione include le attività  di selezione di personale non dipendente dall'agenzia di collocamento, attività  di fornitura di personale da impiegare temporaneamente presso altre imprese a supporto della forza lavoro vigente in queste ultime, nonchà© le attività  di fornitura di altre risorse umane o servizi di gestione di risorse umane per altre imprese.
 Questa divisione include:
--   attività  di ricerca e selezione del personale e attività  di collocamento
--   attività  di agenzie di casting teatrale""" .
+- attività  di ricerca e selezione del personale e attività  di collocamento
+- attività  di agenzie di casting teatrale""" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/7739> a skos:Concept , covapit:PrivateOrgActivityType ;
 	skos:narrower <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/77399> , <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/77391> ;
@@ -21596,7 +21596,7 @@ Questa divisione include:
 	skos:definition """Questa classe include la raccolta di depositi e/o di strumenti ad essi assimilati, nonchà© l'estensione del credito e la concessione di prestiti.
 La concessione di crediti puà² assumere forme diverse, quali prestiti, mutui ipotecari, carte di credito eccetera. Tali attività  sono generalmente effettuate da istituzioni monetarie diverse dalla Banca Centrale.
 Questa classe include anche:
--   attività  di trasferimento fondi (bonifici)""" .
+- attività  di trasferimento fondi (bonifici)""" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/4759> a skos:Concept , covapit:PrivateOrgActivityType ;
 	skos:narrower <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/47596> , <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/47592> , <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/47593> , <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/47599> , <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/47594> , <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/47591> , <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/47595> ;

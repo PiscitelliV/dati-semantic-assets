@@ -1804,7 +1804,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Obbligo di pubblicazione del registro degli accessi "
+        "@value": "Obbligo di pubblicazione del registro degli accessi"
       }
     ],
     "https://w3id.org/italia/onto/Transparency/appliesToOrganization": [
@@ -3174,7 +3174,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Obbligo di pubblicazione della relazione del responsabile della prevenzione della corruzione e della trasparenza "
+        "@value": "Obbligo di pubblicazione della relazione del responsabile della prevenzione della corruzione e della trasparenza"
       }
     ],
     "https://w3id.org/italia/onto/Transparency/appliesToOrganization": [
@@ -3459,7 +3459,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Obbligo di pubblicazione di atti di accertamento delle violazioni "
+        "@value": "Obbligo di pubblicazione di atti di accertamento delle violazioni"
       }
     ],
     "https://w3id.org/italia/onto/Transparency/appliesToOrganization": [
@@ -3609,7 +3609,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Obbligo di pubblicazione relativi alle tipologie di procedimenti amministrativi "
+        "@value": "Obbligo di pubblicazione relativi alle tipologie di procedimenti amministrativi"
       }
     ],
     "https://w3id.org/italia/onto/Transparency/appliesToOrganization": [
@@ -4281,7 +4281,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Obbligo di pubblicazione relativo all'indicatore trimestrale di tempestività  dei pagamenti"
+        "@value": "Obbligo di pubblicazione relativo all'indicatore trimestrale di tempestività dei pagamenti"
       }
     ],
     "https://w3id.org/italia/onto/Transparency/appliesToOrganization": [
@@ -5005,7 +5005,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Obbligo di pubblicazione concernente carta dei servizi e standard di qualità "
+        "@value": "Obbligo di pubblicazione concernente carta dei servizi e standard di qualità"
       }
     ],
     "https://w3id.org/italia/onto/Transparency/appliesToOrganization": [
@@ -6059,7 +6059,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Obbligo di pubblicazione relativo ai nuclei di valutazione e verifica degli investimenti pubblici "
+        "@value": "Obbligo di pubblicazione relativo ai nuclei di valutazione e verifica degli investimenti pubblici"
       }
     ],
     "https://w3id.org/italia/onto/Transparency/appliesToOrganization": [
@@ -7171,7 +7171,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Obbligo di pubblicazione relativo all'indicatore di tempestività  dei pagamenti"
+        "@value": "Obbligo di pubblicazione relativo all'indicatore di tempestività dei pagamenti"
       }
     ],
     "https://w3id.org/italia/onto/Transparency/appliesToOrganization": [
@@ -7321,7 +7321,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Obbligo di pubblicazione dei dati relativi alle società  partecipate"
+        "@value": "Obbligo di pubblicazione dei dati relativi alle società partecipate"
       }
     ],
     "https://w3id.org/italia/onto/Transparency/appliesToOrganization": [
@@ -7674,7 +7674,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Obbligo di pubblicazione di riferimenti normativi su organizzazione e attività "
+        "@value": "Obbligo di pubblicazione di riferimenti normativi su organizzazione e attività"
       }
     ],
     "https://w3id.org/italia/onto/Transparency/appliesToOrganization": [
@@ -8994,7 +8994,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Obbligo di pubblicazione di criteri e modalità  di concessione di sovvenzioni, contributi, sussidi ed ausili finanziari"
+        "@value": "Obbligo di pubblicazione di criteri e modalità di concessione di sovvenzioni, contributi, sussidi ed ausili finanziari"
       }
     ],
     "https://w3id.org/italia/onto/Transparency/appliesToOrganization": [
@@ -9513,7 +9513,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Obbligo di pubblicazione di obiettivi di accessibilità "
+        "@value": "Obbligo di pubblicazione di obiettivi di accessibilità"
       }
     ],
     "https://w3id.org/italia/onto/Transparency/appliesToOrganization": [
@@ -9637,7 +9637,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Obbligo di pubblicazione dei provvedimenti adottati dall'A.N.AC. "
+        "@value": "Obbligo di pubblicazione dei provvedimenti adottati dall'A.N.AC."
       }
     ],
     "https://w3id.org/italia/onto/Transparency/appliesToOrganization": [
@@ -10378,7 +10378,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Obbligo di pubblicazione relativo all'elenco dei bandi espletati "
+        "@value": "Obbligo di pubblicazione relativo all'elenco dei bandi espletati"
       }
     ],
     "https://w3id.org/italia/onto/Transparency/appliesToOrganization": [

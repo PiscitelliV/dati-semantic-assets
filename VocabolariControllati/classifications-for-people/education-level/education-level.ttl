@@ -258,7 +258,7 @@ ndc:keyConcept
   <http://dati.gov.it/data/resource/Distribution/EducationLevel_CSV>
         a						dcatapit:Distribution  ;
         dct:title				"Distribuzione CSV grado istruzione/titoli di studio delle persone"@it , "CSV distribution of education level controlled vocabulary"@en ;
-        dct:description			"Questa è la distribuzione CSV del dataset Linked Open Data del vocabolario controllato sul grado di istruzione/titoli di studio delle persone"@it , "This is the distribution in CSV of the Linked Open Dataset of the education level controlled vocabulary "@en ;
+        dct:description			"Questa è la distribuzione CSV del dataset Linked Open Data del vocabolario controllato sul grado di istruzione/titoli di studio delle persone"@it , "This is the distribution in CSV of the Linked Open Dataset of the education level controlled vocabulary"@en ;
         dct:format 	<http://publications.europa.eu/resource/authority/file-type/CSV> ;
         dct:license <https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40> ;
         dcat:downloadURL		<https://raw.githubusercontent.com/italia/dati-semantic-assets/master/VocabolariControllati/classifications-for-people/education-level/education-level.csv> ;
@@ -399,7 +399,7 @@ ndc:keyConcept
       skos:notation "L" ;
       dct:identifier "L" ;
       cpvapit:educationLevelID "L" ;
-      skos:prefLabel "Laurea di primo livello "@it ;
+      skos:prefLabel "Laurea di primo livello"@it ;
       skos:prefLabel "Bachelor’s degree"@en ;
       cpvapit:educationLevelDesc "Laurea di primo livello"@it ;
       cpvapit:educationLevelDesc "Bachelor’s degree"@en ;
@@ -477,8 +477,8 @@ ndc:keyConcept
       skos:notation "RDD" ;
       dct:identifier "RDD" ;
       cpvapit:educationLevelID "RDD" ;
-      skos:prefLabel "Dottorato di ricerca/Diploma accademico di formazione alla ricerca "@it ;
+      skos:prefLabel "Dottorato di ricerca/Diploma accademico di formazione alla ricerca"@it ;
       skos:prefLabel "Research Doctorate (PhD)/ Advanced research academic diploma"@en ;
-      cpvapit:educationLevelDesc "Dottorato di ricerca/Diploma accademico di formazione alla ricerca "@it ;
+      cpvapit:educationLevelDesc "Dottorato di ricerca/Diploma accademico di formazione alla ricerca"@it ;
       cpvapit:educationLevelDesc "Research Doctorate (PhD)/ Advanced research academic diploma"@en ;
       skos:definition "Il Dottorato di ricerca è Conseguito da coloro che sono già in possesso di una laurea di oltre 3 anni, cioè di una laurea magistrale/specialistica. La durata del dottorato supera in genere i due anni e il titolo conseguito è riconosciuto a tutti gli effetti come titolo di studio. Il dottorato è finalizzato all’approfondimento dell’indagine scientifica e della metodologia di ricerca nel rispettivo settore. Il Diploma accademico di formazione alla ricerca dell’Alta Formazione Artistica e Musicale è conseguito alla fine del Corso accademico di formazione alla ricerca dell’Alta Formazione Artistica e Musicale di durata minima 3 anni e istituiti a partire dall’ dall’a.a. 2012/13. Si accede con il Diploma accademico di secondo livello o altro titolo di studio conseguito all’estero, riconosciuto idoneo."@it .

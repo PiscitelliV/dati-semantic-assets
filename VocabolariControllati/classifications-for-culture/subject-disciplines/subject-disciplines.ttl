@@ -302,7 +302,7 @@ Le competenze di questo settore riguardano anche la ricerca nei campi della fisi
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "003.003" ;
     skos:prefLabel "physics of matter"@en,
-        "fisica della materia "@it ;
+        "fisica della materia"@it ;
     skos:relatedMatch <http://culturaitalia.it/pico/thesaurus/4.1#fisica_della_materia> ;
     clvapit:hasRankOrder "2" .
 
@@ -360,7 +360,7 @@ Le competenze di questo settore riguardano anche la ricerca nei campi della fisi
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "003.009" ;
     skos:prefLabel "didactics and history of physics"@en,
-        "didattica e storia della fisica "@it ;
+        "didattica e storia della fisica"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/003-010> a skos:Concept ;
@@ -446,7 +446,7 @@ Le competenze di questo settore riguardano anche la ricerca nei campi della fisi
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "004.002" ;
     skos:prefLabel "physical chemistry"@en,
-        "chimica fisica "@it ;
+        "chimica fisica"@it ;
     skos:relatedMatch <http://culturaitalia.it/pico/thesaurus/4.1#chimica_fisica>,
         <http://thes.bncf.firenze.sbn.it/termine.php?id=17970&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
@@ -986,7 +986,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.001" ;
     skos:prefLabel "medical statistics"@en,
-        "statistica medica "@it ;
+        "statistica medica"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=19822&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -997,7 +997,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.002" ;
     skos:prefLabel "medical history"@en,
-        "storia della medicina "@it ;
+        "storia della medicina"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/007-003> a skos:Concept ;
@@ -1019,7 +1019,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.004" ;
     skos:prefLabel "experimental medicine and pathophysiology"@en,
-        "patologia generale "@it ;
+        "patologia generale"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/007-005> a skos:Concept ;
@@ -1029,7 +1029,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.005" ;
     skos:prefLabel "clinical pathology"@en,
-        "patologia clinica "@it ;
+        "patologia clinica"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=47017&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1040,7 +1040,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.006" ;
     skos:prefLabel "medical oncology"@en,
-        "oncologia medica "@it ;
+        "oncologia medica"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=23385&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1052,7 +1052,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.007" ;
     skos:prefLabel "clinical microbiology"@en,
-        "microbiologia clinica "@it ;
+        "microbiologia clinica"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=26631&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1063,7 +1063,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.008" ;
     skos:prefLabel "pathology"@en,
-        "anatomia patologica "@it ;
+        "anatomia patologica"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=26185&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1074,7 +1074,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.009" ;
     skos:prefLabel "internal medicine"@en,
-        "medicina interna "@it ;
+        "medicina interna"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=17158&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1085,7 +1085,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.010" ;
     skos:prefLabel "respiratory diseases"@en,
-        "malattie dell'apparato respiratorio "@it ;
+        "malattie dell'apparato respiratorio"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=11868&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1096,7 +1096,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.011" ;
     skos:prefLabel "cardiovascular diseases"@en,
-        "malattie dell'apparato cardiovascolare "@it ;
+        "malattie dell'apparato cardiovascolare"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=10777&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1107,7 +1107,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.012" ;
     skos:prefLabel "gastroenterology"@en,
-        "gastroenterologia "@it ;
+        "gastroenterologia"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=23193&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1118,7 +1118,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.013" ;
     skos:prefLabel "endocrinology"@en,
-        "endocrinologia "@it ;
+        "endocrinologia"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=27401&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1129,7 +1129,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.014" ;
     skos:prefLabel "nephrology"@en,
-        "nefrologia "@it ;
+        "nefrologia"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=24262&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1141,7 +1141,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.015" ;
     skos:prefLabel "blood diseases"@en,
-        "malattie del sangue "@it ;
+        "malattie del sangue"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=23177&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1152,7 +1152,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.016" ;
     skos:prefLabel "rheumatology"@en,
-        "reumatologia "@it ;
+        "reumatologia"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=20633&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1163,7 +1163,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.017" ;
     skos:prefLabel "infectious diseases"@en,
-        "malattie infettive "@it ;
+        "malattie infettive"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=4839&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1175,7 +1175,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.018" ;
     skos:prefLabel "general surgery"@en,
-        "chirurgia generale "@it ;
+        "chirurgia generale"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=836&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1186,7 +1186,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.019" ;
     skos:prefLabel "plastic surgery"@en,
-        "chirurgia plastica "@it ;
+        "chirurgia plastica"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=12450&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1198,7 +1198,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.020" ;
     skos:prefLabel "paediatric surgery"@en,
-        "chirurgia pediatrica e infantile "@it ;
+        "chirurgia pediatrica e infantile"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=21448&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1231,7 +1231,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.023" ;
     skos:prefLabel "heart surgery"@en,
-        "chirurgia cardiaca "@it ;
+        "chirurgia cardiaca"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=28358&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1274,7 +1274,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.027" ;
     skos:prefLabel "neurosurgery"@en,
-        "neurochirurgia "@it ;
+        "neurochirurgia"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/007-028> a skos:Concept ;
@@ -1284,7 +1284,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.028" ;
     skos:prefLabel "oral diseases and dentistry"@en,
-        "malattie odontostomatologiche "@it ;
+        "malattie odontostomatologiche"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/007-029> a skos:Concept ;
@@ -1294,7 +1294,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.029" ;
     skos:prefLabel "maxillofacial surgery"@en,
-        "chirurgia maxillofacciale "@it ;
+        "chirurgia maxillofacciale"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/007-030> a skos:Concept ;
@@ -1327,7 +1327,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.032" ;
     skos:prefLabel "audiology"@en,
-        "audiologia "@it ;
+        "audiologia"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=48013&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1338,7 +1338,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.033" ;
     skos:prefLabel "musculoskeletal system diseases"@en,
-        "malattie apparato locomotore "@it ;
+        "malattie apparato locomotore"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=11870&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1355,14 +1355,14 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/007-035> a skos:Concept ;
-    skos:altLabel "malattie veneree "@it ;
+    skos:altLabel "malattie veneree"@it ;
     skos:broader <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/007> ;
     skos:definition "Il settore si interessa dell'attività scientifica e didattico-formativa, nonché dell'attività assistenziale a essa congrua nel campo della fisiopatologia e clinica delle malattie della cute e degli annessi cutanei in età pediatrica e adulta; il settore ha specifica competenza nella dermatologia allergologica e professionale e nella venereologia."@it ;
     skos:editorialNote "Fonte: Decreto Ministeriale 4 ottobre 2000 [In rete] http://attiministeriali.miur.it/anno-2000/ottobre/dm-04102000.aspx (26 febbraio 2018)"@it ;
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.035" ;
     skos:prefLabel "dermatological and venerological diseases"@en,
-        "malattie cutanee e veneree "@it ;
+        "malattie cutanee e veneree"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=25019&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1388,7 +1388,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.038" ;
     skos:prefLabel "neuroradiology"@en,
-        "neuroradiologia "@it ;
+        "neuroradiologia"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/007-039> a skos:Concept ;
@@ -1399,7 +1399,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.039" ;
     skos:prefLabel "general and subspecialty paediatrics"@en,
-        "pediatria generale e specialistica "@it ;
+        "pediatria generale e specialistica"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=10911&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1410,7 +1410,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.040" ;
     skos:prefLabel "child neuropsychiatry"@en,
-        "neuropsichiatria infantile "@it ;
+        "neuropsichiatria infantile"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=24271&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1435,7 +1435,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.043" ;
     skos:prefLabel "anaesthesiology"@en,
-        "anestesiologia "@it ;
+        "anestesiologia"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/007-044> a skos:Concept ;
@@ -1455,7 +1455,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.045" ;
     skos:prefLabel "forensic medicine"@en,
-        "medicina legale "@it ;
+        "medicina legale"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=4607&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -1487,7 +1487,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.048" ;
     skos:prefLabel "medical and biotechnology laboratory techniques"@en,
-        "scienze tecniche di medicina di laboratorio "@it ;
+        "scienze tecniche di medicina di laboratorio"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/007-049> a skos:Concept ;
@@ -1497,7 +1497,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.049" ;
     skos:prefLabel "midwifery"@en,
-        "scienze infermieristiche ostetrico-ginecologiche "@it ;
+        "scienze infermieristiche ostetrico-ginecologiche"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/007-050> a skos:Concept ;
@@ -1517,7 +1517,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.051" ;
     skos:prefLabel "food sciences and dietetics"@en,
-        "scienze tecniche dietetiche applicate "@it ;
+        "scienze tecniche dietetiche applicate"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/007-052> a skos:Concept ;
@@ -1527,7 +1527,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "007.052" ;
     skos:prefLabel "applied medical techniques"@en,
-        "scienze tecniche mediche applicate "@it ;
+        "scienze tecniche mediche applicate"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/008-001> a skos:Concept ;
@@ -1653,7 +1653,7 @@ Le discipline del settore presentano rilevanza applicativa nel campo della valut
     skos:editorialNote "Fonte: Decreto Ministeriale 4 ottobre 2000 [In rete] http://attiministeriali.miur.it/anno-2000/ottobre/dm-04102000.aspx (26 febbraio 2018)"@it ;
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "008.012" ;
-    skos:prefLabel "general and applied  entomology"@en,
+    skos:prefLabel "general and applied entomology"@en,
         "entomologia generale e applicata"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=31628&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
@@ -2192,7 +2192,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "011.006" ;
     skos:prefLabel "fluid dynamics"@en,
-        "fluidodinamica "@it ;
+        "fluidodinamica"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=20849&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -2203,7 +2203,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "011.007" ;
     skos:prefLabel "aerospace propulsion"@en,
-        "propulsione aerospaziale "@it ;
+        "propulsione aerospaziale"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/011-008> a skos:Concept ;
@@ -2213,7 +2213,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "011.008" ;
     skos:prefLabel "fluid machinery"@en,
-        "macchine a fluido "@it ;
+        "macchine a fluido"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=20424&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -2224,7 +2224,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "011.009" ;
     skos:prefLabel "energy systems and power generation"@en,
-        "sistemi per l'energia e l'ambiente "@it ;
+        "sistemi per l'energia e l'ambiente"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/011-010> a skos:Concept ;
@@ -2234,7 +2234,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "011.010" ;
     skos:prefLabel "thermal engineering and industrial energy systems"@en,
-        "fisica tecnica industriale "@it ;
+        "fisica tecnica industriale"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/011-011> a skos:Concept ;
@@ -2244,7 +2244,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "011.011" ;
     skos:prefLabel "building physics and building energy systems"@en,
-        "fisica tecnica ambientale "@it ;
+        "fisica tecnica ambientale"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/011-012> a skos:Concept ;
@@ -2255,7 +2255,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "011.012" ;
     skos:prefLabel "mechanical and thermal measurements"@en,
-        "misure meccaniche e termiche "@it ;
+        "misure meccaniche e termiche"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=52787&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -2270,7 +2270,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/011-014> a skos:Concept ;
-    skos:altLabel "costruzione di macchine "@it,
+    skos:altLabel "costruzione di macchine"@it,
         "progettazione meccanica"@it ;
     skos:broader <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/011> ;
     skos:definition "Il settore raccoglie le competenze relative alla progettazione, alla costruzione ed alla sperimentazione di macchine, di strutture e di sistemi meccanici: principi e metodologie della progettazione meccanica, dagli elementi costruttivi delle macchine e dal comportamento meccanico dei materiali alla progettazione affidabilistica dei sistemi meccanici, all'ottimizzazione, alla progettazione integrata di prodotto e processo; modellazione numerica, progettazione e sperimentazione relative alla qualità, alla sicurezza, all’interazione uomo-macchina, alla valutazione economica, alla compatibilità ambientale, alla producibilità ed alla manutenibilità; progettazione e costruzione di sistemi meccanici e meccatronici, di motori, di apparecchi in pressione, di macchine automatiche e robot, di macchine di sollevamento e trasporto, di sistemi biomeccanici, di sistemi e componenti micromeccanici, di componenti e strutture per impianti industriali, di componenti meccanici per applicazioni aeronautiche e spaziali; metodi sperimentali di misura ed analisi dello stato di deformazione e di tensione, metodi puntuali ed a campo intero della meccanica sperimentale dei solidi, metodi per l’analisi dinamica e modale, meccanica dei materiali sottoposti alle sollecitazioni tipiche d’esercizio, prove sui prototipi, collaudo e controllo in esercizio, diagnostica strutturale, controlli non distruttivi progettazione degli esperimenti, analisi statistica e costruzione di modelli; teoria e tecnica dei veicoli terrestri, progettazione meccanica e sistemica e sperimentazione degli autoveicoli, dei veicoli ferroviari, delle macchine agricole e movimento terra e dei loro componenti, ivi compreso il motore."@it ;
@@ -2278,7 +2278,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "011.014" ;
     skos:prefLabel "mechanical design and machine construction"@en,
-        "progettazione meccanica e costruzione di macchine "@it ;
+        "progettazione meccanica e costruzione di macchine"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/011-015> a skos:Concept ;
@@ -2318,7 +2318,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "011.018" ;
     skos:prefLabel "nuclear reactor physics"@en,
-        "fisica dei reattori nucleari "@it ;
+        "fisica dei reattori nucleari"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/011-019> a skos:Concept ;
@@ -2328,7 +2328,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "011.019" ;
     skos:prefLabel "nuclear power plants"@en,
-        "impianti nucleari "@it ;
+        "impianti nucleari"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=17225&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -2341,7 +2341,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "011.020" ;
     skos:prefLabel "nuclear measurements and instrumentation"@en,
-        "misure e strumentazione nucleari "@it ;
+        "misure e strumentazione nucleari"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/011-021> a skos:Concept ;
@@ -2362,7 +2362,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "011.022" ;
     skos:prefLabel "materials science and technology"@en,
-        "scienza e tecnologia dei materiali "@it ;
+        "scienza e tecnologia dei materiali"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/011-023> a skos:Concept ;
@@ -2402,7 +2402,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:editorialNote "Fonte: Decreto Ministeriale 4 ottobre 2000 [In rete] http://attiministeriali.miur.it/anno-2000/ottobre/dm-04102000.aspx (26 febbraio 2018)"@it ;
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "011.026" ;
-    skos:prefLabel "analysis, design and control  of chemical processes"@en,
+    skos:prefLabel "analysis, design and control of chemical processes"@en,
         "teoria dello sviluppo dei processi chimici"@it ;
     clvapit:hasRankOrder "2" .
 
@@ -2433,11 +2433,11 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "011.029" ;
     skos:prefLabel "engineering of raw materials"@en,
-        "ingegneria delle materie prime "@it ;
+        "ingegneria delle materie prime"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/011-030> a skos:Concept ;
-    skos:altLabel "fluidi del sottosuolo "@it,
+    skos:altLabel "fluidi del sottosuolo"@it,
         "idrocarburi"@it,
         "idrocarburi del sottosuolo"@it ;
     skos:broader <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/011> ;
@@ -2446,7 +2446,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "011.030" ;
     skos:prefLabel "hydrocarbons and underground fluids"@en,
-        "idrocarburi e fluidi del sottosuolo "@it ;
+        "idrocarburi e fluidi del sottosuolo"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=12924&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -2471,7 +2471,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "011.032" ;
     skos:prefLabel "power electronic converters, electrical machines and drives"@en,
-        "convertitori, macchine e azionamenti elettrici "@it ;
+        "convertitori, macchine e azionamenti elettrici"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=48784&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -2561,14 +2561,14 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/012-006> a skos:Concept ;
     skos:altLabel "bioingegneria elettronica"@it,
-        "bioingegneria informatica "@it ;
+        "bioingegneria informatica"@it ;
     skos:broader <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/012> ;
     skos:definition "Il settore nasce dall’integrazione organica delle metodologie e delle tecnologie proprie dell'ingegneria, principalmente dell'informazione, con le problematiche mediche e biologiche delle scienze della vita, dell’ingegneria clinica, del mondo del lavoro e dello sport. Le metodologie di base del settore riguardano la modellistica dei sistemi fisiologici (dai componenti cellulari, agli apparati ed agli organi); la descrizione dei fenomeni elettrici e/o magnetici e le apparecchiature per misurarli e modificarli; l’elaborazione di dati e segnali; le bioimmagini; la rappresentazione della conoscenza medico-biologica. Le tecnologie includono la strumentazione biomedica e biotecnologica (diagnostica, terapeutica, riabilitativa: dai componenti elementari ai sistemi ospedalieri integrati); le protesi, i robot biomedici, i sistemi intelligenti artificiali; i sistemi per la gestione e l’organizzazione sanitaria; i sistemi informativi a livello di paziente, reparto, ospedale, regione, paese; l’informatica medica; la telemedicina. Le aree di ricerca avanzata nella biologia e nelle neuroscienze comprendono l’ingegneria delle cellule e dei tessuti, le tecniche informatiche per la biologia e la neurologia (neuroinformatica e la bioinformatica), la bioelettronica."@it ;
     skos:editorialNote "Fonte: Decreto Ministeriale 4 ottobre 2000 [In rete] http://attiministeriali.miur.it/anno-2000/ottobre/dm-04102000.aspx (26 febbraio 2018)"@it ;
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "012.006" ;
     skos:prefLabel "electronic and informatics bioengineering"@en,
-        "bioingegneria elettronica e informatica "@it ;
+        "bioingegneria elettronica e informatica"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/012-007> a skos:Concept ;
@@ -2973,7 +2973,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "015.002" ;
     skos:prefLabel "history of modern art"@en,
-        "storia dell'arte moderna "@it ;
+        "storia dell'arte moderna"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/015-003> a skos:Concept ;
@@ -3778,7 +3778,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "019.002" ;
     skos:prefLabel "modern history"@en,
-        "storia moderna "@it ;
+        "storia moderna"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=13934&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -3789,7 +3789,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "019.003" ;
     skos:prefLabel "history of eastern europe"@en,
-        "storia dell'europa orientale "@it ;
+        "storia dell'europa orientale"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/019-004> a skos:Concept ;
@@ -3799,7 +3799,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "019.004" ;
     skos:prefLabel "contemporary history"@en,
-        "storia contemporanea "@it ;
+        "storia contemporanea"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=13936&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -3810,7 +3810,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "019.005" ;
     skos:prefLabel "history of science and technology"@en,
-        "storia della scienza e delle tecniche "@it ;
+        "storia della scienza e delle tecniche"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/019-006> a skos:Concept ;
@@ -3820,7 +3820,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "019.006" ;
     skos:prefLabel "history of religions"@en,
-        "storia delle religioni "@it ;
+        "storia delle religioni"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/019-007> a skos:Concept ;
@@ -3830,7 +3830,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "019.007" ;
     skos:prefLabel "history of christianity and of churches"@en,
-        "storia del cristianesimo e delle chiese "@it ;
+        "storia del cristianesimo e delle chiese"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/019-008> a skos:Concept ;
@@ -3843,7 +3843,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "019.007" ;
     skos:prefLabel "archival science, bibliography and librarianship"@en,
-        "archivistica, bibliografia e biblioteconomia "@it ;
+        "archivistica, bibliografia e biblioteconomia"@it ;
     skos:relatedMatch <http://culturaitalia.it/pico/thesaurus/4.1#biblioteconomia_e_archivistica>,
         <http://thes.bncf.firenze.sbn.it/termine.php?id=1818&menuR=1&menuS=2>,
         <http://thes.bncf.firenze.sbn.it/termine.php?id=5401&menuR=1&menuS=2>,
@@ -3857,7 +3857,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "019.009" ;
     skos:prefLabel "paleography"@en,
-        "paleografia "@it ;
+        "paleografia"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=3128&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -3868,7 +3868,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "019.010" ;
     skos:prefLabel "demology, ethnology and anthropology"@en,
-        "discipline demoetnoantropologiche "@it ;
+        "discipline demoetnoantropologiche"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/019-011> a skos:Concept ;
@@ -3878,7 +3878,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "019.011" ;
     skos:prefLabel "geography"@en,
-        "geografia "@it ;
+        "geografia"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=1323&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -3889,7 +3889,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "019.012" ;
     skos:prefLabel "economic and political geography"@en,
-        "geografia economico-politica "@it ;
+        "geografia economico-politica"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=13295&menuR=1&menuS=2>,
         <http://thes.bncf.firenze.sbn.it/termine.php?id=3993&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
@@ -3942,13 +3942,13 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "020.001" ;
     skos:prefLabel "theoretical philosophy"@en,
-        "filosofia teoretica "@it ;
+        "filosofia teoretica"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=9655&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/020-002> a skos:Concept ;
     skos:altLabel "filosofia della scienza"@it,
-        "logica "@it ;
+        "logica"@it ;
     skos:broader <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/020> ;
     skos:definition "Le ricerche del settore si occupano sul piano teorico e su quello storico delle organiche connessioni esistenti tra ricerca filosofica e conoscenza scientifica, della logica con i suoi metodi specifici, della struttura logica dei linguaggi naturali, della computazione e della comunicazione, dell’epistemologia e della rappresentazione delle conoscenze, delle questioni metodologiche e fondative proprie delle singole scienze in stretta relazione con il loro sviluppo."@it ;
     skos:editorialNote "Fonte: Decreto Ministeriale 4 ottobre 2000 [In rete] http://attiministeriali.miur.it/anno-2000/ottobre/dm-04102000.aspx (26 febbraio 2018)"@it ;
@@ -3968,7 +3968,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "020.004" ;
     skos:prefLabel "moral philosophy"@en,
-        "filosofia morale "@it ;
+        "filosofia morale"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/020-005> a skos:Concept ;
@@ -3992,7 +3992,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "020.006" ;
     skos:prefLabel "philosophy and theory of language"@en,
-        "filosofia e teoria dei linguaggi "@it ;
+        "filosofia e teoria dei linguaggi"@it ;
     skos:relatedMatch <http://culturaitalia.it/pico/thesaurus/4.1#filosofia_del_linguaggio>,
         <http://thes.bncf.firenze.sbn.it/termine.php?id=9658&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
@@ -4004,7 +4004,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "020.007" ;
     skos:prefLabel "history of philosophy"@en,
-        "storia della filosofia "@it ;
+        "storia della filosofia"@it ;
     skos:relatedMatch <http://culturaitalia.it/pico/thesaurus/4.1#storia_della_filosofia> ;
     clvapit:hasRankOrder "2" .
 
@@ -4015,7 +4015,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "020.008" ;
     skos:prefLabel "history of ancient philosophy"@en,
-        "storia della filosofia antica "@it ;
+        "storia della filosofia antica"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/020-009> a skos:Concept ;
@@ -4025,7 +4025,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "020.009" ;
     skos:prefLabel "history of medieval philosophy"@en,
-        "storia della filosofia medievale "@it ;
+        "storia della filosofia medievale"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/020-010> a skos:Concept ;
@@ -4057,7 +4057,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "021.001" ;
     skos:prefLabel "theories and science of education and social education"@en,
-        "pedagogia generale e sociale "@it ;
+        "pedagogia generale e sociale"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=20966&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -4068,7 +4068,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "021.002" ;
     skos:prefLabel "history of education"@en,
-        "storia della pedagogia "@it ;
+        "storia della pedagogia"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/021-003> a skos:Concept ;
@@ -4078,7 +4078,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "021.003" ;
     skos:prefLabel "methodologies of teaching and special education"@en,
-        "didattica e pedagogia speciale "@it ;
+        "didattica e pedagogia speciale"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/021-004> a skos:Concept ;
@@ -4088,7 +4088,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "021.004" ;
     skos:prefLabel "educational research"@en,
-        "pedagogia sperimentale "@it ;
+        "pedagogia sperimentale"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=29900&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -4099,7 +4099,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "021.005" ;
     skos:prefLabel "methods and teaching of motor activities"@en,
-        "metodi e didattiche delle attività motorie "@it ;
+        "metodi e didattiche delle attività motorie"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/021-006> a skos:Concept ;
@@ -4119,7 +4119,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "022.001" ;
     skos:prefLabel "general psychology"@en,
-        "psicologia generale "@it ;
+        "psicologia generale"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/022-002> a skos:Concept ;
@@ -4131,7 +4131,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "022.002" ;
     skos:prefLabel "psychobiology and physiological psychology"@en,
-        "psicobiologia e psicologia fisiologica "@it ;
+        "psicobiologia e psicologia fisiologica"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=52766&menuR=1&menuS=2>,
         "http://thes.bncf.firenze.sbn.it/termine.php?id=5822&menuR=1&menuS=2"@it ;
     clvapit:hasRankOrder "2" .
@@ -4143,12 +4143,12 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "022.003" ;
     skos:prefLabel "psychometrics"@en,
-        "psicometria "@it ;
+        "psicometria"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=21183&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/022-004> a skos:Concept ;
-    skos:altLabel "psicologia dell'educazione "@it,
+    skos:altLabel "psicologia dell'educazione"@it,
         "psicologia dello sviluppo"@it ;
     skos:broader <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/022> ;
     skos:definition "Comprende le competenze scientifico disciplinari concernenti lo studio dei comportamenti e delle principali funzioni psicologiche in una prospettiva ontogenetica che ricopre non solo il periodo dello sviluppo ma l'intero arco della vita; nonché le competenze scientifico disciplinari relative ai metodi e alle tecniche che caratterizzano detti ambiti di studio. Comprende altresì le competenze scientifico disciplinari relative allo studio e alle applicazioni delle conoscenze sui processi psicologici più specificamente implicati nel campo dell'educazione e dell'orientamento scolastico e professionale."@it ;
@@ -4156,7 +4156,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "022.004" ;
     skos:prefLabel "developmental and educational psychology"@en,
-        "psicologia dello sviluppo e psicologia dell'educazione "@it ;
+        "psicologia dello sviluppo e psicologia dell'educazione"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=18008&menuR=1&menuS=2>,
         <http://thes.bncf.firenze.sbn.it/termine.php?id=22064&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
@@ -4168,20 +4168,20 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "022.005" ;
     skos:prefLabel "social psychology"@en,
-        "psicologia sociale "@it ;
+        "psicologia sociale"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=2361&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/022-006> a skos:Concept ;
     skos:altLabel "psicologia del lavoro"@it,
-        "psicologia delle organizzazioni "@it ;
+        "psicologia delle organizzazioni"@it ;
     skos:broader <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/022> ;
     skos:definition "Il settore comprende gli studi psicologici sul mondo dell’economia, delle organizzazioni, del lavoro, del tempo libero e dello sport e le applicazioni di tali conoscenze volte sia a orientare il funzionamento dei sistemi sociali, economici, produttivi, organizzativi, ergonomici, sia a favorire la formazione, l’orientamento e lo sviluppo di competenze e risorse individuali per tali ambiti. Comprende anche le competenze scientifico disciplinari relative ai metodi di studio e alle tecniche di intervento che caratterizzano il settore."@it ;
     skos:editorialNote "Fonte: Decreto Ministeriale 4 ottobre 2000 [In rete] http://attiministeriali.miur.it/anno-2000/ottobre/dm-04102000.aspx (26 febbraio 2018)"@it ;
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "022.006" ;
     skos:prefLabel "work and organizational psychology"@en,
-        "psicologia del lavoro e delle organizzazioni "@it ;
+        "psicologia del lavoro e delle organizzazioni"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=10794&menuR=1&menuS=2>,
         <http://thes.bncf.firenze.sbn.it/termine.php?id=30677&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
@@ -4204,7 +4204,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "022.008" ;
     skos:prefLabel "clinical psychology"@en,
-        "psicologia clinica "@it ;
+        "psicologia clinica"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=19425&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -4453,7 +4453,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "024.001" ;
     skos:prefLabel "economics"@en,
-        "economia politica "@it ;
+        "economia politica"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=4840&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -4464,7 +4464,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "024.002" ;
     skos:prefLabel "political economics"@en,
-        "politica economica "@it ;
+        "politica economica"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=6651&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -4475,7 +4475,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "024.003" ;
     skos:prefLabel "public economics"@en,
-        "scienza delle finanze "@it ;
+        "scienza delle finanze"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=23509&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -4486,7 +4486,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "024.004" ;
     skos:prefLabel "history of economic thought"@en,
-        "storia del pensiero economico "@it ;
+        "storia del pensiero economico"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/024-005> a skos:Concept ;
@@ -4496,7 +4496,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "024.005" ;
     skos:prefLabel "econometrics"@en,
-        "econometria "@it ;
+        "econometria"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=1814&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -4507,7 +4507,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "024.006" ;
     skos:prefLabel "applied economics"@en,
-        "economia applicata "@it ;
+        "economia applicata"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/024-007> a skos:Concept ;
@@ -4517,7 +4517,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "024.007" ;
     skos:prefLabel "business administration and management"@en,
-        "economia aziendale "@it ;
+        "economia aziendale"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=33228&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -4528,7 +4528,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "024.008" ;
     skos:prefLabel "management"@en,
-        "economia e gestione delle imprese "@it ;
+        "economia e gestione delle imprese"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/024-009> a skos:Concept ;
@@ -4538,7 +4538,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "024.009" ;
     skos:prefLabel "finance"@en,
-        "finanza aziendale "@it ;
+        "finanza aziendale"@it ;
     skos:relatedMatch <http://thes.bncf.firenze.sbn.it/termine.php?id=23592&menuR=1&menuS=2> ;
     clvapit:hasRankOrder "2" .
 
@@ -4549,7 +4549,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "024.010" ;
     skos:prefLabel "organization studies"@en,
-        "organizzazione aziendale "@it ;
+        "organizzazione aziendale"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/024-011> a skos:Concept ;
@@ -4559,7 +4559,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "024.011" ;
     skos:prefLabel "financial markets and institutions"@en,
-        "economia degli intermediari finanziari "@it ;
+        "economia degli intermediari finanziari"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/024-012> a skos:Concept ;
@@ -4569,7 +4569,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "024.012" ;
     skos:prefLabel "economic history"@en,
-        "storia economica "@it ;
+        "storia economica"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/024-013> a skos:Concept ;
@@ -4726,7 +4726,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/025-008> a skos:Concept ;
-    skos:altLabel "sociologia dei processi comunicativi "@it,
+    skos:altLabel "sociologia dei processi comunicativi"@it,
         "sociologia dei processi culturali"@it ;
     skos:broader <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/025> ;
     skos:definition "Il settore comprende una serie di campi di competenza concernenti la lettura sociologica dei fenomeni della cultura, da quelli assiologici a quelli comunicativi e della socializzazione e formazione (anche delle risorse umane), fino all’impatto sociale dei mass media e delle tecnologie avanzate. Il settore si articola in varie aree: dalla sociologia della comunicazione alle dinamiche media/industria culturale, dall’analisi sociologica della radio-televisione e dell’informazione al settore dei nuovi media e della pubblicità, all’analisi dei processi culturali e dell’educazione, alla sociologia della famiglia e della religione."@it ;
@@ -4734,7 +4734,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "025.008" ;
     skos:prefLabel "sociology of culture and communication"@en,
-        "sociologia dei processi culturali e comunicativi "@it ;
+        "sociologia dei processi culturali e comunicativi"@it ;
     clvapit:hasRankOrder "2" .
 
 <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/025-009> a skos:Concept ;
@@ -4779,7 +4779,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
         "sociologia della devianza"@it,
         "sociologia giuridica"@it ;
     skos:broader <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines/025> ;
-    skos:definition "Il settore si articola in due campi di competenza anche storicamente distinti: quello della sociologia del diritto (comprensiva della sociologia dell’ordinamento giudiziario e dell’analisi sociologica e antropologica delle istituzioni giuridiche e della loro evoluzione ed efficacia in rapporto al mutamento sociale), e quello della criminologia focalizzata sull’analisi del comportamento che non si adegua ai comandi normativi e che, come tale, viene definito deviante. Pertanto, il settore studia in particolare il rapporto fra norme giuridiche, le loro funzioni e il mutamento sociale, nonché i rapporti fra comportamento deviante, il crimine e la società. "@it ;
+    skos:definition "Il settore si articola in due campi di competenza anche storicamente distinti: quello della sociologia del diritto (comprensiva della sociologia dell’ordinamento giudiziario e dell’analisi sociologica e antropologica delle istituzioni giuridiche e della loro evoluzione ed efficacia in rapporto al mutamento sociale), e quello della criminologia focalizzata sull’analisi del comportamento che non si adegua ai comandi normativi e che, come tale, viene definito deviante. Pertanto, il settore studia in particolare il rapporto fra norme giuridiche, le loro funzioni e il mutamento sociale, nonché i rapporti fra comportamento deviante, il crimine e la società."@it ;
     skos:editorialNote "Fonte: Decreto Ministeriale 4 ottobre 2000 [In rete] http://attiministeriali.miur.it/anno-2000/ottobre/dm-04102000.aspx (26 febbraio 2018)"@it ;
     skos:inScheme <https://w3id.org/italia/controlled-vocabulary/classifications-for-culture/subject-disciplines> ;
     skos:notation "025.012" ;
@@ -5546,7 +5546,7 @@ Analizza, anche attraverso modelli di studio in vitro, le funzioni vegetative e 
 Le fonti alla base dell’individuazione delle categorie sono l’elenco dei settori scientifico-disciplinari individuati dal D. M. 4 ottobre 2000 (http://www.miur.it/UserFiles/115.htm), il Thesaurus Pico (http://www.culturaitalia.it/pico/thesaurus/4.3/thesaurus_4.3.0.skos.xml) e il Nuovo Soggettario di Firenze (http://thes.bncf.firenze.sbn.it/ricerca.php).
 Generalmente si è deciso di utilizzare come fonte della categorizzazione l’elenco MIUR dei settori scientifico-disciplinari (con alcune integrazioni dagli altri Thesauri), ad eccezione dell’ambito Arte, per il quale si è ripresa la suddivisione proposta da Pico http://culturaitalia.it/pico/thesaurus/4.1#arte (cfr. Thesaurus Pico - cosa - aree disciplinari – arte, con le relative suddivisioni in arti applicate, arti visive, arti dello spettacolo), che permette di rappresentare la complessità dei beni artistici con maggiore precisione.
 Le categorie sono state strutturate su tre livelli di specializzazione progressiva, a partire da un primo livello che racchiude 25 macroaree, per arrivare al terzo livello che prevede una specializzazione disciplinare più capillare.
-Ogni categoria individuata a partire dalla denominazione del MIUR dei settori scientifico-disciplinari è allineata in maniera "debole", dove possibile, con gli Uri dei termini corrispondenti in PICO  e nel Nuovo Soggettario di Firenze.
+Ogni categoria individuata a partire dalla denominazione del MIUR dei settori scientifico-disciplinari è allineata in maniera "debole", dove possibile, con gli Uri dei termini corrispondenti in PICO e nel Nuovo Soggettario di Firenze.
 La versione inglese dei termini del vocabolario è stata ottenuta, per le voci del MIUR, dal sito del CUN (Consiglio Universitario Nazionale); per le voci del tesauro PICO, dalla sua versione RDF/XML.
 Nel processo di mapping automatico, su un totale di 447 voci del vocabolario controllato si è trovata perfetta corrispondenza in 422 voci, con 9 duplicazioni, cioè in 9 voci sono state inserite due traduzioni distinte in inglese, una da fonte MIUR e una da fonte PICO, per un totale di 413 traduzioni singole. Le 34 voci rimanenti sono state tradotte manualmente."""@it ;
 dct:description """The thesaurus for the categorization of disciplinary subjects was created to identify general categories under which indexing the places and events of culture, to facilitate the search and navigation of information by users.
@@ -5560,7 +5560,7 @@ rdfs:comment """l tesauro per la categorizzazione degli ambiti disciplinari nasc
 Le fonti alla base dell’individuazione delle categorie sono l’elenco dei settori scientifico-disciplinari individuati dal D. M. 4 ottobre 2000 (http://www.miur.it/UserFiles/115.htm), il Thesaurus Pico (http://www.culturaitalia.it/pico/thesaurus/4.3/thesaurus_4.3.0.skos.xml) e il Nuovo Soggettario di Firenze (http://thes.bncf.firenze.sbn.it/ricerca.php).
 Generalmente si è deciso di utilizzare come fonte della categorizzazione l’elenco MIUR dei settori scientifico-disciplinari (con alcune integrazioni dagli altri Thesauri), ad eccezione dell’ambito Arte, per il quale si è ripresa la suddivisione proposta da Pico http://culturaitalia.it/pico/thesaurus/4.1#arte (cfr. Thesaurus Pico - cosa - aree disciplinari – arte, con le relative suddivisioni in arti applicate, arti visive, arti dello spettacolo), che permette di rappresentare la complessità dei beni artistici con maggiore precisione.
 Le categorie sono state strutturate su tre livelli di specializzazione progressiva, a partire da un primo livello che racchiude 25 macroaree, per arrivare al terzo livello che prevede una specializzazione disciplinare più capillare.
-Ogni categoria individuata a partire dalla denominazione del MIUR dei settori scientifico-disciplinari è allineata in maniera "debole", dove possibile, con gli Uri dei termini corrispondenti in PICO  e nel Nuovo Soggettario di Firenze.
+Ogni categoria individuata a partire dalla denominazione del MIUR dei settori scientifico-disciplinari è allineata in maniera "debole", dove possibile, con gli Uri dei termini corrispondenti in PICO e nel Nuovo Soggettario di Firenze.
 La versione inglese dei termini del vocabolario è stata ottenuta, per le voci del MIUR, dal sito del CUN (Consiglio Universitario Nazionale); per le voci del tesauro PICO, dalla sua versione RDF/XML.
 Nel processo di mapping automatico, su un totale di 447 voci del vocabolario controllato si è trovata perfetta corrispondenza in 422 voci, con 9 duplicazioni, cioè in 9 voci sono state inserite due traduzioni distinte in inglese, una da fonte MIUR e una da fonte PICO, per un totale di 413 traduzioni singole. Le 34 voci rimanenti sono state tradotte manualmente."""@it ;
 rdfs:comment """The thesaurus for the categorization of disciplinary subjects was created to identify general categories under which indexing the places and events of culture, to facilitate the search and navigation of information by users.
