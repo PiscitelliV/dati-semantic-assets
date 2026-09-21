@@ -175,7 +175,7 @@ terms:conformsTo rdf:type owl:ObjectProperty ;
                  rdfs:domain :Dataset ;
                  rdfs:range :Standard ;
                  rdfs:comment "Property used to link a dataset to the standard to which the dataset conforms."@en ,
-                              "Questa proprietà si riferisce a una regola implementativa o altra specifica a cui il Dataset è conforme."@t ;
+                              "Questa proprietà si riferisce a una regola implementativa o altra specifica a cui il Dataset è conforme."@it ;
                  rdfs:isDefinedBy terms: ;
                  rdfs:label "conformità"@it ,
                             "conforms to"@en .

@@ -1391,7 +1391,7 @@
     "@language" : "en",
     "@value" : "Property used to link a dataset to the standard to which the dataset conforms."
   }, {
-    "@language" : "t",
+    "@language" : "it",
     "@value" : "Questa proprietà si riferisce a una regola implementativa o altra specifica a cui il Dataset è conforme."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
